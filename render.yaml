@@ -1,0 +1,33 @@
+# Render Blueprint：后端 API + Postgres 数据库
+# 在 Render 控制台 New → Blueprint 选择本仓库即可按此文件创建
+services:
+  - type: web
+    name: shentu-api
+    runtime: python
+    rootDir: backend
+    plan: free
+    region: singapore
+    buildCommand: pip install -r requirements.txt
+    # 免费实例不支持 preDeployCommand，迁移放在启动前执行；升级付费后改用 preDeployCommand
+    startCommand: alembic upgrade head && uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: shentu-db
+          property: connectionString
+      - key: JWT_SECRET
+        generateValue: true
+      - key: CORS_ORIGINS
+        value: https://shentu-demo.vercel.app
+      - key: RESEND_API_KEY
+        sync: false
+      - key: MAIL_FROM
+        value: 申途 <onboarding@resend.dev>
+
+# 注意：Render 免费 Postgres 创建 30 天后过期，有真实用户数据前必须升级付费
+databases:
+  - name: shentu-db
+    plan: free
+    region: singapore
+    databaseName: shentu
