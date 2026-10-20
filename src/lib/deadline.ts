@@ -1,0 +1,58 @@
+import type { Application, Program } from "./types";
+import { DEPOSIT_STAGE, OFFER_STAGE } from "./stages";
+
+export interface NextDeadline {
+  label: string;
+  date: string;
+  daysLeft: number;
+}
+
+const DAY = 24 * 60 * 60 * 1000;
+
+/** 距离某个 YYYY-MM-DD 还有几天（按本地日期计，当天为 0） */
+export function daysUntil(date: string, now = new Date()): number {
+  const [y, m, d] = date.split("-").map(Number);
+  const target = new Date(y, m - 1, d).getTime();
+  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+  return Math.round((target - today) / DAY);
+}
+
+/** 当前节点对应的下一个截止日期：网申截止 → 留位费截止 → 补交条件截止 */
+export function nextDeadline(app: Application, program: Program): NextDeadline | null {
+  if (app.outcome !== "pending") return null;
+  let label: string | null = null;
+  let date: string | undefined;
+  if (app.stage < 1) {
+    const round = program.rounds[app.roundIndex] ?? program.rounds[0];
+    label = `${round.name}网申截止`;
+    date = round.deadline;
+  } else if (app.stage === OFFER_STAGE) {
+    label = program.region === "HK" ? "留位费截止" : "押金截止";
+    date = app.depositDeadline;
+  } else if (app.stage === DEPOSIT_STAGE) {
+    label = "补交条件截止";
+    date = app.conditionDeadline;
+  }
+  if (!label || !date) return null;
+  return { label, date, daysLeft: daysUntil(date) };
+}
+
+export type Urgency = "overdue" | "urgent" | "soon" | "normal";
+
+export function urgencyOf(daysLeft: number): Urgency {
+  if (daysLeft < 0) return "overdue";
+  if (daysLeft <= 7) return "urgent";
+  if (daysLeft <= 30) return "soon";
+  return "normal";
+}
+
+export function formatDate(date: string): string {
+  const [y, m, d] = date.split("-");
+  return `${y}年${Number(m)}月${Number(d)}日`;
+}
+
+export function daysText(daysLeft: number): string {
+  if (daysLeft < 0) return `已过期 ${-daysLeft} 天`;
+  if (daysLeft === 0) return "今天截止";
+  return `还剩 ${daysLeft} 天`;
+}
