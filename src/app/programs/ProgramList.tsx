@@ -7,6 +7,7 @@ import { addApplication, useApplications } from "@/lib/store";
 import { daysText, daysUntil, formatDate } from "@/lib/deadline";
 import type { Program, Region } from "@/lib/types";
 import SourceBadge from "@/components/SourceBadge";
+import ProgramNotes from "@/components/ProgramNotes";
 
 const REGIONS: { value: Region | "ALL"; label: string }[] = [
   { value: "ALL", label: "全部" },
@@ -131,6 +132,7 @@ function ProgramCard({ program: p, added }: { program: Program; added: boolean }
         </div>
       </fieldset>
 
+      <ProgramNotes program={p} />
       <SourceBadge program={p} />
 
       <button

@@ -22,6 +22,8 @@ export interface Program {
   officialLabel: string;
   updatedAt: string;
   verified: boolean;
+  /** 申请费、押金、特殊规则等补充说明，均摘自官网 */
+  notes?: string[];
 }
 
 export type Outcome = "pending" | "waitlist" | "rejected";

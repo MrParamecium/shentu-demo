@@ -9,6 +9,7 @@ import { CONDITIONS_STAGE, DEPOSIT_STAGE, OFFER_STAGE, STAGES } from "@/lib/stag
 import type { Application, Outcome } from "@/lib/types";
 import DeadlinePill from "@/components/DeadlinePill";
 import SourceBadge from "@/components/SourceBadge";
+import ProgramNotes from "@/components/ProgramNotes";
 
 export default function AppDetail({ id }: { id: string }) {
   const router = useRouter();
@@ -58,6 +59,9 @@ export default function AppDetail({ id }: { id: string }) {
             {program.language}
           </p>
           <SourceBadge program={program} />
+          <div className="pt-2">
+            <ProgramNotes program={program} />
+          </div>
         </div>
         <DeadlinePill next={nextDeadline(app, program)} />
       </section>
