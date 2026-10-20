@@ -1,6 +1,6 @@
 import type { Program } from "./types";
 
-// demo 示例数据：截止日期为占位，未与官网核实，正式上线前必须逐条核对
+// 2027 年入学数据，2026-10-20 对照各校官网核实；学校每年会调整，需定期复核
 const HK_MATERIALS = ["简历 CV", "个人陈述 PS", "推荐信 ×2", "本科成绩单", "在读/学位证明", "语言成绩", "网申表 + 申请费"];
 const UK_MATERIALS = ["简历 CV", "个人陈述 PS", "推荐信 ×2", "本科成绩单", "在读/学位证明", "语言成绩", "网申表"];
 
@@ -12,18 +12,24 @@ export const PROGRAMS: Program[] = [
     schoolCn: "香港大学",
     name: "MSc in Computer Science",
     nameCn: "计算机科学硕士",
-    duration: "1–2 年",
-    language: "IELTS 6.5（单项 ≥5.5）",
+    duration: "全日制 1 年",
+    language: "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
     rounds: [
-      { name: "第一轮", deadline: "2026-12-01" },
-      { name: "第二轮", deadline: "2027-02-01" },
-      { name: "最终截止", deadline: "2027-04-01" },
+      { name: "主轮", deadline: "2026-12-01" },
+      { name: "补录轮", deadline: "2027-04-30" },
     ],
     materials: HK_MATERIALS,
-    officialUrl: "https://portal.hku.hk/tpg-admissions",
-    officialLabel: "港大授课型硕士招生",
+    officialUrl:
+      "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(general,-cyber-security,-financial-computing-and-multimedia-computing-streams)-cds&mode=0",
+    officialLabel: "港大 MSc(CompSc) 项目页",
     updatedAt: "2026-10-20",
-    verified: false,
+    verified: true,
+    notes: [
+      "截止时间为香港时间当天中午 12:00；2027 年 9 月开学",
+      "现归属港大计算与数据科学学院，含通用、网络安全、金融计算、多媒体计算方向",
+      "学费：非本地生 HK$375,000",
+      "语言为港大研究生统一最低线，项目页未列更高要求",
+    ],
   },
   {
     id: "hkust-msc-bdt",
@@ -33,17 +39,21 @@ export const PROGRAMS: Program[] = [
     name: "MSc in Big Data Technology",
     nameCn: "大数据科技硕士",
     duration: "1 年",
-    language: "IELTS 6.5",
+    language: "见港科大研究生院英语要求（以官网为准）",
     rounds: [
-      { name: "第一轮", deadline: "2026-11-30" },
-      { name: "第二轮", deadline: "2027-01-31" },
-      { name: "第三轮", deadline: "2027-03-31" },
+      { name: "第一轮", deadline: "2026-12-01" },
+      { name: "第二轮", deadline: "2027-03-01" },
     ],
     materials: HK_MATERIALS,
-    officialUrl: "https://prog-crs.hkust.edu.hk/pgprog/",
-    officialLabel: "港科大研究生课程",
+    officialUrl: "https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt",
+    officialLabel: "港科大工学院 MSc BDT 页",
     updatedAt: "2026-10-20",
-    verified: false,
+    verified: true,
+    notes: [
+      "滚动审理，官网强烈建议尽早申请；2027 年 9 月开学",
+      "学费：全日制 HK$350,000，分 2 期缴纳",
+      "英语要求项目页只写参见研究生院，未能确认具体分数",
+    ],
   },
   {
     id: "cuhk-msc-fin",
@@ -53,16 +63,19 @@ export const PROGRAMS: Program[] = [
     name: "MSc in Finance",
     nameCn: "金融学硕士",
     duration: "1 年",
-    language: "IELTS 6.5",
-    rounds: [
-      { name: "第一轮", deadline: "2026-11-15" },
-      { name: "第二轮", deadline: "2027-01-15" },
-    ],
+    language: "见港中文研究院英语要求（以官网为准）",
+    rounds: [{ name: "全日制截止", deadline: "2027-03-31" }],
     materials: [...HK_MATERIALS, "GMAT/GRE（可选）"],
-    officialUrl: "https://www.gs.cuhk.edu.hk/admissions",
-    officialLabel: "港中文研究院招生",
+    officialUrl: "https://masters.bschool.cuhk.edu.hk/programmes/mscfin/",
+    officialLabel: "港中文商学院 MSc Finance 页",
     updatedAt: "2026-10-20",
-    verified: false,
+    verified: true,
+    notes: [
+      "滚动审理，招满即提前关闭，官网强烈建议尽早申请",
+      "非全日制截止 2027-04-30",
+      "学费：全日制 HK$460,000；官网写明「最好有 2 年全职工作经验」",
+      "英语要求未能在页面上确认具体分数",
+    ],
   },
   {
     id: "ic-msc-ba",

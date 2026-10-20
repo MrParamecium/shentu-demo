@@ -18,7 +18,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         </Suspense>
         <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-8">{children}</main>
         <footer className="border-t border-slate-200 py-6 text-center text-xs text-slate-500">
-          Demo 版本 · 项目数据为示例，截止日期未与官网核实，请以学校官网为准 · 数据仅保存在本浏览器
+          Demo 版本 · 截止日期于 2026-10-20 核实，学校可能调整，请以官网为准 · 数据仅保存在本浏览器
         </footer>
       </body>
     </html>

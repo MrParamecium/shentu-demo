@@ -6,7 +6,7 @@ export interface Round {
   deadline: string;
 }
 
-/** 项目库里的一个项目（demo 阶段为示例数据） */
+/** 项目库里的一个项目 */
 export interface Program {
   id: string;
   region: Region;
