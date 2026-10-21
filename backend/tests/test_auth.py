@@ -104,6 +104,20 @@ def test_daily_limit(client, sent_codes):
     assert _request(client).status_code == 429
 
 
+def test_failed_send_does_not_block_retry(client, monkeypatch):
+    def boom(email: str, code: str) -> None:
+        raise RuntimeError("resend 403")
+
+    monkeypatch.setattr("app.routers.auth.send_login_code", boom)
+    assert _request(client).status_code == 502
+    with SessionLocal() as db:
+        assert db.query(VerificationCode).count() == 0
+
+    # 发信恢复后可以立刻重试，不受 60 秒冷却影响
+    monkeypatch.setattr("app.routers.auth.send_login_code", lambda e, c: None)
+    assert _request(client).status_code == 200
+
+
 def test_invalid_input_rejected(client):
     assert _request(client, email="not-an-email").status_code == 422
     assert client.post("/auth/email/verify", json={"email": EMAIL, "code": "12ab"}).status_code == 422
