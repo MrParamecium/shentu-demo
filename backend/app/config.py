@@ -20,6 +20,10 @@ class Settings(BaseSettings):
     resend_api_key: str = ""
     mail_from: str = "申途 <onboarding@resend.dev>"
 
+    # 演示模式：不发邮件，接口直接返回验证码。任何人都能用任意邮箱登录，
+    # 只能在账号下还没有真实用户数据时开启
+    auth_demo_mode: bool = False
+
     # 验证码规则
     code_ttl_minutes: int = 10
     code_max_attempts: int = 5

@@ -56,22 +56,32 @@ def request_email_code(body: EmailCodeRequest, db: DbSession) -> EmailCodeRespon
         raise HTTPException(status.HTTP_429_TOO_MANY_REQUESTS, "今天获取验证码次数过多，请明天再试")
 
     code = generate_code()
-    db.add(
-        VerificationCode(
-            channel="email",
-            target=email,
-            code_hash=hash_code(email, code),
-            created_at=now,
-            expires_at=now + timedelta(minutes=s.code_ttl_minutes),
-        )
+    record = VerificationCode(
+        channel="email",
+        target=email,
+        code_hash=hash_code(email, code),
+        created_at=now,
+        expires_at=now + timedelta(minutes=s.code_ttl_minutes),
     )
+    db.add(record)
     db.commit()
+
+    if s.auth_demo_mode:
+        log.info("演示模式：未发送邮件，验证码直接返回给 %s", email)
+        return EmailCodeResponse(resend_after_seconds=s.code_resend_seconds, demo_code=code)
 
     try:
         send_login_code(email, code)
     except Exception:
         log.exception("验证码邮件发送失败：%s", email)
-        raise HTTPException(status.HTTP_502_BAD_GATEWAY, "验证码邮件发送失败，请稍后再试")
+        # 没发出去的码不算数：删掉记录，用户可以马上重试，也不占每日次数
+        db.delete(record)
+        db.commit()
+        # 最常见原因：发信域名未验证，只能发给 Resend 账号本人的邮箱
+        raise HTTPException(
+            status.HTTP_502_BAD_GATEWAY,
+            "验证码邮件发送失败。内测期间暂时只支持受邀邮箱，请稍后再试或联系我们",
+        )
 
     return EmailCodeResponse(resend_after_seconds=s.code_resend_seconds)
 
