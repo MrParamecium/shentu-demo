@@ -2,6 +2,7 @@ from datetime import datetime, timedelta, timezone
 
 from sqlalchemy import select, update
 
+from app.config import get_settings
 from app.db import SessionLocal
 from app.models import VerificationCode
 
@@ -116,6 +117,21 @@ def test_failed_send_does_not_block_retry(client, monkeypatch):
     # 发信恢复后可以立刻重试，不受 60 秒冷却影响
     monkeypatch.setattr("app.routers.auth.send_login_code", lambda e, c: None)
     assert _request(client).status_code == 200
+
+
+def test_demo_mode_returns_code_without_sending(client, sent_codes, monkeypatch):
+    monkeypatch.setattr(get_settings(), "auth_demo_mode", True)
+    r = _request(client)
+    assert r.status_code == 200
+    code = r.json()["demo_code"]
+    assert sent_codes == {}  # 没有真的发邮件
+    assert _verify(client, code).status_code == 200
+
+
+def test_normal_mode_never_returns_code(client, sent_codes):
+    r = _request(client)
+    assert r.status_code == 200
+    assert r.json()["demo_code"] is None
 
 
 def test_invalid_input_rejected(client):

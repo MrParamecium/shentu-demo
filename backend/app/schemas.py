@@ -10,6 +10,8 @@ class EmailCodeRequest(BaseModel):
 class EmailCodeResponse(BaseModel):
     ok: bool = True
     resend_after_seconds: int
+    # 仅演示模式返回，正常模式永远为空
+    demo_code: str | None = None
 
 
 class EmailVerifyRequest(BaseModel):

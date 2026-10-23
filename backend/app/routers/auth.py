@@ -66,6 +66,10 @@ def request_email_code(body: EmailCodeRequest, db: DbSession) -> EmailCodeRespon
     db.add(record)
     db.commit()
 
+    if s.auth_demo_mode:
+        log.info("演示模式：未发送邮件，验证码直接返回给 %s", email)
+        return EmailCodeResponse(resend_after_seconds=s.code_resend_seconds, demo_code=code)
+
     try:
         send_login_code(email, code)
     except Exception:

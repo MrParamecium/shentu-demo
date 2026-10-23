@@ -38,7 +38,9 @@ TEST_DATABASE_URL=postgresql://user@localhost:5432/test .venv/bin/pytest -q   # 
 | `POST /auth/email/verify` | 校验验证码，返回 `access_token`；邮箱首次登录自动注册 |
 | `GET /auth/me` | 带 `Authorization: Bearer <token>` 获取当前用户 |
 
-验证码 10 分钟有效，错 5 次作废，数据库只存 HMAC 哈希。
+验证码 10 分钟有效，错 5 次作废，数据库只存 HMAC 哈希。发信失败不计入冷却和每日次数。
+
+**演示模式**（`AUTH_DEMO_MODE=true`）：不发邮件，`request-code` 直接在响应的 `demo_code` 里返回验证码，前端自动填入。用于还没验证发信域名的阶段；开启时任何人都能用任意邮箱登录，有真实用户数据前必须关闭。当前线上已开启，原因和恢复步骤见 `docs/PROGRESS.md`。
 
 用户和登录方式分两张表（`users` / `auth_identities`），以后接微信、QQ、手机号只需新增 `provider`，不改用户表。
 

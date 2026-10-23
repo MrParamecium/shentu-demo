@@ -51,12 +51,13 @@ export function logout() {
   write(null);
 }
 
-export async function requestEmailCode(email: string): Promise<number> {
-  const r = await api<{ resend_after_seconds: number }>("/auth/email/request-code", {
+/** demoCode 只在后端开启演示模式时返回（暂未接入真实发信） */
+export async function requestEmailCode(email: string): Promise<{ wait: number; demoCode: string | null }> {
+  const r = await api<{ resend_after_seconds: number; demo_code: string | null }>("/auth/email/request-code", {
     method: "POST",
     body: JSON.stringify({ email }),
   });
-  return r.resend_after_seconds;
+  return { wait: r.resend_after_seconds, demoCode: r.demo_code ?? null };
 }
 
 export async function verifyEmailCode(email: string, code: string): Promise<{ isNewUser: boolean }> {

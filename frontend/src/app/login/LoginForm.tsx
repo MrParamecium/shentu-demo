@@ -21,6 +21,7 @@ export default function LoginForm() {
   const [loading, setLoading] = useState(false);
   const [slow, setSlow] = useState(false);
   const [cooldown, setCooldown] = useState(0);
+  const [demoCode, setDemoCode] = useState<string | null>(null);
   const codeRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
@@ -55,8 +56,10 @@ export default function LoginForm() {
 
   const sendCode = () =>
     run(async () => {
-      const wait = await requestEmailCode(email.trim());
+      const { wait, demoCode } = await requestEmailCode(email.trim());
       setCooldown(wait);
+      setDemoCode(demoCode);
+      if (demoCode) setCode(demoCode);
       setStep("code");
     });
 
@@ -126,9 +129,16 @@ export default function LoginForm() {
                 className="mt-1 w-full rounded-lg border border-slate-200 px-3 py-2 tracking-[0.4em] outline-none focus:border-brand"
               />
             </label>
-            <p className="text-xs text-slate-500">
-              验证码已发送到 {email.trim()}，10 分钟内有效。没收到的话看看垃圾邮件箱。
-            </p>
+            {demoCode ? (
+              <p role="status" className="rounded-md bg-sky-50 p-3 text-xs text-sky-800">
+                演示模式：暂未开通邮件发送，验证码 <span className="font-mono font-semibold">{demoCode}</span>{" "}
+                已自动填入，直接点「登录」即可。
+              </p>
+            ) : (
+              <p className="text-xs text-slate-500">
+                验证码已发送到 {email.trim()}，10 分钟内有效。没收到的话看看垃圾邮件箱。
+              </p>
+            )}
             <div className="flex justify-between text-sm">
               <button
                 type="button"
