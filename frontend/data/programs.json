@@ -1,0 +1,256 @@
+[
+  {
+    "id": "hku-msc-cs",
+    "region": "HK",
+    "school": "The University of Hong Kong",
+    "schoolCn": "香港大学",
+    "name": "MSc in Computer Science",
+    "nameCn": "计算机科学硕士",
+    "duration": "全日制 1 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "主轮",
+        "deadline": "2026-12-01"
+      },
+      {
+        "name": "补录轮",
+        "deadline": "2027-04-30"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(general,-cyber-security,-financial-computing-and-multimedia-computing-streams)-cds&mode=0",
+    "officialLabel": "港大 MSc(CompSc) 项目页",
+    "updatedAt": "2026-10-20",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间当天中午 12:00；2027 年 9 月开学",
+      "现归属港大计算与数据科学学院，含通用、网络安全、金融计算、多媒体计算方向",
+      "学费：非本地生 HK$375,000",
+      "语言为港大研究生统一最低线，项目页未列更高要求"
+    ],
+    "field": "cs"
+  },
+  {
+    "id": "hkust-msc-bdt",
+    "region": "HK",
+    "school": "The Hong Kong University of Science and Technology",
+    "schoolCn": "香港科技大学",
+    "name": "MSc in Big Data Technology",
+    "nameCn": "大数据科技硕士",
+    "duration": "1 年",
+    "language": "见港科大研究生院英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-01"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      }
+    ],
+    "officialUrl": "https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt",
+    "officialLabel": "港科大工学院 MSc BDT 页",
+    "updatedAt": "2026-10-20",
+    "verified": true,
+    "notes": [
+      "滚动审理，官网强烈建议尽早申请；2027 年 9 月开学",
+      "学费：全日制 HK$350,000，分 2 期缴纳",
+      "英语要求项目页只写参见研究生院，未能确认具体分数"
+    ],
+    "field": "data"
+  },
+  {
+    "id": "cuhk-msc-fin",
+    "region": "HK",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in Finance",
+    "nameCn": "金融学硕士",
+    "duration": "1 年",
+    "language": "见港中文研究院英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "全日制截止",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "officialUrl": "https://masters.bschool.cuhk.edu.hk/programmes/mscfin/",
+    "officialLabel": "港中文商学院 MSc Finance 页",
+    "updatedAt": "2026-10-20",
+    "verified": true,
+    "notes": [
+      "滚动审理，招满即提前关闭，官网强烈建议尽早申请",
+      "非全日制截止 2027-04-30",
+      "学费：全日制 HK$460,000；官网写明「最好有 2 年全职工作经验」",
+      "英语要求未能在页面上确认具体分数"
+    ],
+    "field": "finance",
+    "extraMaterials": [
+      "GMAT/GRE（可选）"
+    ]
+  },
+  {
+    "id": "ic-msc-ba",
+    "region": "UK",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Business Analytics & AI",
+    "nameCn": "商业分析与人工智能硕士",
+    "duration": "1 年（2027 年 8 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-29"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/business-school/masters/business-analytics/admissions/",
+    "officialLabel": "帝国商学院 BA&AI 招生页",
+    "updatedAt": "2026-10-20",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "各轮出结果日：R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
+      "申请费 £125；押金 £7,000，收到发票后 30 天内缴纳"
+    ],
+    "field": "business",
+    "extraMaterials": [
+      "视频面试（如被邀请）"
+    ]
+  },
+  {
+    "id": "ucl-msc-ds",
+    "region": "UK",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "MSc Data Science",
+    "nameCn": "数据科学硕士",
+    "duration": "1 年",
+    "language": "IELTS 6.5（单项 ≥6.0，UCL Level 1）",
+    "rounds": [
+      {
+        "name": "需签证截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/data-science-msc",
+    "officialLabel": "UCL Data Science MSc 课程页",
+    "updatedAt": "2026-10-20",
+    "verified": true,
+    "notes": [
+      "无分轮，2026-10-19 开放申请；需学生签证者 2027-03-22 英国时间 17:00 截止",
+      "申请费 £90；海外学费押金为首年学费 10%，截止日见录取信（通常不早于 4 月 1 日）"
+    ],
+    "field": "data"
+  },
+  {
+    "id": "ed-msc-ai",
+    "region": "UK",
+    "school": "The University of Edinburgh",
+    "schoolCn": "爱丁堡大学",
+    "name": "MSc Artificial Intelligence",
+    "nameCn": "人工智能硕士",
+    "duration": "1 年",
+    "language": "IELTS 7.0（三项 ≥6.5，一项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/107-artificial-intelligence",
+    "officialLabel": "爱丁堡 MSc AI 课程页",
+    "updatedAt": "2026-10-20",
+    "verified": true,
+    "notes": [
+      "多数申请会压到截止日后统一审，结果大多在 5 月 31 日前发出；名额未满可能延期",
+      "提交后 28 天内必须补齐支撑材料，否则自动拒绝",
+      "无申请费；押金 £1,500，截止日见录取信",
+      "注意：信息学院页面把截止年份写成 2026，与课程页 2027 不一致，以课程页为准"
+    ],
+    "field": "cs"
+  },
+  {
+    "id": "man-msc-acf",
+    "region": "UK",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Accounting and Finance",
+    "nameCn": "会计与金融硕士",
+    "duration": "1 年",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一阶段",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二阶段",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三阶段",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四阶段",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五阶段",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "曼彻斯特商学院申请页",
+    "updatedAt": "2026-10-20",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；各阶段出结果日：S1 2027-02-19，S2 2027-05-02，S3 2027-06-18",
+      "申请费 £60；国际生押金 £2,500，截止日见录取信"
+    ],
+    "field": "finance"
+  },
+  {
+    "id": "kcl-msc-dm",
+    "region": "UK",
+    "school": "King's College London",
+    "schoolCn": "伦敦国王学院",
+    "name": "MSc Digital Marketing",
+    "nameCn": "数字营销硕士",
+    "duration": "1 年",
+    "language": "IELTS 7.0（单项 ≥6.5，KCL Band B）",
+    "rounds": [
+      {
+        "name": "首轮截止",
+        "deadline": "2027-03-09"
+      },
+      {
+        "name": "最终截止",
+        "deadline": "2027-07-25"
+      }
+    ],
+    "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-marketing-msc",
+    "officialLabel": "KCL Digital Marketing MSc 课程页",
+    "updatedAt": "2026-10-20",
+    "verified": true,
+    "notes": [
+      "首轮后招满即止，最终截止为海外学费身份的日期；截止时间为英国时间 23:59",
+      "申请费 £130；国际生押金 £2,000 不退，期限随录取时间缩短（1 月前 2 个月 → 8 月 18 日后 3 天）"
+    ],
+    "field": "business"
+  }
+]

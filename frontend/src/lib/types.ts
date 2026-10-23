@@ -1,15 +1,39 @@
 export type Region = "HK" | "UK";
 
+/** 专业大类，用于项目库筛选 */
+export type Field = "business" | "finance" | "cs" | "data";
+
 /** 一个申请轮次，deadline 为 ISO 日期（YYYY-MM-DD） */
 export interface Round {
   name: string;
   deadline: string;
 }
 
+/** data/programs.json 里的一条原始记录；materials 由地区默认清单 + extraMaterials 生成 */
+export interface ProgramRecord {
+  id: string;
+  region: Region;
+  field: Field;
+  school: string;
+  schoolCn: string;
+  name: string;
+  nameCn: string;
+  duration: string;
+  language: string;
+  rounds: Round[];
+  extraMaterials?: string[];
+  officialUrl: string;
+  officialLabel: string;
+  updatedAt: string;
+  verified: boolean;
+  notes?: string[];
+}
+
 /** 项目库里的一个项目 */
 export interface Program {
   id: string;
   region: Region;
+  field: Field;
   school: string;
   schoolCn: string;
   name: string;

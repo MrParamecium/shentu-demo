@@ -2,10 +2,10 @@
 
 import { useMemo, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
-import { PROGRAMS } from "@/lib/programs";
+import { FIELD_LABELS, PROGRAMS } from "@/lib/programs";
 import { addApplication, useApplications } from "@/lib/store";
 import { daysText, daysUntil, formatDate } from "@/lib/deadline";
-import type { Program, Region } from "@/lib/types";
+import type { Field, Program, Region } from "@/lib/types";
 import SourceBadge from "@/components/SourceBadge";
 import ProgramNotes from "@/components/ProgramNotes";
 
@@ -15,39 +15,42 @@ const REGIONS: { value: Region | "ALL"; label: string }[] = [
   { value: "UK", label: "英国" },
 ];
 
+const FIELDS: { value: Field | "ALL"; label: string }[] = [
+  { value: "ALL", label: "全部专业" },
+  ...(Object.entries(FIELD_LABELS) as [Field, string][]).map(([value, label]) => ({ value, label })),
+];
+
 export default function ProgramList() {
   const router = useRouter();
   const params = useSearchParams();
   const region = (params.get("region") as Region | null) ?? "ALL";
+  const field = (params.get("field") as Field | null) ?? "ALL";
   const [query, setQuery] = useState("");
   const apps = useApplications();
   const added = new Set(apps.map(a => a.programId));
 
   const list = useMemo(() => {
     const q = query.trim().toLowerCase();
-    return PROGRAMS.filter(p => region === "ALL" || p.region === region).filter(
-      p => !q || [p.school, p.schoolCn, p.name, p.nameCn].some(s => s.toLowerCase().includes(q)),
-    );
-  }, [region, query]);
+    return PROGRAMS.filter(p => region === "ALL" || p.region === region)
+      .filter(p => field === "ALL" || p.field === field)
+      .filter(p => !q || [p.school, p.schoolCn, p.name, p.nameCn].some(s => s.toLowerCase().includes(q)))
+      .sort((a, b) => a.region.localeCompare(b.region) || a.schoolCn.localeCompare(b.schoolCn, "zh"));
+  }, [region, field, query]);
 
-  const setRegion = (r: Region | "ALL") => router.replace(r === "ALL" ? "/programs" : `/programs?region=${r}`);
+  // 筛选条件写进 URL，方便分享和从首页直接跳到某一类
+  const setFilter = (key: "region" | "field", value: string) => {
+    const next = new URLSearchParams(params);
+    if (value === "ALL") next.delete(key);
+    else next.set(key, value);
+    const qs = next.toString();
+    router.replace(qs ? `/programs?${qs}` : "/programs");
+  };
 
   return (
     <>
       <div className="flex flex-wrap items-center gap-3">
-        <div role="group" aria-label="按地区筛选" className="flex rounded-lg bg-white p-1 shadow-sm">
-          {REGIONS.map(r => (
-            <button
-              key={r.value}
-              type="button"
-              onClick={() => setRegion(r.value)}
-              aria-pressed={region === r.value}
-              className={`rounded-md px-4 py-1.5 text-sm ${region === r.value ? "bg-brand text-white" : "text-slate-600 hover:bg-slate-100"}`}
-            >
-              {r.label}
-            </button>
-          ))}
-        </div>
+        <FilterGroup label="按地区筛选" options={REGIONS} value={region} onChange={v => setFilter("region", v)} />
+        <FilterGroup label="按专业筛选" options={FIELDS} value={field} onChange={v => setFilter("field", v)} />
         <label className="flex-1">
           <span className="sr-only">搜索学校或项目</span>
           <input
@@ -60,6 +63,10 @@ export default function ProgramList() {
         </label>
       </div>
 
+      <p className="text-sm text-slate-500" aria-live="polite">
+        共 {list.length} 个项目
+      </p>
+
       {list.length === 0 ? (
         <p className="rounded-xl bg-white p-10 text-center text-slate-500">没有找到匹配的项目</p>
       ) : (
@@ -70,6 +77,34 @@ export default function ProgramList() {
         </ul>
       )}
     </>
+  );
+}
+
+function FilterGroup<T extends string>({
+  label,
+  options,
+  value,
+  onChange,
+}: {
+  label: string;
+  options: { value: T; label: string }[];
+  value: T;
+  onChange: (v: T) => void;
+}) {
+  return (
+    <div role="group" aria-label={label} className="flex flex-wrap rounded-lg bg-white p-1 shadow-sm">
+      {options.map(o => (
+        <button
+          key={o.value}
+          type="button"
+          onClick={() => onChange(o.value)}
+          aria-pressed={value === o.value}
+          className={`rounded-md px-3 py-1.5 text-sm ${value === o.value ? "bg-brand text-white" : "text-slate-600 hover:bg-slate-100"}`}
+        >
+          {o.label}
+        </button>
+      ))}
+    </div>
   );
 }
 
