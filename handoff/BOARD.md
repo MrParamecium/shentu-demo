@@ -7,9 +7,10 @@
 | [T-001](tasks/T-001-email-login.md) | 邮箱验证码登录 | 浩翔 | ⏸ 暂缓（演示模式） | 已合并 #1 #2 #3 |
 | [T-002](tasks/T-002-buy-domain.md) | 买域名并配置发信 / 前端域名 | 浩翔 | ⬜ 待开始 | — |
 | [T-003](tasks/T-003-program-library.md) | 扩充项目库（第一批：英港热门 30 个） | **友涵** | ⬜ 待开始 | `program-library`（已有框架） |
-| [T-004](tasks/T-004-rolling-admissions.md) | 卡片支持「滚动录取 / 无固定截止」 | **浩翔** | ⬜ 待开始 | — |
+| [T-004](tasks/T-004-rolling-admissions.md) | 卡片支持「滚动录取 / 无固定截止」 | **浩翔** | 👀 待审核 | `t-004-rolling-admissions` |
 | [T-005](tasks/T-005-custom-program.md) | 用户自己添加库里没有的项目 | **浩翔** | ⬜ 待开始 | — |
-| [T-006](tasks/T-006-library-step2.md) | 项目库第二步：英港新四大类全部项目（加新国立、南洋理工） | 待定 | ⬜ 等 T-003 | — |
+| [T-006](tasks/T-006-library-step2.md) | 项目库第二步：英港新四大类全部项目 | 待定 | ⬜ 等 T-003 | — |
+| [T-008](tasks/T-008-singapore.md) | 加入新加坡（新国立、南洋理工 5 个项目） | **浩翔** | 👀 待审核 | `t-008-singapore` |
 | [T-007](tasks/T-007-library-step3.md) | 项目库第三步：半自动抓取 + 每年复核 | 待定 | ⬜ 等 T-006 | — |
 
 ## 暂不做（等前置条件）

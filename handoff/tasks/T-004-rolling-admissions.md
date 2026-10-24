@@ -1,7 +1,7 @@
 # T-004 卡片支持「滚动录取 / 无固定截止」
 
 - **负责人**：浩翔
-- **状态**：⬜ 待开始
+- **状态**：👀 待审核
 - **分支**：`t-004-rolling-admissions`（从 `program-library` 切出；和友涵的 T-003 同时进行，注意 `programs.json` 合并时别冲突）
 - **布置人 / 日期**：浩翔 / 2026-10-23
 
@@ -26,4 +26,11 @@ LSE 的 MSc Finance、MSc Data Science 官网写的是「没有固定截止日�
 - 相关文件：`frontend/src/lib/types.ts`、`lib/deadline.ts`、`app/programs/ProgramList.tsx`、`components/DeadlinePill.tsx`、`scripts/check-programs.mjs`
 
 ## 进度日志
-（暂无）
+
+### 2026-10-24 · 浩翔
+- 新增可选字段 `rolling: true`；`rounds` 为空时必须设 `rolling: true`，校验脚本已拦截（用坏数据测过）
+- 项目卡片：无轮次显示「滚动录取 · 无固定截止日期」提示框；有轮次且 `rolling` 的加「滚动审理，可能提前截止」标签
+- 看板 / 详情：显示「无固定截止 · 滚动录取，尽早申请」，排在有截止日期的项目之后、无待办的之前；收到录取后正常切到押金截止
+- 顺手修了一个 bug：所有轮次都过期时，原来会默认选中已过期的第一轮，现在按钮显示「本年度申请已截止」不能添加
+- 数据：在文件**末尾**追加 LSE MSc Finance、LSE MSc Data Science；港中文金融、港科大 BDT 加 `rolling: true`
+- **给友涵**：滚动录取项目现在可以加了，`rounds: []` + `rolling: true`；有截止日期但官网写了滚动审理的，也加 `rolling: true`

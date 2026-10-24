@@ -1,4 +1,7 @@
-export type Region = "HK" | "UK";
+export type Region = "HK" | "UK" | "SG";
+
+/** 专业大类，用于项目库筛选 */
+export type Field = "business" | "finance" | "cs" | "data";
 
 /** 一个申请轮次，deadline 为 ISO 日期（YYYY-MM-DD） */
 export interface Round {
@@ -6,10 +9,34 @@ export interface Round {
   deadline: string;
 }
 
+/** data/programs.json 里的一条原始记录；materials 由地区默认清单 + extraMaterials 生成 */
+export interface ProgramRecord {
+  id: string;
+  region: Region;
+  field: Field;
+  school: string;
+  schoolCn: string;
+  name: string;
+  nameCn: string;
+  duration: string;
+  language: string;
+  /** 可以为空，但此时 rolling 必须为 true（无固定截止日期） */
+  rounds: Round[];
+  /** 滚动录取 / 滚动审理：边收边审，招满即止 */
+  rolling?: boolean;
+  extraMaterials?: string[];
+  officialUrl: string;
+  officialLabel: string;
+  updatedAt: string;
+  verified: boolean;
+  notes?: string[];
+}
+
 /** 项目库里的一个项目 */
 export interface Program {
   id: string;
   region: Region;
+  field: Field;
   school: string;
   schoolCn: string;
   name: string;
@@ -17,6 +44,7 @@ export interface Program {
   duration: string;
   language: string;
   rounds: Round[];
+  rolling?: boolean;
   materials: string[];
   officialUrl: string;
   officialLabel: string;
