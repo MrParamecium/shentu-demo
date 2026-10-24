@@ -6,6 +6,7 @@ import records from "../../data/programs.json";
 const DEFAULT_MATERIALS: Record<Region, string[]> = {
   HK: ["简历 CV", "个人陈述 PS", "推荐信 ×2", "本科成绩单", "在读/学位证明", "语言成绩", "网申表 + 申请费"],
   UK: ["简历 CV", "个人陈述 PS", "推荐信 ×2", "本科成绩单", "在读/学位证明", "语言成绩", "网申表"],
+  SG: ["简历 CV", "个人陈述 PS", "推荐信 ×2", "本科成绩单", "在读/学位证明", "语言成绩", "网申表 + 申请费"],
 };
 
 export const FIELD_LABELS: Record<Field, string> = {

@@ -6,7 +6,8 @@ import { programById } from "@/lib/programs";
 import { removeApplication, updateApplication, useApplications, useHydrated } from "@/lib/store";
 import { formatDate, nextDeadline } from "@/lib/deadline";
 import { CONDITIONS_STAGE, DEPOSIT_STAGE, OFFER_STAGE, STAGES } from "@/lib/stages";
-import type { Application, Outcome, Round } from "@/lib/types";
+import { REGION_INFO } from "@/lib/regions";
+import type { Application, Outcome, Region, Round } from "@/lib/types";
 import DeadlinePill from "@/components/DeadlinePill";
 import SourceBadge from "@/components/SourceBadge";
 import ProgramNotes from "@/components/ProgramNotes";
@@ -51,7 +52,7 @@ export default function AppDetail({ id }: { id: string }) {
       <section className="flex flex-wrap items-start justify-between gap-4 rounded-xl bg-white p-6 shadow-sm">
         <div className="space-y-1">
           <p className="text-sm text-slate-500">
-            {program.region === "HK" ? "🇭🇰 香港" : "🇬🇧 英国"} · {program.schoolCn} · {program.school}
+            {REGION_INFO[program.region].flag} {REGION_INFO[program.region].label} · {program.schoolCn} · {program.school}
           </p>
           <h1 className="text-2xl font-bold text-slate-800">{program.nameCn}</h1>
           <p className="text-slate-500">{program.name}</p>
@@ -141,11 +142,11 @@ function StageTimeline({
   stages,
 }: {
   app: Application;
-  region: "HK" | "UK";
+  region: Region;
   set: (patch: Partial<Application>) => void;
-  stages: (typeof STAGES)["HK"];
+  stages: (typeof STAGES)[Region];
 }) {
-  const depositWord = region === "HK" ? "留位费" : "押金";
+  const { depositWord } = REGION_INFO[region];
   return (
     <section aria-labelledby="stages-title" className="rounded-xl bg-white p-6 shadow-sm">
       <div className="flex flex-wrap items-baseline justify-between gap-2">

@@ -19,7 +19,7 @@ export default function Header() {
       <div className="mx-auto flex min-h-16 max-w-6xl flex-wrap items-center gap-x-8 gap-y-2 px-4 py-3">
         <Link href="/" className="flex shrink-0 items-baseline gap-2">
           <span className="text-2xl font-bold tracking-wide">申途</span>
-          <span className="hidden text-xs text-white/70 sm:inline">英港硕士申请管家</span>
+          <span className="hidden text-xs text-white/70 sm:inline">英港新硕士申请管家</span>
         </Link>
         <nav aria-label="主导航" className="order-last flex w-full gap-6 whitespace-nowrap sm:order-none sm:w-auto">
           {NAV.map(item => {

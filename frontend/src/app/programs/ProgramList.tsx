@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { FIELD_LABELS, PROGRAMS } from "@/lib/programs";
+import { REGION_INFO, REGION_ORDER } from "@/lib/regions";
 import { addApplication, useApplications } from "@/lib/store";
 import { daysText, daysUntil, formatDate } from "@/lib/deadline";
 import type { Field, Program, Region } from "@/lib/types";
@@ -11,8 +12,7 @@ import ProgramNotes from "@/components/ProgramNotes";
 
 const REGIONS: { value: Region | "ALL"; label: string }[] = [
   { value: "ALL", label: "全部" },
-  { value: "HK", label: "香港" },
-  { value: "UK", label: "英国" },
+  ...REGION_ORDER.map(r => ({ value: r, label: REGION_INFO[r].label })),
 ];
 
 const FIELDS: { value: Field | "ALL"; label: string }[] = [
@@ -34,7 +34,10 @@ export default function ProgramList() {
     return PROGRAMS.filter(p => region === "ALL" || p.region === region)
       .filter(p => field === "ALL" || p.field === field)
       .filter(p => !q || [p.school, p.schoolCn, p.name, p.nameCn].some(s => s.toLowerCase().includes(q)))
-      .sort((a, b) => a.region.localeCompare(b.region) || a.schoolCn.localeCompare(b.schoolCn, "zh"));
+      .sort(
+        (a, b) =>
+          REGION_ORDER.indexOf(a.region) - REGION_ORDER.indexOf(b.region) || a.schoolCn.localeCompare(b.schoolCn, "zh"),
+      );
   }, [region, field, query]);
 
   // 筛选条件写进 URL，方便分享和从首页直接跳到某一类
@@ -125,7 +128,7 @@ function ProgramCard({ program: p, added }: { program: Program; added: boolean }
       <div className="flex items-start justify-between gap-3">
         <div>
           <p className="text-sm text-slate-500">
-            {p.region === "HK" ? "🇭🇰 香港" : "🇬🇧 英国"} · {p.schoolCn}
+            {REGION_INFO[p.region].flag} {REGION_INFO[p.region].label} · {p.schoolCn}
           </p>
           <h2 className="mt-0.5 font-semibold text-slate-800">{p.nameCn}</h2>
           <p className="text-sm text-slate-500">{p.name}</p>
