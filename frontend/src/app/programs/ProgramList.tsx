@@ -110,9 +110,10 @@ function FilterGroup<T extends string>({
 
 function ProgramCard({ program: p, added }: { program: Program; added: boolean }) {
   const router = useRouter();
-  // 默认选中第一个还没过期的轮次
-  const firstOpen = Math.max(0, p.rounds.findIndex(r => daysUntil(r.deadline) >= 0));
-  const [round, setRound] = useState(firstOpen);
+  // 默认选中第一个还没过期的轮次；滚动录取（没有轮次）用 0 占位
+  const firstOpen = p.rounds.findIndex(r => daysUntil(r.deadline) >= 0);
+  const allClosed = p.rounds.length > 0 && firstOpen === -1;
+  const [round, setRound] = useState(Math.max(0, firstOpen));
 
   const onAdd = () => {
     addApplication(p.id, round);
@@ -139,33 +140,45 @@ function ProgramCard({ program: p, added }: { program: Program; added: boolean }
         <dd>{p.materials.length} 项</dd>
       </dl>
 
-      <fieldset>
-        <legend className="mb-1 text-sm text-slate-500">申请轮次</legend>
-        <div className="space-y-1">
-          {p.rounds.map((r, i) => {
-            const left = daysUntil(r.deadline);
-            const closed = left < 0;
-            return (
-              <label
-                key={r.name}
-                className={`flex cursor-pointer items-center gap-2 rounded-md px-2 py-1 text-sm ${round === i ? "bg-brand-soft" : ""} ${closed ? "text-slate-400" : ""}`}
-              >
-                <input
-                  type="radio"
-                  name={`round-${p.id}`}
-                  checked={round === i}
-                  onChange={() => setRound(i)}
-                  disabled={closed}
-                  className="accent-brand"
-                />
-                <span className="w-16">{r.name}</span>
-                <span>{formatDate(r.deadline)}</span>
-                <span className="ml-auto text-xs">{daysText(left)}</span>
-              </label>
-            );
-          })}
+      {p.rounds.length === 0 ? (
+        <div className="rounded-md bg-amber-50 p-3 text-sm text-amber-900">
+          <p className="font-medium">滚动录取 · 无固定截止日期</p>
+          <p className="mt-0.5 text-xs">边收边审，招满即止，越晚申请名额越少，建议尽早提交。</p>
         </div>
-      </fieldset>
+      ) : (
+        <fieldset>
+          <legend className="mb-1 flex items-center gap-2 text-sm text-slate-500">
+            申请轮次
+            {p.rolling && (
+              <span className="rounded bg-amber-100 px-1.5 py-0.5 text-xs text-amber-800">滚动审理，可能提前截止</span>
+            )}
+          </legend>
+          <div className="space-y-1">
+            {p.rounds.map((r, i) => {
+              const left = daysUntil(r.deadline);
+              const closed = left < 0;
+              return (
+                <label
+                  key={r.name}
+                  className={`flex cursor-pointer items-center gap-2 rounded-md px-2 py-1 text-sm ${round === i ? "bg-brand-soft" : ""} ${closed ? "text-slate-400" : ""}`}
+                >
+                  <input
+                    type="radio"
+                    name={`round-${p.id}`}
+                    checked={round === i}
+                    onChange={() => setRound(i)}
+                    disabled={closed}
+                    className="accent-brand"
+                  />
+                  <span className="w-16">{r.name}</span>
+                  <span>{formatDate(r.deadline)}</span>
+                  <span className="ml-auto text-xs">{daysText(left)}</span>
+                </label>
+              );
+            })}
+          </div>
+        </fieldset>
+      )}
 
       <ProgramNotes program={p} />
       <SourceBadge program={p} />
@@ -173,10 +186,10 @@ function ProgramCard({ program: p, added }: { program: Program; added: boolean }
       <button
         type="button"
         onClick={onAdd}
-        disabled={added}
+        disabled={added || allClosed}
         className="mt-auto rounded-lg bg-brand py-2 text-sm font-medium text-white hover:bg-brand-dark disabled:cursor-not-allowed disabled:bg-slate-300"
       >
-        {added ? "已在我的申请中" : "添加到我的申请"}
+        {added ? "已在我的申请中" : allClosed ? "本年度申请已截止" : "添加到我的申请"}
       </button>
     </li>
   );

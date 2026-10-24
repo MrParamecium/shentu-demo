@@ -7,6 +7,16 @@ export interface NextDeadline {
   daysLeft: number;
 }
 
+/** 没有固定截止日期、按滚动录取处理的待办（只出现在网申阶段） */
+export interface RollingDeadline {
+  label: string;
+  rolling: true;
+}
+
+export type Upcoming = NextDeadline | RollingDeadline;
+
+export const isRolling = (u: Upcoming | null): u is RollingDeadline => !!u && "rolling" in u;
+
 const DAY = 24 * 60 * 60 * 1000;
 
 /** 距离某个 YYYY-MM-DD 还有几天（按本地日期计，当天为 0） */
@@ -18,12 +28,14 @@ export function daysUntil(date: string, now = new Date()): number {
 }
 
 /** 当前节点对应的下一个截止日期：网申截止 → 留位费截止 → 补交条件截止 */
-export function nextDeadline(app: Application, program: Program): NextDeadline | null {
+export function nextDeadline(app: Application, program: Program): Upcoming | null {
   if (app.outcome !== "pending") return null;
   let label: string | null = null;
   let date: string | undefined;
   if (app.stage < 1) {
     const round = program.rounds[app.roundIndex] ?? program.rounds[0];
+    // 没有固定截止日期的滚动录取项目
+    if (!round) return { label: "网申截止", rolling: true };
     label = `${round.name}网申截止`;
     date = round.deadline;
   } else if (app.stage === OFFER_STAGE) {

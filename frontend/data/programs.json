@@ -58,7 +58,8 @@
       "学费：全日制 HK$350,000，分 2 期缴纳",
       "英语要求项目页只写参见研究生院，未能确认具体分数"
     ],
-    "field": "data"
+    "field": "data",
+    "rolling": true
   },
   {
     "id": "cuhk-msc-fin",
@@ -88,7 +89,8 @@
     "field": "finance",
     "extraMaterials": [
       "GMAT/GRE（可选）"
-    ]
+    ],
+    "rolling": true
   },
   {
     "id": "ic-msc-ba",
@@ -252,5 +254,47 @@
       "申请费 £130；国际生押金 £2,000 不退，期限随录取时间缩短（1 月前 2 个月 → 8 月 18 日后 3 天）"
     ],
     "field": "business"
+  },
+  {
+    "id": "lse-msc-finance",
+    "region": "UK",
+    "field": "finance",
+    "school": "London School of Economics and Political Science",
+    "schoolCn": "伦敦政治经济学院",
+    "name": "MSc Finance (full-time)",
+    "nameCn": "金融学硕士（全日制）",
+    "duration": "1 年",
+    "language": "LSE Standard：IELTS 7.0（单项 ≥6.5）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-finance-full-time",
+    "officialLabel": "LSE MSc Finance 课程页",
+    "updatedAt": "2026-10-23",
+    "verified": true,
+    "notes": [
+      "官网写明无固定截止日期：滚动录取，招满即关闭申请",
+      "奖学金另有截止日期，以官网为准"
+    ]
+  },
+  {
+    "id": "lse-msc-ds",
+    "region": "UK",
+    "field": "data",
+    "school": "London School of Economics and Political Science",
+    "schoolCn": "伦敦政治经济学院",
+    "name": "MSc Data Science",
+    "nameCn": "数据科学硕士",
+    "duration": "1 年",
+    "language": "LSE Standard：IELTS 7.0（单项 ≥6.5）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-data-science",
+    "officialLabel": "LSE MSc Data Science 课程页",
+    "updatedAt": "2026-10-23",
+    "verified": true,
+    "notes": [
+      "官网写明无固定截止日期：滚动录取，招满即关闭申请",
+      "奖学金另有截止日期，以官网为准"
+    ]
   }
 ]

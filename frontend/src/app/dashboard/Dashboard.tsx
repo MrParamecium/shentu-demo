@@ -3,9 +3,11 @@
 import Link from "next/link";
 import { programById } from "@/lib/programs";
 import { useApplications, useHydrated } from "@/lib/store";
-import { nextDeadline, urgencyOf } from "@/lib/deadline";
+import { isRolling, nextDeadline, urgencyOf, type Upcoming } from "@/lib/deadline";
 import { STAGES } from "@/lib/stages";
 import DeadlinePill from "@/components/DeadlinePill";
+
+const sortKey = (u: Upcoming | null) => (!u ? Infinity : isRolling(u) ? Number.MAX_SAFE_INTEGER : u.daysLeft);
 
 export default function Dashboard() {
   const apps = useApplications();
@@ -17,10 +19,10 @@ export default function Dashboard() {
       return program ? { app, program, next: nextDeadline(app, program) } : null;
     })
     .filter(r => r !== null)
-    // 有截止日期的按剩余天数升序，没有的排最后
-    .sort((a, b) => (a.next?.daysLeft ?? Infinity) - (b.next?.daysLeft ?? Infinity));
+    // 有截止日期的按剩余天数升序；滚动录取排在其后；没有待办截止的排最后
+    .sort((a, b) => sortKey(a.next) - sortKey(b.next));
 
-  const urgent = rows.filter(r => r.next && urgencyOf(r.next.daysLeft) === "urgent").length;
+  const urgent = rows.filter(r => r.next && !isRolling(r.next) && urgencyOf(r.next.daysLeft) === "urgent").length;
   const done = (m: Record<string, boolean>) => Object.values(m).filter(Boolean).length;
 
   if (!hydrated) return <p className="text-slate-400">加载中…</p>;
