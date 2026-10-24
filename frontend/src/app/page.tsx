@@ -9,6 +9,7 @@ const STEPS = [
     items: [
       { label: "香港硕士项目", href: "/programs?region=HK" },
       { label: "英国硕士项目", href: "/programs?region=UK" },
+      { label: "新加坡硕士项目", href: "/programs?region=SG" },
       { label: "全部项目", href: "/programs" },
     ],
     soon: ["智能选校"],
@@ -57,7 +58,7 @@ export default function Home() {
   return (
     <div className="space-y-12">
       <section className="rounded-2xl bg-white px-8 py-12 text-center shadow-sm">
-        <h1 className="text-3xl font-bold text-brand-dark">英港硕士申请，一张看板管到底</h1>
+        <h1 className="text-3xl font-bold text-brand-dark">英港新硕士申请，一张看板管到底</h1>
         <p className="mx-auto mt-4 max-w-2xl text-slate-600">
           添加项目，自动带出分轮截止日期和材料清单；从网申到有条件录取、留位费、补交条件、CAS，每个节点都不漏。
           每条信息都附官网来源，用得放心。

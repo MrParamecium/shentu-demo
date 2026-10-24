@@ -4,6 +4,7 @@ import Link from "next/link";
 import { programById } from "@/lib/programs";
 import { useApplications, useHydrated } from "@/lib/store";
 import { isRolling, nextDeadline, urgencyOf, type Upcoming } from "@/lib/deadline";
+import { REGION_INFO } from "@/lib/regions";
 import { STAGES } from "@/lib/stages";
 import DeadlinePill from "@/components/DeadlinePill";
 
@@ -73,7 +74,7 @@ export default function Dashboard() {
                   >
                     <div>
                       <p className="text-sm text-slate-500">
-                        {program.region === "HK" ? "🇭🇰" : "🇬🇧"} {program.schoolCn}
+                        {REGION_INFO[program.region].flag} {program.schoolCn}
                       </p>
                       <p className="font-semibold text-slate-800">{program.nameCn}</p>
                     </div>

@@ -296,5 +296,157 @@
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
       "奖学金另有截止日期，以官网为准"
     ]
+  },
+  {
+    "id": "nus-msc-ba",
+    "region": "SG",
+    "field": "data",
+    "school": "National University of Singapore",
+    "schoolCn": "新加坡国立大学",
+    "name": "Master of Science in Business Analytics",
+    "nameCn": "商业分析硕士",
+    "duration": "约 14 个月",
+    "language": "官方申请指南写明无需提交 IELTS / TOEFL",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-01-31"
+      }
+    ],
+    "rolling": true,
+    "officialUrl": "https://msba.nus.edu.sg/msba-programme/",
+    "officialLabel": "NUS MSBA 项目页",
+    "updatedAt": "2026-10-24",
+    "verified": true,
+    "notes": [
+      "2026-10-05 开放申请，2027 年 8 月开学；滚动审理，面试和发 offer 时间不固定",
+      "BAC 奖学金截止 2026-12-15，早于申请截止",
+      "申请费 S$100；押金 S$21,800，录取后 14 天内缴纳，不退"
+    ]
+  },
+  {
+    "id": "nus-mcomp-cs",
+    "region": "SG",
+    "field": "cs",
+    "school": "National University of Singapore",
+    "schoolCn": "新加坡国立大学",
+    "name": "Master of Computing (Computer Science Specialisation)",
+    "nameCn": "计算机硕士（计算机科学方向）",
+    "duration": "1.5 年",
+    "language": "IELTS 6.0 / TOEFL iBT 90（本科非英语授课需提交）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-01-31"
+      }
+    ],
+    "officialUrl": "https://www.comp.nus.edu.sg/programmes/pg/mcs/application/",
+    "officialLabel": "NUS 计算机学院申请页",
+    "updatedAt": "2026-10-24",
+    "verified": true,
+    "notes": [
+      "2026-10-01 开放申请，每年只有 8 月一次入学；早申请可能获早期录取",
+      "结果约 5 月底在 NUS 研究生申请系统公布",
+      "申请费 S$109"
+    ]
+  },
+  {
+    "id": "nus-msc-fin",
+    "region": "SG",
+    "field": "finance",
+    "school": "National University of Singapore",
+    "schoolCn": "新加坡国立大学",
+    "name": "Master of Science in Finance",
+    "nameCn": "金融学硕士",
+    "duration": "16 个月",
+    "language": "IELTS 7.0；TOEFL 要求见官网（页面写 iBT ≥5.0，疑为新版 1–6 分制）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-15"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-02-15"
+      }
+    ],
+    "officialUrl": "https://mscfin.nus.edu.sg/admissions/application-process/",
+    "officialLabel": "NUS MSc Finance 申请页",
+    "updatedAt": "2026-10-24",
+    "verified": true,
+    "notes": [
+      "第一轮截止同时是 Study Award 评选截止；第二轮是所有申请人的最终截止",
+      "每轮截止后集中审理，第一轮 offer 约 1–2 月起陆续发出",
+      "申请费 S$100；接受 offer 时缴纳 S$10,900"
+    ]
+  },
+  {
+    "id": "ntu-msc-ba",
+    "region": "SG",
+    "field": "data",
+    "school": "Nanyang Technological University",
+    "schoolCn": "南洋理工大学",
+    "name": "Master of Science in Business Analytics",
+    "nameCn": "商业分析硕士",
+    "duration": "1 年",
+    "language": "IELTS 6.5 / TOEFL iBT 100（本科非英语授课需提交）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-30"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-31"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "rolling": true,
+    "officialUrl": "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-business-analytics/admissions",
+    "officialLabel": "南洋商学院 MSBA 申请页",
+    "updatedAt": "2026-10-24",
+    "verified": true,
+    "notes": [
+      "2027 年 7 月开学，2026 年 9 月开放申请；滚动审理，早申请早入围",
+      "申请费 S$100；入学费 S$20,000（不含 GST），可抵学费，不退"
+    ]
+  },
+  {
+    "id": "ntu-msc-fin",
+    "region": "SG",
+    "field": "finance",
+    "school": "Nanyang Technological University",
+    "schoolCn": "南洋理工大学",
+    "name": "Master of Science in Finance",
+    "nameCn": "金融学硕士",
+    "duration": "1 年",
+    "language": "IELTS 6.5 / TOEFL iBT 100（本科非英语授课需提交）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-30"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-31"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "rolling": true,
+    "officialUrl": "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-finance/admissions",
+    "officialLabel": "南洋商学院 MSc Finance 申请页",
+    "updatedAt": "2026-10-24",
+    "verified": true,
+    "notes": [
+      "滚动审理，早申请早入围",
+      "同一页面截止部分写 2027 年 7 月开学、学费表写 8 月，开学月份以官网为准",
+      "申请费 S$100；入学费 S$21,800（含 GST），可抵学费，不退"
+    ]
   }
 ]

@@ -4,8 +4,8 @@ import Header from "@/components/Header";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "申途 · 英港硕士申请进度管家（Demo）",
-  description: "专为英国、香港授课型硕士申请者设计的进度管理工具：截止日期、材料清单、录取节点一目了然。",
+  title: "申途 · 英港新硕士申请进度管家（Demo）",
+  description: "专为英国、香港、新加坡授课型硕士申请者设计的进度管理工具：截止日期、材料清单、录取节点一目了然。",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

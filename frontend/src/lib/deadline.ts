@@ -1,4 +1,5 @@
 import type { Application, Program } from "./types";
+import { REGION_INFO } from "./regions";
 import { DEPOSIT_STAGE, OFFER_STAGE } from "./stages";
 
 export interface NextDeadline {
@@ -39,7 +40,7 @@ export function nextDeadline(app: Application, program: Program): Upcoming | nul
     label = `${round.name}网申截止`;
     date = round.deadline;
   } else if (app.stage === OFFER_STAGE) {
-    label = program.region === "HK" ? "留位费截止" : "押金截止";
+    label = `${REGION_INFO[program.region].depositWord}截止`;
     date = app.depositDeadline;
   } else if (app.stage === DEPOSIT_STAGE) {
     label = "补交条件截止";
