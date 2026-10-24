@@ -20,7 +20,10 @@ export interface ProgramRecord {
   nameCn: string;
   duration: string;
   language: string;
+  /** 可以为空，但此时 rolling 必须为 true（无固定截止日期） */
   rounds: Round[];
+  /** 滚动录取 / 滚动审理：边收边审，招满即止 */
+  rolling?: boolean;
   extraMaterials?: string[];
   officialUrl: string;
   officialLabel: string;
@@ -41,6 +44,7 @@ export interface Program {
   duration: string;
   language: string;
   rounds: Round[];
+  rolling?: boolean;
   materials: string[];
   officialUrl: string;
   officialLabel: string;

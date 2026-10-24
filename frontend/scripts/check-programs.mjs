@@ -28,8 +28,14 @@ programs.forEach((p, i) => {
   if (p.officialUrl && !p.officialUrl.startsWith("https://")) errors.push(`${at}: officialUrl 必须是 https 链接`);
   if (p.updatedAt && !isRealDate(p.updatedAt)) errors.push(`${at}: updatedAt 不是合法日期`);
 
-  if (!Array.isArray(p.rounds) || p.rounds.length === 0) {
-    errors.push(`${at}: rounds 至少要有一轮`);
+  if (p.rolling !== undefined && typeof p.rolling !== "boolean") errors.push(`${at}: rolling 必须是 true 或 false`);
+  if (!Array.isArray(p.rounds)) {
+    errors.push(`${at}: rounds 必须是数组`);
+    return;
+  }
+  // 滚动录取、没有固定截止日期的项目允许 rounds 为空
+  if (p.rounds.length === 0) {
+    if (p.rolling !== true) errors.push(`${at}: rounds 为空时必须设置 rolling: true（滚动录取）`);
     return;
   }
   let prev = "";

@@ -6,7 +6,7 @@ import { programById } from "@/lib/programs";
 import { removeApplication, updateApplication, useApplications, useHydrated } from "@/lib/store";
 import { formatDate, nextDeadline } from "@/lib/deadline";
 import { CONDITIONS_STAGE, DEPOSIT_STAGE, OFFER_STAGE, STAGES } from "@/lib/stages";
-import type { Application, Outcome } from "@/lib/types";
+import type { Application, Outcome, Round } from "@/lib/types";
 import DeadlinePill from "@/components/DeadlinePill";
 import SourceBadge from "@/components/SourceBadge";
 import ProgramNotes from "@/components/ProgramNotes";
@@ -31,7 +31,8 @@ export default function AppDetail({ id }: { id: string }) {
 
   const set = (patch: Partial<Application>) => updateApplication(app.id, patch);
   const stages = STAGES[program.region];
-  const round = program.rounds[app.roundIndex] ?? program.rounds[0];
+  // 滚动录取项目可能没有任何轮次
+  const round: Round | undefined = program.rounds[app.roundIndex] ?? program.rounds[0];
   const doneCount = Object.values(app.materials).filter(Boolean).length;
   const allMaterialsDone = doneCount === program.materials.length;
 
@@ -55,8 +56,16 @@ export default function AppDetail({ id }: { id: string }) {
           <h1 className="text-2xl font-bold text-slate-800">{program.nameCn}</h1>
           <p className="text-slate-500">{program.name}</p>
           <p className="pt-2 text-sm">
-            申请轮次：<span className="font-medium">{round.name}</span>（{formatDate(round.deadline)}截止）· 语言：
-            {program.language}
+            {round ? (
+              <>
+                申请轮次：<span className="font-medium">{round.name}</span>（{formatDate(round.deadline)}截止）
+              </>
+            ) : (
+              <>
+                申请方式：<span className="font-medium">滚动录取</span>（无固定截止，招满即止）
+              </>
+            )}
+            · 语言：{program.language}
           </p>
           <SourceBadge program={program} />
           <div className="pt-2">
