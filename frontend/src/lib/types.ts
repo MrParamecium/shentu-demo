@@ -36,7 +36,8 @@ export interface ProgramRecord {
 export interface Program {
   id: string;
   region: Region;
-  field: Field;
+  /** 项目库筛选用；用户手动添加的项目没有 */
+  field?: Field;
   school: string;
   schoolCn: string;
   name: string;
@@ -52,6 +53,8 @@ export interface Program {
   verified: boolean;
   /** 申请费、押金、特殊规则等补充说明，均摘自官网 */
   notes?: string[];
+  /** 用户手动添加的项目（不在项目库里，未核实） */
+  custom?: boolean;
 }
 
 export type Outcome = "pending" | "waitlist" | "rejected";
@@ -69,4 +72,16 @@ export interface Application {
   conditionDeadline?: string;
   conditions?: string;
   note?: string;
+  /** 用户手动添加、项目库里没有的项目；有它时 programId 为 "custom" */
+  customProgram?: CustomProgram;
+}
+
+/** 用户手动填的项目信息，未经核实 */
+export interface CustomProgram {
+  region: Region;
+  school: string;
+  name: string;
+  rounds: Round[];
+  rolling?: boolean;
+  officialUrl?: string;
 }

@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { programById } from "@/lib/programs";
+import { resolveProgram } from "@/lib/programs";
 import { removeApplication, updateApplication, useApplications, useHydrated } from "@/lib/store";
 import { formatDate, nextDeadline } from "@/lib/deadline";
 import { CONDITIONS_STAGE, DEPOSIT_STAGE, OFFER_STAGE, STAGES } from "@/lib/stages";
@@ -16,7 +16,7 @@ export default function AppDetail({ id }: { id: string }) {
   const router = useRouter();
   const hydrated = useHydrated();
   const app = useApplications().find(a => a.id === id);
-  const program = app && programById(app.programId);
+  const program = app && resolveProgram(app);
 
   if (!hydrated) return <p className="text-slate-400">加载中…</p>;
   if (!app || !program) {
@@ -52,10 +52,11 @@ export default function AppDetail({ id }: { id: string }) {
       <section className="flex flex-wrap items-start justify-between gap-4 rounded-xl bg-white p-6 shadow-sm">
         <div className="space-y-1">
           <p className="text-sm text-slate-500">
-            {REGION_INFO[program.region].flag} {REGION_INFO[program.region].label} · {program.schoolCn} · {program.school}
+            {REGION_INFO[program.region].flag} {REGION_INFO[program.region].label} · {program.schoolCn}
+            {program.school !== program.schoolCn && <> · {program.school}</>}
           </p>
           <h1 className="text-2xl font-bold text-slate-800">{program.nameCn}</h1>
-          <p className="text-slate-500">{program.name}</p>
+          {program.name !== program.nameCn && <p className="text-slate-500">{program.name}</p>}
           <p className="pt-2 text-sm">
             {round ? (
               <>
@@ -66,7 +67,7 @@ export default function AppDetail({ id }: { id: string }) {
                 申请方式：<span className="font-medium">滚动录取</span>（无固定截止，招满即止）
               </>
             )}
-            · 语言：{program.language}
+            {!program.custom && <> · 语言：{program.language}</>}
           </p>
           <SourceBadge program={program} />
           <div className="pt-2">
