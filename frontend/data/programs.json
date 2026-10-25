@@ -784,7 +784,7 @@
     "notes": [
       "官网写分阶段（Stage）审理；若当轮来不及出结果，申请会顺延到下一轮",
       "申请费 £60，不退；2026-10-10 开放 2027 入学申请",
-      "官网说明原 Operational Research and Risk Analysis 版本已不再招生"
+      "官网写该项目于 2026 年 9 月起改版，加强 AI for Business 方向"
     ]
   },
   {
@@ -978,7 +978,7 @@
     "notes": [
       "官网写 Early Admission Round / Round 1 / Round 2，截止时间为香港时间中午 12:00",
       "提前轮、第一轮截止日已过，仅剩第二轮",
-      "申请费 HK$780；GMAT/GRE 非必须；2027 年入学学费 HK$508,000（本地 HK$169,000）"
+      "申请费 HK$780；GMAT/GRE 非必须；官网列出 2027 年入学拟定学费 HK$508,000，押金 HK$169,000"
     ]
   },
   {
@@ -989,7 +989,7 @@
     "schoolCn": "香港大学经管学院",
     "name": "Master of Science in Business Analytics (MSc BA)",
     "nameCn": "商业分析理学硕士",
-    "duration": "见学校官网（以官网为准）",
+    "duration": "全日制 2 年",
     "language": "IELTS 6.0（单项 ≥5.5）",
     "rounds": [
       {
@@ -1012,7 +1012,7 @@
     "notes": [
       "官网写 Early Admission Round / Round 1 / Round 2，截止时间为香港时间中午 12:00",
       "提前轮、第一轮截止日已过，仅剩第二轮",
-      "申请费 HK$780；GMAT/GRE 非必须；2027 年入学学费 HK$468,000（本地 HK$156,000）"
+      "申请费 HK$780；GMAT/GRE 非必须；官网列出 2027 年入学拟定学费 HK$468,000，押金 HK$156,000"
     ]
   },
   {
@@ -1122,6 +1122,58 @@
     "notes": [
       "截止时间为英国时间 23:59；第一轮后若未招满继续收申请，招满即提前关闭",
       "第一轮之后提交申请，申请费不退"
+    ]
+  },
+  {
+    "id": "ucl-msc-cs",
+    "region": "UK",
+    "field": "cs",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Computer Science MSc",
+    "nameCn": "计算机科学硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc",
+    "officialLabel": "UCL Computer Science MSc 课程页",
+    "updatedAt": "2026-10-24",
+    "verified": true,
+    "notes": [
+      "需要签证的申请人 2027-03-22 英国时间 17:00 截止；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 10:00",
+      "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-ba",
+    "region": "UK",
+    "field": "business",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Business Analytics MSc",
+    "nameCn": "商业分析硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-06-25"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/business-analytics-msc",
+    "officialLabel": "UCL Business Analytics MSc 课程页",
+    "updatedAt": "2026-10-24",
+    "verified": true,
+    "notes": [
+      "需要签证的申请人 2027-06-25 英国时间 17:00 截止；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "2027/28 国际生学费 £48,600；语言要求为 UCL Level 2；开设于 UCL 管理学院（金丝雀码头校区）"
     ]
   }
 ]
