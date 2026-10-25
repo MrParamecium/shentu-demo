@@ -8,7 +8,7 @@
 | [T-002](tasks/T-002-buy-domain.md) | 买域名并配置发信 / 前端域名 | 浩翔 | ⬜ 待开始 | — |
 | [T-003](tasks/T-003-program-library.md) | 扩充项目库（第一批：英港热门 30 个） | **友涵** | ⬜ 待开始 | `program-library`（已有框架） |
 | [T-004](tasks/T-004-rolling-admissions.md) | 卡片支持「滚动录取 / 无固定截止」 | **浩翔** | ✅ 完成 | #5 |
-| [T-005](tasks/T-005-custom-program.md) | 用户自己添加库里没有的项目 | **浩翔** | 👀 待审核 | `t-005-custom-program` |
+| [T-005](tasks/T-005-custom-program.md) | 用户自己添加库里没有的项目 | **浩翔** | ✅ 完成 | #9 |
 | [T-006](tasks/T-006-library-step2.md) | 项目库第二步：英港新四大类全部项目 | 待定 | ⬜ 等 T-003 | — |
 | [T-008](tasks/T-008-singapore.md) | 加入新加坡（新国立、南洋理工 5 个项目） | **浩翔** | ✅ 完成 | #6 |
 | [T-009](tasks/T-009-link-import.md) | 贴官网链接自动识别项目信息 | 待定 | ⬜ 等 T-005 | — |
