@@ -946,5 +946,182 @@
       "官网只列最终截止日，建议国际学生尽早申请",
       "申请费 £75，不退；国际生学费 £41,500"
     ]
+  },
+  {
+    "id": "hku-mfin",
+    "region": "HK",
+    "field": "finance",
+    "school": "The University of Hong Kong (HKU Business School)",
+    "schoolCn": "香港大学经管学院",
+    "name": "Master of Finance (MFin)",
+    "nameCn": "金融学硕士",
+    "duration": "全日制 2 年",
+    "language": "IELTS 6.0（单项 ≥5.5）",
+    "rounds": [
+      {
+        "name": "提前轮",
+        "deadline": "2026-07-24"
+      },
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-28"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-04"
+      }
+    ],
+    "officialUrl": "https://masters.hkubs.hku.hk/our-programmes/master-of-finance/",
+    "officialLabel": "港大经管学院 MFin 项目页",
+    "updatedAt": "2026-10-24",
+    "verified": true,
+    "notes": [
+      "官网写 Early Admission Round / Round 1 / Round 2，截止时间为香港时间中午 12:00",
+      "提前轮、第一轮截止日已过，仅剩第二轮",
+      "申请费 HK$780；GMAT/GRE 非必须；2027 年入学学费 HK$508,000（本地 HK$169,000）"
+    ]
+  },
+  {
+    "id": "hku-msc-ba",
+    "region": "HK",
+    "field": "business",
+    "school": "The University of Hong Kong (HKU Business School)",
+    "schoolCn": "香港大学经管学院",
+    "name": "Master of Science in Business Analytics (MSc BA)",
+    "nameCn": "商业分析理学硕士",
+    "duration": "见学校官网（以官网为准）",
+    "language": "IELTS 6.0（单项 ≥5.5）",
+    "rounds": [
+      {
+        "name": "提前轮",
+        "deadline": "2026-07-24"
+      },
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-28"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-04"
+      }
+    ],
+    "officialUrl": "https://masters.hkubs.hku.hk/our-programmes/master-of-science-in-business-analytics/",
+    "officialLabel": "港大经管学院 MSc BA 项目页",
+    "updatedAt": "2026-10-24",
+    "verified": true,
+    "notes": [
+      "官网写 Early Admission Round / Round 1 / Round 2，截止时间为香港时间中午 12:00",
+      "提前轮、第一轮截止日已过，仅剩第二轮",
+      "申请费 HK$780；GMAT/GRE 非必须；2027 年入学学费 HK$468,000（本地 HK$156,000）"
+    ]
+  },
+  {
+    "id": "cuhk-msc-cs",
+    "region": "HK",
+    "field": "cs",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in Computer Science",
+    "nameCn": "计算机科学理学硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-01-31"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/engineering/msc-computer-science",
+    "officialLabel": "港中文研究院 MSc CS 项目页",
+    "updatedAt": "2026-10-24",
+    "verified": true,
+    "notes": [
+      "全日制学费 HK$300,000，分 2 期缴纳；要求计算机科学、计算机工程或相关专业学士学位"
+    ]
+  },
+  {
+    "id": "cityu-msc-cs",
+    "region": "HK",
+    "field": "cs",
+    "school": "City University of Hong Kong",
+    "schoolCn": "香港城市大学",
+    "name": "MSc Computer Science (P53)",
+    "nameCn": "计算机科学理学硕士",
+    "duration": "见学校官网（以官网为准）",
+    "language": "IELTS 6.0（总分）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-05-31"
+      }
+    ],
+    "officialUrl": "https://www.cityu.edu.hk/en/pg/taught-postgraduate-programmes/list",
+    "officialLabel": "城大 2027/28 授课型硕士项目列表",
+    "updatedAt": "2026-10-24",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间 23:59；2027/28 入学申请自 2026-09-15 开放",
+      "项目代码 P53，学习模式 Combined；雅思 6.0 来自城大计算机系项目招生页"
+    ]
+  },
+  {
+    "id": "kcl-msc-ds",
+    "region": "UK",
+    "field": "data",
+    "school": "King's College London",
+    "schoolCn": "伦敦国王学院",
+    "name": "Data Science MSc",
+    "nameCn": "数据科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2027-03-09"
+      },
+      {
+        "name": "国际生截止",
+        "deadline": "2027-07-25"
+      }
+    ],
+    "rolling": true,
+    "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/data-science-msc",
+    "officialLabel": "KCL Data Science MSc 课程页",
+    "updatedAt": "2026-10-24",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间 23:59；第一轮后若未招满继续收申请，招满即提前关闭",
+      "第一轮之后提交申请，申请费不退"
+    ]
+  },
+  {
+    "id": "kcl-msc-im",
+    "region": "UK",
+    "field": "business",
+    "school": "King's College London",
+    "schoolCn": "伦敦国王学院",
+    "name": "International Management MSc",
+    "nameCn": "国际管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2027-03-09"
+      },
+      {
+        "name": "国际生截止",
+        "deadline": "2027-07-25"
+      }
+    ],
+    "rolling": true,
+    "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/international-management-msc",
+    "officialLabel": "KCL International Management MSc 课程页",
+    "updatedAt": "2026-10-24",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间 23:59；第一轮后若未招满继续收申请，招满即提前关闭",
+      "第一轮之后提交申请，申请费不退"
+    ]
   }
 ]
