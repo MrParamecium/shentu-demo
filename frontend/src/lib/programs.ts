@@ -1,4 +1,4 @@
-import type { Field, Program, ProgramRecord, Region } from "./types";
+import type { Application, CustomProgram, Field, Program, ProgramRecord, Region } from "./types";
 import records from "../../data/programs.json";
 
 // 项目数据在 frontend/data/programs.json，改数据走 PR 审核；
@@ -22,3 +22,32 @@ export const PROGRAMS: Program[] = (records as ProgramRecord[]).map(({ extraMate
 }));
 
 export const programById = (id: string) => PROGRAMS.find(p => p.id === id);
+
+export const CUSTOM_PROGRAM_ID = "custom";
+
+/** 把用户手动填的项目转成和项目库一样的结构，看板、详情页不用区分来源 */
+export function customToProgram(c: CustomProgram): Program {
+  return {
+    id: CUSTOM_PROGRAM_ID,
+    region: c.region,
+    school: c.school,
+    schoolCn: c.school,
+    name: c.name,
+    nameCn: c.name,
+    duration: "—",
+    language: "以官网为准",
+    rounds: c.rounds,
+    rolling: c.rolling,
+    materials: DEFAULT_MATERIALS[c.region],
+    officialUrl: c.officialUrl ?? "",
+    officialLabel: c.officialUrl ? "官网链接（自行填写）" : "",
+    updatedAt: "",
+    verified: false,
+    custom: true,
+  };
+}
+
+/** 一条申请对应的项目：手动添加的用自带信息，否则查项目库 */
+export function resolveProgram(app: Application): Program | undefined {
+  return app.customProgram ? customToProgram(app.customProgram) : programById(app.programId);
+}

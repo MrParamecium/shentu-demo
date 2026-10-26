@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { programById } from "@/lib/programs";
+import { resolveProgram } from "@/lib/programs";
 import { useApplications, useHydrated } from "@/lib/store";
 import { isRolling, nextDeadline, urgencyOf, type Upcoming } from "@/lib/deadline";
 import { REGION_INFO } from "@/lib/regions";
@@ -16,7 +16,7 @@ export default function Dashboard() {
 
   const rows = apps
     .map(app => {
-      const program = programById(app.programId);
+      const program = resolveProgram(app);
       return program ? { app, program, next: nextDeadline(app, program) } : null;
     })
     .filter(r => r !== null)

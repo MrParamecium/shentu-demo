@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { FIELD_LABELS, PROGRAMS } from "@/lib/programs";
 import { REGION_INFO, REGION_ORDER } from "@/lib/regions";
@@ -40,6 +41,9 @@ export default function ProgramList() {
       );
   }, [region, field, query]);
 
+  // 搜索词带到手动添加页，预填项目名
+  const customHref = query.trim() ? `/programs/custom?q=${encodeURIComponent(query.trim())}` : "/programs/custom";
+
   // 筛选条件写进 URL，方便分享和从首页直接跳到某一类
   const setFilter = (key: "region" | "field", value: string) => {
     const next = new URLSearchParams(params);
@@ -66,12 +70,25 @@ export default function ProgramList() {
         </label>
       </div>
 
-      <p className="text-sm text-slate-500" aria-live="polite">
-        共 {list.length} 个项目
-      </p>
+      <div className="flex flex-wrap items-center justify-between gap-2 text-sm">
+        <p className="text-slate-500" aria-live="polite">
+          共 {list.length} 个项目
+        </p>
+        <Link href={customHref} className="text-brand hover:underline">
+          找不到你的项目？手动添加 →
+        </Link>
+      </div>
 
       {list.length === 0 ? (
-        <p className="rounded-xl bg-white p-10 text-center text-slate-500">没有找到匹配的项目</p>
+        <div className="rounded-xl bg-white p-10 text-center">
+          <p className="text-slate-500">项目库里还没有这个项目</p>
+          <Link
+            href={customHref}
+            className="mt-4 inline-block rounded-lg bg-brand px-5 py-2 text-sm font-medium text-white hover:bg-brand-dark"
+          >
+            手动添加
+          </Link>
+        </div>
       ) : (
         <ul className="grid gap-4 md:grid-cols-2">
           {list.map(p => (

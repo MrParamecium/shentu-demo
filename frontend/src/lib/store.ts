@@ -1,8 +1,9 @@
 "use client";
 
 import { useSyncExternalStore } from "react";
-import type { Application } from "./types";
-import { programById } from "./programs";
+import type { Application, CustomProgram } from "./types";
+import { CUSTOM_PROGRAM_ID, customToProgram, programById } from "./programs";
+import { daysUntil } from "./deadline";
 
 // demo 不做登录：数据只存在当前浏览器的 localStorage
 const KEY = "shentu-demo:applications";
@@ -64,6 +65,26 @@ export function addApplication(programId: string, roundIndex: number): string {
     materials: Object.fromEntries(program.materials.map(m => [m, false])),
     stage: 0,
     outcome: "pending",
+  };
+  write([...read(), app]);
+  return id;
+}
+
+/** 添加项目库里没有的项目：项目信息跟着这条申请一起存 */
+export function addCustomApplication(custom: CustomProgram): string {
+  const program = customToProgram(custom);
+  const id = `${CUSTOM_PROGRAM_ID}-${Date.now().toString(36)}`;
+  // 默认跟踪第一个还没过期的轮次
+  const open = custom.rounds.findIndex(r => daysUntil(r.deadline) >= 0);
+  const app: Application = {
+    id,
+    programId: CUSTOM_PROGRAM_ID,
+    roundIndex: Math.max(0, open),
+    createdAt: new Date().toISOString(),
+    materials: Object.fromEntries(program.materials.map(m => [m, false])),
+    stage: 0,
+    outcome: "pending",
+    customProgram: custom,
   };
   write([...read(), app]);
   return id;
