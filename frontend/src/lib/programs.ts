@@ -23,6 +23,37 @@ export const PROGRAMS: Program[] = (records as ProgramRecord[]).map(({ extraMate
 
 export const programById = (id: string) => PROGRAMS.find(p => p.id === id);
 
+// 学校缩写和常用叫法，按学校英文名（school 字段）对应，一所学校只写一次。
+// 学生搜索基本用缩写（UCL、港大、NUS），加新学校时记得补这里
+const SCHOOL_ALIASES: Record<string, string[]> = {
+  "Imperial College London": ["IC", "ICL", "帝国理工", "帝国"],
+  "University College London": ["UCL", "伦敦大学学院", "大伦敦"],
+  "King's College London": ["KCL", "国王学院", "伦国王"],
+  "London School of Economics and Political Science": ["LSE", "伦敦政经", "伦政经"],
+  "The University of Edinburgh": ["Edinburgh", "UoE", "爱丁堡", "爱大"],
+  "The University of Manchester": ["Manchester", "UoM", "曼大", "曼彻斯特"],
+  "University of Warwick (Warwick Business School)": ["Warwick", "WBS", "华威"],
+  "The University of Hong Kong": ["HKU", "港大"],
+  "The University of Hong Kong (HKU Business School)": ["HKU", "港大", "港大商学院"],
+  "The Chinese University of Hong Kong": ["CUHK", "港中文", "中大"],
+  "The Hong Kong University of Science and Technology": ["HKUST", "UST", "港科大", "科大"],
+  "City University of Hong Kong": ["CityU", "城大", "港城大"],
+  "The Hong Kong Polytechnic University": ["PolyU", "理大", "港理工"],
+  "National University of Singapore": ["NUS", "新国立", "国大"],
+  "Nanyang Technological University": ["NTU", "南洋理工", "南大"],
+};
+
+/**
+ * 项目库搜索：学校名、项目名按包含匹配；学校别名要完全一致。
+ * 别名不能用包含或开头匹配，否则搜「HKU」会把「HKUST」（港科大）也搜出来
+ */
+export function matchesQuery(p: Program, query: string): boolean {
+  const q = query.trim().toLowerCase();
+  if (!q) return true;
+  if ([p.school, p.schoolCn, p.name, p.nameCn].some(s => s.toLowerCase().includes(q))) return true;
+  return (SCHOOL_ALIASES[p.school] ?? []).some(a => a.toLowerCase() === q);
+}
+
 export const CUSTOM_PROGRAM_ID = "custom";
 
 /** 把用户手动填的项目转成和项目库一样的结构，看板、详情页不用区分来源 */
