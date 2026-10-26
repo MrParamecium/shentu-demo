@@ -1,7 +1,7 @@
 # T-003 扩充项目库（第一批：英港热门 30 个）
 
 - **负责人**：友涵
-- **状态**：⬜ 待开始
+- **状态**：🔄 进行中（数据已写入 38 个，待补英文证据并提 PR）
 - **分支**：`program-library`（浩翔已推了框架，在这个分支上继续）
 - **布置人 / 日期**：浩翔 / 2026-10-23
 - **预计**：每个项目 10–20 分钟，30 个约 1–2 周（课余时间）
@@ -69,30 +69,30 @@
 
 ## 待核实清单（22 个，按优先级）
 **英国**
-- [ ] UCL Computer Science MSc（ucl.ac.uk 有时打不开，换浏览器或稍后再试）
-- [ ] UCL Business Analytics MSc
-- [ ] KCL Data Science MSc
-- [ ] Imperial MSc Computing
-- [ ] Imperial Business School MSc Finance（商学院页面有分轮：`.../business-school/masters/<项目>/admissions/`）
-- [ ] KCL International Management MSc
-- [ ] 曼大 MSc Advanced Computer Science
-- [ ] 爱丁堡 MSc Data Science（以课程页为准，信息学院页面年份写错过）
-- [ ] 爱丁堡商学院 MSc Finance（或当前主推的金融硕士）
-- [ ] 华威商学院 MSc Business Analytics
-- [ ] 华威商学院 MSc Finance
+- [x] UCL Computer Science MSc（ucl.ac.uk 有时打不开，换浏览器或稍后再试）
+- [x] UCL Business Analytics MSc
+- [x] KCL Data Science MSc
+- [x] Imperial MSc Computing
+- [x] Imperial Business School MSc Finance（商学院页面有分轮：`.../business-school/masters/<项目>/admissions/`）
+- [x] KCL International Management MSc
+- [x] 曼大 MSc Advanced Computer Science
+- [x] 爱丁堡 MSc Data Science（以课程页为准，信息学院页面年份写错过）
+- [x] 爱丁堡商学院 MSc Finance（或当前主推的金融硕士）
+- [x] 华威商学院 MSc Business Analytics
+- [x] 华威商学院 MSc Finance
 
 **香港**
-- [ ] 港大 Master of Data Science（MDASC）
-- [ ] 港大 MSc in Financial Technology and Data Analytics
-- [ ] 港大商学院 Master of Finance
-- [ ] 港大商学院 MSc in Business Analytics
-- [ ] 港科大 MSc in Information Technology
-- [ ] 港科大商学院 MSc in Finance
-- [ ] 港科大商学院 MSc in Business Analytics
-- [ ] 港中文 MSc in Computer Science
-- [ ] 港中文商学院 MSc in Business Analytics
-- [ ] 城大 MSc Computer Science
-- [ ] 理大 MSc in Data Science and Analytics
+- [x] 港大 Master of Data Science（MDASC）
+- [x] 港大 MSc in Financial Technology and Data Analytics
+- [x] 港大商学院 Master of Finance
+- [x] 港大商学院 MSc in Business Analytics
+- [x] 港科大 MSc in Information Technology
+- [x] 港科大商学院 MSc in Finance
+- [x] 港科大商学院 MSc in Business Analytics
+- [x] 港中文 MSc in Computer Science
+- [x] 港中文商学院 MSc in Business Analytics
+- [x] 城大 MSc Computer Science
+- [x] 理大 MSc in Data Science and Analytics
 
 **选这些的理由**：中国学生申请最多的英港学校 × 四个专业大类（商科、金融、计算机、数据），每个大类英港都有覆盖。名单是浩翔凭经验选的，**不是统计数据**；如果你觉得某个项目更热门，可以替换，在进度日志里写一句原因。
 
@@ -120,9 +120,9 @@
   ```
 
 ## 完成标准
-- [ ] `programs.json` 总数 ≥ 30，英国、香港各 ≥ 12 个，四个专业大类都有
+- [x] `programs.json` 总数 ≥ 30，英国、香港各 ≥ 12 个，四个专业大类都有
 - [ ] 每个新项目 `verified: true`，PR 描述里有官网链接 + 英文原文
-- [ ] `npm run check:programs`、`npm run build`、`npm run lint` 全过
+- [x] `npm run check:programs`、`npm run build`、`npm run lint` 全过
 - [ ] 浏览器里：按地区、专业筛选和搜索都正常；随便挑 3 个新项目点「添加到我的申请」，看板上截止日期显示正确
 - [ ] 浩翔抽查 5 个，和官网一致
 
@@ -131,9 +131,30 @@
 - 卡住超过 30 分钟就在进度日志里写清楚卡在哪，跳过做下一个
 
 ## 查不到 / 存疑
-- LSE MSc Finance、LSE MSc Data Science：滚动录取，等 T-004
+- LSE MSc Finance、LSE MSc Data Science：已在库中（T-004 完成后由浩翔加入），本批不重复
+- 清单里的「爱丁堡商学院 MSc Finance」换成官网当前主推的 **MSc Finance and Investment**（id `ed-msc-fi`）
+- 清单里的「华威 MSc Business Analytics」官网已更名为 **MSc Business Analytics & Artificial Intelligence**（id `wbs-msc-baai`）
+- 清单里的「理大 MSc in Data Science and Analytics」对应官网 62027（id `polyu-msc-dsa`）；注意同页还有 62037 AI and Big Data Computing，未收录
+- 港中文 MSc Computer Science：研究院页面截止日 2027-01-31，页面未写「2027 入学」字样；友涵在官网确认为 2027 入学后收录
+- 爱丁堡 MSc Data Science：官网两轮截止只写月日（31 March / 31 May），没写年份；按 2027 年记录，**请浩翔复核**
+- 港大 MSc FTDA、港科大 MSc(IT)：学制官网静态页未读到，库里写「见学校官网（以官网为准）」
+- 多个项目语言要求项目页只写「参见学校统一要求」，库里写「见学校统一英语要求（以官网为准）」
+- UCL 两个项目官网有 Cloudflare 人机验证，脚本读不到；日期和学制由友涵在浏览器里查看后截图提供
+- 港大商学院页面学费表第二列是 Deposit（押金），不是本地学费；已更正
+- 清单外项目未加；总数 38（HK 14，UK 19，SG 5）
 
 ## 进度日志
+
+### 2026-10-24 · 友涵（Claude 协助）
+- 新增 23 个项目，库内共 38 个（HK 14，UK 19，SG 5）；`check:programs` / `lint` / `build` 均通过
+- 方法：脚本直接读学校官网原始 HTML；JS 渲染页用无头浏览器；UCL 被 Cloudflare 拦截，由友涵截图补数据
+- **耗时**：没有逐个计时。整体估算 15 个项目约 2.5 小时（约 10 分钟 / 个），其中约 1 小时花在子代理读不到页面后改用脚本。港大商学院、城大、UCL 这类 JS 渲染 / 反爬站点单个更慢，建议 T-006 按 20–30 分钟估
+- 遇到的问题：
+  - 自动摘要工具会丢信息（只给摘要、不给原文），不能直接当证据；改用 curl 读原文
+  - 港大商学院学费表第二列是押金，不是本地学费，已更正
+  - 脚本去重会吞掉相同日期的行（Imperial 第二轮截止与页头重复），表格必须按原始 HTML 读
+  - 爱丁堡 Data Science 官网截止日没写年份
+- 还没做：PR 描述里的英文原文证据（脚本 `evid.py` 抓了一部分，未整理）、提 PR、浩翔抽查
 
 ### 2026-10-23 · 浩翔
 - 搭好框架：数据移到 JSON、地区 + 专业筛选、`npm run check:programs` 校验脚本，推到 `program-library`
