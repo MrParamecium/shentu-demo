@@ -39,6 +39,14 @@ AUTH_DEMO_MODE=true .venv/bin/uvicorn app.main:app --reload --port 8000
 ```
 不设 `RESEND_API_KEY` 时验证码打印在后端日志里。
 
+## 部署（自动）
+- **前端（Vercel）**：已连 GitHub 仓库，根目录 `frontend`
+  - **合并到 `main` → 自动部署到 https://shentu-demo.vercel.app**，一般 1–2 分钟
+  - **每个 PR → 自动生成预览链接**，Vercel 会在 PR 下评论，审 PR 时可以直接点开看效果（预览链接要登录 Vercel 才能看）
+  - 不用再手动 `vercel deploy`
+- **后端（Render）**：已连 GitHub，根目录 `backend`，只有 `backend/` 下的文件有改动、合并到 `main` 才会重新部署；只改前端或 `handoff/` 不会触发
+- 部署失败时 Vercel / Render 会发邮件给浩翔；也可以在 PR 下的检查状态里看到
+
 ## 账号和权限
 - GitHub、Vercel、Render、Resend 都在浩翔账号下
 - 需要线上环境变量、部署权限时找浩翔；**密钥不要发在聊天里，也不要写进仓库**
