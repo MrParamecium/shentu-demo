@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
-import { FIELD_LABELS, PROGRAMS } from "@/lib/programs";
+import { FIELD_LABELS, PROGRAMS, matchesQuery } from "@/lib/programs";
 import { REGION_INFO, REGION_ORDER } from "@/lib/regions";
 import { addApplication, useApplications } from "@/lib/store";
 import { daysText, daysUntil, formatDate } from "@/lib/deadline";
@@ -31,10 +31,9 @@ export default function ProgramList() {
   const added = new Set(apps.map(a => a.programId));
 
   const list = useMemo(() => {
-    const q = query.trim().toLowerCase();
     return PROGRAMS.filter(p => region === "ALL" || p.region === region)
       .filter(p => field === "ALL" || p.field === field)
-      .filter(p => !q || [p.school, p.schoolCn, p.name, p.nameCn].some(s => s.toLowerCase().includes(q)))
+      .filter(p => matchesQuery(p, query))
       .sort(
         (a, b) =>
           REGION_ORDER.indexOf(a.region) - REGION_ORDER.indexOf(b.region) || a.schoolCn.localeCompare(b.schoolCn, "zh"),
@@ -64,7 +63,7 @@ export default function ProgramList() {
             type="search"
             value={query}
             onChange={e => setQuery(e.target.value)}
-            placeholder="搜索学校或项目，如：港大、Imperial、数据科学"
+            placeholder="搜索学校或项目，如：UCL、港大、NUS、数据科学"
             className="w-full rounded-lg border border-slate-200 bg-white px-4 py-2 text-sm shadow-sm outline-none focus:border-brand"
           />
         </label>

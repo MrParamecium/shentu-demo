@@ -124,7 +124,7 @@
 - [ ] 每个新项目 `verified: true`，PR 描述里有官网链接 + 英文原文
 - [x] `npm run check:programs`、`npm run build`、`npm run lint` 全过
 - [ ] 浏览器里：按地区、专业筛选和搜索都正常；随便挑 3 个新项目点「添加到我的申请」，看板上截止日期显示正确
-- [ ] 浩翔抽查 5 个，和官网一致
+- [x] 浩翔抽查 5 个，和官网一致（2026-10-26，见进度日志；港大 MSc BA 未能复核，见下）
 
 ## 遇到问题
 - 不确定的字段先留空或写「以官网为准」，在进度日志里写下来，**不要猜**
@@ -136,7 +136,7 @@
 - 清单里的「华威 MSc Business Analytics」官网已更名为 **MSc Business Analytics & Artificial Intelligence**（id `wbs-msc-baai`）
 - 清单里的「理大 MSc in Data Science and Analytics」对应官网 62027（id `polyu-msc-dsa`）；注意同页还有 62037 AI and Big Data Computing，未收录
 - 港中文 MSc Computer Science：研究院页面截止日 2027-01-31，页面未写「2027 入学」字样；友涵在官网确认为 2027 入学后收录
-- 爱丁堡 MSc Data Science：官网两轮截止只写月日（31 March / 31 May），没写年份；按 2027 年记录，**请浩翔复核**
+- 爱丁堡 MSc Data Science：官网两轮截止只写月日（31 March / 31 May），没写年份；按 2027 年记录。**浩翔已复核（2026-10-26）**：同页写明「Year of entry: 2027」「Start date: September 2027」，按 2027 年正确
 - 港大 MSc FTDA、港科大 MSc(IT)：学制官网静态页未读到，库里写「见学校官网（以官网为准）」
 - 多个项目语言要求项目页只写「参见学校统一要求」，库里写「见学校统一英语要求（以官网为准）」
 - UCL 两个项目官网有 Cloudflare 人机验证，脚本读不到；日期和学制由友涵在浏览器里查看后截图提供
@@ -144,6 +144,20 @@
 - 清单外项目未加；总数 38（HK 14，UK 19，SG 5）
 
 ## 进度日志
+
+### 2026-10-26 · 浩翔（抽查）
+随机抽 5 个（种子 20261026，可复现）+ 友涵点名的爱丁堡，逐个对照官网原文：
+
+| 项目 | 结果 | 依据 |
+|---|---|---|
+| 港科大 MSc Finance | ✅ 一致 | 官网全日制四轮：11 Oct 2026 / 29 Nov 2026 / 10 Jan 2027 / 28 Feb 2027，「Admissions operate on a rolling basis」 |
+| 帝国理工 MSc Computing | ✅ 一致 | Round 2 6 Jan 2027 / Round 3 10 Mar 2027 / Round 4 28 Apr 2027；「Round 1 Business School courses only」，所以从第二轮开始是对的 |
+| 港科大 MSc(IT) | ✅ 一致 | 「For 2027/28 Fall intake … 1 December 2026 (Round 1) 1 March 2027 (Round 2)」 |
+| 爱丁堡 MSc Data Science | ✅ 一致 | 两轮 31 March / 31 May；同页「Year of entry: 2027」「Start date: September 2027」 |
+| UCL MSc Business Analytics | ⚠️ 未能复核 | UCL 对脚本返回 403，和友涵遇到的一样；日期沿用友涵截图，下次用浏览器补核 |
+| 港大 MSc Business Analytics | ⚠️ 未能复核 | 商学院项目页和招生页都没有列轮次日期（只写「Application rounds for 2027 intake are now open」）；港大研究生门户这次没打开。数据里的提前轮、第一轮都已过期，**用户能选的只剩第二轮 2026-12-04，建议尽快补核这一个日期** |
+
+结论：能打开的 4 个全部一致，没发现错误；2 个因网站拦截暂未复核。另外修了两个友涵报的显示问题（搜索缩写、轮次名重复），见 PR。
 
 ### 2026-10-24 · 友涵（Claude 协助）
 - 新增 23 个项目，库内共 38 个（HK 14，UK 19，SG 5）；`check:programs` / `lint` / `build` 均通过

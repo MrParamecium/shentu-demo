@@ -28,6 +28,14 @@ export function daysUntil(date: string, now = new Date()): number {
   return Math.round((target - today) / DAY);
 }
 
+/**
+ * 网申轮次的截止标签：「第一轮」→「第一轮网申截止」；
+ * 轮次名本身已带「截止」的（国际生截止、统一截止…）原样显示，避免「国际生截止网申截止」
+ */
+export function roundDeadlineLabel(roundName: string): string {
+  return roundName.endsWith("截止") ? roundName : `${roundName}网申截止`;
+}
+
 /** 当前节点对应的下一个截止日期：网申截止 → 留位费截止 → 补交条件截止 */
 export function nextDeadline(app: Application, program: Program): Upcoming | null {
   if (app.outcome !== "pending") return null;
@@ -37,7 +45,7 @@ export function nextDeadline(app: Application, program: Program): Upcoming | nul
     const round = program.rounds[app.roundIndex] ?? program.rounds[0];
     // 没有固定截止日期的滚动录取项目
     if (!round) return { label: "网申截止", rolling: true };
-    label = `${round.name}网申截止`;
+    label = roundDeadlineLabel(round.name);
     date = round.deadline;
   } else if (app.stage === OFFER_STAGE) {
     label = `${REGION_INFO[program.region].depositWord}截止`;

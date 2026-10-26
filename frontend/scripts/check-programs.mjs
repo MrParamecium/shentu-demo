@@ -51,5 +51,17 @@ if (errors.length) {
   console.error(`programs.json 校验失败（${errors.length} 处）：\n- ${errors.join("\n- ")}`);
   process.exit(1);
 }
+// 学校别名在 src/lib/programs.ts 的 SCHOOL_ALIASES；新学校没配别名，学生用缩写就搜不到
+const aliasSrc = fs.readFileSync(new URL("../src/lib/programs.ts", import.meta.url), "utf8");
+const aliasBlock = aliasSrc.slice(aliasSrc.indexOf("SCHOOL_ALIASES"), aliasSrc.indexOf("};", aliasSrc.indexOf("SCHOOL_ALIASES")));
+const aliased = new Set([...aliasBlock.matchAll(/^\s*"([^"]+)":\s*\[/gm)].map(m => m[1]));
+const missing = [...new Set(programs.map(p => p.school))].filter(s => !aliased.has(s));
+if (missing.length) {
+  console.error(
+    `以下学校没有配置搜索别名（src/lib/programs.ts 的 SCHOOL_ALIASES），学生用缩写会搜不到：\n- ${missing.join("\n- ")}`,
+  );
+  process.exit(1);
+}
+
 const byRegion = programs.reduce((m, p) => ({ ...m, [p.region]: (m[p.region] ?? 0) + 1 }), {});
 console.log(`programs.json 校验通过：共 ${programs.length} 个项目（${Object.entries(byRegion).map(([k, v]) => `${k} ${v}`).join("，")}）`);
