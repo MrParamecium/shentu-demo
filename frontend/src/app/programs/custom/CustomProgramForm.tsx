@@ -17,9 +17,13 @@ const inputClass =
 export default function CustomProgramForm() {
   const router = useRouter();
   // 从项目库搜索框带过来的关键词，预填进项目名
-  const prefill = useSearchParams().get("q") ?? "";
+  const params = useSearchParams();
+  const prefill = params.get("q") ?? "";
+  // 从地区页进来时带 ?region=HK，默认选中这个地区
+  const fromRegion = params.get("region");
+  const initialRegion = REGION_ORDER.includes(fromRegion as Region) ? (fromRegion as Region) : "UK";
 
-  const [region, setRegion] = useState<Region>("UK");
+  const [region, setRegion] = useState<Region>(initialRegion);
   const [school, setSchool] = useState("");
   const [name, setName] = useState(prefill);
   const [rolling, setRolling] = useState(false);

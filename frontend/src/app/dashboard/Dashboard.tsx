@@ -1,11 +1,13 @@
 "use client";
 
 import Link from "next/link";
+import { useRouter, useSearchParams } from "next/navigation";
 import { resolveProgram } from "@/lib/programs";
 import { useApplications, useHydrated } from "@/lib/store";
 import { isRolling, nextDeadline, urgencyOf, type Upcoming } from "@/lib/deadline";
-import { REGION_INFO } from "@/lib/regions";
+import { REGION_INFO, REGION_ORDER } from "@/lib/regions";
 import { STAGES } from "@/lib/stages";
+import type { Region } from "@/lib/types";
 import DeadlinePill from "@/components/DeadlinePill";
 
 const sortKey = (u: Upcoming | null) => (!u ? Infinity : isRolling(u) ? Number.MAX_SAFE_INTEGER : u.daysLeft);
@@ -13,8 +15,13 @@ const sortKey = (u: Upcoming | null) => (!u ? Infinity : isRolling(u) ? Number.M
 export default function Dashboard() {
   const apps = useApplications();
   const hydrated = useHydrated();
+  const router = useRouter();
+  const params = useSearchParams();
+  // 默认显示全部地区（联申的人多）；地区页跳过来时带 ?region=HK
+  const raw = params.get("region");
+  const region: Region | "ALL" = REGION_ORDER.includes(raw as Region) ? (raw as Region) : "ALL";
 
-  const rows = apps
+  const all = apps
     .map(app => {
       const program = resolveProgram(app);
       return program ? { app, program, next: nextDeadline(app, program) } : null;
@@ -22,6 +29,13 @@ export default function Dashboard() {
     .filter(r => r !== null)
     // 有截止日期的按剩余天数升序；滚动录取排在其后；没有待办截止的排最后
     .sort((a, b) => sortKey(a.next) - sortKey(b.next));
+  const rows = region === "ALL" ? all : all.filter(r => r.program.region === region);
+  const countOf = (r: Region) => all.filter(x => x.program.region === r).length;
+  const setRegion = (r: Region | "ALL") => router.replace(r === "ALL" ? "/dashboard" : `/dashboard?region=${r}`);
+  const tabs: { value: Region | "ALL"; label: string; count: number }[] = [
+    { value: "ALL", label: "全部", count: all.length },
+    ...REGION_ORDER.map(r => ({ value: r, label: REGION_INFO[r].label, count: countOf(r) })),
+  ];
 
   const urgent = rows.filter(r => r.next && !isRolling(r.next) && urgencyOf(r.next.daysLeft) === "urgent").length;
   const done = (m: Record<string, boolean>) => Object.values(m).filter(Boolean).length;
@@ -40,11 +54,33 @@ export default function Dashboard() {
         </Link>
       </div>
 
+      {all.length > 0 && (
+        <div role="group" aria-label="按地区筛选" className="flex flex-wrap gap-2">
+          {tabs.map(t => (
+            <button
+              key={t.value}
+              type="button"
+              onClick={() => setRegion(t.value)}
+              aria-pressed={region === t.value}
+              className={`rounded-full border px-4 py-1.5 text-sm ${region === t.value ? "border-brand bg-brand text-white" : "border-slate-200 bg-white text-slate-600 hover:bg-slate-50"}`}
+            >
+              {t.value !== "ALL" && <span aria-hidden>{REGION_INFO[t.value].flag} </span>}
+              {t.label} <span className="opacity-70">{t.count}</span>
+            </button>
+          ))}
+        </div>
+      )}
+
       {rows.length === 0 ? (
         <div className="rounded-xl bg-white p-12 text-center shadow-sm">
-          <p className="text-slate-600">还没有添加任何项目</p>
-          <Link href="/programs" className="mt-4 inline-block text-brand underline underline-offset-4">
-            去项目库添加第一个 →
+          <p className="text-slate-600">
+            {region === "ALL" ? "还没有添加任何项目" : `还没有${REGION_INFO[region].label}的申请`}
+          </p>
+          <Link
+            href={region === "ALL" ? "/" : `/programs?region=${region}`}
+            className="mt-4 inline-block text-brand underline underline-offset-4"
+          >
+            {region === "ALL" ? "先选一个地区开始 →" : `去添加${REGION_INFO[region].label}项目 →`}
           </Link>
         </div>
       ) : (
