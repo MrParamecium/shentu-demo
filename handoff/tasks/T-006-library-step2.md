@@ -121,6 +121,11 @@
 - **MSc in Computer Science 新增 AI 与去中心化技术方向**（Delta X Fellowship 版本），作为独立条目收录（hku-msc-cs-aidt），与原有通用方向条目并列
 - **不收**：MBA / EMBA / IMBA（MBA 类）、Master of Economics（经济域）、Infrastructure/Innovative Design/Low-Altitude/Microelectronics 等工学院 MSc(Eng)（工程域）、Environmental Management（环境域，已 Closed）、Food Industry Management（食品域）、Delta X Fellowship 通用方向版本（与库内条目重复）
 
+### Batch 9 · 港中文（2026-10-27）
+- **MSc in Information and Technology Management 只招 Part-time**（页面写 "Part-time Mode Only"）→ 不收；其全日制版为 MSc in Information Science and Technology Management（已收，归 business，研究院列商学院）
+- **不收**：Real Estate（房地产域）、Aviation Management / Sports Business Management / Family Business Management / Leadership for Experience Economy（领域管理域）、Professional Accountancy (Shanghai)（上海校区）、Electronic Engineering / Information Engineering / Mechanical / Microelectronics / Biomedical（工程域）、AI for Science（科学域）、Earth and Environmental Analytics（环境域）、Mathematics 纯数学、Chemistry/Physics/Nutrition/Bio 等
+- **边界决定（请浩翔确认）**：收了 Information Science and Technology Management（跨院项目，归 business）、Financial Technology（工程学系开设，归 finance）、Actuarial Science and Insurance Analytics（精算保险，归 finance）、Risk Management Science and Data Analytics（统计系，归 data）、E-Commerce and Logistics Technologies（工程学院，归 cs）；CUHK 无独立 Data Science MSc，统计系三个项目（Advanced Studies in Statistics and DS / DS and Business Statistics / RMS and DA）按 data 收
+
 ## 进度日志
 （暂无）
 
@@ -186,3 +191,10 @@
 - 学制：商学院 9 个页面写 2 年（全日制），创新学院/计算机系 1 年，MSc(AI) 1.5 年
 - 语言：全部为港大统一最低线 IELTS 6.0（单项 ≥5.5）/ TOEFL 80（页面原文核实）
 - 证据：`handoff/evidence/T-006-batch-8.md`；`check:programs` / `build` / `lint` 全过
+
+### 2026-10-27 · ZCode（Batch 9：港中文）
+- **新增 14 个**：business 4 / finance 4 / cs 3 / data 3。库里 200 → 214（HK 42 / UK 167 / SG 5）。港中文四大类：business 5 / finance 6 / cs 5 / data 3
+- 方法：研究院 gs.cuhk.edu.hk 按学院列表页（curl 可读，项目名在 HTML 文本里）→ 筛四大类 → curl 逐页核实研究院项目页。**耗时**：整校约 35 分钟（港中文页面结构最规整，抓取最快）
+- 轮次：商学院 6 个统一截止 2027-03-31（提前轮 2026-07-31 已过期，滚动审理）；工程学院 FinTech/AI 三轮（2026-10-02 / 11-06 / 12-31）；统计系 3 个两轮（优先 2026-12-31 / 最终 2027-02-28）；Robotics 03-31、ECLT 03-16、GWM 03-31
+- 学制：AI 页写全日制 1.5 年（页面原文）；其余全日制 1 年；ITM 只招 Part-time 不收
+- 证据：`handoff/evidence/T-006-batch-9.md`；`check:programs` / `build` / `lint` 全过
