@@ -6643,5 +6643,405 @@
       "官网写 2027/28 Fall intake（2027 年 9 月开学）；截止时间为香港时间当天 23:59",
       "工学院跨学系项目；2027/28 学费 HK$405,000"
     ]
+  },
+  {
+    "id": "polyu-msc-bm",
+    "region": "HK",
+    "field": "business",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Business Management - MSc",
+    "nameCn": "商业管理硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/02022-mmf-mmp",
+    "officialLabel": "理大 商业管理硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大商学院"
+    ]
+  },
+  {
+    "id": "polyu-msc-mmkt",
+    "region": "HK",
+    "field": "business",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Marketing Management - MSc",
+    "nameCn": "市场营销管理硕士",
+    "duration": "全日制 1.5 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mkf-mkp",
+    "officialLabel": "理大 市场营销管理硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大商学院（GSB），另设 2.5 年非全日制"
+    ]
+  },
+  {
+    "id": "polyu-msc-hrm",
+    "region": "HK",
+    "field": "business",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Human Resource Management - MSc",
+    "nameCn": "人力资源管理硕士",
+    "duration": "全日制 1.5 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mhf-mhp",
+    "officialLabel": "理大 人力资源管理硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大商学院（GSB），另设 2.5 年非全日制"
+    ]
+  },
+  {
+    "id": "polyu-msc-iml",
+    "region": "HK",
+    "field": "business",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "International Management and Leadership - MSc",
+    "nameCn": "国际管理与领导力硕士",
+    "duration": "全日制 1.5 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mlf-mlp",
+    "officialLabel": "理大 国际管理与领导力硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大商学院（GSB），另设 2.5 年非全日制"
+    ]
+  },
+  {
+    "id": "polyu-msc-ban",
+    "region": "HK",
+    "field": "business",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Business Analytics - MSc",
+    "nameCn": "商务分析硕士",
+    "duration": "全日制 1.5 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-maf-map",
+    "officialLabel": "理大 商务分析硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大商学院（GSB），另设 2.5 年非全日制"
+    ]
+  },
+  {
+    "id": "polyu-msc-gbda",
+    "region": "HK",
+    "field": "business",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Global Business and Decision Analysis - MSc",
+    "nameCn": "环球商业及决策分析硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/44094-bfm-bpm",
+    "officialLabel": "理大 环球商业及决策分析硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大商学院（GSB），另设 2.5 年非全日制"
+    ]
+  },
+  {
+    "id": "polyu-msc-fin-cf",
+    "region": "HK",
+    "field": "finance",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Finance (Corporate Finance) - Master",
+    "nameCn": "金融学硕士（企业金融）",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fcf-cfp",
+    "officialLabel": "理大 金融学硕士（企业金融） 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大商学院，另设 2 年非全日制"
+    ]
+  },
+  {
+    "id": "polyu-msc-fin-im",
+    "region": "HK",
+    "field": "finance",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Finance (Investment Management) - Master",
+    "nameCn": "金融学硕士（投资管理）",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fim-imp",
+    "officialLabel": "理大 金融学硕士（投资管理） 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大商学院，另设 2 年非全日制"
+    ]
+  },
+  {
+    "id": "polyu-msc-afa",
+    "region": "HK",
+    "field": "finance",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Accounting and Finance Analytics - MSc",
+    "nameCn": "会计及金融分析硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/21052-fam-pam",
+    "officialLabel": "理大 会计及金融分析硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大商学院，另设 2 年非全日制"
+    ]
+  },
+  {
+    "id": "polyu-msc-awm",
+    "region": "HK",
+    "field": "finance",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Asset and Wealth Management - MSc",
+    "nameCn": "资产和财富管理硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/02029-dfm-dpm-ffm-fpm",
+    "officialLabel": "理大 资产和财富管理硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大商学院"
+    ]
+  },
+  {
+    "id": "polyu-msc-qff",
+    "region": "HK",
+    "field": "finance",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Quantitative Finance and FinTech - MSc",
+    "nameCn": "量化金融及金融科技硕士",
+    "duration": "全日制 1.5 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/63029-qfm-qpm",
+    "officialLabel": "理大 量化金融及金融科技硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大应用数学系，另设 3 年非全日制"
+    ]
+  },
+  {
+    "id": "polyu-msc-cyber",
+    "region": "HK",
+    "field": "cs",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Cybersecurity - MSc",
+    "nameCn": "网络空间安全硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/61039-fcy-pcy",
+    "officialLabel": "理大 网络空间安全硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大计算学系，另设 2 年非全日制"
+    ]
+  },
+  {
+    "id": "polyu-msc-bct",
+    "region": "HK",
+    "field": "cs",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Blockchain Technology - MSc",
+    "nameCn": "区块链科技硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/61036-fbt-pbt",
+    "officialLabel": "理大 区块链科技硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大计算学系，另设 2 年非全日制"
+    ]
+  },
+  {
+    "id": "polyu-msc-aibdc",
+    "region": "HK",
+    "field": "cs",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Artificial Intelligence and Big Data Computing - MSc",
+    "nameCn": "人工智能及大数据计算硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/62037-fai-pai",
+    "officialLabel": "理大 人工智能及大数据计算硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大计算学系，另设 2 年非全日制"
+    ]
+  },
+  {
+    "id": "polyu-msc-it",
+    "region": "HK",
+    "field": "cs",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Information Technology - MSc",
+    "nameCn": "资讯科技硕士",
+    "duration": "全日制 1.5 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/61030-fit-pit",
+    "officialLabel": "理大 资讯科技硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大计算学系，另设 2.5 年非全日制"
+    ]
+  },
+  {
+    "id": "polyu-msc-mait",
+    "region": "HK",
+    "field": "data",
+    "school": "The Hong Kong Polytechnic University",
+    "schoolCn": "香港理工大学",
+    "name": "Mathematics for Artificial Intelligence Technology - MSc",
+    "nameCn": "数智科技硕士",
+    "duration": "全日制 1.5 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/63031-afm-apm",
+    "officialLabel": "理大 数智科技硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
+      "开设于理大应用数学系，另设 3 年非全日制"
+    ]
   }
 ]
