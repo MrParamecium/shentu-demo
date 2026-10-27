@@ -1176,5 +1176,759 @@
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2027/28 国际生学费 £48,600；语言要求为 UCL Level 2；开设于 UCL 管理学院（金丝雀码头校区）"
     ]
+  },
+  {
+    "id": "ucl-msc-management",
+    "region": "UK",
+    "field": "business",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Management MSc",
+    "nameCn": "管理学硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-06-25"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-msc",
+    "officialLabel": "UCL Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "开设于 UCL 管理学院（金丝雀码头校区）；2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-entrepreneurship",
+    "region": "UK",
+    "field": "business",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Entrepreneurship MSc",
+    "nameCn": "创业硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-06-25"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/msc-entrepreneurship",
+    "officialLabel": "UCL Entrepreneurship MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "开设于 UCL 管理学院（金丝雀码头校区）；2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-people-analytics",
+    "region": "UK",
+    "field": "business",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "People Analytics and Human-Centric Management MSc",
+    "nameCn": "人力分析与以人为本管理硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-06-25"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/msc-people-analytics-and-human-centric-management",
+    "officialLabel": "UCL People Analytics and Human-Centric Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "开设于 UCL 管理学院（金丝雀码头校区）；2027/28 学费 £36,800；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-mgmt-sft",
+    "region": "UK",
+    "field": "business",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Management: Strategy, Finance and Technology MSc",
+    "nameCn": "管理学：战略、金融与科技硕士",
+    "duration": "全日制 11 个月（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-06-25"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-strategy-finance-and-technology-msc",
+    "officialLabel": "UCL Management: Strategy, Finance and Technology MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "开设于 UCL 管理学院（金丝雀码头校区），学制 11 个月；2027/28 学费 £48,600；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-scm",
+    "region": "UK",
+    "field": "business",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Supply Chain Management with Sustainability and Analytics MSc",
+    "nameCn": "供应链管理（可持续与分析）硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-06-25"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/supply-chain-management-sustainability-and-analytics-msc",
+    "officialLabel": "UCL Supply Chain Management with Sustainability and Analytics MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "开设于 UCL 管理学院（金丝雀码头校区）；2027/28 学费 £44,400；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-business-sustainability",
+    "region": "UK",
+    "field": "business",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Business and Sustainability MSc",
+    "nameCn": "商业与可持续发展硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-06-25"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/business-and-sustainability-msc",
+    "officialLabel": "UCL Business and Sustainability MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "开设于 Bartlett 环境、能源与资源学院（Bloomsbury 校区）；2027/28 国际生学费 £39,600；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-pem",
+    "region": "UK",
+    "field": "business",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Project and Enterprise Management MSc",
+    "nameCn": "项目与企业管理硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/project-and-enterprise-management-msc",
+    "officialLabel": "UCL Project and Enterprise Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "开设于 Bartlett 可持续建造学院（Bloomsbury 校区）；2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-finance",
+    "region": "UK",
+    "field": "finance",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Finance MSc",
+    "nameCn": "金融硕士",
+    "duration": "全日制 11 个月（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-06-25"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/finance-msc",
+    "officialLabel": "UCL Finance MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "由 UCL 管理学院与经济系共同开设，学制 11 个月；2027/28 学费 £48,250；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-fds",
+    "region": "UK",
+    "field": "finance",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Finance with Data Science MSc",
+    "nameCn": "金融与数据科学硕士",
+    "duration": "全日制 11 个月（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-06-25"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/finance-data-science-msc",
+    "officialLabel": "UCL Finance with Data Science MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "由 UCL 管理学院与经济系共同开设，学制 11 个月；2027/28 学费 £48,250；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-frm",
+    "region": "UK",
+    "field": "finance",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Financial Risk Management MSc",
+    "nameCn": "金融风险管理硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/financial-risk-management-msc",
+    "officialLabel": "UCL Financial Risk Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "2027/28 国际生学费 £52,600；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-fintech",
+    "region": "UK",
+    "field": "finance",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Financial Technology MSc",
+    "nameCn": "金融科技硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（阅读写作 ≥6.5，听力口语 ≥7.0）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/financial-technology-msc",
+    "officialLabel": "UCL Financial Technology MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "2027/28 学费 £52,600；语言要求为 UCL Level 3（读写小分高于听说小分要求不同，见语言栏）"
+    ]
+  },
+  {
+    "id": "ucl-msc-cf",
+    "region": "UK",
+    "field": "finance",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Computational Finance MSc",
+    "nameCn": "计算金融硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computational-finance-msc",
+    "officialLabel": "UCL Computational Finance MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "2027/28 国际生学费 £52,600；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-fm",
+    "region": "UK",
+    "field": "finance",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Financial Mathematics MSc",
+    "nameCn": "金融数学硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/financial-mathematics-msc",
+    "officialLabel": "UCL Financial Mathematics MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "Bloomsbury 校区；2027/28 国际生学费 £48,600；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-bdf",
+    "region": "UK",
+    "field": "finance",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Banking and Digital Finance MSc",
+    "nameCn": "银行与数字金融硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-06-25"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/banking-and-digital-finance-msc",
+    "officialLabel": "UCL Banking and Digital Finance MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "校区为伦敦东部 UCL East；2027/28 国际生学费 £48,600；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-rfaa",
+    "region": "UK",
+    "field": "finance",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Responsible Finance and Alternative Assets MSc",
+    "nameCn": "责任金融与另类资产硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-06-25"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/responsible-finance-and-alternative-assets-msc",
+    "officialLabel": "UCL Responsible Finance and Alternative Assets MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "校区为伦敦东部 UCL East；2027/28 国际生学费 £48,600；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-pedf",
+    "region": "UK",
+    "field": "finance",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Private Equity with Digital Finance MSc",
+    "nameCn": "私募股权与数字金融硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-06-25"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/private-equity-digital-finance-msc",
+    "officialLabel": "UCL Private Equity with Digital Finance MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "2026/27 目录中名为 Venture Capital and Private Equity with Financial Technology MSc，2027/28 目录为现名",
+      "开设于土木、环境与测绘工程系（UCL East 校区）；2027/28 国际生学费 £48,600；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-ml",
+    "region": "UK",
+    "field": "cs",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Machine Learning MSc",
+    "nameCn": "机器学习硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/machine-learning-msc",
+    "officialLabel": "UCL Machine Learning MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-rai",
+    "region": "UK",
+    "field": "cs",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Robotics and Artificial Intelligence MSc",
+    "nameCn": "机器人与人工智能硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/robotics-and-artificial-intelligence-msc",
+    "officialLabel": "UCL Robotics and Artificial Intelligence MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-aide",
+    "region": "UK",
+    "field": "cs",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Artificial Intelligence and Data Engineering MSc",
+    "nameCn": "人工智能与数据工程硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/artificial-intelligence-and-data-engineering-msc",
+    "officialLabel": "UCL Artificial Intelligence and Data Engineering MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-cgvi",
+    "region": "UK",
+    "field": "cs",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Computer Graphics, Vision and Imaging MSc",
+    "nameCn": "计算机图形学、视觉与成像硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computer-graphics-vision-and-imaging-msc",
+    "officialLabel": "UCL Computer Graphics, Vision and Imaging MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-is",
+    "region": "UK",
+    "field": "cs",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Information Security MSc",
+    "nameCn": "信息安全硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/information-security-msc",
+    "officialLabel": "UCL Information Security MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-sse",
+    "region": "UK",
+    "field": "cs",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Software Systems Engineering MSc",
+    "nameCn": "软件系统工程硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/software-systems-engineering-msc",
+    "officialLabel": "UCL Software Systems Engineering MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-hci",
+    "region": "UK",
+    "field": "cs",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Human-Computer Interaction MSc",
+    "nameCn": "人机交互硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.5（单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-12"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/human-computer-interaction-msc",
+    "officialLabel": "UCL Human-Computer Interaction MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "统一截止 2027-02-12 英国时间 17:00，页面只列 All applicants 一档；2026-10-19 开放申请",
+      "开设于心理与语言科学学部（UCLIC）；2027/28 国际生学费 £44,400；语言要求为 UCL Level 4"
+    ]
+  },
+  {
+    "id": "ucl-msc-imls",
+    "region": "UK",
+    "field": "cs",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Integrated Machine Learning Systems MSc",
+    "nameCn": "集成机器学习系统硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/msc-integrated-machine-learning-systems",
+    "officialLabel": "UCL Integrated Machine Learning Systems MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "开设于电子与电气工程系；2027/28 国际生学费 £44,400；语言要求为 UCL Level 1"
+    ]
+  },
+  {
+    "id": "ucl-msc-edt",
+    "region": "UK",
+    "field": "cs",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Emerging Digital Technologies MSc",
+    "nameCn": "新兴数字技术硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（阅读写作 ≥6.5，听力口语 ≥7.0）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/emerging-digital-technologies-msc",
+    "officialLabel": "UCL Emerging Digital Technologies MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "开设于计算机系，内容结合计算与商业战略（AI、云计算、分布式账本等）；2027/28 学费 £40,800；语言要求为 UCL Level 3"
+    ]
+  },
+  {
+    "id": "ucl-msc-csml",
+    "region": "UK",
+    "field": "data",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Computational Statistics and Machine Learning MSc",
+    "nameCn": "计算统计与机器学习硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computational-statistics-and-machine-learning-msc",
+    "officialLabel": "UCL Computational Statistics and Machine Learning MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-stats",
+    "region": "UK",
+    "field": "data",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Statistics MSc",
+    "nameCn": "统计学硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/statistics-msc",
+    "officialLabel": "UCL Statistics MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "Bloomsbury 校区；2027/28 国际生学费 £44,400；语言要求为 UCL Level 1"
+    ]
+  },
+  {
+    "id": "ucl-msc-dsml",
+    "region": "UK",
+    "field": "data",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Data Science and Machine Learning MSc",
+    "nameCn": "数据科学与机器学习硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-03-22"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/data-science-and-machine-learning-msc",
+    "officialLabel": "UCL Data Science and Machine Learning MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
+    ]
+  },
+  {
+    "id": "ucl-msc-sdic",
+    "region": "UK",
+    "field": "data",
+    "school": "University College London",
+    "schoolCn": "伦敦大学学院",
+    "name": "Scientific and Data Intensive Computing MSc",
+    "nameCn": "科学与数据密集计算硕士",
+    "duration": "全日制 1 个日历年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-06-25"
+      }
+    ],
+    "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/scientific-and-data-intensive-computing-msc",
+    "officialLabel": "UCL Scientific and Data Intensive Computing MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
+      "无需签证的申请人截止 2027-08-27 英国时间 17:00",
+      "与 UCL 数据密集科学与工业中心（CDIS）相关（Bloomsbury 校区）；2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
+    ]
   }
 ]

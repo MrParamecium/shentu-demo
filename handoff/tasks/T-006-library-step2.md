@@ -84,5 +84,20 @@
 ## 查不到 / 存疑
 （暂无）
 
+### Batch 1 · UCL（2026-10-27）
+- **UCL Strategic Accounting and Finance MSc**：2027/28 在招，但页面 LOCATION 标注 "Distance learning programme"（远程教学，非全日制在校），按「只收全日制」规则不收
+- **UCL Technology Management MSc**：2027/28 在招（开设于 Space and Climate Physics 系），属太空科技领域的技术管理，按领域范围暂不收；要收的话请浩翔确认
+- **旧版 A-Z 列表 ≠ 2027 权威清单**：`/prospective-students/graduate/taught-degrees`（537 个）还是 2026/27 信息；2027/28 权威清单在新版 `/study/prospective-students/graduate/courses`（708 个）。坑：旧版无后缀链接对新目录部分项目 404 **≠ 停招**（Entrepreneurship、People Analytics、Integrated Machine Learning Systems 等新目录 slug 改成了 `msc-` 前缀），判断是否在招必须查新版目录
+- **领域边界决定（请浩翔抽查时确认）**：收了 Business and Sustainability（Bartlett 环境学院）、Supply Chain Management with Sustainability and Analytics（管理学院）、Private Equity with Digital Finance（土木系）、Statistics（归 data）、Scientific and Data Intensive Computing（物理系 CDIS 中心）；**没收**应用域项目（AI and Medical Imaging、AI for Biomedicine and Healthcare、Medical Robotics and AI、AI for Sustainable Development、Health Data Science、Medical Statistics and Data Science、Sociology and Data Science、Social and Geographic Data Science、Crime Science with Data Science、Ecology and Data Science、Energy Systems and Data Analytics、Urban and Spatial Data Science、Knowledge Information and Data Science 等）、建造类项目管理（Management of Complex Projects、Strategic Management of Projects、Digital Engineering Management 等）、Law and Finance、Engineering with Finance、Global Healthcare Management ×3、Biotech and Pharmaceutical Management、Drug Discovery and Pharma Management
+
 ## 进度日志
 （暂无）
+
+### 2026-10-27 · ZCode（Batch 1：UCL）
+- **新增 29 个**：business 7 / finance 9 / cs 9 / data 4。库里 38 → 67（UK 48 / HK 14 / SG 5）。UCL 四大类补全：business 8 / finance 9 / cs 10 / data 5（含原有 BA、CS、DS 三个）
+- 方法：浏览器打开 UCL 新版 2027/28 目录，翻完 40 页拿到全量 677 条，按四大类筛候选后逐页抓「APPLICATION DEADLINES / DURATION / English language level」；语言按 UCL 五级制对照官方 IELTS 表换算（Level 1=6.5/6.0、L2=7.0/6.5、L3=7.0 且读写 6.5 听说 7.0、L4=7.5/7.0，对照表页面同日核实）
+- **耗时**：整校约 1.5 小时，其中探路（新旧目录并存、列表懒加载、Cloudflare 验证）约 40 分钟；页面结构摸清后单项目 2–3 分钟
+- 2026/27 → 2027/28 变化：改名 1 个（Venture Capital and Private Equity with Financial Technology → **Private Equity with Digital Finance**）、新项目 2 个（**Management: Strategy, Finance and Technology**、**Supply Chain Management with Sustainability and Analytics**，都是管理学院）、变远程 1 个（Strategic Accounting and Finance，不收）
+- 港大 MSc BA（2026-12-04 第二轮）遗留复核项不在本批范围，未动
+- 证据：`handoff/evidence/T-006-batch-1.md`；`check:programs` / `build` / `lint` 全过
+- QS 参考：UCL 课程页自述 "QS World University Rankings 2027"；学校执行顺序仍按本任务页浩翔的优先级名单（下一所 LSE）
