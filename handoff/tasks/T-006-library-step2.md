@@ -243,3 +243,10 @@
 - 格拉斯哥全校统一六轮（19 页一致，轮内滚动审理）：R1 2026-11-05 → R6 2027-07-08（国际生），UK 本土截止 2027-08-24；库记六轮
 - **不收**：Media Management / Public Policy & Management（传媒/政策域）、Geomatics & Management / Archives Records & Information Management（测绘/档案域）、Economics 系列（经济域，含 Economics International Banking & Finance、Data Analytics for Economics & Finance）、Data Analytics Online（在线）、Advanced Mathematics / Advanced Applied Mathematics / Mathematical Sciences（纯数学）、Data Science for Ecology & Epidemiology（生态域）、各类工程 & Management（工程域）
 - 证据：`handoff/evidence/T-006-batch-14.md`；`check:programs` / `build` / `lint` 全过
+
+### Batch 15 · 杜伦（2026-10-27）
+- **新增 18 个**：business 5 / finance 8 / cs 5（data 0）。库里 279 → 297（UK 230 / HK 62 / SG 5）。**新学校，SCHOOL_ALIASES 已加 Durham University（Durham/杜伦/杜大）**
+- 杜伦 18 页**均无固定申请截止**（商学院页写 2026-10-01 开放 + 建议尽早递交；计算机系页无 deadline 区块）→ 全部记 rolling: true
+- 杜伦计算机系 2026 年大改版，新开一批 AI 项目（Applied AI and Data Science / AI Infrastructure Platforms / AI for Robotics & Computer Vision / AI 等），全部收录
+- **不收**：Applied AI & DS in Bioinformatics / Digital Humanities、AI for Engineering、AI and Environmental DS（应用域）、Computational Astrophysics（天文域）、Computational Environmental & GIS（环境域）、Health Data Science（医疗域）、Social & Behavioural DS（社会域）、Data Science in Cultural Heritage（遗产域）、MSc Law and Finance（法学域）、Economics 组三个（经济域）、Mathematical Sciences 类（若有无，纯数学）
+- 证据：`handoff/evidence/T-006-batch-15.md`；`check:programs` / `build` / `lint` 全过
