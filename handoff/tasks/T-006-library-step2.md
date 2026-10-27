@@ -101,3 +101,11 @@
 - 港大 MSc BA（2026-12-04 第二轮）遗留复核项不在本批范围，未动
 - 证据：`handoff/evidence/T-006-batch-1.md`；`check:programs` / `build` / `lint` 全过
 - QS 参考：UCL 课程页自述 "QS World University Rankings 2027"；学校执行顺序仍按本任务页浩翔的优先级名单（下一所 LSE）
+
+### 2026-10-27 · ZCode（Batch 2：LSE）
+- **新增 18 个**：business 6 / finance 8 / data 4（另有 Finance FT、Data Science 已在库）。库里 67 → 85（UK 66 / HK 14 / SG 5）。**cs 类为空是 LSE 学校性质**：没有计算机/ AI 授课硕士，最接近的 MSc Management of Information Systems and Digital Innovation 归入 business
+- LSE 全部项目**滚动录取**（页面原文 "Application deadline: None – rolling admissions"），按 `rolling: true` + `rounds: []` 写入；18 个英语要求都是 Standard 档（LSE 官方对照表：IELTS 7.0，各单项 6.5，官方页同日核对）
+- 方法：LSE 课程搜索页筛 Graduate (Taught) 得 140 个授课型硕士（`?studyType=...&pageIndex=N`），curl 逐页核实（LSE 不拦脚本）。**耗时**：整校约 40 分钟（目录 12 页翻页 + 18 个项目页），页面结构统一后单项目 1–2 分钟，比 UCL 快很多
+- **边界决定（请浩翔确认）**：收了 Applied Social Data Science（方法系，和 MSc DS 同系）、Statistics / Financial Statistics（统计系，全日制 9 个月）、Operations Research and Analytics（数学系）、Accounting and Data Analytics（会计系）、MSc Social Innovation and Entrepreneurship（管理系）；**没收**：Real Estate Economics and Finance（房地产域，建议浩翔定要不要收）、MPA in Data Science for Public Policy（公共政策）、Law and Finance、Geographic / Health Data Science、Mathematics and Computation、各 (Research) 变体（MSc Statistics (Research) 等，教 Jacobs 学位论文版本）
+- 学制注意：LSE 多数项目 FT/PT 并存，只记全日制；MSc Statistics / Financial Statistics 全日制 9 个月（页面 "Nine months"），金融系几个项目 8 月有先修课
+- 证据：`handoff/evidence/T-006-batch-2.md`；`check:programs` / `build` / `lint` 全过
