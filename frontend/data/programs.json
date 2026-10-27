@@ -9438,5 +9438,425 @@
       "官网课程页未列固定申请截止（详见 How to Apply）",
       "开设于地理系（School of Geography）"
     ]
+  },
+  {
+    "id": "shef-msc-mgmt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Management MSc",
+    "nameCn": "管理学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/management-msc",
+    "officialLabel": "谢菲尔德 Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于谢菲尔德大学管理学院（Management School）"
+    ]
+  },
+  {
+    "id": "shef-msc-mgmt-ib",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Management and International Business MSc",
+    "nameCn": "管理学与国际商务硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/management-and-international-business-msc",
+    "officialLabel": "谢菲尔德 Management and International Business MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于谢菲尔德大学管理学院（Management School）"
+    ]
+  },
+  {
+    "id": "shef-msc-intmgmt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "International Management MSc",
+    "nameCn": "国际管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/international-management-msc",
+    "officialLabel": "谢菲尔德 International Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于谢菲尔德大学管理学院（Management School）"
+    ]
+  },
+  {
+    "id": "shef-msc-imm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "International Marketing and Management MSc",
+    "nameCn": "国际营销与管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/international-marketing-and-management-msc",
+    "officialLabel": "谢菲尔德 International Marketing and Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于谢菲尔德大学管理学院（Management School）"
+    ]
+  },
+  {
+    "id": "shef-msc-smb",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Strategic Marketing and Branding MSc",
+    "nameCn": "战略营销与品牌硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/strategic-marketing-and-branding-msc",
+    "officialLabel": "谢菲尔德 Strategic Marketing and Branding MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于谢菲尔德大学管理学院（Management School）"
+    ]
+  },
+  {
+    "id": "shef-msc-dm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Digital Marketing MSc",
+    "nameCn": "数字营销硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/digital-marketing-msc",
+    "officialLabel": "谢菲尔德 Digital Marketing MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于谢菲尔德大学管理学院（Management School）"
+    ]
+  },
+  {
+    "id": "shef-msc-hrm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Human Resource Management MSc",
+    "nameCn": "人力资源管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/human-resource-management-msc",
+    "officialLabel": "谢菲尔德 Human Resource Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于谢菲尔德大学管理学院（Management School）"
+    ]
+  },
+  {
+    "id": "shef-msc-lscm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Logistics and Supply Chain Management MSc",
+    "nameCn": "物流与供应链管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/logistics-and-supply-chain-management-msc",
+    "officialLabel": "谢菲尔德 Logistics and Supply Chain Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于谢菲尔德大学管理学院（Management School）"
+    ]
+  },
+  {
+    "id": "shef-msc-ba",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Business Analytics MSc",
+    "nameCn": "商业分析硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/business-analytics-msc",
+    "officialLabel": "谢菲尔德 Business Analytics MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于谢菲尔德大学管理学院（Management School）"
+    ]
+  },
+  {
+    "id": "shef-msc-ism",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Information Systems Management MSc",
+    "nameCn": "信息系统管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/information-systems-management-msc",
+    "officialLabel": "谢菲尔德 Information Systems Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于信息学院（Information School），信息系统管理方向"
+    ]
+  },
+  {
+    "id": "shef-msc-fin",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Finance MSc",
+    "nameCn": "金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/finance-msc",
+    "officialLabel": "谢菲尔德 Finance MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于谢菲尔德大学管理学院（Management School）"
+    ]
+  },
+  {
+    "id": "shef-msc-fa",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Finance and Accounting MSc",
+    "nameCn": "金融与会计硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/finance-and-accounting-msc",
+    "officialLabel": "谢菲尔德 Finance and Accounting MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于谢菲尔德大学管理学院（Management School）"
+    ]
+  },
+  {
+    "id": "shef-msc-fti",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Financial Technology and Innovation MSc",
+    "nameCn": "金融科技与创新硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/financial-technology-and-innovation-msc",
+    "officialLabel": "谢菲尔德 Financial Technology and Innovation MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于谢菲尔德大学管理学院（Management School）"
+    ]
+  },
+  {
+    "id": "shef-msc-mbf",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Money, Banking and Finance MSc",
+    "nameCn": "货币银行与金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/money-banking-and-finance-msc",
+    "officialLabel": "谢菲尔德 Money, Banking and Finance MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于谢菲尔德大学管理学院（Management School）"
+    ]
+  },
+  {
+    "id": "shef-msc-ai",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Artificial Intelligence MSc",
+    "nameCn": "人工智能硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/artificial-intelligence-msc",
+    "officialLabel": "谢菲尔德 Artificial Intelligence MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于计算机科学系（Department of Computer Science）"
+    ]
+  },
+  {
+    "id": "shef-msc-acs",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Advanced Computer Science MSc",
+    "nameCn": "高级计算机科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/advanced-computer-science-msc",
+    "officialLabel": "谢菲尔德 Advanced Computer Science MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于计算机科学系（Department of Computer Science）"
+    ]
+  },
+  {
+    "id": "shef-msc-cs",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Computer Science MSc",
+    "nameCn": "计算机科学硕士（转专业）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/computer-science-msc",
+    "officialLabel": "谢菲尔德 Computer Science MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于计算机科学系（Department of Computer Science）"
+    ]
+  },
+  {
+    "id": "shef-msc-cs-nlp",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Computer Science with Speech and Natural Language Processing MSc",
+    "nameCn": "计算机科学硕士（语音与自然语言处理）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/computer-science-speech-and-natural-language-processing-msc",
+    "officialLabel": "谢菲尔德 Computer Science with Speech and Natural Language Processing MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于计算机科学系（Department of Computer Science）"
+    ]
+  },
+  {
+    "id": "shef-msc-cyberai",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Cybersecurity and Artificial Intelligence MSc",
+    "nameCn": "网络安全与人工智能硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/cybersecurity-and-artificial-intelligence-msc",
+    "officialLabel": "谢菲尔德 Cybersecurity and Artificial Intelligence MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于计算机科学系（Department of Computer Science）"
+    ]
+  },
+  {
+    "id": "shef-msc-ds",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Sheffield",
+    "schoolCn": "谢菲尔德大学",
+    "name": "Data Science MSc",
+    "nameCn": "数据科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/data-science-msc",
+    "officialLabel": "谢菲尔德 Data Science MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
+      "开设于计算机科学系（Department of Computer Science）"
+    ]
   }
 ]

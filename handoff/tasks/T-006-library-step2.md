@@ -257,3 +257,10 @@
 - 方法：课程搜索页是 Funnelback 异步加载（浏览器渲染），分页为 URL 参数（?page=N&type=PGT&term=202728），逐页收集 262 个课程 → 筛四大类 → curl 逐页核实（课程详情页 curl 可读）。**耗时**：整校约 60 分钟（列表方案试错 20 分钟）
 - **不收**：AI online / Data Science Statistics online / Genomic Medicine online（在线）、Engineering Project Management / Engineering Technology and Business Management（工程域）、Economics / Ecological Economics / Economics and Finance（经济域）、Advertising and Marketing MA / Corporate Communications MAR（传播域）、Global Fashion Management（时装域）、Arts Management and Heritage Studies（艺术域）、Digital Chemistry（化学域）、Environmental DS with ML（环境域）、Health Informatics with DS ×2 / Genomic Medicine（医疗域）、Biotechnology with Business Enterprise（生物域）
 - 证据：`handoff/evidence/T-006-batch-16.md`；`check:programs` / `build` / `lint` 全过
+
+### Batch 17 · 谢菲尔德（2026-10-27）
+- **新增 20 个**：business 10 / finance 4 / cs 5 / data 1。库里 319 → **339**（UK 272 / HK 62 / SG 5）。**新学校，SCHOOL_ALIASES 已加 University of Sheffield（Sheffield/谢菲尔德/谢大）**
+- 谢菲尔德口径（20 页一致）：September 2027 开学、IELTS 6.5（单项 ≥6.0）、项目页未列固定申请截止 → 全部 rolling: true
+- 方法：官网 2027 课程列表（curl 直接可读，127 个 2027 项目）→ 筛四大类 → curl 逐页核实。**耗时**：整校约 30 分钟（最顺的一所）
+- **不收**：MBA、East Asian Business（区域研究）、Business and Organisational Psychology（心理学域）、文创域 ×2（Creative and Cultural Industries / Music Management）、图书情报域 ×2（Information Management / Library and Information Services）、Data and Digital Humanities（人文域）、Environmental Science and Data / GIS（环境/地理域）、AI for Engineering / AI for Life Sciences（应用域）、Economics / Business Finance and Economics（经济域）
+- 证据：`handoff/evidence/T-006-batch-17.md`；`check:programs` / `build` / `lint` 全过
