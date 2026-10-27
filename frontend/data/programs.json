@@ -7043,5 +7043,681 @@
       "本地与非本地申请截止相同：2027-02-25（Main Round），香港时间以官网为准",
       "开设于理大应用数学系，另设 3 年非全日制"
     ]
+  },
+  {
+    "id": "bris-msc-management",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Management",
+    "nameCn": "管理学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management/",
+    "officialLabel": "布里斯托 MSc Management 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-mgmt-marketing",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Management (Marketing)",
+    "nameCn": "管理学硕士（市场营销）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-marketing/",
+    "officialLabel": "布里斯托 MSc Management (Marketing) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-mgmt-ib",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Management (International Business)",
+    "nameCn": "管理学硕士（国际商务）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-international-business/",
+    "officialLabel": "布里斯托 MSc Management (International Business) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-mgmt-ihrm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Management (International Human Resource Management)",
+    "nameCn": "管理学硕士（国际人力资源管理）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-international-human-resource-management/",
+    "officialLabel": "布里斯托 MSc Management (International Human Resource Management) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-mgmt-pm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Management (Project Management)",
+    "nameCn": "管理学硕士（项目管理）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-project-management/",
+    "officialLabel": "布里斯托 MSc Management (Project Management) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-mgmt-ei",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Management (Entrepreneurship and Innovation)",
+    "nameCn": "管理学硕士（创业与创新）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-entrepreneurship-and-innovation/",
+    "officialLabel": "布里斯托 MSc Management (Entrepreneurship and Innovation) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-mgmt-sus",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Management (Sustainability)",
+    "nameCn": "管理学硕士（可持续发展）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-sustainability/",
+    "officialLabel": "布里斯托 MSc Management (Sustainability) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-mgmt-dbd",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Management (Digitalisation and Big Data)",
+    "nameCn": "管理学硕士（数字化与大数据）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-digitalisation-and-big-data/",
+    "officialLabel": "布里斯托 MSc Management (Digitalisation and Big Data) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-marketing",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Marketing",
+    "nameCn": "市场营销硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-marketing/",
+    "officialLabel": "布里斯托 MSc Marketing 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-ibs",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc International Business Strategy",
+    "nameCn": "国际商务战略硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-international-business-strategy/",
+    "officialLabel": "布里斯托 MSc International Business Strategy 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-bie",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Business Innovation and Entrepreneurship",
+    "nameCn": "商业创新与创业硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-business-innovation-and-entrepreneurship/",
+    "officialLabel": "布里斯托 MSc Business Innovation and Entrepreneurship 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "布里斯托创新中心（Centre for Innovation）开设"
+    ]
+  },
+  {
+    "id": "bris-msc-ie",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Innovation and Entrepreneurship",
+    "nameCn": "创新与创业硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-innovation-and-entrepreneurship/",
+    "officialLabel": "布里斯托 MSc Innovation and Entrepreneurship 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "布里斯托创新中心（Centre for Innovation）开设"
+    ]
+  },
+  {
+    "id": "bris-msc-sie",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Social Innovation and Entrepreneurship",
+    "nameCn": "社会创新与创业硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-social-innovation-and-entrepreneurship/",
+    "officialLabel": "布里斯托 MSc Social Innovation and Entrepreneurship 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "布里斯托创新中心（Centre for Innovation）开设"
+    ]
+  },
+  {
+    "id": "bris-msc-af",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Accounting and Finance",
+    "nameCn": "会计与金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-accounting-and-finance/",
+    "officialLabel": "布里斯托 MSc Accounting and Finance 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-aas",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Accounting, Accountability and Sustainability",
+    "nameCn": "会计、问责与可持续发展硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-accounting-accountability-and-sustainability/",
+    "officialLabel": "布里斯托 MSc Accounting, Accountability and Sustainability 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-afm",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Accounting, Finance and Management",
+    "nameCn": "会计、金融与管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-accounting-finance-and-management/",
+    "officialLabel": "布里斯托 MSc Accounting, Finance and Management 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-fi",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Finance and Investment",
+    "nameCn": "金融与投资硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-finance-and-investment/",
+    "officialLabel": "布里斯托 MSc Finance and Investment 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-ft",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Financial Technology",
+    "nameCn": "金融科技硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-financial-technology/",
+    "officialLabel": "布里斯托 MSc Financial Technology 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-ftds",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Financial Technology with Data Science",
+    "nameCn": "金融科技与数据科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-financial-technology-with-data-science/",
+    "officialLabel": "布里斯托 MSc Financial Technology with Data Science 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-gbf",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Global Banking and Finance",
+    "nameCn": "全球银行与金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-global-banking-and-finance/",
+    "officialLabel": "布里斯托 MSc Global Banking and Finance 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托商学院（School of Management）"
+    ]
+  },
+  {
+    "id": "bris-msc-ai",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Artificial Intelligence",
+    "nameCn": "人工智能硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-artificial-intelligence/",
+    "officialLabel": "布里斯托 MSc Artificial Intelligence 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托计算机科学、电气与电子工程及工程数学学院（School of Computer Science...）"
+    ]
+  },
+  {
+    "id": "bris-msc-cs-conv",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Computer Science (Conversion)",
+    "nameCn": "计算机科学硕士（转专业）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-computer-science-conversion/",
+    "officialLabel": "布里斯托 MSc Computer Science (Conversion) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托计算机科学、电气与电子工程及工程数学学院（School of Computer Science...）"
+    ]
+  },
+  {
+    "id": "bris-msc-cyber-infra",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Cyber Security (Infrastructures Security)",
+    "nameCn": "网络安全硕士（基础设施安全）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-cyber-security-infrastructures-security/",
+    "officialLabel": "布里斯托 MSc Cyber Security (Infrastructures Security) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托计算机科学、电气与电子工程及工程数学学院（School of Computer Science...）"
+    ]
+  },
+  {
+    "id": "bris-msc-cyber-soft",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Cyber Security (Software Security)",
+    "nameCn": "网络安全硕士（软件安全）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-cyber-security-software-security/",
+    "officialLabel": "布里斯托 MSc Cyber Security (Software Security) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托计算机科学、电气与电子工程及工程数学学院（School of Computer Science...）"
+    ]
+  },
+  {
+    "id": "bris-msc-ds",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Data Science",
+    "nameCn": "数据科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-data-science/",
+    "officialLabel": "布里斯托 MSc Data Science 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托计算机科学、电气与电子工程及工程数学学院（School of Computer Science...）"
+    ]
+  },
+  {
+    "id": "bris-msc-dsb",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Bristol",
+    "schoolCn": "布里斯托大学",
+    "name": "MSc Data Science for Business",
+    "nameCn": "商业数据科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "国际生截止",
+        "deadline": "2027-08-12"
+      }
+    ],
+    "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-data-science-for-business/",
+    "officialLabel": "布里斯托 MSc Data Science for Business 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
+      "2027 年 9 月开学，全日制 1 年",
+      "开设于布里斯托计算机科学、电气与电子工程及工程数学学院（School of Computer Science...）"
+    ]
   }
 ]

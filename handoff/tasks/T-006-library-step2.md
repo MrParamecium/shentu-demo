@@ -224,3 +224,16 @@
 - 理大统一 Main Round 截止 2027-02-25（本地=非本地）；学制卡片原文直接可引；语言在折叠区读不到 → 「见学校统一英语要求」
 - AI for the Professions（09003）官网标 "offered subject to approval" 待批准 → 存疑，批准后收录
 - 证据：`handoff/evidence/T-006-batch-12.md`；`check:programs` / `build` / `lint` 全过
+
+### 2026-10-27 · ZCode（新加坡两所网络不通，记存疑）
+- **NUS、NTU 本轮无法核实**：当前网络环境访问 `*.nus.edu.sg`、`*.ntu.edu.sg` 全部连接失败（curl code=000 超时；内置浏览器同样空白页）。2026-10-24 T-008 曾加过 5 个新加坡项目，当时网络可达；现状态恢复后（换网络/代理）再补 NUS、NTU 其余四大类项目
+- 第一优先 14 所至此全部处理完毕：UK 7 所 + HK 港大/港中文/港科大/理大（城大存疑）+ SG 两所（网络不通存疑）。库 38 → 234（UK 167 / HK 62 / SG 5）
+- 下一步转入第二优先名单（英国其他热门学校）：布里斯托 → 格拉斯哥 → 杜伦 → 巴斯 → …
+
+### Batch 13 · 布里斯托（2026-10-27）
+- **新增 26 个**：business 13 / finance 7 / cs 4 / data 2。库里 234 → **260**（UK 193 / HK 62 / SG 5）。**新学校，SCHOOL_ALIASES 已加 University of Bristol（Bristol/布里斯托/布大）**
+- 布里斯托口径统一（26 页一致）：September 2027 开学，海外生截止 2027-08-12 / 本土生 2027-09-09（库里记「国际生截止」），全日制 1 年；英语按 profile 分档、页面正文无具体分数 → 记「见学校统一英语要求」
+- 方法：课程搜索页（Vue 应用，要浏览器等 ~25 秒才渲染，curl 拿不到）滚动收集 153 个 taught 项目 → 筛四大类 → curl 逐页核实（课程详情页不拦脚本）。**耗时**：整校约 40 分钟
+- **边界决定（请浩翔确认）**：收了 Management 8 个方向（含 Project Management——管理学院开设，与「工程/建造学院 PM 不收」口径不冲突）、三个创新创业变体（Business/普通/Social）；MSc Economics 系列全部不收（经济学院）；AI Governance and Ethics / AI for Medicine and Health / Engineering with AI（域外）；MA Digital Business Innovation 等四个 MA（设计创意域）；Environmental Data Science（环境域）；Medical Statistics and Health Data Science（医疗域）；Mathematical Sciences（纯数学）
+- 布里斯托无独立 MSc Finance（金融类是 Accounting and Finance / Finance and Investment / Global Banking and Finance 等）；无独立 Statistics MSc
+- 证据：`handoff/evidence/T-006-batch-13.md`；`check:programs` / `build` / `lint` 全过
