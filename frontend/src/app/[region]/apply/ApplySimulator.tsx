@@ -169,6 +169,9 @@ export default function ApplySimulator({ region }: { region: Region }) {
   // 剩余天数依赖当天日期，预渲染时不算，挂载后再算（cacheComponents 不允许预渲染里用 new Date()）
   const hydrated = useHydrated();
   const rounds = program.rounds.map((r, i) => ({ ...r, i, days: hydrated ? daysUntil(r.deadline) : null }));
+  // 本季各轮都截止了（如港大第二轮过后），模拟仍允许选，只是练习
+  const allClosed = hydrated && rounds.length > 0 && rounds.every(r => r.days !== null && r.days < 0);
+  const roundDisabled = (days: number | null) => days === null || (days < 0 && !allClosed);
 
   if (stopped) {
     return (
@@ -266,6 +269,11 @@ export default function ApplySimulator({ region }: { region: Region }) {
                   这个项目滚动审理：边收边审，名额满了可能提前截止，越早交越稳。
                 </p>
               )}
+              {allClosed && (
+                <p className="rounded-lg bg-slate-100 px-4 py-2 text-sm text-slate-700">
+                  这个项目本季各轮都已截止。模拟里仍可以选一轮来练习，真实申请要等下一季开放。
+                </p>
+              )}
               <fieldset>
                 <legend className="text-sm font-medium text-slate-800">选择申请轮次</legend>
                 <div className="mt-2 space-y-2">
@@ -273,14 +281,14 @@ export default function ApplySimulator({ region }: { region: Region }) {
                     <label
                       key={r.name}
                       className={`flex items-center justify-between gap-3 rounded-lg border px-4 py-2.5 text-sm ${
-                        r.days !== null && r.days < 0 ? "border-slate-100 text-slate-400" : "cursor-pointer border-slate-200 hover:bg-slate-50"
+                        roundDisabled(r.days) && r.days !== null ? "border-slate-100 text-slate-400" : "cursor-pointer border-slate-200 hover:bg-slate-50"
                       } ${roundIndex === r.i ? "border-brand bg-brand-soft" : ""}`}
                     >
                       <span className="flex items-center gap-3">
                         <input
                           type="radio"
                           name="round"
-                          disabled={r.days === null || r.days < 0}
+                          disabled={roundDisabled(r.days)}
                           checked={roundIndex === r.i}
                           onChange={() => setRoundIndex(r.i)}
                           className="accent-[#3f6b80]"

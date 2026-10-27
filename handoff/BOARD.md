@@ -14,8 +14,8 @@
 | [T-009](tasks/T-009-link-import.md) | 贴官网链接自动识别项目信息 | 待定 | ⬜ 等 T-005 | — |
 | [T-007](tasks/T-007-library-step3.md) | 项目库第三步：半自动抓取 + 每年复核 | 待定 | ⬜ 等 T-006 | — |
 | [T-010](tasks/T-010-region-entry.md) | 首页选地区 + 各地区独立申请界面 | **浩翔** | ✅ 完成 | #12 |
-| [T-011](tasks/T-011-flow-simulator.md) | 申请流程模拟引导（三地区页） | **浩翔** | 👀 待审核 | t-011-flow-simulator |
 | [T-012](tasks/T-012-apply-simulator.md) | 模拟网申：真实项目 + 示例材料，到提交前停 | **浩翔** | 👀 待审核 | t-012-apply-simulator |
+| [T-013](tasks/T-013-apply-videos.md) | 录三个项目的真实网申演示视频（帝国 / 港大 / NUS） | **友涵** | ⬜ 待开始 | — |
 
 ## 暂不做（等前置条件）
 - 申请数据同步到账号：等 T-001 恢复真实登录

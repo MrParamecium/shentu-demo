@@ -4,7 +4,6 @@ import { notFound } from "next/navigation";
 import { PROGRAMS } from "@/lib/programs";
 import { REGION_GUIDES, REGION_INFO, REGION_ORDER, REGION_SLUG, regionFromSlug } from "@/lib/regions";
 import { STAGES } from "@/lib/stages";
-import FlowSimulator from "./FlowSimulator";
 import RegionApplications from "./RegionApplications";
 
 // 只预渲染 /uk、/hk、/sg；其他地址由 regionFromSlug 判断后 notFound() 返回 404
@@ -121,8 +120,6 @@ export default async function RegionPage(props: PageProps<"/[region]">) {
           看板里的申请节点：{STAGES[region].map(s => s.label).join(" → ")}
         </p>
       </section>
-
-      <FlowSimulator region={region} />
 
       <RegionApplications region={region} slug={slug} />
     </div>
