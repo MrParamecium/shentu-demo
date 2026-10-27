@@ -4957,5 +4957,759 @@
       "跨学科项目，数学方向",
       "官网写分阶段审理；若当轮来不及出结果，申请会顺延到下一轮"
     ]
+  },
+  {
+    "id": "war-msc-mgmt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Management MSc",
+    "nameCn": "管理学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-management",
+    "officialLabel": "华威 Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-ibm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "International Business MSc",
+    "nameCn": "国际商务硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-international-business",
+    "officialLabel": "华威 International Business MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-mkt-strategy",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Marketing & Strategy MSc",
+    "nameCn": "市场营销与战略硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-marketing-strategy",
+    "officialLabel": "华威 Marketing & Strategy MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-mkt-cb",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Marketing & Consumer Behaviour MSc",
+    "nameCn": "市场营销与消费者行为硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-marketing-consumer-behaviour",
+    "officialLabel": "华威 Marketing & Consumer Behaviour MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-bw-consulting",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Business with Consulting MSc",
+    "nameCn": "商务（咨询方向）硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-business-consulting",
+    "officialLabel": "华威 Business with Consulting MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-bw-marketing",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Business with Marketing MSc",
+    "nameCn": "商务（营销方向）硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-business-marketing",
+    "officialLabel": "华威 Business with Marketing MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-bw-opsmgmt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Business with Operations Management MSc",
+    "nameCn": "商务（运营管理方向）硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-business-operations-management",
+    "officialLabel": "华威 Business with Operations Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-bw-sustainability",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Business with Sustainability MSc",
+    "nameCn": "商务（可持续发展方向）硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-business-sustainability",
+    "officialLabel": "华威 Business with Sustainability MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-itso",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "International Trade, Strategy and Operations MSc",
+    "nameCn": "国际贸易、战略与运营硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-international-trade",
+    "officialLabel": "华威 International Trade, Strategy and Operations MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于 WMG 学院（Warwick Manufacturing Group）"
+    ]
+  },
+  {
+    "id": "war-msc-mbe",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Management for Business Excellence MSc",
+    "nameCn": "卓越商务管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-management-business-excellence",
+    "officialLabel": "华威 Management for Business Excellence MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于 WMG 学院（Warwick Manufacturing Group）"
+    ]
+  },
+  {
+    "id": "war-msc-ebusiness",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "e-Business Management MSc",
+    "nameCn": "电子商务管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-e-business-management",
+    "officialLabel": "华威 e-Business Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于 WMG 学院（Warwick Manufacturing Group）"
+    ]
+  },
+  {
+    "id": "war-msc-sclm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Supply Chain and Logistics Management MSc",
+    "nameCn": "供应链与物流管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-supply-chain-logistics-management",
+    "officialLabel": "华威 Supply Chain and Logistics Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于 WMG 学院（Warwick Manufacturing Group）"
+    ]
+  },
+  {
+    "id": "war-msc-afm",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Accounting & Financial Management MSc",
+    "nameCn": "会计与财务管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-accounting-financial-management",
+    "officialLabel": "华威 Accounting & Financial Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-acc-sus",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Accounting & Sustainability MSc",
+    "nameCn": "会计与可持续发展硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-accounting-sustainability",
+    "officialLabel": "华威 Accounting & Sustainability MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-fin-econ",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Finance & Economics MSc",
+    "nameCn": "金融与经济硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-finance-economics",
+    "officialLabel": "华威 Finance & Economics MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-fin-mgmt",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Finance & Management MSc",
+    "nameCn": "金融与管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-finance-management",
+    "officialLabel": "华威 Finance & Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-fintech",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Financial Technology MSc",
+    "nameCn": "金融科技硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-financial-technology",
+    "officialLabel": "华威 Financial Technology MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-mathfin",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Mathematical Finance MSc",
+    "nameCn": "金融数学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（两项 6.0/6.5，其余单项 ≥7.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-mathematical-finance",
+    "officialLabel": "华威 Mathematical Finance MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于华威商学院（Warwick Business School）"
+    ]
+  },
+  {
+    "id": "war-msc-cs",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Computer Science MSc",
+    "nameCn": "计算机科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science",
+    "officialLabel": "华威 Computer Science MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于计算机系（Department of Computer Science）"
+    ]
+  },
+  {
+    "id": "war-msc-cs-aiml",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Computer Science with specialism in Artificial Intelligence and Machine Learning MSc",
+    "nameCn": "计算机科学（人工智能与机器学习方向）硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science-artificial-intelligence-machine-learning",
+    "officialLabel": "华威 Computer Science with specialism in Artificial Intelligence and Machine Learning MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于计算机系（Department of Computer Science）"
+    ]
+  },
+  {
+    "id": "war-msc-cs-cybersec",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Computer Science with specialism in Cyber Security MSc",
+    "nameCn": "计算机科学（网络安全方向）硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science-cyber-security",
+    "officialLabel": "华威 Computer Science with specialism in Cyber Security MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于计算机系（Department of Computer Science）"
+    ]
+  },
+  {
+    "id": "war-msc-cs-dataanalytics",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Computer Science with specialism in Data Analytics MSc",
+    "nameCn": "计算机科学（数据分析方向）硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science-data-analytics",
+    "officialLabel": "华威 Computer Science with specialism in Data Analytics MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于计算机系（Department of Computer Science）"
+    ]
+  },
+  {
+    "id": "war-msc-applied-ai",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Applied Artificial Intelligence MSc",
+    "nameCn": "应用人工智能硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-applied-artificial-intelligence",
+    "officialLabel": "华威 Applied Artificial Intelligence MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于 WMG 学院（Warwick Manufacturing Group）"
+    ]
+  },
+  {
+    "id": "war-msc-csm",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Cyber Security Management MSc",
+    "nameCn": "网络安全管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-cyber-security-management",
+    "officialLabel": "华威 Cyber Security Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于 WMG 学院（Warwick Manufacturing Group）"
+    ]
+  },
+  {
+    "id": "war-msc-cse",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Cyber Security Engineering MSc",
+    "nameCn": "网络安全工程硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-cyber-security-engineering",
+    "officialLabel": "华威 Cyber Security Engineering MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于 WMG 学院（Warwick Manufacturing Group）"
+    ]
+  },
+  {
+    "id": "war-msc-stats",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Statistics MSc",
+    "nameCn": "统计学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-statistics",
+    "officialLabel": "华威 Statistics MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于统计系（Department of Statistics）"
+    ]
+  },
+  {
+    "id": "war-msc-stats-ds",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Statistics with Data Science MSc",
+    "nameCn": "统计学与数据科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-statistics-data-science",
+    "officialLabel": "华威 Statistics with Data Science MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于统计系（Department of Statistics）"
+    ]
+  },
+  {
+    "id": "war-msc-stats-prob",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Statistics with Probability MSc",
+    "nameCn": "统计学与概率硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-statistics-probability",
+    "officialLabel": "华威 Statistics with Probability MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于统计系（Department of Statistics）"
+    ]
+  },
+  {
+    "id": "war-msc-stats-fin",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Warwick (Warwick Business School)",
+    "schoolCn": "华威大学",
+    "name": "Statistics with Finance MSc",
+    "nameCn": "统计学与金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-02"
+      }
+    ],
+    "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-statistics-finance",
+    "officialLabel": "华威 Statistics with Finance MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
+      "2027 年 9 月 27 日开学",
+      "开设于统计系（Department of Statistics）"
+    ]
   }
 ]
