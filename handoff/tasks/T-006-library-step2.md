@@ -96,6 +96,11 @@
 - **不收**：MSc Strategic Marketing (Online)（在线版）、Global Health Management（医疗域）、MSc Biomedical Research (Data Science)（生物医学域）、两个 MBA
 - **边界决定（请浩翔确认）**：收了 AI, Economics and Policy（官网写由计算机系开设、商学院招生，归 business）、Climate Change, Management & Finance（气候域商科，类比 UCL Business and Sustainability）；MSc Risk Management 的官方全称是 Risk Management **and** Financial Engineering（slug 只有 risk-management）
 
+### Batch 4 · KCL（2026-10-27）
+- **KCL Artificial Intelligence MSc 未出现在 2027 A-Z 课程列表**（只有 AI & Data in Culture and Society MA，社会学科不收），校内 Cyber Security MSc 也只剩 Online 版——疑停招/改名，待浩翔用浏览器确认
+- **不收**：Health Data Science（医疗域）、Urban Informatics（城市域）、Applied Bioinformatics（生物域）、Advanced Cyber Security (Online)（在线版）、Healthcare Management（医疗域）、MedTech Innovation & Entrepreneurship（医疗域）
+- KCL 截止结构特殊：不是分轮录取，是「首轮截止（2027-03-09）→ 未满员继续收到最终截止」，库里写两轮：首轮截止 + 国际生截止（2027-07-25），Home 最终截止写进备注
+
 ## 进度日志
 （暂无）
 
@@ -123,3 +128,10 @@
 - 轮次口径：商学院项目记全部四轮（R1 2026-09-29 / R2 2027-01-06 / R3 2027-03-10 / R4 2027-04-28，23:59 UK time）；计算机/EEE 官网写明第一轮仅限商学院，从第二轮开始记
 - 英语：商学院 10 个 admissions 页都写了 "IELTS (academic): A minimum score of 7.0 with minimum scores of 6.5 in all elements"；计算机/EEE 项目页不写具体分数，按惯例记「见学校统一英语要求」
 - 证据：`handoff/evidence/T-006-batch-3.md`；`check:programs` / `build` / `lint` 全过
+
+### 2026-10-27 · ZCode（Batch 4：KCL）
+- **新增 15 个**：business 4 / finance 8 / cs 3（data 0，DS 已在库、Health DS 不收）。库里 103 → 118（UK 99 / HK 14 / SG 5）。KCL 四大类：business 4 / finance 8 / cs 3 / data 1
+- 方法：A-Z 列表页按字母筛选逐字母点开（175 个课程链接）→ 筛四大类 → 内置浏览器逐页抓（**KCL 课程页 JS 渲染，curl 只能拿到 meta**）：Overview 抓截止、Entry requirements 标签抓 English language band。**耗时**：整校约 70 分钟，其中列表翻页 10 分钟、页面结构摸底 15 分钟（先试 curl 失败才换浏览器）
+- 截止结构：KCL 是「首轮截止 + 最终截止」不是分轮（15 页一致：首轮 2027-03-09、国际生最终 2027-07-25、Home 最终 2027-08-25，均 23:59 UK time），库里按两轮写
+- 英语按院系分 Band：商学院和信息系 = Band B（IELTS 7.0/6.5），NMES（数学系）和机器人 = Band D（IELTS 6.5/6.0），Band 对照表官方页同日核对
+- 证据：`handoff/evidence/T-006-batch-4.md`；`check:programs` / `build` / `lint` 全过
