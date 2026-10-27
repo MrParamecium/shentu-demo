@@ -2328,5 +2328,675 @@
       "奖学金另有截止日期，以官网为准",
       "开设于数学系运筹组，2027 年 9 月 27 日开学"
     ]
+  },
+  {
+    "id": "ic-msc-esb",
+    "region": "UK",
+    "field": "business",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Economics & Strategy for Business",
+    "nameCn": "经济与商业战略硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-29"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/business-school/masters/economics-strategy-business/admissions/",
+    "officialLabel": "Imperial MSc Economics & Strategy for Business Admissions 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目有第一轮",
+      "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
+      "开设于 Imperial Business School"
+    ]
+  },
+  {
+    "id": "ic-msc-ccmf",
+    "region": "UK",
+    "field": "business",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Climate Change, Management & Finance",
+    "nameCn": "气候变化、管理与金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-29"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/business-school/masters/climate-change-management-finance/admissions/",
+    "officialLabel": "Imperial MSc Climate Change, Management & Finance Admissions 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目有第一轮",
+      "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
+      "开设于 Imperial Business School"
+    ]
+  },
+  {
+    "id": "ic-msc-mim",
+    "region": "UK",
+    "field": "business",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc in Management (MiM)",
+    "nameCn": "管理硕士",
+    "duration": "全日制 1 年（2027 年 8 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-29"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/business-school/masters/management/admissions/",
+    "officialLabel": "Imperial MSc in Management (MiM) Admissions 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目有第一轮",
+      "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
+      "开设于 Imperial Business School"
+    ]
+  },
+  {
+    "id": "ic-msc-sm",
+    "region": "UK",
+    "field": "business",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Strategic Marketing",
+    "nameCn": "战略营销硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-29"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/business-school/masters/strategic-marketing/admissions/",
+    "officialLabel": "Imperial MSc Strategic Marketing Admissions 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目有第一轮",
+      "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
+      "开设于 Imperial Business School"
+    ]
+  },
+  {
+    "id": "ic-msc-iem",
+    "region": "UK",
+    "field": "business",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Innovation, Entrepreneurship and Management",
+    "nameCn": "创新、创业与管理硕士",
+    "duration": "全日制 1 年（2027 年 8 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-29"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/business-school/masters/innovation-entrepreneurship-management/admissions/",
+    "officialLabel": "Imperial MSc Innovation, Entrepreneurship and Management Admissions 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目有第一轮",
+      "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
+      "开设于 Imperial Business School"
+    ]
+  },
+  {
+    "id": "ic-msc-aiep",
+    "region": "UK",
+    "field": "business",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc AI, Economics and Policy",
+    "nameCn": "人工智能、经济与政策硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-29"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/business-school/masters/ai-economics-policy/admissions/",
+    "officialLabel": "Imperial MSc AI, Economics and Policy Admissions 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目有第一轮",
+      "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
+      "官网课程页写明由计算机系开设，商学院招生，AI 与经济政策交叉方向"
+    ]
+  },
+  {
+    "id": "ic-msc-fa",
+    "region": "UK",
+    "field": "finance",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Finance & Accounting",
+    "nameCn": "金融与会计硕士",
+    "duration": "全日制 1 年（2027 年 8 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-29"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/business-school/masters/finance-accounting/admissions/",
+    "officialLabel": "Imperial MSc Finance & Accounting Admissions 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目有第一轮",
+      "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
+      "开设于 Imperial Business School"
+    ]
+  },
+  {
+    "id": "ic-msc-fintech",
+    "region": "UK",
+    "field": "finance",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Financial Technology",
+    "nameCn": "金融科技硕士",
+    "duration": "全日制 1 年（2027 年 8 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-29"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/business-school/masters/financial-technology/admissions/",
+    "officialLabel": "Imperial MSc Financial Technology Admissions 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目有第一轮",
+      "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
+      "开设于 Imperial Business School，可加 4–6 个月实习延长至 16 个月"
+    ]
+  },
+  {
+    "id": "ic-msc-iwm",
+    "region": "UK",
+    "field": "finance",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Investment and Wealth Management",
+    "nameCn": "投资与财富管理硕士",
+    "duration": "全日制 1 年（2027 年 8 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-29"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/business-school/masters/investment-wealth-management/admissions/",
+    "officialLabel": "Imperial MSc Investment and Wealth Management Admissions 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目有第一轮",
+      "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
+      "开设于 Imperial Business School"
+    ]
+  },
+  {
+    "id": "ic-msc-rmfe",
+    "region": "UK",
+    "field": "finance",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Risk Management and Financial Engineering",
+    "nameCn": "风险管理与金融工程硕士",
+    "duration": "全日制 1 年（2027 年 8 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-29"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/business-school/masters/risk-management/admissions/",
+    "officialLabel": "Imperial MSc Risk Management and Financial Engineering Admissions 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目有第一轮",
+      "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
+      "开设于 Imperial Business School"
+    ]
+  },
+  {
+    "id": "ic-msc-advcomp",
+    "region": "UK",
+    "field": "cs",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Advanced Computing",
+    "nameCn": "高级计算硕士",
+    "duration": "全日制 1 年（2027 年 10 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/advanced-computing/",
+    "officialLabel": "Imperial MSc Advanced Computing 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目从第二轮开始",
+      "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
+      "开设于计算机系（Department of Computing）"
+    ]
+  },
+  {
+    "id": "ic-msc-comp-ai",
+    "region": "UK",
+    "field": "cs",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Computing (Artificial Intelligence and Machine Learning)",
+    "nameCn": "计算（人工智能与机器学习）硕士",
+    "duration": "全日制 1 年（2027 年 10 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-artificial-intelligence-msc/",
+    "officialLabel": "Imperial MSc Computing (Artificial Intelligence and Machine Learning) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目从第二轮开始",
+      "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
+      "计算机系专业方向分支"
+    ]
+  },
+  {
+    "id": "ic-msc-comp-sr",
+    "region": "UK",
+    "field": "cs",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Computing (Security and Reliability)",
+    "nameCn": "计算（安全与可靠性）硕士",
+    "duration": "全日制 1 年（2027 年 10 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-security-reliability-msc/",
+    "officialLabel": "Imperial MSc Computing (Security and Reliability) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目从第二轮开始",
+      "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
+      "计算机系专业方向分支"
+    ]
+  },
+  {
+    "id": "ic-msc-comp-se",
+    "region": "UK",
+    "field": "cs",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Computing (Software Engineering)",
+    "nameCn": "计算（软件工程）硕士",
+    "duration": "全日制 1 年（2027 年 10 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-software-engineering-msc/",
+    "officialLabel": "Imperial MSc Computing (Software Engineering) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目从第二轮开始",
+      "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
+      "计算机系专业方向分支"
+    ]
+  },
+  {
+    "id": "ic-msc-comp-vcr",
+    "region": "UK",
+    "field": "cs",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Computing (Visual Computing and Robotics)",
+    "nameCn": "计算（视觉计算与机器人）硕士",
+    "duration": "全日制 1 年（2027 年 10 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-visual-computing-robotics-msc/",
+    "officialLabel": "Imperial MSc Computing (Visual Computing and Robotics) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目从第二轮开始",
+      "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
+      "计算机系专业方向分支"
+    ]
+  },
+  {
+    "id": "ic-msc-ai",
+    "region": "UK",
+    "field": "cs",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Artificial Intelligence",
+    "nameCn": "人工智能硕士",
+    "duration": "全日制 1 年（2027 年 10 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/artificial-intelligence/",
+    "officialLabel": "Imperial MSc Artificial Intelligence 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目从第二轮开始",
+      "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
+      "2027 目录新增项目，开设于计算机系"
+    ]
+  },
+  {
+    "id": "ic-msc-aiml",
+    "region": "UK",
+    "field": "cs",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Artificial Intelligence and Machine Learning",
+    "nameCn": "人工智能与机器学习硕士",
+    "duration": "全日制 1 年（2027 年 10 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/artificial-intelligence-machine-learning/",
+    "officialLabel": "Imperial MSc Artificial Intelligence and Machine Learning 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目从第二轮开始",
+      "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
+      "2027 目录新增项目，开设于计算机系"
+    ]
+  },
+  {
+    "id": "ic-msc-aml",
+    "region": "UK",
+    "field": "cs",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Applied Machine Learning",
+    "nameCn": "应用机器学习硕士",
+    "duration": "全日制 1 年（2027 年 10 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/applied-machine-learning/",
+    "officialLabel": "Imperial MSc Applied Machine Learning 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目从第二轮开始",
+      "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
+      "开设于电子与电气工程系（EEE）"
+    ]
   }
 ]
