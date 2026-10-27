@@ -67,6 +67,12 @@ export default async function RegionPage(props: PageProps<"/[region]">) {
                 浏览{info.label} {count} 个项目
               </Link>
               <Link
+                href={`/${slug}/apply`}
+                className="rounded-lg border border-white/70 px-5 py-2.5 text-sm font-medium text-white hover:bg-white/10"
+              >
+                模拟一次网申
+              </Link>
+              <Link
                 href={`/programs/custom?region=${region}`}
                 className="rounded-lg border border-white/70 px-5 py-2.5 text-sm font-medium text-white hover:bg-white/10"
               >

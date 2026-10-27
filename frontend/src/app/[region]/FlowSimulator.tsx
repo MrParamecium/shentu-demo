@@ -2,7 +2,7 @@
 
 import { useMemo, useRef, useState } from "react";
 import Link from "next/link";
-import { REGION_INFO } from "@/lib/regions";
+import { REGION_INFO, REGION_SLUG } from "@/lib/regions";
 import { STAGES } from "@/lib/stages";
 import { SAMPLE_PROGRAM, buildSteps, type SimStep } from "@/lib/simulation";
 import type { Region } from "@/lib/types";
@@ -247,8 +247,14 @@ export default function FlowSimulator({ region }: { region: Region }) {
                 </p>
                 <div className="flex flex-wrap gap-3">
                   <Link
-                    href={`/programs?region=${region}`}
+                    href={`/${REGION_SLUG[region]}/apply`}
                     className="rounded-lg bg-brand px-5 py-2.5 text-sm font-medium text-white hover:bg-brand-dark"
+                  >
+                    用真实项目模拟一次网申
+                  </Link>
+                  <Link
+                    href={`/programs?region=${region}`}
+                    className="rounded-lg border border-slate-300 bg-white px-5 py-2.5 text-sm font-medium text-slate-700 hover:bg-slate-50"
                   >
                     去选{info.label}项目
                   </Link>
