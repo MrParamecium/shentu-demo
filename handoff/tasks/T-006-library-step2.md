@@ -104,6 +104,11 @@
 ### Batch 5 · 爱丁堡（2026-10-27）
 - **边界决定（请浩翔确认）**：收了 AI for Business（商学院）、Climate Change Finance and Investment（商学院，气候变化方向）、Finance, Technology and Policy（商学院）、Computational Mathematical Finance / Financial Modelling and Optimization（数学系，归 finance）、Statistics with AI / Statistics with Data Science / Operational Research with Data Science（数学系，归 data）；**没收**：Service Management and Design（艺术人文社科学院）、Design Informatics（设计域）、HPC 系列（含 Online Learning 版）、Data and AI Ethics（伦理域）、Economics 系列（经济域）、International Banking Law and Finance LLM（法学域）、Bioinformatics / Data Science for Biology（生物域）、Climate Change Management（地质学院气候域，非商学院）
 
+### Batch 6 · 曼彻斯特（2026-10-27）
+- **不收**：MSc Financial Management（官网写 "Part-time blended learning for 2 years"，在线混合非全日制）、MSc Financial Economics（社科学院，经济域）、DS&AI 的 Social Analytics / Urban Analytics 路径、Economics and Data Science（经济域）、International Fashion Marketing（时尚域）、Real Estate Finance and Investment（房地产域）、工学院项目管理类（Management of Projects / Commercial / Engineering PM）、Business Psychology / Organisational Psychology（心理学域）、MSc Accounting and Finance 已在库不重复
+- **DS&AI 新家族归 data**：曼大 2026 新开 MSc Data Science and Artificial Intelligence 大家族（官网列 School of Social Sciences 跨学科项目），收了 Business and Management / Computer Science Data Informatics / Mathematics 三个路径，Social Analytics / Urban Analytics 按域规则没收；field 统一记 data（核心学科是数据科学），浩翔抽查时可确认
+- CS 系 4 个新项目（AI / Machine Learning / Cyber Security / Software Engineering）项目页不写英语分数，按规则记「见学校统一英语要求」（库里 Advanced Computer Science 的 7.0/6.5 是友涵之前在页面上核实过的，别混用）
+
 ## 进度日志
 （暂无）
 
@@ -146,3 +151,10 @@
 - 学制注意：多个数学系项目 award 选择器有 1 年全日制 + 2 年非全日制两档，默认展示可能选中非全日制（meta 显示 2 years），只记 1 年全日制
 - 英语三档都来自项目页原文：商学院 7.0/6.0、数学系 6.5/6.0、信息学院 7.0（三项 ≥6.5 一项 ≥6.0）
 - 证据：`handoff/evidence/T-006-batch-5.md`；`check:programs` / `build` / `lint` 全过
+
+### 2026-10-27 · ZCode（Batch 6：曼彻斯特）
+- **新增 21 个**：business 10 / finance 4 / cs 4 / data 3。库里 136 → 157（UK 138 / HK 14 / SG 5）。曼大四大类：business 12 / finance 6 / cs 5 / data 3
+- 方法：大学课程 finder 页（浏览器渲染出 315 个课程卡，标题在 `.degree` 标签、链接是卡片祖先 `<a>`）→ 按 slug 筛四大类 → curl 逐页核实（曼大课程页不拦脚本）。**耗时**：整校约 55 分钟，其中 20 分钟耗在 finder 的懒加载/卡片结构摸底
+- 轮次：AMBS 13 个统一五轮（2026-12-06 起，how-to-apply 页 2026-10-27 重核，开放日 2026-10-10，申请费 £60）；CS 系 4 个四轮（2026-11-06 起）；Mathematical Finance 四轮（2026-11-06 起，S3 结果日 04-16 与 CS 系不同）；DS&AI 三个路径四轮（2026-12-06 起）
+- 2026 新项目进了 2027 目录：AMBS Digital Transformation、Sustainable Business；CS 系 AI / ML / Cyber Security / Software Engineering；DS&AI 大家族（5 路径收 3）
+- 证据：`handoff/evidence/T-006-batch-6.md`；`check:programs` / `build` / `lint` 全过
