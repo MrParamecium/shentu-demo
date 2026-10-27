@@ -264,3 +264,14 @@
 - 方法：官网 2027 课程列表（curl 直接可读，127 个 2027 项目）→ 筛四大类 → curl 逐页核实。**耗时**：整校约 30 分钟（最顺的一所）
 - **不收**：MBA、East Asian Business（区域研究）、Business and Organisational Psychology（心理学域）、文创域 ×2（Creative and Cultural Industries / Music Management）、图书情报域 ×2（Information Management / Library and Information Services）、Data and Digital Humanities（人文域）、Environmental Science and Data / GIS（环境/地理域）、AI for Engineering / AI for Life Sciences（应用域）、Economics / Business Finance and Economics（经济域）
 - 证据：`handoff/evidence/T-006-batch-17.md`；`check:programs` / `build` / `lint` 全过
+
+### 环境阻塞学校汇总（2026-10-27，ZCode 会话结束时点）
+以下学校在 ZCode 内置浏览器 + curl 环境下无法抓取，均已记存疑、未硬填，需要浩翔日常浏览器或换网络后补：
+- **城大 CityU**：Imperva 反爬（验证可通过但旧目录 404，新目录 50 个项目 JS 列表渲染不出链接）
+- **巴斯 Bath**：课程搜索组件不接受自动化交互（反复无法渲染结果）
+- **伯明翰 Birmingham**：postgraduate 页面空白（疑似反爬）
+- **诺丁汉 Nottingham**：Sitecore 加密页在无头环境不执行（A-Z 与 /pgstudy/ 均空白/404）
+- **南安普顿 Southampton**：CourseFinder 课程详情页 JS 渲染（列表页 curl 可读但详情全空壳）
+- **NUS / NTU**：`*.nus.edu.sg`、`*.ntu.edu.sg` 当前网络完全不可达（curl code=000；2026-10-24 时可达，网络状态恢复后补）
+- **未尝试**（浏览器渲染成功率未知，下批逐所试）：玛丽女王 QMUL、利物浦 Liverpool、约克 York、兰卡斯特 Lancaster、卡迪夫 Cardiff、圣安德鲁斯 St Andrews、阿伯丁 Aberdeen、Bayes、埃克塞特 Exeter
+- 经验：JS 目录型网站（Vue/React/Funnelback）在 IAB 里渲染成功率约五成；详情页 curl 可读的学校（谢菲尔德/爱丁堡/布里斯托/格拉斯哥/杜伦/曼大/港中文/南安普顿列表页）处理最快，优先做这类
