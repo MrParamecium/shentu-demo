@@ -161,8 +161,8 @@ function ProgramCard({ program: p, added }: { program: Program; added: boolean }
 
       {p.rounds.length === 0 ? (
         <div className="rounded-md bg-amber-50 p-3 text-sm text-amber-900">
-          <p className="font-medium">滚动录取 · 无固定截止日期</p>
-          <p className="mt-0.5 text-xs">边收边审，招满即止，越晚申请名额越少，建议尽早提交。</p>
+          <p className="font-medium">无固定截止日期</p>
+          <p className="mt-0.5 text-xs">官网没有写截止日，名额满了就可能停止收申请，建议尽早提交。具体规则见下方说明和官网。</p>
         </div>
       ) : (
         <fieldset>

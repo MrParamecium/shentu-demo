@@ -23,3 +23,6 @@
 - polyu-msc-aibdc | https://www.polyu.edu.hk/study/pg/tpg/2027/62037-fai-pai | 2026-10-27 | ""
 - polyu-msc-it | https://www.polyu.edu.hk/study/pg/tpg/2027/61030-fit-pit | 2026-10-27 | ""
 - polyu-msc-mait | https://www.polyu.edu.hk/study/pg/tpg/2027/63031-afm-apm | 2026-10-27 | ""
+
+## 浩翔抽查更正（2026-10-28）
+16 个理大项目只记了 Main Round 2027-02-25，漏了页面同一区块的 Early Round 2026-10-20（已过期）。已按 polyu-msc-dsa 的写法补成「第一轮 2026-10-20 / 第二轮 2027-02-25」。原文例："Non-local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25"

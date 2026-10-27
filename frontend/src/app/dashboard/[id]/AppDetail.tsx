@@ -64,7 +64,7 @@ export default function AppDetail({ id }: { id: string }) {
               </>
             ) : (
               <>
-                申请方式：<span className="font-medium">滚动录取</span>（无固定截止，招满即止）
+                申请方式：<span className="font-medium">无固定截止日期</span>（名额满了可能停止收申请，以官网为准）
               </>
             )}
             {!program.custom && <> · 语言：{program.language}</>}
