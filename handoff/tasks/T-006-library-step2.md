@@ -250,3 +250,10 @@
 - 杜伦计算机系 2026 年大改版，新开一批 AI 项目（Applied AI and Data Science / AI Infrastructure Platforms / AI for Robotics & Computer Vision / AI 等），全部收录
 - **不收**：Applied AI & DS in Bioinformatics / Digital Humanities、AI for Engineering、AI and Environmental DS（应用域）、Computational Astrophysics（天文域）、Computational Environmental & GIS（环境域）、Health Data Science（医疗域）、Social & Behavioural DS（社会域）、Data Science in Cultural Heritage（遗产域）、MSc Law and Finance（法学域）、Economics 组三个（经济域）、Mathematical Sciences 类（若有无，纯数学）
 - 证据：`handoff/evidence/T-006-batch-15.md`；`check:programs` / `build` / `lint` 全过
+
+### Batch 16 · 利兹（2026-10-27）
+- **新增 22 个**：business 9 / finance 5 / cs 6 / data 2。库里 297 → **319**（UK 252 / HK 62 / SG 5）。**新学校，SCHOOL_ALIASES 已加 University of Leeds（Leeds/利兹/利兹大学）**
+- 利兹口径（22 页一致）：September 2027 开学，IELTS 6.5（单项 ≥6.0）；**绝大多数项目页不列固定申请截止 → 记 rolling: true**；CS 系 4 个 ACS 项目写最终期限 30 July 2027；Data Science MSc 明确国际生截止 2027-07-30
+- 方法：课程搜索页是 Funnelback 异步加载（浏览器渲染），分页为 URL 参数（?page=N&type=PGT&term=202728），逐页收集 262 个课程 → 筛四大类 → curl 逐页核实（课程详情页 curl 可读）。**耗时**：整校约 60 分钟（列表方案试错 20 分钟）
+- **不收**：AI online / Data Science Statistics online / Genomic Medicine online（在线）、Engineering Project Management / Engineering Technology and Business Management（工程域）、Economics / Ecological Economics / Economics and Finance（经济域）、Advertising and Marketing MA / Corporate Communications MAR（传播域）、Global Fashion Management（时装域）、Arts Management and Heritage Studies（艺术域）、Digital Chemistry（化学域）、Environmental DS with ML（环境域）、Health Informatics with DS ×2 / Genomic Medicine（医疗域）、Biotechnology with Business Enterprise（生物域）
+- 证据：`handoff/evidence/T-006-batch-16.md`；`check:programs` / `build` / `lint` 全过
