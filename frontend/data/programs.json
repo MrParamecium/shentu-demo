@@ -4126,5 +4126,836 @@
     "notes": [
       "开设于数学系（School of Mathematics），全日制 1 年（另设 2 年非全日制）"
     ]
+  },
+  {
+    "id": "man-msc-basm",
+    "region": "UK",
+    "field": "business",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Business Analysis and Strategic Management",
+    "nameCn": "商业分析与战略管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "AMBS MSc Business Analysis and Strategic Management How to Apply 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
+      "开设于 Alliance Manchester Business School（AMBS）"
+    ]
+  },
+  {
+    "id": "man-msc-dmkt",
+    "region": "UK",
+    "field": "business",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Digital Marketing",
+    "nameCn": "数字营销硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "AMBS MSc Digital Marketing How to Apply 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
+      "开设于 Alliance Manchester Business School（AMBS）"
+    ]
+  },
+  {
+    "id": "man-msc-dtrans",
+    "region": "UK",
+    "field": "business",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Digital Transformation",
+    "nameCn": "数字化转型硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "AMBS MSc Digital Transformation How to Apply 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
+      "开设于 Alliance Manchester Business School（AMBS）",
+      "2026 年新开项目"
+    ]
+  },
+  {
+    "id": "man-msc-hrmer",
+    "region": "UK",
+    "field": "business",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Human Resource Management and Employment Relations",
+    "nameCn": "人力资源管理与雇佣关系硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "AMBS MSc Human Resource Management and Employment Relations How to Apply 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
+      "开设于 Alliance Manchester Business School（AMBS）"
+    ]
+  },
+  {
+    "id": "man-msc-ime",
+    "region": "UK",
+    "field": "business",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Innovation Management and Entrepreneurship",
+    "nameCn": "创新管理与创业硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "AMBS MSc Innovation Management and Entrepreneurship How to Apply 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
+      "开设于 Alliance Manchester Business School（AMBS）"
+    ]
+  },
+  {
+    "id": "man-msc-ibm",
+    "region": "UK",
+    "field": "business",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc International Business and Management",
+    "nameCn": "国际商务与管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "AMBS MSc International Business and Management How to Apply 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
+      "开设于 Alliance Manchester Business School（AMBS）"
+    ]
+  },
+  {
+    "id": "man-msc-mgmt",
+    "region": "UK",
+    "field": "business",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Management",
+    "nameCn": "管理学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "AMBS MSc Management How to Apply 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
+      "开设于 Alliance Manchester Business School（AMBS）"
+    ]
+  },
+  {
+    "id": "man-msc-mkt",
+    "region": "UK",
+    "field": "business",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Marketing",
+    "nameCn": "市场营销硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "AMBS MSc Marketing How to Apply 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
+      "开设于 Alliance Manchester Business School（AMBS）"
+    ]
+  },
+  {
+    "id": "man-msc-opscm",
+    "region": "UK",
+    "field": "business",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Operations, Project and Supply Chain Management",
+    "nameCn": "运营、项目与供应链管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "AMBS MSc Operations, Project and Supply Chain Management How to Apply 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
+      "开设于 Alliance Manchester Business School（AMBS）"
+    ]
+  },
+  {
+    "id": "man-msc-sb",
+    "region": "UK",
+    "field": "business",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Sustainable Business",
+    "nameCn": "可持续商务硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "AMBS MSc Sustainable Business How to Apply 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
+      "开设于 Alliance Manchester Business School（AMBS）",
+      "2026 年新开项目"
+    ]
+  },
+  {
+    "id": "man-msc-acc",
+    "region": "UK",
+    "field": "finance",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Accounting",
+    "nameCn": "会计硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "AMBS MSc Accounting How to Apply 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
+      "开设于 Alliance Manchester Business School（AMBS）"
+    ]
+  },
+  {
+    "id": "man-msc-fin",
+    "region": "UK",
+    "field": "finance",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Finance",
+    "nameCn": "金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "AMBS MSc Finance How to Apply 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
+      "开设于 Alliance Manchester Business School（AMBS）"
+    ]
+  },
+  {
+    "id": "man-msc-qf",
+    "region": "UK",
+    "field": "finance",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Quantitative Finance",
+    "nameCn": "定量金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "AMBS MSc Quantitative Finance How to Apply 页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
+      "开设于 Alliance Manchester Business School（AMBS）"
+    ]
+  },
+  {
+    "id": "man-msc-mf",
+    "region": "UK",
+    "field": "finance",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Mathematical Finance",
+    "nameCn": "金融数学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（写作 ≥6.5，其余单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-26"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-05-21"
+      }
+    ],
+    "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/02250/msc-mathematical-finance/",
+    "officialLabel": "曼大 MSc Mathematical Finance 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于数学系（Department of Mathematics）",
+      "官网写分阶段审理；各阶段结果日：2027-01-08、2027-03-05、2027-04-16、2027-06-18"
+    ]
+  },
+  {
+    "id": "man-msc-ai",
+    "region": "UK",
+    "field": "cs",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Artificial Intelligence",
+    "nameCn": "人工智能硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-26"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-05-21"
+      }
+    ],
+    "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/21574/msc-artificial-intelligence/",
+    "officialLabel": "曼大 MSc Artificial Intelligence 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于计算机系（Department of Computer Science）",
+      "官网写分阶段审理；各阶段结果日：2027-01-08、2027-03-05、2027-04-30、2027-06-18；第四阶段截止后收到的申请视名额酌情考虑"
+    ]
+  },
+  {
+    "id": "man-msc-ml",
+    "region": "UK",
+    "field": "cs",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Machine Learning",
+    "nameCn": "机器学习硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-26"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-05-21"
+      }
+    ],
+    "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/21576/msc-machine-learning/",
+    "officialLabel": "曼大 MSc Machine Learning 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于计算机系（Department of Computer Science）",
+      "官网写分阶段审理；各阶段结果日：2027-01-08、2027-03-05、2027-04-30、2027-06-18；第四阶段截止后收到的申请视名额酌情考虑"
+    ]
+  },
+  {
+    "id": "man-msc-cybersec",
+    "region": "UK",
+    "field": "cs",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Cyber Security",
+    "nameCn": "网络安全硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-26"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-05-21"
+      }
+    ],
+    "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/21575/msc-cyber-security/",
+    "officialLabel": "曼大 MSc Cyber Security 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于计算机系（Department of Computer Science）",
+      "官网写分阶段审理；各阶段结果日：2027-01-08、2027-03-05、2027-04-30、2027-06-18；第四阶段截止后收到的申请视名额酌情考虑"
+    ]
+  },
+  {
+    "id": "man-msc-se",
+    "region": "UK",
+    "field": "cs",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Software Engineering",
+    "nameCn": "软件工程硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-26"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-05-21"
+      }
+    ],
+    "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/21577/msc-software-engineering/",
+    "officialLabel": "曼大 MSc Software Engineering 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于计算机系（Department of Computer Science）",
+      "官网写分阶段审理；各阶段结果日：2027-01-08、2027-03-05、2027-04-30、2027-06-18；第四阶段截止后收到的申请视名额酌情考虑"
+    ]
+  },
+  {
+    "id": "man-msc-dsai-bm",
+    "region": "UK",
+    "field": "data",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Data Science and Artificial Intelligence (Business and Management)",
+    "nameCn": "数据科学与人工智能（商业与管理方向）硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      }
+    ],
+    "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/22194/msc-data-science-and-artificial-intelligence-business-and-management/",
+    "officialLabel": "曼大 MSc Data Science and Artificial Intelligence (Business and Management) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "跨学科项目（官网列 School of Social Sciences），商业与管理方向",
+      "官网写分阶段审理；若当轮来不及出结果，申请会顺延到下一轮"
+    ]
+  },
+  {
+    "id": "man-msc-dsai-cs",
+    "region": "UK",
+    "field": "data",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Data Science and Artificial Intelligence (Computer Science Data Informatics)",
+    "nameCn": "数据科学与人工智能（计算机数据信息学方向）硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      }
+    ],
+    "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/22195/msc-data-science-and-artificial-intelligence-computer-science-data-informatics/",
+    "officialLabel": "曼大 MSc Data Science and Artificial Intelligence (Computer Science Data Informatics) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "跨学科项目，计算机科学数据信息学方向",
+      "官网写分阶段审理；若当轮来不及出结果，申请会顺延到下一轮"
+    ]
+  },
+  {
+    "id": "man-msc-dsai-math",
+    "region": "UK",
+    "field": "data",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Data Science and Artificial Intelligence (Mathematics)",
+    "nameCn": "数据科学与人工智能（数学方向）硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      }
+    ],
+    "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/22197/msc-data-science-and-artificial-intelligence-mathematics/",
+    "officialLabel": "曼大 MSc Data Science and Artificial Intelligence (Mathematics) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "跨学科项目，数学方向",
+      "官网写分阶段审理；若当轮来不及出结果，申请会顺延到下一轮"
+    ]
   }
 ]
