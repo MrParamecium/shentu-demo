@@ -90,6 +90,12 @@
 - **旧版 A-Z 列表 ≠ 2027 权威清单**：`/prospective-students/graduate/taught-degrees`（537 个）还是 2026/27 信息；2027/28 权威清单在新版 `/study/prospective-students/graduate/courses`（708 个）。坑：旧版无后缀链接对新目录部分项目 404 **≠ 停招**（Entrepreneurship、People Analytics、Integrated Machine Learning Systems 等新目录 slug 改成了 `msc-` 前缀），判断是否在招必须查新版目录
 - **领域边界决定（请浩翔抽查时确认）**：收了 Business and Sustainability（Bartlett 环境学院）、Supply Chain Management with Sustainability and Analytics（管理学院）、Private Equity with Digital Finance（土木系）、Statistics（归 data）、Scientific and Data Intensive Computing（物理系 CDIS 中心）；**没收**应用域项目（AI and Medical Imaging、AI for Biomedicine and Healthcare、Medical Robotics and AI、AI for Sustainable Development、Health Data Science、Medical Statistics and Data Science、Sociology and Data Science、Social and Geographic Data Science、Crime Science with Data Science、Ecology and Data Science、Energy Systems and Data Analytics、Urban and Spatial Data Science、Knowledge Information and Data Science 等）、建造类项目管理（Management of Complex Projects、Strategic Management of Projects、Digital Engineering Management 等）、Law and Finance、Engineering with Finance、Global Healthcare Management ×3、Biotech and Pharmaceutical Management、Drug Discovery and Pharma Management
 
+### Batch 3 · Imperial（2026-10-27）
+- **Imperial 2027 目录没有独立的数据科学硕士**：原 MSc Statistics（数学系）未出现在 2027 课程目录（目录里数学系只有 Applied Mathematics、Pure Mathematics 等）；finder 里 slug `data-science` 的页面实际是 **Biomedical Research (Data Science)**（生物医学域，不收）→ Imperial 的 data 类本批零新增，待浩翔确认要不要补
+- **商学院项目不在课程 finder 全集里**：`/study/courses` finder 只列了 6 个 BS 课程，商学院官网 `/business-school/programmes/` 列了 13 个——查 Imperial 商学院必须单独看商学院官网。Management、Strategic Marketing、Investment & Wealth Management、Risk Management & Financial Engineering、Innovation, Entrepreneurship & Management 都还在 2027 招生
+- **不收**：MSc Strategic Marketing (Online)（在线版）、Global Health Management（医疗域）、MSc Biomedical Research (Data Science)（生物医学域）、两个 MBA
+- **边界决定（请浩翔确认）**：收了 AI, Economics and Policy（官网写由计算机系开设、商学院招生，归 business）、Climate Change, Management & Finance（气候域商科，类比 UCL Business and Sustainability）；MSc Risk Management 的官方全称是 Risk Management **and** Financial Engineering（slug 只有 risk-management）
+
 ## 进度日志
 （暂无）
 
@@ -109,3 +115,11 @@
 - **边界决定（请浩翔确认）**：收了 Applied Social Data Science（方法系，和 MSc DS 同系）、Statistics / Financial Statistics（统计系，全日制 9 个月）、Operations Research and Analytics（数学系）、Accounting and Data Analytics（会计系）、MSc Social Innovation and Entrepreneurship（管理系）；**没收**：Real Estate Economics and Finance（房地产域，建议浩翔定要不要收）、MPA in Data Science for Public Policy（公共政策）、Law and Finance、Geographic / Health Data Science、Mathematics and Computation、各 (Research) 变体（MSc Statistics (Research) 等，教 Jacobs 学位论文版本）
 - 学制注意：LSE 多数项目 FT/PT 并存，只记全日制；MSc Statistics / Financial Statistics 全日制 9 个月（页面 "Nine months"），金融系几个项目 8 月有先修课
 - 证据：`handoff/evidence/T-006-batch-2.md`；`check:programs` / `build` / `lint` 全过
+
+### 2026-10-27 · ZCode（Batch 3：Imperial）
+- **新增 18 个**：business 6 / finance 4 / cs 8（data 0，原因见存疑）。库里 85 → 103（UK 84 / HK 14 / SG 5）。Imperial 四大类现状：business 7 / finance 6 / cs 9 / data 0
+- 方法：课程 finder 翻 12 页（`?page=N`，239 条含本研）拿全量 99 个 PGT 链接 → 筛四大类 → curl 逐页抓轮次/学制；商学院 10 个项目逐页抓 admissions 子页（轮次表 + IELTS 句）。**耗时**：整校约 50 分钟，其中 15 分钟花在发现「finder 不含商学院全部项目」并改从商学院官网补全
+- 2027/28 变化：计算机系**新增两个独立 AI 硕士**（MSc Artificial Intelligence、MSc Artificial Intelligence and Machine Learning）；MSc Statistics 从 2027 目录消失；data-science 链接实为 Biomedical Research (Data Science)
+- 轮次口径：商学院项目记全部四轮（R1 2026-09-29 / R2 2027-01-06 / R3 2027-03-10 / R4 2027-04-28，23:59 UK time）；计算机/EEE 官网写明第一轮仅限商学院，从第二轮开始记
+- 英语：商学院 10 个 admissions 页都写了 "IELTS (academic): A minimum score of 7.0 with minimum scores of 6.5 in all elements"；计算机/EEE 项目页不写具体分数，按惯例记「见学校统一英语要求」
+- 证据：`handoff/evidence/T-006-batch-3.md`；`check:programs` / `build` / `lint` 全过
