@@ -10062,7 +10062,8 @@
     "notes": [
       "开设于剑桥大学贾奇商学院（Cambridge Judge Business School）",
       "官网写明「Applications are accepted on a rolling basis until the final application deadline on 31 May 2027」（滚动审理，最终截止 2027-05-31）；2027 entry 申请已开放"
-    ]
+    ],
+    "rolling": true
   },
   {
     "id": "cam-mp-acs",

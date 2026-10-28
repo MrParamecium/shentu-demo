@@ -12,6 +12,7 @@
 - cam-mp-ismm | https://www.postgraduate.study.cam.ac.uk/courses/directory/egegmpimm | 2026-10-28 | "Application deadline May. 13, 2027 · Course starts Oct. 1, 2027" · "11 months"
 - cam-mp-fin | https://www.postgraduate.study.cam.ac.uk/courses/directory/bmjbmpfin | 2026-10-28 | "Application deadline Jan. 26, 2027 · Course starts Sep. 1, 2027" · "9 months"
 - cam-mfin | https://www.jbs.cam.ac.uk/masters-degrees/master-of-finance/apply/ | 2026-10-28 | "Applications for the Master of Finance 2027 entry are currently open. Applications are accepted on a rolling basis until the final application deadline on 31 May 2027." · "Length 1 year Start September 2027 Format Full-time" · "the MFin is a full-time programme"
+  - [复核修正 2026-10-28] 官网原文 "Applications are accepted on a rolling basis until the final application deadline on 31 May 2027"（jbs.cam.ac.uk/masters-degrees/master-of-finance/apply/）→ 补 `rolling: true`；"Format Full-time"、"No, the MFin is a full-time programme. There is no part-time or online option."（MFin 主页 FAQ）确认全日制
 - cam-mp-acs | https://www.postgraduate.study.cam.ac.uk/courses/directory/cscsmpacs | 2026-10-28 | "Application deadline Feb. 25, 2027 · Course starts Oct. 4, 2027" · "9 months"
 - cam-mp-mlmi | https://www.postgraduate.study.cam.ac.uk/courses/directory/egegmpmsl | 2026-10-28 | "Application deadline Dec. 8, 2026 · Course starts Oct. 1, 2027" · "11 months"
 - cam-mp-hiai | https://www.postgraduate.study.cam.ac.uk/courses/directory/iethmphia | 2026-10-28 | "Application deadline Dec. 8, 2026 · Course starts Oct. 1, 2027" · "9 months"
