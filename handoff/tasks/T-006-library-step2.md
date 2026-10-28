@@ -257,3 +257,35 @@
 - 方法：课程搜索页是 Funnelback 异步加载（浏览器渲染），分页为 URL 参数（?page=N&type=PGT&term=202728），逐页收集 262 个课程 → 筛四大类 → curl 逐页核实（课程详情页 curl 可读）。**耗时**：整校约 60 分钟（列表方案试错 20 分钟）
 - **不收**：AI online / Data Science Statistics online / Genomic Medicine online（在线）、Engineering Project Management / Engineering Technology and Business Management（工程域）、Economics / Ecological Economics / Economics and Finance（经济域）、Advertising and Marketing MA / Corporate Communications MAR（传播域）、Global Fashion Management（时装域）、Arts Management and Heritage Studies（艺术域）、Digital Chemistry（化学域）、Environmental DS with ML（环境域）、Health Informatics with DS ×2 / Genomic Medicine（医疗域）、Biotechnology with Business Enterprise（生物域）
 - 证据：`handoff/evidence/T-006-batch-16.md`；`check:programs` / `build` / `lint` 全过
+
+### Batch 17 · 谢菲尔德（2026-10-27）
+- **新增 20 个**：business 10 / finance 4 / cs 5 / data 1。库里 319 → **339**（UK 272 / HK 62 / SG 5）。**新学校，SCHOOL_ALIASES 已加 University of Sheffield（Sheffield/谢菲尔德/谢大）**
+- 谢菲尔德口径（20 页一致）：September 2027 开学、IELTS 6.5（单项 ≥6.0）、项目页未列固定申请截止 → 全部 rolling: true
+- 方法：官网 2027 课程列表（curl 直接可读，127 个 2027 项目）→ 筛四大类 → curl 逐页核实。**耗时**：整校约 30 分钟（最顺的一所）
+- **不收**：MBA、East Asian Business（区域研究）、Business and Organisational Psychology（心理学域）、文创域 ×2（Creative and Cultural Industries / Music Management）、图书情报域 ×2（Information Management / Library and Information Services）、Data and Digital Humanities（人文域）、Environmental Science and Data / GIS（环境/地理域）、AI for Engineering / AI for Life Sciences（应用域）、Economics / Business Finance and Economics（经济域）
+- 证据：`handoff/evidence/T-006-batch-17.md`；`check:programs` / `build` / `lint` 全过
+
+### 环境阻塞学校汇总（2026-10-27，ZCode 会话结束时点）
+以下学校在 ZCode 内置浏览器 + curl 环境下无法抓取，均已记存疑、未硬填，需要浩翔日常浏览器或换网络后补：
+- **城大 CityU**：Imperva 反爬（验证可通过但旧目录 404，新目录 50 个项目 JS 列表渲染不出链接）
+- **巴斯 Bath**：课程搜索组件不接受自动化交互（反复无法渲染结果）
+- **伯明翰 Birmingham**：postgraduate 页面空白（疑似反爬）
+- **诺丁汉 Nottingham**：Sitecore 加密页在无头环境不执行（A-Z 与 /pgstudy/ 均空白/404）
+- **南安普顿 Southampton**：CourseFinder 课程详情页 JS 渲染（列表页 curl 可读但详情全空壳）
+- **NUS / NTU**：`*.nus.edu.sg`、`*.ntu.edu.sg` 当前网络完全不可达（curl code=000；2026-10-24 时可达，网络状态恢复后补）
+- **未尝试**（浏览器渲染成功率未知，下批逐所试）：玛丽女王 QMUL、利物浦 Liverpool、约克 York、兰卡斯特 Lancaster、卡迪夫 Cardiff、圣安德鲁斯 St Andrews、阿伯丁 Aberdeen、Bayes、埃克塞特 Exeter
+- 经验：JS 目录型网站（Vue/React/Funnelback）在 IAB 里渲染成功率约五成；详情页 curl 可读的学校（谢菲尔德/爱丁堡/布里斯托/格拉斯哥/杜伦/曼大/港中文/南安普顿列表页）处理最快，优先做这类
+
+### 2026-10-28 · 浩翔（抽查 batch 1–17）
+抽查约 40 个（随机 + 每校至少 2 个），浏览器 / curl 对照官网原文。**日期与官网一致**：UCL、LSE、帝国、KCL、爱丁堡、曼大、布里斯托、利兹、谢菲尔德、港大、港科大全部抽到的项目。**发现并已修正**（commit 在 batch-17 分支）：
+- **港中文 batch-9 证据无效**：14 条证据引的是网页导航栏文字。重读原文后：ECLT 截止 03-31 → **03-16**（错日期）；FinTech、AI 漏第四轮 02-28；13 个项目漏标滚动审理；5 个漏「提前轮已过期」备注
+- **理大 batch-12**：16 个项目漏了 Early Round 2026-10-20（已过期，不影响当前截止，但轮次不完整）
+- **杜伦 batch-15**：8 个金融类项目的证据「1st October … as early as possible」在页面上**不存在**，是从管理类页面照抄的；备注已改为如实描述。计算机系 5 个去掉官网没写的「滚动审理」
+- **港大 FTDA**：2027 目录只有 Part-time（2 年，晚上 / 周末上课），不符合「只收全日制」，**已从库里删除**（库 339 → 338）
+- 全站「滚动录取」文案改为「无固定截止日期」：`rounds` 为空的项目里，有的官网写了 rolling，有的只是没写截止日，不能统一断言
+
+**给 ZCode 的规矩补充**（下一批起执行）：
+1. 证据必须是**截止日所在区块**的原文，带具体日期；导航栏、菜单、标题不算
+2. 同一所学校的多个项目**不能复用同一句证据**，除非逐页确认每页都有这句
+3. 「滚动审理」只在官网写了 rolling / continuous basis 时写进备注
+4. 轮次要记全，包括已过期的提前轮（显示时会自动标「已过」）

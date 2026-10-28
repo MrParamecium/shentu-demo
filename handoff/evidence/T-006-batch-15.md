@@ -24,3 +24,6 @@
 - dur-msc-aiip | https://www.durham.ac.uk/study/courses/artificial-intelligence-infrastructure-platforms-g6t709/ | 2026-10-27 | "September 2027" · "(页面未列固定申请截止)" · "1 year full-time"
 - dur-msc-aircv | https://www.durham.ac.uk/study/courses/artificial-intelligence-for-robotics-and-computer-vision-g6t409/ | 2026-10-27 | "September 2027" · "(页面未列固定申请截止)" · "1 year full-time"
 - dur-msc-ai | https://www.durham.ac.uk/study/courses/artificial-intelligence-g6t109/ | 2026-10-27 | "September 2027" · "(页面未列固定申请截止)" · "1 year full-time"
+
+## 浩翔抽查更正（2026-10-28）
+「The application process will open on 1st October … as early as possible」这句只出现在 **5 个管理类页面**（mgmt / mgmt-consulting / mgmt-entre / hrm / sclm）。金融类 7 个页面 + dur-msc-mgmt-fin（共 8 个）实际没有这句，证据是照抄的。8 个项目备注已改为「官网课程页未列申请截止日期，也未写开放日期」；计算机系 5 个备注去掉了官网没写的「滚动审理」。`rolling: true` 保留，作用只是「无固定截止」的显示；全站对应文案已改为「无固定截止日期」，不再断言滚动审理。

@@ -16,7 +16,7 @@ export default function DeadlinePill({ next }: { next: Upcoming | null }) {
         <p className="flex flex-wrap items-center gap-2">
           <span className="font-medium">无固定截止</span>
           <span className="rounded bg-amber-100 px-1.5 py-0.5 text-xs font-medium text-amber-800">
-            滚动录取，尽早申请
+            尽早申请
           </span>
         </p>
       </div>
