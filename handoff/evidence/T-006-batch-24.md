@@ -25,3 +25,7 @@
 - nott-msc-cybersec | https://www.nottingham.ac.uk/pgstudy/course/taught/cybersecurity | 2026-10-28 | "Full-time: 12 months · Part-time: Not available · Start date: September 2027" · "IELTS 6.5 (no less than 6.0 in any element)"
 - nott-msc-ds | https://www.nottingham.ac.uk/pgstudy/course/taught/data-science-msc | 2026-10-28 | "Full-time: 12 months · Part-time: Not available · Start date: September 2027" · "IELTS 6.5 with at least 6.0 in each element"
 - nott-msc-daai | https://www.nottingham.ac.uk/pgstudy/course/taught/data-analytics-and-ai-msc | 2026-10-28 | "Full-time: 12 months · Part-time: Not available · Start date: September 2027" · "IELTS 6.0 with no less than 5.5 in each area"
+
+## 复核补充（2026-10-28）
+- 18 页逐页复核：页面确无 deadline 区块，"Full-time: 12 months · Part-time: Not available · Start date: September 2027" 均在页面原文中 ✅
+- 诺丁汉统一截止日在中央申请页 https://www.nottingham.ac.uk/pgstudy/apply/apply-for-a-taught-course ：原文 "Applications for 2026/27 entry Standard application deadlines … Postgraduate taught 21 September 2026 3 August 2026 24 August 2026 … To be confirmed - Applications for 2027/28 entry"。即 **2027/28 截止日官方尚未公布**，不是「没有截止 / 滚动录取」。`rolling: true` 只作「无固定截止日期」显示保留，notes 已改为如实描述，公布后应补录国际生截止日
