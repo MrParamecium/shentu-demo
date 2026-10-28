@@ -9913,5 +9913,73 @@
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于计算机科学系（Department of Computer Science）"
     ]
+  },
+  {
+    "id": "ntu-msc-mfe",
+    "region": "SG",
+    "field": "finance",
+    "school": "Nanyang Technological University",
+    "schoolCn": "南洋理工大学",
+    "name": "MSc Financial Engineering",
+    "nameCn": "金融工程硕士",
+    "duration": "全日制 12 个月（3 trimesters 或 6 mini terms，另设 24 个月非全日制）",
+    "language": "IELTS 6.5 / TOEFL iBT 100（本科非英语授课需提交）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-30"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-31"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "rolling": true,
+    "officialUrl": "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-financial-engineering/admissions",
+    "officialLabel": "南洋商学院 金融工程硕士 招生页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "July 2027 intake；申请 2026 年 9 月起开放；官网写 rolling basis 滚动审理，早申请更有优势；截止时间为当天 23:59（以官网为准）",
+      "开设于南洋商学院（Nanyang Business School），与卡内基梅隆大学（CMU）合作开设，另设非 CMU 轨道"
+    ]
+  },
+  {
+    "id": "ntu-msc-acc",
+    "region": "SG",
+    "field": "finance",
+    "school": "Nanyang Technological University",
+    "schoolCn": "南洋理工大学",
+    "name": "MSc Accountancy",
+    "nameCn": "会计硕士",
+    "duration": "全日制 12 个月（官网原文 12-month full time programme，另设 2 年非全日制）",
+    "language": "IELTS 6.5 / TOEFL iBT 100（本科非英语授课需提交）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-30"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-31"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "rolling": true,
+    "officialUrl": "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-accountancy/admissions",
+    "officialLabel": "南洋商学院 会计硕士 招生页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "July 2027 intake；申请 2026 年 9 月起开放；官网写 rolling basis 滚动审理，早申请更有优势；截止时间为当天 23:59（以官网为准）",
+      "开设于南洋商学院（Nanyang Business School），设 General 与 Data Analytics 两个方向"
+    ]
   }
 ]
