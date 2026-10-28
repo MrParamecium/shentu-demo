@@ -132,6 +132,13 @@
 - **其他存疑**：Mathematical Finance（mafm.hkust.edu.hk）与 Data-Driven Modeling（物理系，msdm.hkust.edu.hk）主页未读到 2027/28 日期，需浏览器深挖招生子页
 - **不收**：Electronic Engineering / Integrated Circuits / Telecommunications（EE 域）、Aeronautical / Mechanical / Intelligent Building（机械域）、Biotechnology / Drug Regulatory / Entrepreneurial Leadership in Biotechnology（生物域）、Chemistry/Physics/Environment/Ocean 系列（理学院域）、Mathematics for Educators（教育域）、Economics MSc（经济域）、Global China Studies（社科域）、Digital and Sustainable Cities（土木域）
 
+### Batch 11-12 · 城大 + 理大（2026-10-27）
+- **城大本轮跳过**：官网 www.cityu.edu.hk/pg 用 Imperva（Incapsula）反爬，curl 和内置浏览器都拦（首次空白页，重载后能过验证但旧目录链接 404）；新版目录（/en/pg/taught-postgraduate-programmes/introduction）写明 50 个项目但卡片列表 JS 渲染不出链接 → 按规则记存疑跳过，让浩翔用日常浏览器看一眼目录结构或下次再试
+- **理大新增 16 个**：business 6 / finance 5 / cs 4 / data 1。库里 218 → 234（HK 62 / UK 167 / SG 5）。理大四大类：business 6 / finance 5 / cs 5 / data 2
+- 理大 2027 入学统一 Main Round 截止 **2027-02-25**（本地与非本地相同，卡片原文），库记「统一截止」；卡片直接写学制与入学年，证据最规整
+- **不收**：AI for the Professions（09003，官网标注 "offered subject to approval" 待批准，等批准后收）、Project Management（建造学院项目管理，按口径）、Medical Data Science / Health Informatics（医疗域）、Economics（经济域）及酒店/时装/体育/民航/设施/航运等域
+- 证据：`handoff/evidence/T-006-batch-11-cityu-skip.md`（城大跳过说明并入 batch-12 文件头部注记）与 `handoff/evidence/T-006-batch-12.md`；`check:programs` / `build` / `lint` 全过
+
 ## 进度日志
 （暂无）
 
@@ -210,3 +217,10 @@
 - 港科大 2027/28 目录（prog-crs）未上线，商学院轮次日期未公布 → 本批只收工学院页有完整 2027/28 信息的 4 个，其余 9 个记存疑（见上节）
 - 方法：prog-crs 目录（浏览器渲染，40 个 MSc）筛四大类 → 各系网项目页逐页核实（seng.hkust.edu.hk 和各项目专属站点）。**耗时**：整校约 50 分钟，一半时间耗在「目录未上线、商学院日期未公布」的确认上
 - 证据：`handoff/evidence/T-006-batch-10.md`；`check:programs` / `build` / `lint` 全过
+
+### 2026-10-27 · ZCode（Batch 11-12：城大跳过 + 理大）
+- **城大跳过**（反爬+JS 列表抓不到，存疑见上节）；**理大新增 16 个**（business 6 / finance 5 / cs 4 / data 1），库 218 → 234（HK 62 / UK 167 / SG 5）
+- 理大方法：/study/pg 导航进 "Programme by A-Z"（/study/pg/taught-postgraduate/programme-z-tpg），卡片自带 2027 入学、学制、截止原文 → 滚动收集 128 条 → 筛四大类。**耗时**：城大 25 分钟（卡在反爬，按 30 分钟规则跳过）+ 理大 25 分钟
+- 理大统一 Main Round 截止 2027-02-25（本地=非本地）；学制卡片原文直接可引；语言在折叠区读不到 → 「见学校统一英语要求」
+- AI for the Professions（09003）官网标 "offered subject to approval" 待批准 → 存疑，批准后收录
+- 证据：`handoff/evidence/T-006-batch-12.md`；`check:programs` / `build` / `lint` 全过
