@@ -115,6 +115,12 @@
 - **不收**：Engineering Business Management / Engineering Design Management / Healthcare Operational Management / Humanitarian Engineering（WMG 工程域）、Biotechnology/Medical Biotechnology Business Management（生物域）、Behavioural and Data Science / Behavioural and Economic Science（行为科学域）、Big Data and Digital Futures（跨学科数字未来域）、Social Data Science（社会域）、Economics 系列（经济域）、Intercultural Communication for Business（传播域）、LLM、Computer Science MSc by Research（研究型）、MBA；另有 WMG「Digital & AI Leadership MSc」未评估（面向管理者的领导力项目，疑在职向），浩翔可定
 - 英语按院系两档（页面原文）：WBS = IELTS 7.0（两项 6.0/6.5 其余 ≥7.0）；WMG/计算机系/统计系 = 6.5（单项 ≥6.0）。库里原有两条华威写的「见学校统一英语要求」可以后续补成具体分数
 
+### Batch 8 · 港大（2026-10-27）
+- **港大商学院 2027 入学起硕士为 2 年制**：portal 各页 "Expected Duration 2 years"（Full-time），与库内 MFin/MSc BA 口径一致，新增 9 个商学院项目都按 2 年记
+- **MSc in Financial Technology and Data Analytics（FTDA）需复核**：2027 portal 目录标注 **Part-Time**（"MSc(FTDA) Part-Time"），但库里 hku-msc-ftda 已有条目（轮次 主轮/补录轮）——按「只收全日制」规则可能要下架，浩翔定
+- **MSc in Computer Science 新增 AI 与去中心化技术方向**（Delta X Fellowship 版本），作为独立条目收录（hku-msc-cs-aidt），与原有通用方向条目并列
+- **不收**：MBA / EMBA / IMBA（MBA 类）、Master of Economics（经济域）、Infrastructure/Innovative Design/Low-Altitude/Microelectronics 等工学院 MSc(Eng)（工程域）、Environmental Management（环境域，已 Closed）、Food Industry Management（食品域）、Delta X Fellowship 通用方向版本（与库内条目重复）
+
 ## 进度日志
 （暂无）
 
@@ -172,3 +178,11 @@
 - 英语按院系两档（页面原文）：WBS = IELTS 7.0（两项 6.0/6.5 其余 ≥7.0），WMG/计算机系/统计系 = 6.5（单项 ≥6.0）
 - 改名 1 个：Business with Finance → Finance & Management；Global Central Banking（part-time online）不收
 - 证据：`handoff/evidence/T-006-batch-7.md`；`check:programs` / `build` / `lint` 全过
+
+### 2026-10-27 · ZCode（Batch 8：港大）
+- **新增 14 个**：business 4 / finance 6 / cs 3 / data 1。库里 186 → **200**（HK 28 / UK 167 / SG 5）。港大四大类：business 5 / finance 8 / cs 5 / data 2
+- 方法：portal 项目列表页数字分页 17 页逐页点击收集 170 个项目 → 筛四大类 → 内置浏览器逐页抓详情（portal 是 JS 渲染，curl 拿不到正文；详情页的轮次日期在标签行的下一行，要带上下文抓）。**耗时**：整校约 75 分钟，其中 25 分钟耗在列表分页/懒加载和详情页结构摸底
+- 轮次：商学院 9 个三轮（提前轮 2026-07-24 / 第一轮 2026-09-28 / 第二轮 2026-12-04，香港时间中午 12:00，前两轮已过）；计算与数据科学学院、创新学院为主轮+补录轮两轮制（主轮 2026-11-16 ~ 2027-01-15 不等，补录 2027-02-01 / 2027-04-30）
+- 学制：商学院 9 个页面写 2 年（全日制），创新学院/计算机系 1 年，MSc(AI) 1.5 年
+- 语言：全部为港大统一最低线 IELTS 6.0（单项 ≥5.5）/ TOEFL 80（页面原文核实）
+- 证据：`handoff/evidence/T-006-batch-8.md`；`check:programs` / `build` / `lint` 全过

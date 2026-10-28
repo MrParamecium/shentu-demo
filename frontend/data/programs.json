@@ -5711,5 +5711,437 @@
       "2027 年 9 月 27 日开学",
       "开设于统计系（Department of Statistics）"
     ]
+  },
+  {
+    "id": "hku-mgm",
+    "region": "HK",
+    "field": "business",
+    "school": "The University of Hong Kong (HKU Business School)",
+    "schoolCn": "香港大学",
+    "name": "Master of Global Management (MGM)",
+    "nameCn": "全球管理硕士",
+    "duration": "全日制 2 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "提前轮",
+        "deadline": "2026-07-24"
+      },
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-28"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-04"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-global-management-hkubs&mode=0",
+    "officialLabel": "港大 MGM 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
+    ]
+  },
+  {
+    "id": "hku-msc-marketing",
+    "region": "HK",
+    "field": "business",
+    "school": "The University of Hong Kong (HKU Business School)",
+    "schoolCn": "香港大学",
+    "name": "Master of Science in Marketing (MSc(Mktg))",
+    "nameCn": "市场学硕士",
+    "duration": "全日制 2 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "提前轮",
+        "deadline": "2026-07-24"
+      },
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-28"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-04"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-marketing-hkubs&mode=0",
+    "officialLabel": "港大 MSc(Mktg) 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
+    ]
+  },
+  {
+    "id": "hku-maib",
+    "region": "HK",
+    "field": "business",
+    "school": "The University of Hong Kong (HKU Business School)",
+    "schoolCn": "香港大学",
+    "name": "Master of Artificial Intelligence in Business (MAIB)",
+    "nameCn": "商业人工智能硕士",
+    "duration": "全日制 2 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "提前轮",
+        "deadline": "2026-07-24"
+      },
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-28"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-04"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-artificial-intelligence-in-business-hkubs&mode=0",
+    "officialLabel": "港大 MAIB 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
+    ]
+  },
+  {
+    "id": "hku-msc-it",
+    "region": "HK",
+    "field": "business",
+    "school": "The University of Hong Kong",
+    "schoolCn": "香港大学",
+    "name": "Master of Science in Innovation and Technology (MSc(I&T))",
+    "nameCn": "创新与科技硕士",
+    "duration": "全日制 1 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "主轮",
+        "deadline": "2027-01-15"
+      },
+      {
+        "name": "补录轮",
+        "deadline": "2027-04-30"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-innovation-and-technology&mode=0",
+    "officialLabel": "港大 MSc(I&T) 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00",
+      "开设于港大创新学院（School of Innovation）；2027/28 学费 HK$330,000"
+    ]
+  },
+  {
+    "id": "hku-macct",
+    "region": "HK",
+    "field": "finance",
+    "school": "The University of Hong Kong (HKU Business School)",
+    "schoolCn": "香港大学",
+    "name": "Master of Accounting (MAcct)",
+    "nameCn": "会计硕士",
+    "duration": "全日制 2 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "提前轮",
+        "deadline": "2026-07-24"
+      },
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-28"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-04"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-accounting-hkubs&mode=0",
+    "officialLabel": "港大 MAcct 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
+    ]
+  },
+  {
+    "id": "hku-maa",
+    "region": "HK",
+    "field": "finance",
+    "school": "The University of Hong Kong (HKU Business School)",
+    "schoolCn": "香港大学",
+    "name": "Master of Accounting Analytics (MAA)",
+    "nameCn": "会计分析硕士",
+    "duration": "全日制 2 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "提前轮",
+        "deadline": "2026-07-24"
+      },
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-28"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-04"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-accounting-analytics-hkubs&mode=0",
+    "officialLabel": "港大 MAA 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
+    ]
+  },
+  {
+    "id": "hku-msaf",
+    "region": "HK",
+    "field": "finance",
+    "school": "The University of Hong Kong (HKU Business School)",
+    "schoolCn": "香港大学",
+    "name": "Master of Sustainable Accounting and Finance (MSAF)",
+    "nameCn": "可持续会计与金融硕士",
+    "duration": "全日制 2 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "提前轮",
+        "deadline": "2026-07-24"
+      },
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-28"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-04"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-sustainable-accounting-and-finance-hkubs&mode=0",
+    "officialLabel": "港大 MSAF 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
+    ]
+  },
+  {
+    "id": "hku-mffintech",
+    "region": "HK",
+    "field": "finance",
+    "school": "The University of Hong Kong (HKU Business School)",
+    "schoolCn": "香港大学",
+    "name": "Master of Finance in Financial Technology (MFFinTech)",
+    "nameCn": "金融科技金融硕士",
+    "duration": "全日制 2 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "提前轮",
+        "deadline": "2026-07-24"
+      },
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-28"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-04"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-finance-in-financial-technology-hkubs&mode=0",
+    "officialLabel": "港大 MFFinTech 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
+    ]
+  },
+  {
+    "id": "hku-mfwm",
+    "region": "HK",
+    "field": "finance",
+    "school": "The University of Hong Kong (HKU Business School)",
+    "schoolCn": "香港大学",
+    "name": "Master of Family Wealth Management (MFWM)",
+    "nameCn": "家族财富管理硕士",
+    "duration": "全日制 2 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "提前轮",
+        "deadline": "2026-07-24"
+      },
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-28"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-04"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-family-wealth-management-hkubs&mode=0",
+    "officialLabel": "港大 MFWM 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
+    ]
+  },
+  {
+    "id": "hku-mwm",
+    "region": "HK",
+    "field": "finance",
+    "school": "The University of Hong Kong (HKU Business School)",
+    "schoolCn": "香港大学",
+    "name": "Master of Wealth Management (MWM)",
+    "nameCn": "财富管理硕士",
+    "duration": "全日制 2 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "提前轮",
+        "deadline": "2026-07-24"
+      },
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-28"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-04"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-wealth-management-hkubs&mode=0",
+    "officialLabel": "港大 MWM 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
+    ]
+  },
+  {
+    "id": "hku-msc-cs-aidt",
+    "region": "HK",
+    "field": "cs",
+    "school": "The University of Hong Kong",
+    "schoolCn": "香港大学",
+    "name": "MSc in Computer Science (AI & Decentralized Technologies Stream), with Delta X Fellowship",
+    "nameCn": "计算机科学硕士（人工智能与去中心化技术方向，含 Delta X Fellowship）",
+    "duration": "全日制 1 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "主轮",
+        "deadline": "2026-12-01"
+      },
+      {
+        "name": "补录轮",
+        "deadline": "2027-04-30"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(ai-and-decentralized-technologies-stream),-with-delta-x-fellowship-cds&mode=0",
+    "officialLabel": "港大 MSc(CompSc) AI&DT 方向项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00",
+      "计算机科学新增 AI 与去中心化技术方向（Delta X Fellowship 奖学金版本），与库内通用方向条目并列"
+    ]
+  },
+  {
+    "id": "hku-msc-ecomic",
+    "region": "HK",
+    "field": "cs",
+    "school": "The University of Hong Kong",
+    "schoolCn": "香港大学",
+    "name": "MSc in Electronic Commerce and Internet Computing (MSc(ECom&IComp))",
+    "nameCn": "电子商务与互联网计算硕士",
+    "duration": "全日制 1 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "主轮",
+        "deadline": "2026-12-01"
+      },
+      {
+        "name": "补录轮",
+        "deadline": "2027-04-30"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-electronic-commerce-and-internet-computing-cds&mode=0",
+    "officialLabel": "港大 MSc(ECom&IComp) 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00"
+    ]
+  },
+  {
+    "id": "hku-msc-ai",
+    "region": "HK",
+    "field": "cs",
+    "school": "The University of Hong Kong",
+    "schoolCn": "香港大学",
+    "name": "Master of Science in Artificial Intelligence (MSc(AI))",
+    "nameCn": "人工智能硕士",
+    "duration": "全日制 1.5 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "主轮",
+        "deadline": "2026-11-16"
+      },
+      {
+        "name": "补录轮",
+        "deadline": "2027-02-01"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-artificial-intelligence-sci&mode=0",
+    "officialLabel": "港大 MSc(AI) 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00",
+      "理学院项目；2027/28 学费 HK$420,000"
+    ]
+  },
+  {
+    "id": "hku-mstat",
+    "region": "HK",
+    "field": "data",
+    "school": "The University of Hong Kong",
+    "schoolCn": "香港大学",
+    "name": "Master of Statistics (MStat)",
+    "nameCn": "统计学硕士",
+    "duration": "全日制 1 年",
+    "language": "港大最低：IELTS 6.0（单项 ≥5.5）/ TOEFL 80",
+    "rounds": [
+      {
+        "name": "主轮",
+        "deadline": "2026-12-01"
+      },
+      {
+        "name": "补录轮",
+        "deadline": "2027-04-30"
+      }
+    ],
+    "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-statistics-cds&mode=0",
+    "officialLabel": "港大 MStat 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "截止时间为香港时间中午 12:00",
+      "开设于计算与数据科学学院；本地生学费 HK$245,000"
+    ]
   }
 ]
