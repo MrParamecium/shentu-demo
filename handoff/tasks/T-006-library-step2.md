@@ -109,6 +109,12 @@
 - **DS&AI 新家族归 data**：曼大 2026 新开 MSc Data Science and Artificial Intelligence 大家族（官网列 School of Social Sciences 跨学科项目），收了 Business and Management / Computer Science Data Informatics / Mathematics 三个路径，Social Analytics / Urban Analytics 按域规则没收；field 统一记 data（核心学科是数据科学），浩翔抽查时可确认
 - CS 系 4 个新项目（AI / Machine Learning / Cyber Security / Software Engineering）项目页不写英语分数，按规则记「见学校统一英语要求」（库里 Advanced Computer Science 的 7.0/6.5 是友涵之前在页面上核实过的，别混用）
 
+### Batch 7 · 华威（2026-10-27）
+- **Business with Finance MSc 已改名 Finance & Management MSc**（旧 slug msc-business-finance 现指向同名页面），只收一条，归 finance
+- **Global Central Banking and Financial Regulation 不收**：MSc 变体页面写 "2-3 years (MSc), part-time, online"，非全日制在线
+- **不收**：Engineering Business Management / Engineering Design Management / Healthcare Operational Management / Humanitarian Engineering（WMG 工程域）、Biotechnology/Medical Biotechnology Business Management（生物域）、Behavioural and Data Science / Behavioural and Economic Science（行为科学域）、Big Data and Digital Futures（跨学科数字未来域）、Social Data Science（社会域）、Economics 系列（经济域）、Intercultural Communication for Business（传播域）、LLM、Computer Science MSc by Research（研究型）、MBA；另有 WMG「Digital & AI Leadership MSc」未评估（面向管理者的领导力项目，疑在职向），浩翔可定
+- 英语按院系两档（页面原文）：WBS = IELTS 7.0（两项 6.0/6.5 其余 ≥7.0）；WMG/计算机系/统计系 = 6.5（单项 ≥6.0）。库里原有两条华威写的「见学校统一英语要求」可以后续补成具体分数
+
 ## 进度日志
 （暂无）
 
@@ -158,3 +164,11 @@
 - 轮次：AMBS 13 个统一五轮（2026-12-06 起，how-to-apply 页 2026-10-27 重核，开放日 2026-10-10，申请费 £60）；CS 系 4 个四轮（2026-11-06 起）；Mathematical Finance 四轮（2026-11-06 起，S3 结果日 04-16 与 CS 系不同）；DS&AI 三个路径四轮（2026-12-06 起）
 - 2026 新项目进了 2027 目录：AMBS Digital Transformation、Sustainable Business；CS 系 AI / ML / Cyber Security / Software Engineering；DS&AI 大家族（5 路径收 3）
 - 证据：`handoff/evidence/T-006-batch-6.md`；`check:programs` / `build` / `lint` 全过
+
+### 2026-10-27 · ZCode（Batch 7：华威）
+- **新增 29 个**：business 12 / finance 6 / cs 7 / data 4。库里 157 → 186（UK 167 / HK 14 / SG 5）。华威四大类：business 14 / finance 8 / cs 7 / data 4
+- 方法：公开课程搜索页（271 个结果，每次显示 10 条，循环点 show more 收 155 个授课型）→ 筛四大类 → curl 逐页核实（华威课程页不拦脚本）。**耗时**：整校约 40 分钟（列表 show-more 循环 8 分钟，逐页核实很快，页面结构统一）
+- 轮次：华威全校统一 on-time deadline **2027-08-02**（"starting in September/October 2027"），无分轮，库里记「统一截止」（与原有两条华威条目口径一致）；2027-09-27 开学
+- 英语按院系两档（页面原文）：WBS = IELTS 7.0（两项 6.0/6.5 其余 ≥7.0），WMG/计算机系/统计系 = 6.5（单项 ≥6.0）
+- 改名 1 个：Business with Finance → Finance & Management；Global Central Banking（part-time online）不收
+- 证据：`handoff/evidence/T-006-batch-7.md`；`check:programs` / `build` / `lint` 全过
