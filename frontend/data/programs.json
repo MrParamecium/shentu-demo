@@ -9922,21 +9922,147 @@
     "schoolCn": "香港科技大学",
     "name": "MSc in Global Operations (MSGO)",
     "nameCn": "环球运营硕士",
-    "duration": "全日制，学制见学校官网（以官网为准）",
-    "language": "见学校统一英语要求（以官网为准）",
+    "duration": "全日制 1 年",
+    "language": "IELTS 6.5（单项 ≥5.5）/ TOEFL iBT 80",
     "rounds": [
       {
-        "name": "第一轮（Phase 1）",
-        "deadline": "2026-10-02"
+        "name": "第一轮",
+        "deadline": "2026-10-11"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-11-29"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-01-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-02-28"
       }
     ],
-    "officialUrl": "https://msgo.hkust.edu.hk/",
-    "officialLabel": "港科大 MSGO 项目官网",
+    "officialUrl": "https://msgo.hkust.edu.hk/admissions/application-schedule-procedures",
+    "officialLabel": "港科大 MSGO 申请时间表",
     "updatedAt": "2026-10-28",
     "verified": true,
     "notes": [
-      "官网首页轮播：「2027/28 Intake - Phase 1 Applications Closing Soon 02.10.2026」，Phase 1 已过期；后续轮次官网未列出",
-      "官网写 Application for 2027/28 intake open now，申请已开放"
+      "官网写 Phase 1–4，截止时间为香港时间 23:59；滚动审理，名额满后晚交申请视剩余名额考虑",
+      "2027-28 学费 HK$365,000；录取后缴不退押金 HK$127,750"
+    ],
+    "rolling": true
+  },
+  {
+    "id": "hkust-msc-ism",
+    "region": "HK",
+    "field": "business",
+    "school": "The Hong Kong University of Science and Technology",
+    "schoolCn": "香港科技大学",
+    "name": "MSc in Information Systems Management (MScISM)",
+    "nameCn": "信息系统管理理学硕士",
+    "duration": "全日制 1 年（另设 2 年非全日制）",
+    "language": "IELTS 6.5（单项 ≥5.5）/ TOEFL iBT 80",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-10-11"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-11-29"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-01-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-02-28"
+      }
+    ],
+    "rolling": true,
+    "officialUrl": "https://mscism.hkust.edu.hk/admissions/application-schedule-procedures",
+    "officialLabel": "港科大 MScISM 申请时间表",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "以上为全日制截止（官网 Phase 1–4）；非全日制另有日期；滚动审理",
+      "2027-28 全日制学费 HK$360,000；录取后缴不退押金 HK$126,000"
+    ]
+  },
+  {
+    "id": "hkust-msc-im",
+    "region": "HK",
+    "field": "business",
+    "school": "The Hong Kong University of Science and Technology",
+    "schoolCn": "香港科技大学",
+    "name": "MSc in International Management (MIMT)",
+    "nameCn": "国际管理理学硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-10-11"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-11-29"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-01-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-02-28"
+      }
+    ],
+    "rolling": true,
+    "officialUrl": "https://mimt.hkust.edu.hk/admissions/application-deadlines-procedures",
+    "officialLabel": "港科大 MIMT 申请时间表",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网写 Phase 1–4，截止时间为香港时间 23:59；滚动审理",
+      "2027-28 学费 HK$420,000；录取后缴不退押金 HK$147,000"
+    ]
+  },
+  {
+    "id": "hkust-msc-fofb",
+    "region": "HK",
+    "field": "finance",
+    "school": "The Hong Kong University of Science and Technology",
+    "schoolCn": "香港科技大学",
+    "name": "MSc in Family Office and Family Business (MScFOFB)",
+    "nameCn": "家族办公室与家族企业理学硕士",
+    "duration": "全日制 1 年（另设 2 年非全日制）",
+    "language": "IELTS 6.5（单项 ≥5.5）/ TOEFL iBT 80",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-10-11"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-11-29"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-01-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-02-28"
+      }
+    ],
+    "officialUrl": "https://mscfofb.hkust.edu.hk/admissions/application-schedule-procedures",
+    "officialLabel": "港科大 MScFOFB 申请时间表",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "以上为全日制截止（官网 Phase 1–4）；非全日制另有日期",
+      "2027/28 学费 HK$477,400；录取后缴不退押金 HK$167,000（全日制）"
     ]
   }
 ]
