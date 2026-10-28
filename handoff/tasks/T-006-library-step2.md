@@ -310,3 +310,11 @@
 2. 同一所学校的多个项目**不能复用同一句证据**，除非逐页确认每页都有这句
 3. 「滚动审理」只在官网写了 rolling / continuous basis 时写进备注
 4. 轮次要记全，包括已过期的提前轮（显示时会自动标「已过」）
+
+### Batch 24 · 诺丁汉（2026-10-28，ZCode 并行会话 E）
+- **新增 18 个**：business 9 / finance 4 / cs 3 / data 2。库里 338 → 356（UK 290 / HK 61 / SG 5）。**新学校，SCHOOL_ALIASES 已加 University of Nottingham（Nottingham/诺丁汉/诺大）**
+- 上轮「加密页不执行」本轮已解决：官网课程目录 `nottingham.ac.uk/pgstudy/courses/courses.aspx?letter=X&year=2027` 改为**服务端渲染**（curl 直接可读，26 个字母抓全 138 个 taught 课程）
+- 18 页均无固定申请截止日期区块 → 记 rolling: true +「未列固定申请截止日期」（未断言滚动审理）；全部 Full-time 12 months / Start date September 2027
+- **不收**：Human Computer Interaction MSc（页面仍显示 September 2026，2027 页未更新）、Financial Economics MSc（社科学院经济系）、MBA、Business Consulting and Analytics (online)（在线）、CS 与 CPS 的两年全日制变体（含行业年，未单列）、Economics and Data Science（经济域）
+- 学制注意：全部 12 个月全日制（PT 均 Not available）
+- 证据：`handoff/evidence/T-006-batch-24.md`（18 页各自原文）；`check:programs` / `build` / `lint` 全过

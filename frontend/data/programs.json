@@ -9913,5 +9913,385 @@
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于计算机科学系（Department of Computer Science）"
     ]
+  },
+  {
+    "id": "nott-msc-bm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Business and Management MSc",
+    "nameCn": "商务与管理硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/business-and-management-msc",
+    "officialLabel": "诺丁汉 Business and Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ]
+  },
+  {
+    "id": "nott-msc-dm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Digital Marketing MSc",
+    "nameCn": "数字营销硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/digital-marketing-msc",
+    "officialLabel": "诺丁汉 Digital Marketing MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School），官网写明为转专业课程（conversion course）"
+    ]
+  },
+  {
+    "id": "nott-msc-eim",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Entrepreneurship, Innovation and Management MSc",
+    "nameCn": "创业、创新与管理硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/entrepreneurship-innovation-and-management-msc",
+    "officialLabel": "诺丁汉 Entrepreneurship, Innovation and Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ]
+  },
+  {
+    "id": "nott-msc-hrmo",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Human Resource Management and Organisation MSc",
+    "nameCn": "人力资源管理与组织硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/human-resource-management-and-organisation-msc",
+    "officialLabel": "诺丁汉 Human Resource Management and Organisation MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ]
+  },
+  {
+    "id": "nott-msc-imis",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Industrial Management and Information Systems MSc",
+    "nameCn": "工业管理与信息系统硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/industrial-management-and-information-systems",
+    "officialLabel": "诺丁汉 Industrial Management and Information Systems MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ]
+  },
+  {
+    "id": "nott-msc-ib",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "International Business MSc",
+    "nameCn": "国际商务硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/international-business-msc",
+    "officialLabel": "诺丁汉 International Business MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ]
+  },
+  {
+    "id": "nott-msc-mgmt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Management MSc",
+    "nameCn": "管理学硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/management-msc",
+    "officialLabel": "诺丁汉 Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ]
+  },
+  {
+    "id": "nott-msc-mkt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Marketing MSc",
+    "nameCn": "市场营销硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/marketing-msc",
+    "officialLabel": "诺丁汉 Marketing MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ]
+  },
+  {
+    "id": "nott-msc-scom",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Supply Chain and Operations Management MSc",
+    "nameCn": "供应链与运营管理硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/supply-chain-and-operations-management-msc",
+    "officialLabel": "诺丁汉 Supply Chain and Operations Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ]
+  },
+  {
+    "id": "nott-msc-af",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Accounting and Finance MSc",
+    "nameCn": "会计与金融硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/accounting-and-finance-msc",
+    "officialLabel": "诺丁汉 Accounting and Finance MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ]
+  },
+  {
+    "id": "nott-msc-bf",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Banking and Finance MSc",
+    "nameCn": "银行与金融硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/banking-and-finance-msc",
+    "officialLabel": "诺丁汉 Banking and Finance MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ]
+  },
+  {
+    "id": "nott-msc-fi",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Finance and Investment MSc",
+    "nameCn": "金融与投资硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/finance-and-investment-msc",
+    "officialLabel": "诺丁汉 Finance and Investment MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ]
+  },
+  {
+    "id": "nott-msc-rm",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Risk Management MSc",
+    "nameCn": "风险管理硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/risk-management-msc",
+    "officialLabel": "诺丁汉 Risk Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）",
+      "官网要求较强的数理背景：相关数学/统计/量化模块至少两门达 2:1（60%）"
+    ]
+  },
+  {
+    "id": "nott-msc-acs",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Advanced Computer Science or Advanced Computer Science (Artificial Intelligence) MSc",
+    "nameCn": "高级计算机科学（或人工智能方向）硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/computer-science-artificial-intelligence",
+    "officialLabel": "诺丁汉 Advanced Computer Science or Advanced Computer Science (Artificial Intelligence) MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于计算机科学系（School of Computer Science）",
+      "官网同页列两个学位方向（Advanced Computer Science / 含 AI 方向），申请时选择；另设两年全日制版本（含行业年），未单独收录"
+    ]
+  },
+  {
+    "id": "nott-msc-cps",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Cyber Physical Systems MSc",
+    "nameCn": "信息物理系统硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/cyberphysical-systems-msc",
+    "officialLabel": "诺丁汉 Cyber Physical Systems MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于计算机科学系（School of Computer Science）"
+    ]
+  },
+  {
+    "id": "nott-msc-cybersec",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Cyber Security MSc",
+    "nameCn": "网络安全硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/cybersecurity",
+    "officialLabel": "诺丁汉 Cyber Security MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于计算机科学系（School of Computer Science）"
+    ]
+  },
+  {
+    "id": "nott-msc-ds",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Data Science MSc",
+    "nameCn": "数据科学硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/data-science-msc",
+    "officialLabel": "诺丁汉 Data Science MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于计算机科学系（School of Computer Science）"
+    ]
+  },
+  {
+    "id": "nott-msc-daai",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Data Analytics and AI MSc",
+    "nameCn": "数据分析与人工智能硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.0（单项 ≥5.5）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/data-analytics-and-ai-msc",
+    "officialLabel": "诺丁汉 Data Analytics and AI MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期（2027 年 9 月开学）",
+      "开设于计算机科学系（School of Computer Science）"
+    ]
   }
 ]
