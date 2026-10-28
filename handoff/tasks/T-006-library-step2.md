@@ -310,3 +310,11 @@
 2. 同一所学校的多个项目**不能复用同一句证据**，除非逐页确认每页都有这句
 3. 「滚动审理」只在官网写了 rolling / continuous basis 时写进备注
 4. 轮次要记全，包括已过期的提前轮（显示时会自动标「已过」）
+
+### Batch 21 · 南洋理工（2026-10-28，ZCode）
+- **新增 2 个**（finance 2）：MSc Financial Engineering、MSc Accountancy。库里 338 → 345 分支口径（本分支 +2，SG 5 → 7）
+- 两页（/business/admissions/graduate-studies/<slug>/admissions）轮次一致：**July 2027 intake，2026 年 9 月起申请，滚动审理，三轮：2026-11-30 / 2027-01-31 / 2027-03-31**；语言 "TOEFL ≥100 iBT or IELTS ≥6.5"
+- MFE：全日制 12 个月（另设 24 个月非全日制），与 CMU 合作（另设非 CMU 轨道）；Accountancy：官网原文 "12-month full time programme"，General / Data Analytics 两个方向
+- **存疑**：① MSc Marketing Science、Master in Management（MiM）——轮次已核实（同三轮）但**全日制属性/学制在页面上读不到**（NTU 页面渲染不稳定），按「只收全日制」规则本轮不收，待补核后下批加；② MSc in Artificial Intelligence（MSAI，SCSE）官网 URL 404，需从站内搜索定位（10-24 就是因页面无日期未加）；③ MSc Blockchain、MSc Enterprise Artificial Intelligence 未核实；④ 学院子域名（scse/nbs.ntu.edu.sg）仍不可达，项目页走主域名路径
+- 证据：`handoff/evidence/T-006-batch-21.md`；`check:programs` / `build` / `lint` 全过
+- 耗时：约 60 分钟（NTU 页面渲染不稳定，同页多次重载才读到内容）
