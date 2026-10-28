@@ -7719,5 +7719,879 @@
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托计算机科学、电气与电子工程及工程数学学院（School of Computer Science...）"
     ]
+  },
+  {
+    "id": "gla-msc-mgmt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Management [MSc]",
+    "nameCn": "管理学硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/managementmsc/",
+    "officialLabel": "格拉斯哥 管理学硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于亚当·斯密商学院（Adam Smith Business School）"
+    ]
+  },
+  {
+    "id": "gla-msc-mgmt-hr",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Management with Human Resources [MSc]",
+    "nameCn": "管理学硕士（人力资源）",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/managementwithhumanresources/",
+    "officialLabel": "格拉斯哥 管理学硕士（人力资源） 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于亚当·斯密商学院（Adam Smith Business School）"
+    ]
+  },
+  {
+    "id": "gla-msc-mgmt-mkt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Management with Marketing [MSc]",
+    "nameCn": "管理学硕士（市场营销）",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/management-with-marketing/",
+    "officialLabel": "格拉斯哥 管理学硕士（市场营销） 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于亚当·斯密商学院（Adam Smith Business School）"
+    ]
+  },
+  {
+    "id": "gla-msc-ib",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "International Business [MSc]",
+    "nameCn": "国际商务硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/internationalbusiness/",
+    "officialLabel": "格拉斯哥 国际商务硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于亚当·斯密商学院（Adam Smith Business School）"
+    ]
+  },
+  {
+    "id": "gla-msc-ism",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "International Strategic Marketing [MSc]",
+    "nameCn": "国际战略营销硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/internationalstrategicmarketing/",
+    "officialLabel": "格拉斯哥 国际战略营销硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于亚当·斯密商学院（Adam Smith Business School）"
+    ]
+  },
+  {
+    "id": "gla-msc-ihrmd",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "International Human Resource Management & Development [MSc]",
+    "nameCn": "国际人力资源管理与开发硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/internationalhumanresourcemanagementdevelopment/",
+    "officialLabel": "格拉斯哥 国际人力资源管理与开发硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于亚当·斯密商学院（Adam Smith Business School）"
+    ]
+  },
+  {
+    "id": "gla-msc-ba",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Business Analytics [MSc]",
+    "nameCn": "商业分析硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/business-analytics/",
+    "officialLabel": "格拉斯哥 商业分析硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于亚当·斯密商学院（Adam Smith Business School）"
+    ]
+  },
+  {
+    "id": "gla-msc-cfb",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Corporate Finance & Banking [MSc]",
+    "nameCn": "公司金融与银行硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/corporate-finance-banking/",
+    "officialLabel": "格拉斯哥 公司金融与银行硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于亚当·斯密商学院（Adam Smith Business School）"
+    ]
+  },
+  {
+    "id": "gla-msc-finmgmt",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Finance & Management [MSc]",
+    "nameCn": "金融与管理硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/financemanagement/",
+    "officialLabel": "格拉斯哥 金融与管理硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于亚当·斯密商学院（Adam Smith Business School）"
+    ]
+  },
+  {
+    "id": "gla-msc-finecon",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Financial Economics [MSc]",
+    "nameCn": "金融经济学硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/financialeconomics/",
+    "officialLabel": "格拉斯哥 金融经济学硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于亚当·斯密商学院（Adam Smith Business School）"
+    ]
+  },
+  {
+    "id": "gla-msc-fineng",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Financial Engineering [MSc]",
+    "nameCn": "金融工程硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/financial-engineering/",
+    "officialLabel": "格拉斯哥 金融工程硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于亚当·斯密商学院（Adam Smith Business School）"
+    ]
+  },
+  {
+    "id": "gla-msc-frm",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Financial Risk Management [MSc]",
+    "nameCn": "金融风险管理硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/financialriskmanagement/",
+    "officialLabel": "格拉斯哥 金融风险管理硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于亚当·斯密商学院（Adam Smith Business School）"
+    ]
+  },
+  {
+    "id": "gla-msc-fintech",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Financial Technology [MSc]",
+    "nameCn": "金融科技硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/financialtechnology/",
+    "officialLabel": "格拉斯哥 金融科技硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于亚当·斯密商学院（Adam Smith Business School）"
+    ]
+  },
+  {
+    "id": "gla-msc-cs",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Computing Science [MSc]",
+    "nameCn": "计算机科学硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/computingscience/",
+    "officialLabel": "格拉斯哥 计算机科学硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于计算机科学系（School of Computing Science）"
+    ]
+  },
+  {
+    "id": "gla-msc-cybersec",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Cybersecurity [MSc]",
+    "nameCn": "网络安全硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/cybersecurity/",
+    "officialLabel": "格拉斯哥 网络安全硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于计算机科学系（School of Computing Science）"
+    ]
+  },
+  {
+    "id": "gla-msc-cse",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Computer Systems Engineering [MSc]",
+    "nameCn": "计算机系统工程硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/computersystemsengineering/",
+    "officialLabel": "格拉斯哥 计算机系统工程硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于计算机科学系（School of Computing Science）"
+    ]
+  },
+  {
+    "id": "gla-msc-da",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Data Analytics [MSc]",
+    "nameCn": "数据分析硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/dataanalytics/",
+    "officialLabel": "格拉斯哥 数据分析硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于数学与统计系（School of Mathematics and Statistics）"
+    ]
+  },
+  {
+    "id": "gla-msc-advstats",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Advanced Statistics [MSc]",
+    "nameCn": "高等统计学硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/advanced-statistics/",
+    "officialLabel": "格拉斯哥 高等统计学硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于数学与统计系（School of Mathematics and Statistics）"
+    ]
+  },
+  {
+    "id": "gla-msc-dsai",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Glasgow",
+    "schoolCn": "格拉斯哥大学",
+    "name": "Data Science & Artificial Intelligence [MSc]",
+    "nameCn": "数据科学与人工智能硕士",
+    "duration": "全日制 1 年（12 个月）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-05"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-12-17"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-02-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-03-25"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-05-13"
+      },
+      {
+        "name": "第六轮",
+        "deadline": "2027-07-08"
+      }
+    ],
+    "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/data-science-artificial-intelligence/",
+    "officialLabel": "格拉斯哥 数据科学与人工智能硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
+      "2027 年 9 月开学，全日制 12 个月",
+      "开设于计算机科学系（School of Computing Science）"
+    ]
   }
 ]

@@ -237,3 +237,9 @@
 - **边界决定（请浩翔确认）**：收了 Management 8 个方向（含 Project Management——管理学院开设，与「工程/建造学院 PM 不收」口径不冲突）、三个创新创业变体（Business/普通/Social）；MSc Economics 系列全部不收（经济学院）；AI Governance and Ethics / AI for Medicine and Health / Engineering with AI（域外）；MA Digital Business Innovation 等四个 MA（设计创意域）；Environmental Data Science（环境域）；Medical Statistics and Health Data Science（医疗域）；Mathematical Sciences（纯数学）
 - 布里斯托无独立 MSc Finance（金融类是 Accounting and Finance / Finance and Investment / Global Banking and Finance 等）；无独立 Statistics MSc
 - 证据：`handoff/evidence/T-006-batch-13.md`；`check:programs` / `build` / `lint` 全过
+
+### Batch 14 · 格拉斯哥（2026-10-27）
+- **新增 19 个**：business 7 / finance 6 / cs 3 / data 3。库里 260 → 279（UK 212 / HK 62 / SG 5）。**新学校，SCHOOL_ALIASES 已加 University of Glasgow（Glasgow/格拉斯哥/格大）**
+- 格拉斯哥全校统一六轮（19 页一致，轮内滚动审理）：R1 2026-11-05 → R6 2027-07-08（国际生），UK 本土截止 2027-08-24；库记六轮
+- **不收**：Media Management / Public Policy & Management（传媒/政策域）、Geomatics & Management / Archives Records & Information Management（测绘/档案域）、Economics 系列（经济域，含 Economics International Banking & Finance、Data Analytics for Economics & Finance）、Data Analytics Online（在线）、Advanced Mathematics / Advanced Applied Mathematics / Mathematical Sciences（纯数学）、Data Science for Ecology & Epidemiology（生态域）、各类工程 & Management（工程域）
+- 证据：`handoff/evidence/T-006-batch-14.md`；`check:programs` / `build` / `lint` 全过
