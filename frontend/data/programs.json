@@ -6143,5 +6143,389 @@
       "截止时间为香港时间中午 12:00",
       "开设于计算与数据科学学院；本地生学费 HK$245,000"
     ]
+  },
+  {
+    "id": "cuhk-msc-mgmt",
+    "region": "HK",
+    "field": "business",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in Management",
+    "nameCn": "管理学硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-management",
+    "officialLabel": "港中文 管理学硕士 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于港中文商学院（CUHK Business School）",
+      "另有提前轮 2026-07-31，已过期",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
+  },
+  {
+    "id": "cuhk-msc-mkt",
+    "region": "HK",
+    "field": "business",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in Marketing",
+    "nameCn": "市场学硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-marketing",
+    "officialLabel": "港中文 市场学硕士 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于港中文商学院（CUHK Business School）",
+      "另有提前轮 2026-07-31，已过期",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
+  },
+  {
+    "id": "cuhk-msc-sgb",
+    "region": "HK",
+    "field": "business",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in Sustainable Global Business",
+    "nameCn": "可持续全球商务硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-sustainable-global-business",
+    "officialLabel": "港中文 可持续全球商务硕士 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于港中文商学院（CUHK Business School）",
+      "另有提前轮 2026-07-31，已过期",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
+  },
+  {
+    "id": "cuhk-msc-istm",
+    "region": "HK",
+    "field": "business",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in Information Science and Technology Management (Full-time Mode)",
+    "nameCn": "信息科学与技术管理硕士（全日制）",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-information-science-and-technology-management-full-time-mode",
+    "officialLabel": "港中文 信息科学与技术管理硕士（全日制） 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "港中文商学院与工程学院合开项目（研究院列商学院）",
+      "另有提前轮 2026-07-31，已过期",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
+  },
+  {
+    "id": "cuhk-macc",
+    "region": "HK",
+    "field": "finance",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "Master of Accountancy",
+    "nameCn": "会计硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/master-accountancy",
+    "officialLabel": "港中文 会计硕士 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于港中文商学院（CUHK Business School），全日制 1 年（另设 2 年非全日制）",
+      "另有提前轮 2026-07-31，已过期",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
+  },
+  {
+    "id": "cuhk-msc-asi",
+    "region": "HK",
+    "field": "finance",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in Actuarial Science and Insurance Analytics",
+    "nameCn": "精算科学与保险分析硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-actuarial-science-and-insurance-analytics",
+    "officialLabel": "港中文 精算科学与保险分析硕士 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于港中文商学院（CUHK Business School）",
+      "另有提前轮 2026-07-31，已过期",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
+  },
+  {
+    "id": "cuhk-msc-fintech",
+    "region": "HK",
+    "field": "finance",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in Financial Technology",
+    "nameCn": "金融科技硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-10-02"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-11-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2026-12-31"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/engineering/msc-financial-technology",
+    "officialLabel": "港中文 金融科技硕士 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于工程学院（系统工程与工程管理学系）",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
+  },
+  {
+    "id": "cuhk-msc-gwm",
+    "region": "HK",
+    "field": "finance",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "Master of Science in Global Wealth Management",
+    "nameCn": "全球财富管理硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/master-science-global-wealth-management",
+    "officialLabel": "港中文 全球财富管理硕士 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于港中文商学院（CUHK Business School）",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
+  },
+  {
+    "id": "cuhk-msc-ai",
+    "region": "HK",
+    "field": "cs",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in Artificial Intelligence",
+    "nameCn": "人工智能硕士",
+    "duration": "全日制 1.5 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-10-02"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2026-11-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2026-12-31"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/engineering/msc-artificial-intelligence",
+    "officialLabel": "港中文 人工智能硕士 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于工程学院",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
+  },
+  {
+    "id": "cuhk-msc-rob",
+    "region": "HK",
+    "field": "cs",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in Robotics",
+    "nameCn": "机器人硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/engineering/msc-robotics",
+    "officialLabel": "港中文 机器人硕士 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于工程学院",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
+  },
+  {
+    "id": "cuhk-msc-eclt",
+    "region": "HK",
+    "field": "cs",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in E-Commerce and Logistics Technologies",
+    "nameCn": "电子商务与物流技术硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-03-31"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/engineering/msc-e-commerce-and-logistics-technologies",
+    "officialLabel": "港中文 电子商务与物流技术硕士 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于工程学院",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
+  },
+  {
+    "id": "cuhk-msc-asds",
+    "region": "HK",
+    "field": "data",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in Advanced Studies in Statistics and Data Science",
+    "nameCn": "高等统计学与数据科学硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "优先轮",
+        "deadline": "2026-12-31"
+      },
+      {
+        "name": "最终轮",
+        "deadline": "2027-02-28"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/science/msc-advanced-studies-statistics-and-data-science",
+    "officialLabel": "港中文 高等统计学与数据科学硕士 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于统计系",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
+  },
+  {
+    "id": "cuhk-msc-dsbs",
+    "region": "HK",
+    "field": "data",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in Data Science and Business Statistics",
+    "nameCn": "数据科学与商业统计硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "优先轮",
+        "deadline": "2026-12-31"
+      },
+      {
+        "name": "最终轮",
+        "deadline": "2027-02-28"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/science/msc-data-science-and-business-statistics",
+    "officialLabel": "港中文 数据科学与商业统计硕士 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于统计系",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
+  },
+  {
+    "id": "cuhk-msc-rmsda",
+    "region": "HK",
+    "field": "data",
+    "school": "The Chinese University of Hong Kong",
+    "schoolCn": "香港中文大学",
+    "name": "MSc in Risk Management Science and Data Analytics",
+    "nameCn": "风险管理与数据分析硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "优先轮",
+        "deadline": "2026-12-31"
+      },
+      {
+        "name": "最终轮",
+        "deadline": "2027-02-28"
+      }
+    ],
+    "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/science/msc-risk-management-science-and-data-analytics",
+    "officialLabel": "港中文 风险管理与数据分析硕士 研究院项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "开设于统计系",
+      "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
+    ]
   }
 ]
