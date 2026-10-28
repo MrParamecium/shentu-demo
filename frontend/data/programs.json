@@ -6527,5 +6527,121 @@
       "开设于统计系",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
     ]
+  },
+  {
+    "id": "hkust-msc-ai",
+    "region": "HK",
+    "field": "cs",
+    "school": "The Hong Kong University of Science and Technology",
+    "schoolCn": "香港科技大学",
+    "name": "MSc in Artificial Intelligence",
+    "nameCn": "人工智能硕士",
+    "duration": "全日制 1 年",
+    "language": "见港科大研究生院英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-01"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      }
+    ],
+    "officialUrl": "https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-ai",
+    "officialLabel": "港科大 人工智能硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027/28 Fall intake（2027 年 9 月开学）；截止时间为香港时间当天 23:59",
+      "2027/28 学费 HK$400,000（全日制分 2 期缴纳）"
+    ]
+  },
+  {
+    "id": "hkust-msc-aie",
+    "region": "HK",
+    "field": "cs",
+    "school": "The Hong Kong University of Science and Technology",
+    "schoolCn": "香港科技大学",
+    "name": "MSc in Artificial Intelligence and Entrepreneurship",
+    "nameCn": "人工智能与创业硕士",
+    "duration": "全日制 1 年",
+    "language": "见港科大研究生院英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-01"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      }
+    ],
+    "officialUrl": "https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-aie",
+    "officialLabel": "港科大 人工智能与创业硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027/28 Fall intake（2027 年 9 月开学）；截止时间为香港时间当天 23:59",
+      "计算机科学与工程系新项目；2027/28 学费 HK$540,000（分 4 期缴纳）"
+    ]
+  },
+  {
+    "id": "hkust-msc-eem",
+    "region": "HK",
+    "field": "business",
+    "school": "The Hong Kong University of Science and Technology",
+    "schoolCn": "香港科技大学",
+    "name": "MSc in Engineering Enterprise Management (EEM)",
+    "nameCn": "工程企业管理硕士",
+    "duration": "全日制 1 年",
+    "language": "见港科大研究生院英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-01"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      }
+    ],
+    "officialUrl": "https://seng.hkust.edu.hk/msc/eem",
+    "officialLabel": "港科大 工程企业管理硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027/28 Fall intake（2027 年 9 月开学）；截止时间为香港时间当天 23:59",
+      "开设于工业工程与决策分析学系（工学院）"
+    ]
+  },
+  {
+    "id": "hkust-msc-fintech",
+    "region": "HK",
+    "field": "finance",
+    "school": "The Hong Kong University of Science and Technology",
+    "schoolCn": "香港科技大学",
+    "name": "MSc in Financial Technology",
+    "nameCn": "金融科技硕士",
+    "duration": "全日制 1 年",
+    "language": "见港科大研究生院英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-01"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      }
+    ],
+    "officialUrl": "https://seng.hkust.edu.hk/msc/fintech",
+    "officialLabel": "港科大 金融科技硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写 2027/28 Fall intake（2027 年 9 月开学）；截止时间为香港时间当天 23:59",
+      "工学院跨学系项目；2027/28 学费 HK$405,000"
+    ]
   }
 ]

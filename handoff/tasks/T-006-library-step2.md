@@ -126,6 +126,12 @@
 - **不收**：Real Estate（房地产域）、Aviation Management / Sports Business Management / Family Business Management / Leadership for Experience Economy（领域管理域）、Professional Accountancy (Shanghai)（上海校区）、Electronic Engineering / Information Engineering / Mechanical / Microelectronics / Biomedical（工程域）、AI for Science（科学域）、Earth and Environmental Analytics（环境域）、Mathematics 纯数学、Chemistry/Physics/Nutrition/Bio 等
 - **边界决定（请浩翔确认）**：收了 Information Science and Technology Management（跨院项目，归 business）、Financial Technology（工程学系开设，归 finance）、Actuarial Science and Insurance Analytics（精算保险，归 finance）、Risk Management Science and Data Analytics（统计系，归 data）、E-Commerce and Logistics Technologies（工程学院，归 cs）；CUHK 无独立 Data Science MSc，统计系三个项目（Advanced Studies in Statistics and DS / DS and Business Statistics / RMS and DA）按 data 收
 
+### Batch 10 · 港科大（2026-10-27）
+- **港科大 2027/28 目录（prog-crs）尚未上线**，现在能核实的只有工学院系网页（seng.hkust.edu.hk）——本批只收了页面上有 2027/28 Fall intake + 明确轮次的 4 个：AI、AI and Entrepreneurship（CSE 新项目）、Engineering Enterprise Management、Financial Technology（工学院统一两轮 2026-12-01 / 2027-03-01）
+- **商学院 6 个记存疑**：Marketing / Information Systems Management / Global Operations / International Management / Accounting / Family Office and Family Business——项目页写 "Application for 2027/28 intake opens NOW!" 但优先轮日期 "Coming Soon"（未公布），日期出来后下批补；Global Finance（与 NYU Stern 双学位）页面写 "Final Deadline October 17, 2026 ... Class of 2027"，无法确认是 2027/28 Fall intake，存疑
+- **其他存疑**：Mathematical Finance（mafm.hkust.edu.hk）与 Data-Driven Modeling（物理系，msdm.hkust.edu.hk）主页未读到 2027/28 日期，需浏览器深挖招生子页
+- **不收**：Electronic Engineering / Integrated Circuits / Telecommunications（EE 域）、Aeronautical / Mechanical / Intelligent Building（机械域）、Biotechnology / Drug Regulatory / Entrepreneurial Leadership in Biotechnology（生物域）、Chemistry/Physics/Environment/Ocean 系列（理学院域）、Mathematics for Educators（教育域）、Economics MSc（经济域）、Global China Studies（社科域）、Digital and Sustainable Cities（土木域）
+
 ## 进度日志
 （暂无）
 
@@ -198,3 +204,9 @@
 - 轮次：商学院 6 个统一截止 2027-03-31（提前轮 2026-07-31 已过期，滚动审理）；工程学院 FinTech/AI 三轮（2026-10-02 / 11-06 / 12-31）；统计系 3 个两轮（优先 2026-12-31 / 最终 2027-02-28）；Robotics 03-31、ECLT 03-16、GWM 03-31
 - 学制：AI 页写全日制 1.5 年（页面原文）；其余全日制 1 年；ITM 只招 Part-time 不收
 - 证据：`handoff/evidence/T-006-batch-9.md`；`check:programs` / `build` / `lint` 全过
+
+### 2026-10-27 · ZCode（Batch 10：港科大）
+- **新增 4 个**：business 1 / finance 1 / cs 2。库里 214 → 218（HK 46 / UK 167 / SG 5）。港科大四大类：business 2 / finance 2 / cs 4 / data 2（不算存疑项）
+- 港科大 2027/28 目录（prog-crs）未上线，商学院轮次日期未公布 → 本批只收工学院页有完整 2027/28 信息的 4 个，其余 9 个记存疑（见上节）
+- 方法：prog-crs 目录（浏览器渲染，40 个 MSc）筛四大类 → 各系网项目页逐页核实（seng.hkust.edu.hk 和各项目专属站点）。**耗时**：整校约 50 分钟，一半时间耗在「目录未上线、商学院日期未公布」的确认上
+- 证据：`handoff/evidence/T-006-batch-10.md`；`check:programs` / `build` / `lint` 全过
