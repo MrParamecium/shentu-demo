@@ -97,6 +97,16 @@
 ## 浩翔怎么抽查
 每批随机抽 3–5 个，对照官网原文核对日期、语言、学制。发现错误 → 整批退回重查同学校其余项目，并在进度日志记下错在哪。
 
+
+
+### Batch 22-23 · 城大存疑 + 伯明翰（2026-10-28，会话 D）
+- **城大 CityU 仍未攻克（batch-22 存留）**：2026-10-28 重测，curl 仍返回 212 字节 Incapsula 挑战页；内置浏览器打开首页后 Incapsula JS 会直接把 IAB 标签页搞崩（tab 变 unavailable，两轮复现）→ 本环境无解，需浩翔用日常 Chrome 打开 www.cityu.edu.hk/pg/taught-postgraduate-programmes 看新版目录（50 个项目），或等工具升级
+- **伯明翰 Birmingham 已攻克并收录（batch-23）**：curl 现在能通（上轮被 Imperva 拦）——课程搜索组件（Select studyLevel = Postgraduate taught）→ 官网学科分类页（Accounting and Finance / Business and Management / Computer Science and Data Science / Marketing）curl 读课程清单 → 逐页核实 23 个课程
+- **新增 23 个**：business 9 / finance 7 / cs 6 / data 1。库里 338 → 361（UK 294 / HK 62 / SG 5）。**新学校，SCHOOL_ALIASES 已加 University of Birmingham（Birmingham/伯明翰/伯大）**
+- 伯明翰口径（23 页一致）：September 2027 开学（HRM / International Business / Marketing / Financial Management / Computer Science 另设 2027 年 1 月入学批次，截止 2026-12-18，已写 notes）、1 year full-time、IELTS 6.5（单项 ≥6.0）、申请截止 2027-08-27（页面标注适用 UK 及非签证申请者，国际生无单独截止，招满即截止）
+- **不收**：MBA ×3（含 Dubai / Singapore / Online）、MPA 系列 ×3（含 Human Resources MPA）、Online 课程 ×3（International Business / Clinical Leadership / Engineering Leadership）、Economics / Economics AI and Data Science（经济域）、Engineering Management 类（工程域）、blended 项目（Public Management and Leadership）、research 项目 ×3
+- 证据：`handoff/evidence/T-006-batch-23.md`；`check:programs` / `build` / `lint` 全过
+
 ## 完成标准（第二步整体）
 - [ ] QS 2027 前 100 的 23 所学校全部处理（做完或写清楚为什么做不了）
 - [ ] 所有新项目 `verified: true` 且证据文件齐全

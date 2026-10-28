@@ -9913,5 +9913,585 @@
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于计算机科学系（Department of Computer Science）"
     ]
+  },
+  {
+    "id": "bham-msc-ba",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Business Analytics MSc",
+    "nameCn": "商业分析硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/business-and-management-courses/business-analytics-msc",
+    "officialLabel": "伯明翰 Business Analytics MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-hrm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Human Resource Management MSc",
+    "nameCn": "人力资源管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/business-and-management-courses/human-resource-management-msc",
+    "officialLabel": "伯明翰 Human Resource Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "官网另设 2027 年 1 月入学批次，申请截止 2026-12-18",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-ib",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "International Business MSc",
+    "nameCn": "国际商务硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/business-and-management-courses/international-business-msc",
+    "officialLabel": "伯明翰 International Business MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "官网另设 2027 年 1 月入学批次，申请截止 2026-12-18",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-mgmt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Management MSc",
+    "nameCn": "管理学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/business-and-management-courses/management-msc",
+    "officialLabel": "伯明翰 Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-aim",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "MSc Artificial Intelligence in Management",
+    "nameCn": "人工智能管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/business-and-management-courses/msc-ai-in-management",
+    "officialLabel": "伯明翰 MSc Artificial Intelligence in Management 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-scm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Supply Chain Management MSc",
+    "nameCn": "供应链管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/business-and-management-courses/supply-chain-management-msc",
+    "officialLabel": "伯明翰 Supply Chain Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-sie",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Sustainable Innovation and Entrepreneurship MSc",
+    "nameCn": "可持续创新与创业硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/business-and-management-courses/sustainable-innovation-and-entrepreneurship-msc",
+    "officialLabel": "伯明翰 Sustainable Innovation and Entrepreneurship MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-mkt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Marketing MSc",
+    "nameCn": "市场营销硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/marketing-courses/marketing-msc",
+    "officialLabel": "伯明翰 Marketing MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "官网另设 2027 年 1 月入学批次，申请截止 2026-12-18",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-smc",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Strategic Marketing and Consulting MSc",
+    "nameCn": "战略营销与咨询硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/marketing-courses/strategic-marketing-and-consulting-msc",
+    "officialLabel": "伯明翰 Strategic Marketing and Consulting MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-af",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Accounting and Finance MSc",
+    "nameCn": "会计与金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/accounting-and-finance-courses/accounting-and-finance-msc",
+    "officialLabel": "伯明翰 Accounting and Finance MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-finecon",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Financial Economics MSc",
+    "nameCn": "金融经济学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/accounting-and-finance-courses/financial-economics-msc",
+    "officialLabel": "伯明翰 Financial Economics MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-finmgmt",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Financial Management MSc",
+    "nameCn": "金融管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/accounting-and-finance-courses/financial-management-msc",
+    "officialLabel": "伯明翰 Financial Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "官网另设 2027 年 1 月入学批次，申请截止 2026-12-18",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-fintech",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Financial Technology MSc",
+    "nameCn": "金融科技硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/accounting-and-finance-courses/financial-technology-msc",
+    "officialLabel": "伯明翰 Financial Technology MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-inv",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Investments MSc",
+    "nameCn": "投资学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/accounting-and-finance-courses/investments-msc",
+    "officialLabel": "伯明翰 Investments MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-mbf",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Money, Banking and Finance MSc",
+    "nameCn": "货币银行与金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/accounting-and-finance-courses/money-banking-and-finance-msc",
+    "officialLabel": "伯明翰 Money, Banking and Finance MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-susfin",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Sustainable Finance MSc",
+    "nameCn": "可持续金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/accounting-and-finance-courses/msc-sustainable-finance",
+    "officialLabel": "伯明翰 Sustainable Finance MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于伯明翰商学院（Birmingham Business School）"
+    ]
+  },
+  {
+    "id": "bham-msc-acs",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Advanced Computer Science MSc",
+    "nameCn": "高级计算机科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/advanced-computer-science-msc",
+    "officialLabel": "伯明翰 Advanced Computer Science MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于计算机科学系（School of Computer Science）"
+    ]
+  },
+  {
+    "id": "bham-msc-aiml",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Artificial Intelligence and Machine Learning MSc",
+    "nameCn": "人工智能与机器学习硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/artificial-intelligence-machine-learning-msc",
+    "officialLabel": "伯明翰 Artificial Intelligence and Machine Learning MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于计算机科学系（School of Computer Science）"
+    ]
+  },
+  {
+    "id": "bham-msc-ai",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Artificial Intelligence MSc",
+    "nameCn": "人工智能硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/artificial-intelligence-msc",
+    "officialLabel": "伯明翰 Artificial Intelligence MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于计算机科学系（School of Computer Science）"
+    ]
+  },
+  {
+    "id": "bham-msc-cs",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Computer Science MSc",
+    "nameCn": "计算机科学硕士（转专业）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-msc",
+    "officialLabel": "伯明翰 Computer Science MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "官网另设 2027 年 1 月入学批次，申请截止 2026-12-18",
+      "开设于计算机科学系（School of Computer Science）"
+    ]
+  },
+  {
+    "id": "bham-msc-cybersec",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Cyber Security MSc",
+    "nameCn": "网络安全硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/cyber-security-msc",
+    "officialLabel": "伯明翰 Cyber Security MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于计算机科学系（School of Computer Science）"
+    ]
+  },
+  {
+    "id": "bham-msc-hci",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Human-Computer Interaction MSc",
+    "nameCn": "人机交互硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/human-computer-interaction-msc",
+    "officialLabel": "伯明翰 Human-Computer Interaction MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于计算机科学系（School of Computer Science）"
+    ]
+  },
+  {
+    "id": "bham-msc-ds",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Birmingham",
+    "schoolCn": "伯明翰大学",
+    "name": "Data Science MSc",
+    "nameCn": "数据科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-08-27"
+      }
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/data-science-msc",
+    "officialLabel": "伯明翰 Data Science MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网申请截止 2027-08-27（标注适用于 UK 及非签证申请者，国际生无单独截止），招满即截止、建议尽早递交",
+      "开设于计算机科学系（School of Computer Science）"
+    ]
   }
 ]
