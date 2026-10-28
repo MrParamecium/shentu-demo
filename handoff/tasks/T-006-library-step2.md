@@ -105,6 +105,11 @@
 ## 查不到 / 存疑
 （暂无）
 
+### Batch 18 · 牛津（2026-10-28）
+- **Saïd 商学院课程不在主目录**：find-your-course（410 Results）不含 Saïd 课程，独立站 sbs.oxford.edu 逐页核实：**MSc Applied Financial Economics（Part-time 2 年，面向在职）、MSc AI for Business（Part-time 2-4 年）、MSc Major Programme Management（Part-time）、MBA ×3 → 全部不收**；Law and Finance / Global Healthcare Leadership / Law, Governance and AI 域外不收。**牛津无全日制商科 MSc → business 类本批 0**
+- **不收**：MSc Software Engineering / Software and Systems Security（页面原文 Part time）、MSc Law and Finance、AI for Engineering Biology（应用域）、Economics for Development（经济域）、Evidence-Based Health Care (Medical Statistics)（医疗域）、Mathematical Sciences（纯数学）、Mathematical Modelling and Scientific Computing（科学计算域）、Mathematical and Theoretical Physics（物理域）、MSc by Research in Mathematics / Statistics（研究型）
+- **轮次口径**：牛津为单一 final deadline 或「早提交节点 + final deadline」两档（如 StatSci/MCF/SDS：13 November 2026 更早获知结果 + 1 月最终轮），已按页面原文记全；截止时间均为 12:00 midday UK time
+
 ### Batch 1 · UCL（2026-10-27）
 - **UCL Strategic Accounting and Finance MSc**：2027/28 在招，但页面 LOCATION 标注 "Distance learning programme"（远程教学，非全日制在校），按「只收全日制」规则不收
 - **UCL Technology Management MSc**：2027/28 在招（开设于 Space and Climate Physics 系），属太空科技领域的技术管理，按领域范围暂不收；要收的话请浩翔确认
@@ -310,3 +315,13 @@
 2. 同一所学校的多个项目**不能复用同一句证据**，除非逐页确认每页都有这句
 3. 「滚动审理」只在官网写了 rolling / continuous basis 时写进备注
 4. 轮次要记全，包括已过期的提前轮（显示时会自动标「已过」）
+
+
+### Batch 18 · 牛津（2026-10-28，ZCode 并行会话 A）
+- **新增 5 个**：cs 2 / finance 1 / data 2（business 0，牛津无全日制商科 MSc）。库里 338 → **343**（UK 277 / HK 61 / SG 5）。**新学校，SCHOOL_ALIASES 已加 University of Oxford（Oxford/牛津）**
+- 四大类授课型清单（开工时列，均已逐页核实）：cs = Advanced Computer Science / Mathematics and Foundations of Computer Science；finance = Mathematical and Computational Finance；data = Statistical Science / Social Data Science；business = 无（Saïd 全部 Part-time 或域外，见存疑）
+- 方法：ox.ac.uk 被 Cloudflare 拦 curl（403），内置浏览器可过；主目录 find-your-course（410 Results）为 URL 分页（?page=N，36 页翻完收 395 条）；课程详情页浏览器逐页核实（每页点开轮次表 Show contents）
+- **耗时**：整校约 90 分钟，其中列表翻页 ~25 分钟、排查「Saïd 课程为何不在主目录」~30 分钟（独立站 + Cloudflare）、逐页核实 5 页 ~20 分钟
+- 轮次：ACS 单轮 2027-01-06；MFoCS 单轮 2027-01-27；StatSci/MCF 两轮（2026-11-13 已过期早提交节点 + 2027-01-27 最终轮）；SDS 两轮（2026-11-13 + 2027-01-07）；全部 12:00 midday UK time
+- 学制：ACS/MFoCS/StatSci 全日制 12 个月，MCF/SDS 全日制 10 个月；英语全部牛津 Higher 档（页面原文）
+- 证据：`handoff/evidence/T-006-batch-18.md`；`check:programs` / `build` / `lint` 全过

@@ -9913,5 +9913,147 @@
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于计算机科学系（Department of Computer Science）"
     ]
+  },
+  {
+    "id": "ox-msc-acs",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Oxford",
+    "schoolCn": "牛津大学",
+    "name": "MSc in Advanced Computer Science",
+    "nameCn": "高级计算机科学硕士",
+    "duration": "全日制 12 个月（2027 年 10 月 10 日开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-01-06"
+      }
+    ],
+    "rolling": false,
+    "officialUrl": "https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science/",
+    "officialLabel": "牛津 高级计算机科学硕士 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间中午 12:00；英语要求为牛津 Higher 档（页面原文 English language level: Higher level required）",
+      "开设于计算机科学系，面向已有计算机背景申请者"
+    ]
+  },
+  {
+    "id": "ox-msc-mfocs",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Oxford",
+    "schoolCn": "牛津大学",
+    "name": "MSc in Mathematics and Foundations of Computer Science",
+    "nameCn": "数学与计算机科学基础硕士",
+    "duration": "全日制 12 个月",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-01-27"
+      }
+    ],
+    "rolling": false,
+    "officialUrl": "https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematics-and-foundations-of-computer-science/",
+    "officialLabel": "牛津 数学与计算机科学基础硕士 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间中午 12:00；英语要求为牛津 Higher 档",
+      "由计算机科学系与数学系联合开设"
+    ]
+  },
+  {
+    "id": "ox-msc-mcf",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Oxford",
+    "schoolCn": "牛津大学",
+    "name": "MSc in Mathematical and Computational Finance",
+    "nameCn": "数学与计算金融硕士",
+    "duration": "全日制 10 个月",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-13"
+      },
+      {
+        "name": "最终轮",
+        "deadline": "2027-01-27"
+      }
+    ],
+    "rolling": false,
+    "officialUrl": "https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-computational-finance/",
+    "officialLabel": "牛津 数学与计算金融硕士 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间中午 12:00；第一轮（2026-11-13）已过期，页面原文标注该轮前提交「Applications more likely to receive earlier decisions」（更早获知结果）",
+      "英语要求为牛津 Higher 档"
+    ]
+  },
+  {
+    "id": "ox-msc-statsci",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Oxford",
+    "schoolCn": "牛津大学",
+    "name": "MSc in Statistical Science",
+    "nameCn": "统计学硕士",
+    "duration": "全日制 12 个月",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-13"
+      },
+      {
+        "name": "最终轮",
+        "deadline": "2027-01-27"
+      }
+    ],
+    "rolling": false,
+    "officialUrl": "https://www.ox.ac.uk/admissions/graduate/courses/msc-statistical-science/",
+    "officialLabel": "牛津 统计学硕士 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间中午 12:00；第一轮（2026-11-13）已过期，页面原文标注该轮前提交「Applications more likely to receive earlier decisions」（更早获知结果）",
+      "英语要求为牛津 Higher 档"
+    ]
+  },
+  {
+    "id": "ox-msc-sds",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Oxford",
+    "schoolCn": "牛津大学",
+    "name": "MSc in Social Data Science",
+    "nameCn": "社会数据科学硕士",
+    "duration": "全日制 10 个月",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-13"
+      },
+      {
+        "name": "最终轮",
+        "deadline": "2027-01-07"
+      }
+    ],
+    "rolling": false,
+    "officialUrl": "https://www.ox.ac.uk/admissions/graduate/courses/msc-social-data-science/",
+    "officialLabel": "牛津 社会数据科学硕士 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "截止时间为英国时间中午 12:00；第一轮（2026-11-13）已过期，页面原文标注该轮前提交「Applications more likely to receive earlier decisions」（更早获知结果）",
+      "英语要求为牛津 Higher 档"
+    ]
   }
 ]
