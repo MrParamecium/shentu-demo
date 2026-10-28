@@ -43,6 +43,7 @@ const SCHOOL_ALIASES: Record<string, string[]> = {
   "Nanyang Technological University": ["NTU", "南洋理工", "南大"],
   "University of Bristol": ["Bristol", "布里斯托", "布大"],
   "University of Glasgow": ["Glasgow", "格拉斯哥", "格大"],
+  "Durham University": ["Durham", "杜伦", "杜大"],
 };
 
 /**

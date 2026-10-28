@@ -8593,5 +8593,383 @@
       "2027 年 9 月开学，全日制 12 个月",
       "开设于计算机科学系（School of Computing Science）"
     ]
+  },
+  {
+    "id": "dur-msc-mgmt",
+    "region": "UK",
+    "field": "business",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Management",
+    "nameCn": "管理学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/management-n2p109/",
+    "officialLabel": "杜伦 MSc Management 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ]
+  },
+  {
+    "id": "dur-msc-mgmt-consulting",
+    "region": "UK",
+    "field": "business",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Management (Consulting)",
+    "nameCn": "管理学硕士（咨询）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/management-consulting-n2pe09/",
+    "officialLabel": "杜伦 MSc Management (Consulting) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ]
+  },
+  {
+    "id": "dur-msc-mgmt-entre",
+    "region": "UK",
+    "field": "business",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Management (Entrepreneurship)",
+    "nameCn": "管理学硕士（创业）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/management-entrepreneurship-n2p309/",
+    "officialLabel": "杜伦 MSc Management (Entrepreneurship) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ]
+  },
+  {
+    "id": "dur-msc-hrm",
+    "region": "UK",
+    "field": "business",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Human Resource Management (HRM)",
+    "nameCn": "人力资源管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/human-resource-management-n2pa09/",
+    "officialLabel": "杜伦 MSc Human Resource Management (HRM) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ]
+  },
+  {
+    "id": "dur-msc-sclm",
+    "region": "UK",
+    "field": "business",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Supply Chain and Logistics Management",
+    "nameCn": "供应链与物流管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/msc-supply-chain-and-logistics-management-n2pf09/",
+    "officialLabel": "杜伦 MSc Supply Chain and Logistics Management 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ]
+  },
+  {
+    "id": "dur-msc-fin",
+    "region": "UK",
+    "field": "finance",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Finance",
+    "nameCn": "金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/finance-n3k109/",
+    "officialLabel": "杜伦 MSc Finance 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ]
+  },
+  {
+    "id": "dur-msc-fin-af",
+    "region": "UK",
+    "field": "finance",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Finance (Accounting and Finance)",
+    "nameCn": "金融硕士（会计与金融）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/finance-accounting-and-finance-n3k209/",
+    "officialLabel": "杜伦 MSc Finance (Accounting and Finance) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ]
+  },
+  {
+    "id": "dur-msc-fin-ef",
+    "region": "UK",
+    "field": "finance",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Finance (Economics and Finance)",
+    "nameCn": "金融硕士（经济与金融）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/finance-economics-and-finance-n3k709/",
+    "officialLabel": "杜伦 MSc Finance (Economics and Finance) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ]
+  },
+  {
+    "id": "dur-msc-fin-fi",
+    "region": "UK",
+    "field": "finance",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Finance (Finance and Investment)",
+    "nameCn": "金融硕士（金融与投资）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/finance-finance-and-investment-n3k409/",
+    "officialLabel": "杜伦 MSc Finance (Finance and Investment) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ]
+  },
+  {
+    "id": "dur-msc-fin-ftb",
+    "region": "UK",
+    "field": "finance",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Finance (Financial Technology and Banking)",
+    "nameCn": "金融硕士（金融科技与银行）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/finance-financial-technology-and-banking-n3kc09/",
+    "officialLabel": "杜伦 MSc Finance (Financial Technology and Banking) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ]
+  },
+  {
+    "id": "dur-msc-fin-cif",
+    "region": "UK",
+    "field": "finance",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Finance (Corporate and International Finance)",
+    "nameCn": "金融硕士（公司与国际金融）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/finance-corporate-and-international-finance-n3k309/",
+    "officialLabel": "杜伦 MSc Finance (Corporate and International Finance) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ]
+  },
+  {
+    "id": "dur-msc-mgmt-fin",
+    "region": "UK",
+    "field": "finance",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Management and Finance",
+    "nameCn": "管理与金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/management-and-finance-n2pc09/",
+    "officialLabel": "杜伦 MSc Management and Finance 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ]
+  },
+  {
+    "id": "dur-msc-if",
+    "region": "UK",
+    "field": "finance",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Islamic Finance",
+    "nameCn": "伊斯兰金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/islamic-finance-n3kd09/",
+    "officialLabel": "杜伦 MSc Islamic Finance 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ]
+  },
+  {
+    "id": "dur-msc-acs",
+    "region": "UK",
+    "field": "cs",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Advanced Computer Science",
+    "nameCn": "高级计算机科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/study/courses/advanced-computer-science-g5t609/",
+    "officialLabel": "杜伦 MSc Advanced Computer Science 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期；滚动审理，2027 年 9 月开学",
+      "开设于计算机科学系（Department of Computer Science）"
+    ]
+  },
+  {
+    "id": "dur-msc-aaids",
+    "region": "UK",
+    "field": "cs",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Applied Artificial Intelligence and Data Science",
+    "nameCn": "应用人工智能与数据科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/study/courses/applied-artificial-intelligence-and-data-science-g5l109/",
+    "officialLabel": "杜伦 MSc Applied Artificial Intelligence and Data Science 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期；滚动审理，2027 年 9 月开学",
+      "开设于计算机科学系（Department of Computer Science）"
+    ]
+  },
+  {
+    "id": "dur-msc-aiip",
+    "region": "UK",
+    "field": "cs",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Artificial Intelligence Infrastructure Platforms",
+    "nameCn": "人工智能基础设施平台硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/study/courses/artificial-intelligence-infrastructure-platforms-g6t709/",
+    "officialLabel": "杜伦 MSc Artificial Intelligence Infrastructure Platforms 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期；滚动审理，2027 年 9 月开学",
+      "开设于计算机科学系（Department of Computer Science）"
+    ]
+  },
+  {
+    "id": "dur-msc-aircv",
+    "region": "UK",
+    "field": "cs",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Artificial Intelligence for Robotics & Computer Vision",
+    "nameCn": "机器人与计算机视觉人工智能硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/study/courses/artificial-intelligence-for-robotics-and-computer-vision-g6t409/",
+    "officialLabel": "杜伦 MSc Artificial Intelligence for Robotics & Computer Vision 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期；滚动审理，2027 年 9 月开学",
+      "开设于计算机科学系（Department of Computer Science）"
+    ]
+  },
+  {
+    "id": "dur-msc-ai",
+    "region": "UK",
+    "field": "cs",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Artificial Intelligence",
+    "nameCn": "人工智能硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/study/courses/artificial-intelligence-g6t109/",
+    "officialLabel": "杜伦 MSc Artificial Intelligence 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": true,
+    "notes": [
+      "官网课程页未列固定申请截止日期；滚动审理，2027 年 9 月开学",
+      "开设于计算机科学系（Department of Computer Science）"
+    ]
   }
 ]
