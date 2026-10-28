@@ -101,6 +101,9 @@
 - **不收**：Health Data Science（医疗域）、Urban Informatics（城市域）、Applied Bioinformatics（生物域）、Advanced Cyber Security (Online)（在线版）、Healthcare Management（医疗域）、MedTech Innovation & Entrepreneurship（医疗域）
 - KCL 截止结构特殊：不是分轮录取，是「首轮截止（2027-03-09）→ 未满员继续收到最终截止」，库里写两轮：首轮截止 + 国际生截止（2027-07-25），Home 最终截止写进备注
 
+### Batch 5 · 爱丁堡（2026-10-27）
+- **边界决定（请浩翔确认）**：收了 AI for Business（商学院）、Climate Change Finance and Investment（商学院，气候变化方向）、Finance, Technology and Policy（商学院）、Computational Mathematical Finance / Financial Modelling and Optimization（数学系，归 finance）、Statistics with AI / Statistics with Data Science / Operational Research with Data Science（数学系，归 data）；**没收**：Service Management and Design（艺术人文社科学院）、Design Informatics（设计域）、HPC 系列（含 Online Learning 版）、Data and AI Ethics（伦理域）、Economics 系列（经济域）、International Banking Law and Finance LLM（法学域）、Bioinformatics / Data Science for Biology（生物域）、Climate Change Management（地质学院气候域，非商学院）
+
 ## 进度日志
 （暂无）
 
@@ -135,3 +138,11 @@
 - 截止结构：KCL 是「首轮截止 + 最终截止」不是分轮（15 页一致：首轮 2027-03-09、国际生最终 2027-07-25、Home 最终 2027-08-25，均 23:59 UK time），库里按两轮写
 - 英语按院系分 Band：商学院和信息系 = Band B（IELTS 7.0/6.5），NMES（数学系）和机器人 = Band D（IELTS 6.5/6.0），Band 对照表官方页同日核对
 - 证据：`handoff/evidence/T-006-batch-4.md`；`check:programs` / `build` / `lint` 全过
+
+### 2026-10-27 · ZCode（Batch 5：爱丁堡）
+- **新增 18 个**：business 7 / finance 6 / cs 2 / data 3。库里 118 → 136（UK 117 / HK 14 / SG 5）。爱丁堡四大类：business 7 / finance 7 / cs 3 / data 4
+- 方法：Degree Finder 的 **A-Z 子页一页列全部 240 个 PGT 课程**（`study.ed.ac.uk/programmes/postgraduate-taught-a-z`，搜索页每页只渲染 10 条别去翻）→ curl 逐页核实（爱丁堡课程页不拦脚本）。**耗时**：整校约 45 分钟，其中 15 分钟在找对列表入口（搜索页懒加载坑）
+- 轮次：商学院 11 个五轮（2026-10-14 起，申请费 £60）；数学系 6 个三轮（15 December / 31 March / 31 May，页面只写月日但注明适用 2027/28 入学，年份据此定，沿用 T-003 爱丁堡 DS 先例）；信息学院 2 个两轮（31 March / 31 May）
+- 学制注意：多个数学系项目 award 选择器有 1 年全日制 + 2 年非全日制两档，默认展示可能选中非全日制（meta 显示 2 years），只记 1 年全日制
+- 英语三档都来自项目页原文：商学院 7.0/6.0、数学系 6.5/6.0、信息学院 7.0（三项 ≥6.5 一项 ≥6.0）
+- 证据：`handoff/evidence/T-006-batch-5.md`；`check:programs` / `build` / `lint` 全过
