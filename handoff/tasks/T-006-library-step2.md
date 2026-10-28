@@ -23,7 +23,7 @@
 |---|---|---|---|
 | =2 | Imperial | UK | ✅ 已做（21） |
 | 4 | 牛津 Oxford | UK | ⬜ **待做** |
-| 6 | 剑桥 Cambridge | UK | ⬜ **待做** |
+| 6 | 剑桥 Cambridge | UK | ✅ 已做（10，batch-19） |
 | =8 | UCL | UK | ✅ 已做（32） |
 | 10 | 新国立 NUS | SG | 🚫 网络不通，只有 3 个，**待补** |
 | 11 | 港大 HKU | HK | ✅ 已做（18） |
@@ -285,6 +285,17 @@
 - 方法：官网 2027 课程列表（curl 直接可读，127 个 2027 项目）→ 筛四大类 → curl 逐页核实。**耗时**：整校约 30 分钟（最顺的一所）
 - **不收**：MBA、East Asian Business（区域研究）、Business and Organisational Psychology（心理学域）、文创域 ×2（Creative and Cultural Industries / Music Management）、图书情报域 ×2（Information Management / Library and Information Services）、Data and Digital Humanities（人文域）、Environmental Science and Data / GIS（环境/地理域）、AI for Engineering / AI for Life Sciences（应用域）、Economics / Business Finance and Economics（经济域）
 - 证据：`handoff/evidence/T-006-batch-17.md`；`check:programs` / `build` / `lint` 全过
+
+### Batch 19 · 剑桥（2026-10-28，ZCode 分叉会话 B）
+- **开工清单**：官网目录 postgraduate.study.cam.ac.uk/courses（25 页共 362 个项目，`?page=N` 翻页，curl 可读）全量翻完后，筛出四大类候选 13 个（含两个页面 404 的），逐页核实后收录 10 个
+- **新增 10 个**：business 4 / finance 2 / cs 4（data 0）。库里 338 → **348**（UK 282 / HK 61 / SG 5）。**新学校，SCHOOL_ALIASES 已加 University of Cambridge（Cambridge/剑桥）**
+- 判定口径：剑桥一年制授课项目多为 MPhil，页面均标注 ": Taught" 判定为授课型收录（Management / ISO / SMOOB / Finance / ISMM / ACS / MLMI / Human-Inspired AI / NeuroAI）；两个 **PhD**（Computer Science、Human-Inspired AI 的 PhD 版）排除；研究型 MPhil（Engineering (Industrial)、Data Intensive Science 等）排除
+- **存疑 2 个**：MPhil in Technology Policy（目录收录但项目页 404，疑停招/链接变动）、Cambridge Master of Accounting（MAcc，同样目录有页面 404）——需浩翔用浏览器确认是否停招
+- **不收**：MBA / EMBA / Doctor of Business、MSt in Entrepreneurship（part-time）、Sustainable Business ×3（CISL，part-time/online）、AI and Society / AI Ethics and Society / Digital Policy / Ethics of AI, Data and Algorithms（政策伦理域）、Economics and Data Science（经济域）、Data Intensive Science（科学域）、Digital Humanities ×2（人文域）、Real Estate Finance（房地产域）、Applied Criminology 两项（犯罪学域）
+- 轮次：剑桥为单一课程截止（无分轮），各页「Application deadline」原文：Judge 四项 02-25（Management/ISO/SMOOB/ACS）、Finance 01-26、ISMM 05-13、MLMI/HIAI/NeuroAI 2026-12-08（**已过期**，显示时会自动标「已过」）；MFin 官网写明 rolling basis、最终截止 2027-05-31（申请页原文）
+- 语言：Entry requirements 折叠区没展开出 IELTS 具体分数 → 全部按规则记「见学校统一英语要求（以官网为准）」
+- **耗时**：整校约 60 分钟（目录 25 页翻页 10 分钟 + 候选判定与两个 404 追查 20 分钟 + 逐页核实 20 分钟）
+- 证据：`handoff/evidence/T-006-batch-19.md`（每行引文各不相同，含截止日+开学日+学制）；`check:programs` / `build` / `lint` 全过
 
 ### 环境阻塞学校汇总（2026-10-27，ZCode 会话结束时点）
 以下学校在 ZCode 内置浏览器 + curl 环境下无法抓取，均已记存疑、未硬填，需要浩翔日常浏览器或换网络后补：

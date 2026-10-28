@@ -9913,5 +9913,255 @@
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于计算机科学系（Department of Computer Science）"
     ]
+  },
+  {
+    "id": "cam-mp-mgmt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Cambridge",
+    "schoolCn": "剑桥大学",
+    "name": "MPhil in Management",
+    "nameCn": "管理学硕士（MPhil，授课型）",
+    "duration": "全日制 9 个月（2027-10-01 开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.postgraduate.study.cam.ac.uk/courses/directory/bmjbmpmgt",
+    "officialLabel": "剑桥 MPhil in Management 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "开设于剑桥大学贾奇商学院（Cambridge Judge Business School）",
+      "官网写「Some courses can close early」（名额满可能提前截止）；2027/28 学年"
+    ]
+  },
+  {
+    "id": "cam-mp-iso",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Cambridge",
+    "schoolCn": "剑桥大学",
+    "name": "MPhil in Innovation, Strategy and Organisation",
+    "nameCn": "创新、战略与组织硕士（MPhil，授课型）",
+    "duration": "全日制 9 个月（2027-10-01 开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.postgraduate.study.cam.ac.uk/courses/directory/bmjbmpiso",
+    "officialLabel": "剑桥 MPhil in Innovation, Strategy and Organisation 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "开设于剑桥大学贾奇商学院（Cambridge Judge Business School）",
+      "官网写「Some courses can close early」（名额满可能提前截止）；2027/28 学年"
+    ]
+  },
+  {
+    "id": "cam-mp-smoob",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Cambridge",
+    "schoolCn": "剑桥大学",
+    "name": "MPhil in Strategy, Marketing, Operations and Organisational Behaviour",
+    "nameCn": "战略、营销、运营与组织行为硕士（MPhil，授课型）",
+    "duration": "全日制 9 个月（2027-09-01 开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.postgraduate.study.cam.ac.uk/courses/directory/bmjbmpsmo",
+    "officialLabel": "剑桥 MPhil in Strategy, Marketing, Operations and Organisational Behaviour 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "开设于剑桥大学贾奇商学院（Cambridge Judge Business School）",
+      "官网写「Some courses can close early」（名额满可能提前截止）；2027/28 学年"
+    ]
+  },
+  {
+    "id": "cam-mp-ismm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Cambridge",
+    "schoolCn": "剑桥大学",
+    "name": "MPhil in Industrial Systems, Manufacture, and Management",
+    "nameCn": "工业系统、制造与管理硕士（MPhil，授课型）",
+    "duration": "全日制 11 个月（2027-10-01 开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-05-13"
+      }
+    ],
+    "officialUrl": "https://www.postgraduate.study.cam.ac.uk/courses/directory/egegmpimm",
+    "officialLabel": "剑桥 MPhil in Industrial Systems, Manufacture, and Management 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "开设于制造研究院（Institute for Manufacturing, IFM）",
+      "官网写「Some courses can close early」（名额满可能提前截止）；2027/28 学年"
+    ]
+  },
+  {
+    "id": "cam-mp-fin",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Cambridge",
+    "schoolCn": "剑桥大学",
+    "name": "MPhil in Finance",
+    "nameCn": "金融硕士（MPhil，授课型）",
+    "duration": "全日制 9 个月（2027-09-01 开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-01-26"
+      }
+    ],
+    "officialUrl": "https://www.postgraduate.study.cam.ac.uk/courses/directory/bmjbmpfin",
+    "officialLabel": "剑桥 MPhil in Finance 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "开设于剑桥大学贾奇商学院（Cambridge Judge Business School）",
+      "官网写「Some courses can close early」（名额满可能提前截止）；2027/28 学年"
+    ]
+  },
+  {
+    "id": "cam-mfin",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Cambridge",
+    "schoolCn": "剑桥大学",
+    "name": "Master of Finance (MFin)",
+    "nameCn": "金融硕士（MFin）",
+    "duration": "全日制 12 个月（2027 年 9 月中旬开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-05-31"
+      }
+    ],
+    "officialUrl": "https://www.jbs.cam.ac.uk/masters-degrees/master-of-finance/apply/",
+    "officialLabel": "剑桥 MFin 申请页（Cambridge Judge Business School）",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "开设于剑桥大学贾奇商学院（Cambridge Judge Business School）",
+      "官网写明「Applications are accepted on a rolling basis until the final application deadline on 31 May 2027」（滚动审理，最终截止 2027-05-31）；2027 entry 申请已开放"
+    ]
+  },
+  {
+    "id": "cam-mp-acs",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Cambridge",
+    "schoolCn": "剑桥大学",
+    "name": "MPhil in Advanced Computer Science",
+    "nameCn": "高级计算机科学硕士（MPhil，授课型）",
+    "duration": "全日制 9 个月（2027-10-04 开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-02-25"
+      }
+    ],
+    "officialUrl": "https://www.postgraduate.study.cam.ac.uk/courses/directory/cscsmpacs",
+    "officialLabel": "剑桥 MPhil in Advanced Computer Science 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "开设于计算机科学与技术系（Department of Computer Science and Technology）",
+      "官网写「Some courses can close early」（名额满可能提前截止）；2027/28 学年"
+    ]
+  },
+  {
+    "id": "cam-mp-mlmi",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Cambridge",
+    "schoolCn": "剑桥大学",
+    "name": "MPhil in Machine Learning and Machine Intelligence",
+    "nameCn": "机器学习与机器智能硕士（MPhil，授课型）",
+    "duration": "全日制 11 个月（2027-10-01 开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2026-12-08"
+      }
+    ],
+    "officialUrl": "https://www.postgraduate.study.cam.ac.uk/courses/directory/egegmpmsl",
+    "officialLabel": "剑桥 MPhil in Machine Learning and Machine Intelligence 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "开设于计算机科学与技术系（Department of Computer Science and Technology）",
+      "统一截止 2026-12-08 已过期（官网已标）；2027/28 学年"
+    ]
+  },
+  {
+    "id": "cam-mp-hiai",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Cambridge",
+    "schoolCn": "剑桥大学",
+    "name": "MPhil in Human-Inspired Artificial Intelligence",
+    "nameCn": "类人人工智能硕士（MPhil，授课型）",
+    "duration": "全日制 9 个月（2027-10-01 开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2026-12-08"
+      }
+    ],
+    "officialUrl": "https://www.postgraduate.study.cam.ac.uk/courses/directory/iethmphia",
+    "officialLabel": "剑桥 MPhil in Human-Inspired Artificial Intelligence 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "开设于计算机科学与技术系（Department of Computer Science and Technology）",
+      "统一截止 2026-12-08 已过期（官网已标）；2027/28 学年"
+    ]
+  },
+  {
+    "id": "cam-mp-neuroai",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Cambridge",
+    "schoolCn": "剑桥大学",
+    "name": "MPhil in NeuroAI and Intelligent Systems",
+    "nameCn": "神经人工智能与智能系统硕士（MPhil，授课型）",
+    "duration": "全日制 10 个月（2027-10-01 开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2026-12-08"
+      }
+    ],
+    "officialUrl": "https://www.postgraduate.study.cam.ac.uk/courses/directory/cvbsmpnis",
+    "officialLabel": "剑桥 MPhil in NeuroAI and Intelligent Systems 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "开设于计算机科学与技术系（Department of Computer Science and Technology）",
+      "统一截止 2026-12-08 已过期（官网已标）；2027/28 学年"
+    ]
   }
 ]
