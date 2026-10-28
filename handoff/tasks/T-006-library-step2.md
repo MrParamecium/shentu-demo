@@ -310,3 +310,12 @@
 2. 同一所学校的多个项目**不能复用同一句证据**，除非逐页确认每页都有这句
 3. 「滚动审理」只在官网写了 rolling / continuous basis 时写进备注
 4. 轮次要记全，包括已过期的提前轮（显示时会自动标「已过」）
+
+### Batch 20 · NUS（2026-10-28，ZCode）
+- **网络恢复**：10-27 记录的「*.nus.edu.sg 不可达」已解除（www.nus.edu.sg 200、comp.nus.edu.sg curl 可读、bschool/rmi 子域为 JS 壳需浏览器），本轮正常核实
+- **新增 5 个**（全部 NUS Computing，cs 4 / finance 1）：MComp General Track、MComp (Information Systems)、MComp (Infocomm Security)、MComp in Artificial Intelligence、MSc Digital FinTech。库里 338 → 343（SG 5 → 10）
+- 每个项目逐页打开**申请页**（/application/）确认 Deadlines 表格：August 2027 intake，2026-10-01 至 2027-01-31（5 页逐页核实，非复用）；官网注明 AY2025 起每年只有 8 月一次入学
+- 学制原文：FT normal candidature 1.5 years（General Track 1.5 to 2 years）
+- **存疑**：① MComp (AI Specialisation)（mai）官网写 "Last Intake: January 2025" **已停招**（被独立的 MComp in AI 取代），不收；② NUS Business School 7 个授课型硕士（Management / HCM&A / Marketing Analytics & Insights / Strategic Analysis and Innovation / Accounting & Financial Analytics / Sustainable & Green Finance / Real Estate）——mscbiz 总站还挂着 Aug 2026 / Jan 2027 intake 的申请入口，**Aug 2027 窗口未公布**，等公布后补（Real Estate 按房地产域不收）；③ MSc Financial Engineering（RMI）页面空白，待浏览器补
+- 证据：`handoff/evidence/T-006-batch-20.md`；`check:programs` / `build` / `lint` 全过
+- 耗时：约 70 分钟（学院站 curl 可读但申请期分散在各 /application/ 子页，逐页确认花时间）

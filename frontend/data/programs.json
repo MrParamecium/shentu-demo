@@ -9913,5 +9913,130 @@
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于计算机科学系（Department of Computer Science）"
     ]
+  },
+  {
+    "id": "nus-mcomp-gen",
+    "region": "SG",
+    "field": "cs",
+    "school": "National University of Singapore",
+    "schoolCn": "新加坡国立大学",
+    "name": "Master of Computing (General Track)",
+    "nameCn": "计算硕士（通识方向）",
+    "duration": "全日制 1.5–2 年（官网写 FT normal candidature 1.5 to 2 years）",
+    "language": "IELTS 6.0 / TOEFL iBT 90（本科非英语授课需提交）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-01-31"
+      }
+    ],
+    "officialUrl": "https://www.comp.nus.edu.sg/programmes/pg/mcomp-gen/application/",
+    "officialLabel": "NUS 计算学院申请页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "申请期 2026-10-01 至 2027-01-31（August 2027 intake，每年仅 8 月一次入学，官网原文核实）；早申请可能获早期录取",
+      "开设于 NUS 计算学院（School of Computing），申请入口与已收录的 MComp (CS Specialisation) 相同"
+    ]
+  },
+  {
+    "id": "nus-mcomp-isys",
+    "region": "SG",
+    "field": "cs",
+    "school": "National University of Singapore",
+    "schoolCn": "新加坡国立大学",
+    "name": "Master of Computing (Information Systems Specialisation)",
+    "nameCn": "计算硕士（信息系统方向）",
+    "duration": "全日制 1.5 年（官网写 FT normal candidature 1.5 years）",
+    "language": "IELTS 6.0 / TOEFL iBT 90（本科非英语授课需提交）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-01-31"
+      }
+    ],
+    "officialUrl": "https://www.comp.nus.edu.sg/programmes/pg/mis/application/",
+    "officialLabel": "NUS 计算学院申请页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "申请期 2026-10-01 至 2027-01-31（August 2027 intake，每年仅 8 月一次入学，官网原文核实）；早申请可能获早期录取",
+      "开设于 NUS 计算学院（School of Computing），申请入口与已收录的 MComp (CS Specialisation) 相同"
+    ]
+  },
+  {
+    "id": "nus-mcomp-isec",
+    "region": "SG",
+    "field": "cs",
+    "school": "National University of Singapore",
+    "schoolCn": "新加坡国立大学",
+    "name": "Master of Computing (Infocomm Security Specialisation)",
+    "nameCn": "计算硕士（信息安全方向）",
+    "duration": "全日制 1.5 年（官网写 FT normal candidature 1.5 years）",
+    "language": "IELTS 6.0 / TOEFL iBT 90（本科非英语授课需提交）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-01-31"
+      }
+    ],
+    "officialUrl": "https://www.comp.nus.edu.sg/programmes/pg/misc/application/",
+    "officialLabel": "NUS 计算学院申请页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "申请期 2026-10-01 至 2027-01-31（August 2027 intake，每年仅 8 月一次入学，官网原文核实）；早申请可能获早期录取",
+      "开设于 NUS 计算学院（School of Computing），申请入口与已收录的 MComp (CS Specialisation) 相同"
+    ]
+  },
+  {
+    "id": "nus-mcomp-ai",
+    "region": "SG",
+    "field": "cs",
+    "school": "National University of Singapore",
+    "schoolCn": "新加坡国立大学",
+    "name": "Master of Computing in Artificial Intelligence",
+    "nameCn": "计算硕士（人工智能）",
+    "duration": "全日制 1.5 年（官网写 FT normal candidature 1.5 years）",
+    "language": "IELTS 6.0 / TOEFL iBT 90（本科非英语授课需提交）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-01-31"
+      }
+    ],
+    "officialUrl": "https://www.comp.nus.edu.sg/programmes/pg/mcomp-ai/application/",
+    "officialLabel": "NUS 计算学院申请页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "申请期 2026-10-01 至 2027-01-31（August 2027 intake，每年仅 8 月一次入学，官网原文核实）；早申请可能获早期录取",
+      "开设于 NUS 计算学院（School of Computing），申请入口与已收录的 MComp (CS Specialisation) 相同"
+    ]
+  },
+  {
+    "id": "nus-msc-dft",
+    "region": "SG",
+    "field": "finance",
+    "school": "National University of Singapore",
+    "schoolCn": "新加坡国立大学",
+    "name": "Master of Science in Digital FinTech",
+    "nameCn": "数字金融科技硕士",
+    "duration": "全日制 1.5 年（官网写 FT normal candidature 1.5 years）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-01-31"
+      }
+    ],
+    "officialUrl": "https://www.comp.nus.edu.sg/programmes/pg/mdft/application/",
+    "officialLabel": "NUS 计算学院申请页",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "申请期 2026-10-01 至 2027-01-31（August 2027 intake，每年仅 8 月一次入学，官网原文核实）；早申请可能获早期录取",
+      "开设于 NUS 计算学院（School of Computing）"
+    ]
   }
 ]
