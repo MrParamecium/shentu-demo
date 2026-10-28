@@ -9913,5 +9913,30 @@
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于计算机科学系（Department of Computer Science）"
     ]
+  },
+  {
+    "id": "hkust-msc-go",
+    "region": "HK",
+    "field": "business",
+    "school": "The Hong Kong University of Science and Technology",
+    "schoolCn": "香港科技大学",
+    "name": "MSc in Global Operations (MSGO)",
+    "nameCn": "环球运营硕士",
+    "duration": "全日制，学制见学校官网（以官网为准）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮（Phase 1）",
+        "deadline": "2026-10-02"
+      }
+    ],
+    "officialUrl": "https://msgo.hkust.edu.hk/",
+    "officialLabel": "港科大 MSGO 项目官网",
+    "updatedAt": "2026-10-28",
+    "verified": true,
+    "notes": [
+      "官网首页轮播：「2027/28 Intake - Phase 1 Applications Closing Soon 02.10.2026」，Phase 1 已过期；后续轮次官网未列出",
+      "官网写 Application for 2027/28 intake open now，申请已开放"
+    ]
   }
 ]

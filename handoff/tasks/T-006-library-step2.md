@@ -310,3 +310,9 @@
 2. 同一所学校的多个项目**不能复用同一句证据**，除非逐页确认每页都有这句
 3. 「滚动审理」只在官网写了 rolling / continuous basis 时写进备注
 4. 轮次要记全，包括已过期的提前轮（显示时会自动标「已过」）
+
+
+### Batch 25 · 港科大商学院补漏（2026-10-28，ZCode 并行会话 E）
+- **新增 1 个**：MSc in Global Operations（MSGO，环球运营硕士）——官网首页轮播有具体日期："2027/28 Intake - Phase 1 Applications Closing Soon 02.10.2026"（Phase 1 已过期，后续轮次未列出）；申请已开放。库里 338 → 339（HK 62）
+- **5 个仍未收录**：Marketing（opens NOW 无截止日）、ISM / IMT / FOFB（"Coming Soon: Priority Round ... officially open on 2 Jul 2026"，仅开放日无截止日）、Accounting（本轮站点不可达）→ 轮次截止日公布后下一批补，勿猜
+- 证据：`handoff/evidence/T-006-batch-25.md`；`check:programs` / `build` / `lint` 全过
