@@ -1,6 +1,6 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 141 / ❌ 19 / ⚠️ 178）
+- 审计项目数：338（✅ 143 / ❌ 19 / ⚠️ 176）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
@@ -14,7 +14,7 @@
 | London School of Economics and Political Science | 20 | 20 | 0 | 0 | 逐项原文见下 |
 | Nanyang Technological University | 2 | 0 | 0 | 2 | 逐项原文见下 |
 | National University of Singapore | 3 | 0 | 0 | 3 | 逐项原文见下 |
-| The Chinese University of Hong Kong | 17 | 0 | 0 | 17 | 逐项原文见下 |
+| The Chinese University of Hong Kong | 17 | 2 | 0 | 15 | 逐项原文见下 |
 | The Hong Kong Polytechnic University | 17 | 0 | 0 | 17 | 逐项原文见下 |
 | The Hong Kong University of Science and Technology | 8 | 2 | 0 | 6 | 逐项原文见下 |
 | The University of Edinburgh | 21 | 13 | 0 | 8 | 逐项原文见下 |
@@ -34,7 +34,7 @@
 ### The Hong Kong University of Science and Technology
 - hkust-msc-bdt | ✅ | https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The Chinese University of Hong Kong
-- cuhk-msc-fin | ⚠️ | https://masters.bschool.cuhk.edu.hk/programmes/mscfin/ | 2027-28 Admissions Application Deadline Full-time: 31 Mar 2027 (Wed) Part-time: 30 Apr 2027 (Fri) Contact Us | 库中日期未在本次官网正文中找到：2027-03-31；库标 rolling，但本次正文未读到 rolling/continuous 原文
+- cuhk-msc-fin | ✅ | https://masters.bschool.cuhk.edu.hk/programmes/mscfin/ | 2027-28 Admissions Application Deadline Full-time: 31 Mar 2027 (Wed); Admissions will be processed on a rolling basis until all places have been filled. | 项目页明确写出全日制、2027-28、Full-time 截止 31 Mar 2027；学校官方申请页明确 Admissions will be processed on a rolling basis until all places have been filled.
 ### Imperial College London
 - ic-msc-ba | ✅ | https://www.imperial.ac.uk/business-school/masters/business-analytics/admissions/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### University College London
@@ -68,7 +68,7 @@
 ### The Hong Kong University of Science and Technology
 - hkust-msc-it | ⚠️ | https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-it | Application Deadline Non-Local Applicants 1 December 2026 (Round 1) 1 March 2027 (Round 2) | 库中日期未在本次官网正文中找到：2026-12-01
 ### The Chinese University of Hong Kong
-- cuhk-msc-ba | ⚠️ | https://masters.bschool.cuhk.edu.hk/programmes/mscba/ | 2027-28 Admissions Application Deadline Full-time: 31 Mar 2027 (Wed) Part-time: 30 Apr 2027 (Fri) Contact Us | 库中日期未在本次官网正文中找到：2027-03-31；库标 rolling，但本次正文未读到 rolling/continuous 原文
+- cuhk-msc-ba | ✅ | https://masters.bschool.cuhk.edu.hk/programmes/mscba/ | 2027-28 Admissions Application Deadline Full-time: 31 Mar 2027 (Wed); Admissions will be processed on a rolling basis until all places have been filled. | 项目页明确写出全日制、2027-28、Full-time 截止 31 Mar 2027；学校官方申请页明确 Admissions will be processed on a rolling basis until all places have been filled.
 ### The Hong Kong Polytechnic University
 - polyu-msc-dsa | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/62027-dfm-dpm | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### Imperial College London
