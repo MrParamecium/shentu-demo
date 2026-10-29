@@ -1,6 +1,6 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 108 / ❌ 19 / ⚠️ 211）
+- 审计项目数：338（✅ 141 / ❌ 19 / ⚠️ 178）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
@@ -9,18 +9,18 @@
 |---|---:|---:|---:|---:|---|
 | City University of Hong Kong | 1 | 0 | 0 | 1 | 逐项原文见下 |
 | Durham University | 18 | 0 | 0 | 18 | 逐项原文见下 |
-| Imperial College London | 21 | 0 | 0 | 21 | 逐项原文见下 |
+| Imperial College London | 21 | 11 | 0 | 10 | 逐项原文见下 |
 | King's College London | 18 | 0 | 0 | 18 | 逐项原文见下 |
 | London School of Economics and Political Science | 20 | 20 | 0 | 0 | 逐项原文见下 |
 | Nanyang Technological University | 2 | 0 | 0 | 2 | 逐项原文见下 |
 | National University of Singapore | 3 | 0 | 0 | 3 | 逐项原文见下 |
 | The Chinese University of Hong Kong | 17 | 0 | 0 | 17 | 逐项原文见下 |
 | The Hong Kong Polytechnic University | 17 | 0 | 0 | 17 | 逐项原文见下 |
-| The Hong Kong University of Science and Technology | 8 | 0 | 0 | 8 | 逐项原文见下 |
-| The University of Edinburgh | 21 | 0 | 0 | 21 | 逐项原文见下 |
-| The University of Hong Kong | 7 | 0 | 0 | 7 | 逐项原文见下 |
+| The Hong Kong University of Science and Technology | 8 | 2 | 0 | 6 | 逐项原文见下 |
+| The University of Edinburgh | 21 | 13 | 0 | 8 | 逐项原文见下 |
+| The University of Hong Kong | 7 | 1 | 0 | 6 | 逐项原文见下 |
 | The University of Hong Kong (HKU Business School) | 11 | 0 | 0 | 11 | 逐项原文见下 |
-| The University of Manchester | 24 | 0 | 0 | 24 | 逐项原文见下 |
+| The University of Manchester | 24 | 6 | 0 | 18 | 逐项原文见下 |
 | University College London | 32 | 31 | 0 | 1 | 逐项原文见下 |
 | University of Bristol | 26 | 26 | 0 | 0 | 逐项原文见下 |
 | University of Glasgow | 19 | 0 | 19 | 0 | 逐项原文见下 |
@@ -32,15 +32,15 @@
 ### The University of Hong Kong
 - hku-msc-cs | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(general,-cyber-security,-financial-computing-and-multimedia-computing-streams)-cds&mode=0 | Application Deadline Main Round: 12:00 noon (GMT +8), December 01, 2026 Clearing Round: 12:00 noon (GMT +8), April 30, 2027 Description Normative Study Period: 1 year. Maximum Study Period: 2 years. Apply Now | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### The Hong Kong University of Science and Technology
-- hkust-msc-bdt | ⚠️ | https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt | Application Deadline All Applicants 1 December 2026 (Round 1) 1 March 2027 (Round 2) | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hkust-msc-bdt | ✅ | https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The Chinese University of Hong Kong
 - cuhk-msc-fin | ⚠️ | https://masters.bschool.cuhk.edu.hk/programmes/mscfin/ | 2027-28 Admissions Application Deadline Full-time: 31 Mar 2027 (Wed) Part-time: 30 Apr 2027 (Fri) Contact Us | 库中日期未在本次官网正文中找到：2027-03-31；库标 rolling，但本次正文未读到 rolling/continuous 原文
 ### Imperial College London
-- ic-msc-ba | ⚠️ | https://www.imperial.ac.uk/business-school/masters/business-analytics/admissions/ | Next application deadline: 6 January 2027 Location: London, UK Fees and funding Career impact Overview Entry requirements | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ic-msc-ba | ✅ | https://www.imperial.ac.uk/business-school/masters/business-analytics/admissions/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### University College London
 - ucl-msc-ds | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/data-science-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### The University of Edinburgh
-- ed-msc-ai | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/107-artificial-intelligence | When to apply Programme start date	Application deadline 13 September 2027	31 March 2027 We will make a small number of offers to the most outstanding candidates on an ongoing basis, but will hold the majority of applications until the advertised deadline. Decisions will be made as soon as possible once the deadline has passed. We expect to make the majority of decisions within eight weeks of the deadline, by 31 May. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ed-msc-ai | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/107-artificial-intelligence | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Manchester
 - man-msc-acf | ⚠️ | https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/ | Please ensure that you submit all supporting documentation with your application before the application deadline to avoid delays in processing. STAGE	APPLICATION RECEIVED BY	APPLICATION UPDATE BY 1	6 December 2026	19 February 2027 2	1 March 2027	2 May 2027 3	4 May 2027	18 June 2027 4	4 July 2027	30 July 2027 5	23 August 2027	31 August 2027 | 未在本次页面正文中读到 Full-time
 ### King's College London
@@ -72,17 +72,17 @@
 ### The Hong Kong Polytechnic University
 - polyu-msc-dsa | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/62027-dfm-dpm | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### Imperial College London
-- ic-msc-computing | ⚠️ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/computing/ | Application deadlines – Round 2 closes on Wednesday 6 January 2027. Application rounds Application fee Application process ATAS certificate Fees and funding Home fee | 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28
+- ic-msc-computing | ✅ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/computing/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### Imperial College London
 - ic-msc-fin | ⚠️ | https://www.imperial.ac.uk/business-school/masters/finance/admissions/ | Next application deadline: 6 January 2027 Fee: £54,000 Location: London, UK Fees and funding Career impact | 未在本次页面正文中读到 Full-time
 ### The University of Manchester
 - man-msc-baai | ⚠️ | https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/ | Please ensure that you submit all supporting documentation with your application before the application deadline to avoid delays in processing. STAGE	APPLICATION RECEIVED BY	APPLICATION UPDATE BY 1	6 December 2026	19 February 2027 2	1 March 2027	2 May 2027 3	4 May 2027	18 June 2027 4	4 July 2027	30 July 2027 5	23 August 2027	31 August 2027 | 未在本次页面正文中读到 Full-time
 ### The University of Manchester
-- man-msc-acs | ⚠️ | https://www.manchester.ac.uk/study/masters/courses/list/21573/msc-advanced-computer-science/ | Stage 1 : Application received by 6 November 2026; Decision by 8 January 2027. Stage 2 : Application received by 1 January 2027; Decision by 5 March 2027. Stage 3 : Application received by 26 Feb 2027; Decision by 30 April 2027. Stage 4 : Application received by 21 May 2027; Decision by 18 June 2027. Applications received after 21 May 2027 will be considered depending on course availability. Whilst we aim to give you a decision on your application by the deadline date, in some instances due to the competition for places and the volume of applications received, it may be necessary to roll your application forward to the next deadline date. If this is the case, we will let you know after the deadline date. As places are limited and some courses may close when at capacity, we recommend applying early. | 库中日期未在本次官网正文中找到：2027-02-26
+- man-msc-acs | ✅ | https://www.manchester.ac.uk/study/masters/courses/list/21573/msc-advanced-computer-science/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
 - ed-msc-ds | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/902-data-science | When to apply When to submit your supporting documents You must submit all supporting documents by the application deadline, or we will be unable to consider your application. Regardless of when you apply, you have 28 days from submitting your application to supply any supporting documents through the Application Hub, after which we will automatically reject your application. Due to high demand, the school operates a number of selection deadlines. We strongly recommend you apply as early as possible. Applications may close earlier than the published deadlines if there is exceptionally high demand. | 库中日期未在本次官网正文中找到：2027-03-31, 2027-05-31
 ### The University of Edinburgh
-- ed-msc-fi | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/1128-finance-and-investment | When to apply Due to high demand, the school operates a number of selection deadlines. We will make a small number of offers to the most outstanding candidates on an ongoing basis, but hold the majority of applications until the next published selection deadline when we will offer a proportion of the places available to applicants selected through the competitive process described on the school website. Full details on the admissions process and the selection deadlines are available on the Business School website: Admissions strategy | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ed-msc-fi | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/1128-finance-and-investment | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### University of Warwick (Warwick Business School)
 - wbs-msc-finance | ✅ | https://www.wbs.ac.uk/courses/masters/finance/how-to-apply/ | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
@@ -208,7 +208,7 @@
 ### Imperial College London
 - ic-msc-iem | ⚠️ | https://www.imperial.ac.uk/business-school/masters/innovation-entrepreneurship-management/admissions/ | Next application deadline: 6 January 2027 Fee: £48,000 Location: London, UK Fees and funding Career impact | 未在本次页面正文中读到 Full-time
 ### Imperial College London
-- ic-msc-aiep | ⚠️ | https://www.imperial.ac.uk/business-school/masters/ai-economics-policy/admissions/ | Candidates should submit their application by 23.59 UK time on the day of the application deadline. Deadlines for 2027 entry Admissions round | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ic-msc-aiep | ✅ | https://www.imperial.ac.uk/business-school/masters/ai-economics-policy/admissions/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### Imperial College London
 - ic-msc-fa | ⚠️ | https://www.imperial.ac.uk/business-school/masters/finance-accounting/admissions/ | Next application deadline: 6 January 2027 Fee: £54,000 Location: London, UK Fees and funding Career impact | 未在本次页面正文中读到 Full-time
 ### Imperial College London
@@ -218,21 +218,21 @@
 ### Imperial College London
 - ic-msc-rmfe | ⚠️ | https://www.imperial.ac.uk/business-school/masters/risk-management/admissions/ | Next application deadline: 6 January 2027 Fee: £54,000 Location: London, UK Fees and funding Career impact | 未在本次页面正文中读到 Full-time
 ### Imperial College London
-- ic-msc-advcomp | ⚠️ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/advanced-computing/ | Application deadlines – Round 2 closes on Wednesday 6 January 2027 Application rounds Application fee Application process ATAS certificate Fees and funding Home fee | 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28
+- ic-msc-advcomp | ✅ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/advanced-computing/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### Imperial College London
-- ic-msc-comp-ai | ⚠️ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-artificial-intelligence-msc/ | Application deadlines – Round 2 closes on Wednesday 6 January 2027. Application rounds Application fee Application process ATAS certificate Fees and funding Home fee | 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28
+- ic-msc-comp-ai | ✅ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-artificial-intelligence-msc/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### Imperial College London
-- ic-msc-comp-sr | ⚠️ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-security-reliability-msc/ | Application deadlines – Round 2 closes on Wednesday 6 January 2027. Application rounds Application fee Application process ATAS certificate Fees and funding Home fee | 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28
+- ic-msc-comp-sr | ✅ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-security-reliability-msc/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### Imperial College London
-- ic-msc-comp-se | ⚠️ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-software-engineering-msc/ | Application deadlines – Round 2 closes on Wednesday 6 January 2027. Application rounds Application fee Application process ATAS certificate Fees and funding Home fee | 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28
+- ic-msc-comp-se | ✅ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-software-engineering-msc/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### Imperial College London
-- ic-msc-comp-vcr | ⚠️ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-visual-computing-robotics-msc/ | Application deadlines – Round 2 closes on Wednesday 6 January 2027. Application rounds Application fee Application process ATAS certificate Fees and funding Home fee | 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28
+- ic-msc-comp-vcr | ✅ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-visual-computing-robotics-msc/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### Imperial College London
-- ic-msc-ai | ⚠️ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/artificial-intelligence/ | Application deadlines – Round 2 closes on Wednesday 6 January 2027. Application rounds Application fee Application process ATAS certificate Fees and funding Home fee | 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28
+- ic-msc-ai | ✅ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/artificial-intelligence/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### Imperial College London
-- ic-msc-aiml | ⚠️ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/artificial-intelligence-machine-learning/ | Application deadlines – Round 2 closes on Wednesday 6 January 2027. Application rounds Application fee Application process Selection process Project ATAS certificate (overseas candidates) | 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28
+- ic-msc-aiml | ✅ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/artificial-intelligence-machine-learning/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### Imperial College London
-- ic-msc-aml | ⚠️ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/applied-machine-learning/ | Application deadlines – Round 2 closes on Wednesday 6 January 2027 Application rounds Application fee Application process ATAS certificate Fees and funding Home fee | 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28
+- ic-msc-aml | ✅ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/applied-machine-learning/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### King's College London
 - kcl-msc-de | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-economy-msc | Application deadlines: Closing date guidance Apply now Key Links How to apply Register your interest | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### King's College London
@@ -264,27 +264,27 @@
 ### King's College London
 - kcl-msc-rob | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/robotics-msc | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块
 ### The University of Edinburgh
-- ed-msc-ba | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/929-business-analytics | When to apply Due to high demand, the school operates a number of selection deadlines. We will make a small number of offers to the most outstanding candidates on an ongoing basis, but hold the majority of applications until the next published selection deadline when we will offer a proportion of the places available to applicants selected through the competitive process described on the school website. Full details on the admissions process and the selection deadlines are available on the Business School website: Admissions strategy | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ed-msc-ba | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/929-business-analytics | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
-- ed-msc-mgmt | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/277-management | When to apply Due to high demand, the school operates a number of selection deadlines. We will make a small number of offers to the most outstanding candidates on an ongoing basis, but hold the majority of applications until the next published selection deadline when we will offer a proportion of the places available to applicants selected through the competitive process described on the school website. Full details on the admissions process and the selection deadlines are available on the Business School website: Admissions strategy | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ed-msc-mgmt | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/277-management | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
-- ed-msc-mkt | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/638-marketing | When to apply Due to high demand, the school operates a number of selection deadlines. We will make a small number of offers to the most outstanding candidates on an ongoing basis, but hold the majority of applications until the next published selection deadline when we will offer a proportion of the places available to applicants selected through the competitive process described on the school website. Full details on the admissions process and the selection deadlines are available on the Business School website: Admissions strategy | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ed-msc-mkt | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/638-marketing | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
-- ed-msc-ei | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/897-entrepreneurship-and-innovation | When to apply Due to high demand, the school operates a number of selection deadlines. We will make a small number of offers to the most outstanding candidates on an ongoing basis, but hold the majority of applications until the next published selection deadline when we will offer a proportion of the places available to applicants selected through the competitive process described on the school website. Full details on the admissions process and the selection deadlines are available on the Business School website: Admissions strategy | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ed-msc-ei | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/897-entrepreneurship-and-innovation | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
-- ed-msc-hrm | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/755-human-resource-management | When to apply Due to high demand, the school operates a number of selection deadlines. We will make a small number of offers to the most outstanding candidates on an ongoing basis, but hold the majority of applications until the next published selection deadline when we will offer a proportion of the places available to applicants selected through the competitive process described on the school website. Full details on the admissions process and the selection deadlines are available on the Business School website: Admissions strategy | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ed-msc-hrm | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/755-human-resource-management | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
-- ed-msc-ihrm | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/880-international-human-resource-management | When to apply Due to high demand, the school operates a number of selection deadlines. We will make a small number of offers to the most outstanding candidates on an ongoing basis, but hold the majority of applications until the next published selection deadline when we will offer a proportion of the places available to applicants selected through the competitive process described on the school website. Full details on the admissions process and the selection deadlines are available on the Business School website: Admissions strategy | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ed-msc-ihrm | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/880-international-human-resource-management | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
-- ed-msc-ai4b | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/1138-ai-for-business | When to apply Due to high demand, the school operates a number of selection deadlines. We will make a small number of offers to the most outstanding candidates on an ongoing basis, but hold the majority of applications until the next published selection deadline when we will offer a proportion of the places available to applicants selected through the competitive process described on the school website. Full details on the admissions process and the selection deadlines are available on the Business School website: Admissions strategy | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ed-msc-ai4b | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/1138-ai-for-business | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
-- ed-msc-afm | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/1126-accounting-and-financial-management | When to apply Due to high demand, the school operates a number of selection deadlines. We will make a small number of offers to the most outstanding candidates on an ongoing basis, but hold the majority of applications until the next published selection deadline when we will offer a proportion of the places available to applicants selected through the competitive process described on the school website. Full details on the admissions process and the selection deadlines are available on the Business School website: Admissions strategy | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ed-msc-afm | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/1126-accounting-and-financial-management | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
-- ed-msc-bira | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/756-banking-innovation-and-risk-analytics | When to apply Due to high demand, the school operates a number of selection deadlines. We will make a small number of offers to the most outstanding candidates on an ongoing basis, but hold the majority of applications until the next published selection deadline when we will offer a proportion of the places available to applicants selected through the competitive process described on the school website. Full details on the admissions process and the selection deadlines are available on the Business School website: Admissions strategy | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ed-msc-bira | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/756-banking-innovation-and-risk-analytics | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
-- ed-msc-ftp | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/966-finance-technology-and-policy | When to apply Due to high demand, the school operates a number of selection deadlines. We will make a small number of offers to the most outstanding candidates on an ongoing basis, but hold the majority of applications until the next published selection deadline when we will offer a proportion of the places available to applicants selected through the competitive process described on the school website. Full details on the admissions process and the selection deadlines are available on the Business School website: Admissions strategy | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ed-msc-ftp | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/966-finance-technology-and-policy | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
-- ed-msc-ccfi | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/671-climate-change-finance-and-investment | When to apply Due to high demand, the school operates a number of selection deadlines. We will make a small number of offers to the most outstanding candidates on an ongoing basis, but hold the majority of applications until the next published selection deadline when we will offer a proportion of the places available to applicants selected through the competitive process described on the school website. Full details on the admissions process and the selection deadlines are available on the Business School website: Admissions strategy | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ed-msc-ccfi | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/671-climate-change-finance-and-investment | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
 - ed-msc-cmf | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/894-computational-mathematical-finance | When to apply Due to high demand, the school operates a number of selection deadlines. We strongly recommend you apply as early as possible. Applications may close earlier than the published deadlines if there is exceptionally high demand. We may make a small number of offers to the most outstanding candidates on an ongoing basis. However, the majority of applications will be held until the advertised deadline. | 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31
 ### The University of Edinburgh
@@ -326,15 +326,15 @@
 ### The University of Manchester
 - man-msc-qf | ⚠️ | https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/ | Please ensure that you submit all supporting documentation with your application before the application deadline to avoid delays in processing. STAGE	APPLICATION RECEIVED BY	APPLICATION UPDATE BY 1	6 December 2026	19 February 2027 2	1 March 2027	2 May 2027 3	4 May 2027	18 June 2027 4	4 July 2027	30 July 2027 5	23 August 2027	31 August 2027 | 未在本次页面正文中读到 Full-time
 ### The University of Manchester
-- man-msc-mf | ⚠️ | https://www.manchester.ac.uk/study/masters/courses/list/02250/msc-mathematical-finance/ | As there is high demand for this course we operate a staged admissions process with selection deadlines throughout the year. Details of the staged application deadlines can be found in the application and selection section. Due to the competition for places, we give preference to students with grades above our minimum entry requirements. If we make you an offer, you will have 3 weeks in which to accept. Any offers not accepted within 3 weeks will be withdrawn so that an offer can be made to another candidate. Staged admissions As there is high demand for this course we operate a staged admissions process with selection deadlines throughout the year.Due to the competition for places, we give preference to students with grades above our minimum entry requirements. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- man-msc-mf | ✅ | https://www.manchester.ac.uk/study/masters/courses/list/02250/msc-mathematical-finance/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Manchester
-- man-msc-ai | ⚠️ | https://www.manchester.ac.uk/study/masters/courses/list/21574/msc-artificial-intelligence/ | Stage 1 : Application received by 6 November 2026; Decision by 8 January 2027. Stage 2 : Application received by 1 January 2027; Decision by 5 March 2027. Stage 3 : Application received by 26 Feb 2027; Decision by 30 April 2027. Stage 4 : Application received by 21 May 2027; Decision by 18 June 2027. Applications received after 21 May 2027 will be considered depending on course availability. Whilst we aim to give you a decision on your application by the deadline date, in some instances due to the competition for places and the volume of applications received, it may be necessary to roll your application forward to the next deadline date. If this is the case, we will let you know after the deadline date. As places are limited and some courses may close when at capacity, we recommend applying early. | 库中日期未在本次官网正文中找到：2027-02-26
+- man-msc-ai | ✅ | https://www.manchester.ac.uk/study/masters/courses/list/21574/msc-artificial-intelligence/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Manchester
-- man-msc-ml | ⚠️ | https://www.manchester.ac.uk/study/masters/courses/list/21576/msc-machine-learning/ | Stage 1 : Application received by 6 November 2026; Decision by 8 January 2027. Stage 2 : Application received by 1 January 2027; Decision by 5 March 2027. Stage 3 : Application received by 26 Feb 2027; Decision by 30 April 2027. Stage 4 : Application received by 21 May 2027; Decision by 18 June 2027. Applications received after 21 May 2027 will be considered depending on course availability. Whilst we aim to give you a decision on your application by the deadline date, in some instances due to the competition for places and the volume of applications received, it may be necessary to roll your application forward to the next deadline date. If this is the case, we will let you know after the deadline date. As places are limited and some courses may close when at capacity, we recommend applying early. | 库中日期未在本次官网正文中找到：2027-02-26
+- man-msc-ml | ✅ | https://www.manchester.ac.uk/study/masters/courses/list/21576/msc-machine-learning/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Manchester
-- man-msc-cybersec | ⚠️ | https://www.manchester.ac.uk/study/masters/courses/list/21575/msc-cyber-security/ | Stage 1 : Application received by 6 November 2026; Decision by 8 January 2027. Stage 2 : Application received by 1 January 2027; Decision by 5 March 2027. Stage 3 : Application received by 26 Feb 2027; Decision by 30 April 2027. Stage 4 : Application received by 21 May 2027; Decision by 18 June 2027. Applications received after 21 May 2027 will be considered depending on course availability. Whilst we aim to give you a decision on your application by the deadline date, in some instances due to the competition for places and the volume of applications received, it may be necessary to roll your application forward to the next deadline date. If this is the case, we will let you know after the deadline date. As places are limited and some courses may close when at capacity, we recommend applying early. | 库中日期未在本次官网正文中找到：2027-02-26
+- man-msc-cybersec | ✅ | https://www.manchester.ac.uk/study/masters/courses/list/21575/msc-cyber-security/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Manchester
-- man-msc-se | ⚠️ | https://www.manchester.ac.uk/study/masters/courses/list/21577/msc-software-engineering/ | Stage 1 : Application received by 6 November 2026; Decision by 8 January 2027. Stage 2 : Application received by 1 January 2027; Decision by 5 March 2027. Stage 3 : Application received by 26 Feb 2027; Decision by 30 April 2027. Stage 4 : Application received by 21 May 2027; Decision by 18 June 2027. Applications received after 21 May 2027 will be considered depending on course availability. Whilst we aim to give you a decision on your application by the deadline date, in some instances due to the competition for places and the volume of applications received, it may be necessary to roll your application forward to the next deadline date. If this is the case, we will let you know after the deadline date. As places are limited and some courses may close when at capacity, we recommend applying early. | 库中日期未在本次官网正文中找到：2027-02-26
+- man-msc-se | ✅ | https://www.manchester.ac.uk/study/masters/courses/list/21577/msc-software-engineering/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Manchester
 - man-msc-dsai-bm | ⚠️ | https://www.manchester.ac.uk/study/masters/courses/list/22194/msc-data-science-and-artificial-intelligence-business-and-management/ | Stage 1:Application received by6th December 2026; Application update by19th February 2027 Stage 2:Application received by1st March 2027; Application update by2nd May 2027 Stage 3:Application received by4th May 2027; Application update by18th June 2027 Stage 4:Application received by4th July 2027; Application update by30th July 2027 | 库中日期未在本次官网正文中找到：2026-12-06, 2027-03-01, 2027-05-04, 2027-07-04
 ### The University of Manchester
@@ -406,7 +406,7 @@
 ### The University of Hong Kong (HKU Business School)
 - hku-maib | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-artificial-intelligence-in-business-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026 [2027 intake] Round 1: 12:00 noon (GMT +8), September 28, 2026 [2027 intake] Round 2: 12:00 noon (GMT +8), December 04, 2026 Description | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### The University of Hong Kong
-- hku-msc-it | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-innovation-and-technology&mode=0 | Application Deadline Main Round: 12:00 noon (GMT +8), January 15, 2027 Clearing Round: 12:00 noon (GMT +8), April 30, 2027 Description September 2027 intake for full-time study (10 months) Apply Now | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-msc-it | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-innovation-and-technology&mode=0 | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Hong Kong (HKU Business School)
 - hku-macct | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-accounting-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026 [2027 intake] Round 1: 12:00 noon (GMT +8), September 28, 2026 [2027 intake] Round 2: 12:00 noon (GMT +8), December 04, 2026 Description | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### The University of Hong Kong (HKU Business School)
@@ -456,7 +456,7 @@
 ### The Chinese University of Hong Kong
 - cuhk-msc-rmsda | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/science/msc-risk-management-science-and-data-analytics | Application Deadline Priority round: 31 December 2026 Final round: 28 February 2027 Applications will be processed on a rolling basis until all places have been filled. Early applications are strongly encouraged. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### The Hong Kong University of Science and Technology
-- hkust-msc-ai | ⚠️ | https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-ai | Application Deadline All Applicants 1 December 2026 (Round 1) 1 March 2027 (Round 2) | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hkust-msc-ai | ✅ | https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-ai | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The Hong Kong University of Science and Technology
 - hkust-msc-aie | ⚠️ | https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-aie | Application Deadline All Applicants 1 December 2026 (Round 1) 1 March 2027 (Round 2) | 未在本次页面正文中读到 Full-time
 ### The Hong Kong University of Science and Technology
@@ -548,43 +548,43 @@
 ### University of Bristol
 - bris-msc-dsb | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-data-science-for-business/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Glasgow
-- gla-msc-mgmt | ❌ | https://www.gla.ac.uk/postgraduate/taught/managementmsc/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-mgmt | ❌ | https://www.gla.ac.uk/postgraduate/taught/managementmsc/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-mgmt-hr | ❌ | https://www.gla.ac.uk/postgraduate/taught/managementwithhumanresources/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-mgmt-hr | ❌ | https://www.gla.ac.uk/postgraduate/taught/managementwithhumanresources/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-mgmt-mkt | ❌ | https://www.gla.ac.uk/postgraduate/taught/management-with-marketing/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-mgmt-mkt | ❌ | https://www.gla.ac.uk/postgraduate/taught/management-with-marketing/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-ib | ❌ | https://www.gla.ac.uk/postgraduate/taught/internationalbusiness/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-ib | ❌ | https://www.gla.ac.uk/postgraduate/taught/internationalbusiness/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-ism | ❌ | https://www.gla.ac.uk/postgraduate/taught/internationalstrategicmarketing/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-ism | ❌ | https://www.gla.ac.uk/postgraduate/taught/internationalstrategicmarketing/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-ihrmd | ❌ | https://www.gla.ac.uk/postgraduate/taught/internationalhumanresourcemanagementdevelopment/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-ihrmd | ❌ | https://www.gla.ac.uk/postgraduate/taught/internationalhumanresourcemanagementdevelopment/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-ba | ❌ | https://www.gla.ac.uk/postgraduate/taught/business-analytics/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-ba | ❌ | https://www.gla.ac.uk/postgraduate/taught/business-analytics/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-cfb | ❌ | https://www.gla.ac.uk/postgraduate/taught/corporate-finance-banking/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-cfb | ❌ | https://www.gla.ac.uk/postgraduate/taught/corporate-finance-banking/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-finmgmt | ❌ | https://www.gla.ac.uk/postgraduate/taught/financemanagement/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-finmgmt | ❌ | https://www.gla.ac.uk/postgraduate/taught/financemanagement/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-finecon | ❌ | https://www.gla.ac.uk/postgraduate/taught/financialeconomics/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-finecon | ❌ | https://www.gla.ac.uk/postgraduate/taught/financialeconomics/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-fineng | ❌ | https://www.gla.ac.uk/postgraduate/taught/financial-engineering/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-fineng | ❌ | https://www.gla.ac.uk/postgraduate/taught/financial-engineering/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-frm | ❌ | https://www.gla.ac.uk/postgraduate/taught/financialriskmanagement/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-frm | ❌ | https://www.gla.ac.uk/postgraduate/taught/financialriskmanagement/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-fintech | ❌ | https://www.gla.ac.uk/postgraduate/taught/financialtechnology/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-fintech | ❌ | https://www.gla.ac.uk/postgraduate/taught/financialtechnology/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-cs | ❌ | https://www.gla.ac.uk/postgraduate/taught/computingscience/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-cs | ❌ | https://www.gla.ac.uk/postgraduate/taught/computingscience/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-cybersec | ❌ | https://www.gla.ac.uk/postgraduate/taught/cybersecurity/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-cybersec | ❌ | https://www.gla.ac.uk/postgraduate/taught/cybersecurity/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-cse | ❌ | https://www.gla.ac.uk/postgraduate/taught/computersystemsengineering/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-cse | ❌ | https://www.gla.ac.uk/postgraduate/taught/computersystemsengineering/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-da | ❌ | https://www.gla.ac.uk/postgraduate/taught/dataanalytics/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-da | ❌ | https://www.gla.ac.uk/postgraduate/taught/dataanalytics/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-advstats | ❌ | https://www.gla.ac.uk/postgraduate/taught/advanced-statistics/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-advstats | ❌ | https://www.gla.ac.uk/postgraduate/taught/advanced-statistics/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### University of Glasgow
-- gla-msc-dsai | ❌ | https://www.gla.ac.uk/postgraduate/taught/data-science-artificial-intelligence/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
+- gla-msc-dsai | ❌ | https://www.gla.ac.uk/postgraduate/taught/data-science-artificial-intelligence/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致
 ### Durham University
 - dur-msc-mgmt | ⚠️ | https://www.durham.ac.uk/business/courses/management-n2p109/ | Human Resource Management - MSc Start: September 2027 International Business - MSc Start: September 2027 Management (Consulting) - MSc Start: September 2027 | 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文
 ### Durham University
