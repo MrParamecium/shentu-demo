@@ -1,6 +1,6 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 182 / ❌ 42 / ⚠️ 114）
+- 审计项目数：338（✅ 185 / ❌ 42 / ⚠️ 111）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
@@ -20,7 +20,7 @@
 | The University of Edinburgh | 21 | 21 | 0 | 0 | 逐项原文见下 |
 | The University of Hong Kong | 7 | 6 | 0 | 1 | 逐项原文见下 |
 | The University of Hong Kong (HKU Business School) | 11 | 11 | 0 | 0 | 逐项原文见下 |
-| The University of Manchester | 24 | 6 | 0 | 18 | 逐项原文见下 |
+| The University of Manchester | 24 | 9 | 0 | 15 | 逐项原文见下 |
 | University College London | 32 | 31 | 0 | 1 | 逐项原文见下 |
 | University of Bristol | 26 | 26 | 0 | 0 | 逐项原文见下 |
 | University of Glasgow | 19 | 0 | 19 | 0 | 逐项原文见下 |
@@ -336,11 +336,11 @@
 ### The University of Manchester
 - man-msc-se | ✅ | https://www.manchester.ac.uk/study/masters/courses/list/21577/msc-software-engineering/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Manchester
-- man-msc-dsai-bm | ⚠️ | https://www.manchester.ac.uk/study/masters/courses/list/22194/msc-data-science-and-artificial-intelligence-business-and-management/ | Stage 1:Application received by6th December 2026; Application update by19th February 2027 Stage 2:Application received by1st March 2027; Application update by2nd May 2027 Stage 3:Application received by4th May 2027; Application update by18th June 2027 Stage 4:Application received by4th July 2027; Application update by30th July 2027 | 库中日期未在本次官网正文中找到：2026-12-06, 2027-03-01, 2027-05-04, 2027-07-04
+- man-msc-dsai-bm | ✅ | https://www.manchester.ac.uk/study/masters/courses/list/22194/msc-data-science-and-artificial-intelligence-business-and-management/ | Year of entry: 2027; Duration: 1 year; Full-time: In person; Applications for 2027 entry: Stage 1 application received by 6th December 2026; Stage 2 1st March 2027; Stage 3 4th May 2027; Stage 4 4th July 2027. | 本轮官网课程页明确读到 2027 入学、Full-time: In person、1 年学制及全部库中申请阶段日期；日期与库中一致。
 ### The University of Manchester
-- man-msc-dsai-cs | ⚠️ | https://www.manchester.ac.uk/study/masters/courses/list/22195/msc-data-science-and-artificial-intelligence-computer-science-data-informatics/ | Stage 1:Application received by6th December 2026; Application update by19th February 2027 Stage 2:Application received by1st March 2027; Application update by2nd May 2027 Stage 3:Application received by4th May 2027; Application update by18th June 2027 Stage 4:Application received by4th July 2027; Application update by30th July 2027 | 库中日期未在本次官网正文中找到：2026-12-06, 2027-03-01, 2027-05-04, 2027-07-04
+- man-msc-dsai-cs | ✅ | https://www.manchester.ac.uk/study/masters/courses/list/22195/msc-data-science-and-artificial-intelligence-computer-science-data-informatics/ | Year of entry: 2027; Duration: 1 year; Full-time: In person; Applications for 2027 entry: Stage 1 application received by 6th December 2026; Stage 2 1st March 2027; Stage 3 4th May 2027; Stage 4 4th July 2027. | 本轮官网课程页明确读到 2027 入学、Full-time: In person、1 年学制及全部库中申请阶段日期；日期与库中一致。
 ### The University of Manchester
-- man-msc-dsai-math | ⚠️ | https://www.manchester.ac.uk/study/masters/courses/list/22197/msc-data-science-and-artificial-intelligence-mathematics/ | Stage 1:Application received by6th December 2026; Application update by19th February 2027 Stage 2:Application received by1st March 2027; Application update by2nd May 2027 Stage 3:Application received by4th May 2027; Application update by18th June 2027 Stage 4:Application received by4th July 2027; Application update by30th July 2027 | 库中日期未在本次官网正文中找到：2026-12-06, 2027-03-01, 2027-05-04, 2027-07-04
+- man-msc-dsai-math | ✅ | https://www.manchester.ac.uk/study/masters/courses/list/22197/msc-data-science-and-artificial-intelligence-mathematics/ | Year of entry: 2027; Duration: 1 year; Full-time: In person; Applications for 2027 entry: Stage 1 application received by 6th December 2026; Stage 2 1st March 2027; Stage 3 4th May 2027; Stage 4 4th July 2027. | 本轮官网课程页明确读到 2027 入学、Full-time: In person、1 年学制及全部库中申请阶段日期；日期与库中一致。
 ### University of Warwick (Warwick Business School)
 - war-msc-mgmt | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-management | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
