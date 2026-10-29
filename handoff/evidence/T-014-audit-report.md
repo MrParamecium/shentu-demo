@@ -1,13 +1,13 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 238 / ❌ 42 / ⚠️ 58）
+- 审计项目数：338（✅ 239 / ❌ 42 / ⚠️ 57）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
 ## 按学校汇总
 | 学校 | 项目数 | ✅ | ❌ | ⚠️ | 备注 |
 |---|---:|---:|---:|---:|---|
-| City University of Hong Kong | 1 | 0 | 0 | 1 | 逐项原文见下 |
+| City University of Hong Kong | 1 | 1 | 0 | 0 | 逐项原文见下 |
 | Durham University | 18 | 7 | 0 | 11 | 逐项原文见下 |
 | Imperial College London | 21 | 11 | 0 | 10 | 逐项原文见下 |
 | King's College London | 18 | 18 | 0 | 0 | 逐项原文见下 |
@@ -94,7 +94,7 @@
 ### The Chinese University of Hong Kong
 - cuhk-msc-cs | ✅ | https://www.gs.cuhk.edu.hk/programmes/engineering/msc-computer-science | Study Mode Full-time; Application Deadline 页面逐项列出库中轮次日期 | 本轮港中文研究院/项目页明确读到 Full-time、申请截止日期和 rolling basis；日期与库中一致。
 ### City University of Hong Kong
-- cityu-msc-cs | ⚠️ | https://www.cityu.edu.hk/en/pg/taught-postgraduate-programmes/list | 页面正文未找到截止日期区块。 | 官网页面无法读取或正文为空
+- cityu-msc-cs | ✅ | https://www.cityu.edu.hk/en/pg/programme/program-list/2027/college-of-computing/department-of-computer-science/p53 | YEAR OF ENTRY 2027; APPLICATION DEADLINE Local & Non-local: 31 May 2027; NORMAL STUDY PERIOD Full-time: 1 year; Applications are processed on a rolling basis ... until all places are filled. | 本轮浏览器正文明确读到 YEAR OF ENTRY 2027、APPLICATION DEADLINE Local & Non-local: 31 May 2027、非本地生可 Full-time、Full-time: 1 year，以及 applications processed on a rolling basis until all places are filled；日期与库中一致。
 ### King's College London
 - kcl-msc-ds | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/data-science-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
