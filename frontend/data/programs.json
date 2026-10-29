@@ -21,8 +21,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(general,-cyber-security,-financial-computing-and-multimedia-computing-streams)-cds&mode=0",
     "officialLabel": "港大 MSc(CompSc) 项目页",
     "updatedAt": "2026-10-20",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间当天中午 12:00；2027 年 9 月开学",
       "现归属港大计算与数据科学学院，含通用、网络安全、金融计算、多媒体计算方向",
       "学费：非本地生 HK$375,000",
@@ -52,8 +53,9 @@
     "officialUrl": "https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt",
     "officialLabel": "港科大工学院 MSc BDT 页",
     "updatedAt": "2026-10-20",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "滚动审理，官网强烈建议尽早申请；2027 年 9 月开学",
       "学费：全日制 HK$350,000，分 2 期缴纳",
       "英语要求项目页只写参见研究生院，未能确认具体分数"
@@ -79,8 +81,9 @@
     "officialUrl": "https://masters.bschool.cuhk.edu.hk/programmes/mscfin/",
     "officialLabel": "港中文商学院 MSc Finance 页",
     "updatedAt": "2026-10-20",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-31；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "滚动审理，招满即提前关闭，官网强烈建议尽早申请",
       "非全日制截止 2027-04-30",
       "学费：全日制 HK$460,000；官网写明「最好有 2 年全职工作经验」",
@@ -122,8 +125,9 @@
     "officialUrl": "https://www.imperial.ac.uk/business-school/masters/business-analytics/admissions/",
     "officialLabel": "帝国商学院 BA&AI 招生页",
     "updatedAt": "2026-10-20",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为英国时间当天 23:59",
       "各轮出结果日：R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
       "申请费 £125；押金 £7,000，收到发票后 30 天内缴纳"
@@ -151,8 +155,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/data-science-msc",
     "officialLabel": "UCL Data Science MSc 课程页",
     "updatedAt": "2026-10-20",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "无分轮，2026-10-19 开放申请；需学生签证者 2027-03-22 英国时间 17:00 截止",
       "申请费 £90；海外学费押金为首年学费 10%，截止日见录取信（通常不早于 4 月 1 日）"
     ],
@@ -176,8 +181,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/107-artificial-intelligence",
     "officialLabel": "爱丁堡 MSc AI 课程页",
     "updatedAt": "2026-10-20",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "多数申请会压到截止日后统一审，结果大多在 5 月 31 日前发出；名额未满可能延期",
       "提交后 28 天内必须补齐支撑材料，否则自动拒绝",
       "无申请费；押金 £1,500，截止日见录取信",
@@ -219,8 +225,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "曼彻斯特商学院申请页",
     "updatedAt": "2026-10-20",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；各阶段出结果日：S1 2027-02-19，S2 2027-05-02，S3 2027-06-18",
       "申请费 £60；国际生押金 £2,500，截止日见录取信"
     ],
@@ -248,8 +255,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-marketing-msc",
     "officialLabel": "KCL Digital Marketing MSc 课程页",
     "updatedAt": "2026-10-20",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块",
       "首轮后招满即止，最终截止为海外学费身份的日期；截止时间为英国时间 23:59",
       "申请费 £130；国际生押金 £2,000 不退，期限随录取时间缩短（1 月前 2 个月 → 8 月 18 日后 3 天）"
     ],
@@ -269,7 +277,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-finance-full-time",
     "officialLabel": "LSE MSc Finance 课程页",
-    "updatedAt": "2026-10-23",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -290,7 +298,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-data-science",
     "officialLabel": "LSE MSc Data Science 课程页",
-    "updatedAt": "2026-10-23",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -317,8 +325,9 @@
     "officialUrl": "https://msba.nus.edu.sg/msba-programme/",
     "officialLabel": "NUS MSBA 项目页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 官网页面无法读取或正文为空",
       "2026-10-05 开放申请，2027 年 8 月开学；滚动审理，面试和发 offer 时间不固定",
       "BAC 奖学金截止 2026-12-15，早于申请截止",
       "申请费 S$100；押金 S$21,800，录取后 14 天内缴纳，不退"
@@ -343,8 +352,9 @@
     "officialUrl": "https://www.comp.nus.edu.sg/programmes/pg/mcs/application/",
     "officialLabel": "NUS 计算机学院申请页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-01 开放申请，每年只有 8 月一次入学；早申请可能获早期录取",
       "结果约 5 月底在 NUS 研究生申请系统公布",
       "申请费 S$109"
@@ -373,8 +383,9 @@
     "officialUrl": "https://mscfin.nus.edu.sg/admissions/application-process/",
     "officialLabel": "NUS MSc Finance 申请页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 官网页面无法读取或正文为空",
       "第一轮截止同时是 Study Award 评选截止；第二轮是所有申请人的最终截止",
       "每轮截止后集中审理，第一轮 offer 约 1–2 月起陆续发出",
       "申请费 S$100；接受 offer 时缴纳 S$10,900"
@@ -408,8 +419,9 @@
     "officialUrl": "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-business-analytics/admissions",
     "officialLabel": "南洋商学院 MSBA 申请页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "2027 年 7 月开学，2026 年 9 月开放申请；滚动审理，早申请早入围",
       "申请费 S$100；入学费 S$20,000（不含 GST），可抵学费，不退"
     ]
@@ -442,8 +454,9 @@
     "officialUrl": "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-finance/admissions",
     "officialLabel": "南洋商学院 MSc Finance 申请页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "滚动审理，早申请早入围",
       "同一页面截止部分写 2027 年 7 月开学、学费表写 8 月，开学月份以官网为准",
       "申请费 S$100；入学费 S$21,800（含 GST），可抵学费，不退"
@@ -472,8 +485,9 @@
     "officialUrl": "https://mdasc.cds.hku.hk/admissions-2027-28/",
     "officialLabel": "港大 MDASC 2027-28 招生页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-12-01, 2027-04-30；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到 Full-time；未在本次页面正文中读到申请截止区块",
       "官网写 Main Round / Clearing Round，截止时间为香港时间中午 12:00",
       "2027 年 9 月入学学费：本地 HK$339,000，非本地 HK$369,000"
     ]
@@ -510,8 +524,9 @@
     "officialUrl": "https://msba.hkust.edu.hk/admission/application-schedule-procedures",
     "officialLabel": "港科大 MSBA 申请时间表",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-10-11, 2026-11-29, 2027-01-10, 2027-02-28",
       "官网写 Phase 1–4；滚动审理，建议非本地申请人尽早申请",
       "申请费 HK$800",
       "需面试，入围者会被邀请"
@@ -549,8 +564,9 @@
     "officialUrl": "https://mfin.hkust.edu.hk/admissions/application-deadline",
     "officialLabel": "港科大 MFin 申请截止页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-10-11, 2027-01-10",
       "截止时间为香港时间 23:59；官网写 Phase 1–4，滚动审理",
       "第三、四轮是否还有名额，以官网为准",
       "GMAT/GRE 非必须；需面试"
@@ -580,8 +596,9 @@
     "officialUrl": "https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-it",
     "officialLabel": "港科大 MSc(IT) 项目页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-12-01",
       "以上为非本地申请人截止日；官网写竞争性滚动审理，建议尽早申请",
       "2027/28 秋季入学（2027 年 9 月）全日制学费 HK$320,000，分 2 期缴纳"
     ]
@@ -606,8 +623,9 @@
     "officialUrl": "https://masters.bschool.cuhk.edu.hk/programmes/mscba/",
     "officialLabel": "港中文商学院 MSc BA 项目页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-31；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网写滚动审理，名额满后可能提前截止",
       "另有提前轮 2026-07-31（港中文研究院截止日期表），已过期",
       "2027/28 学年学费 HK$400,000；录取后 2 周内缴留位费 HK$200,000",
@@ -637,8 +655,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/62027-dfm-dpm",
     "officialLabel": "理大 DSA 项目页（62027）",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round / Main Round，本地与非本地申请人日期相同",
       "非本地申请人必须注册为全日制"
     ]
@@ -670,8 +689,9 @@
     "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/computing/",
     "officialLabel": "帝国理工 Computing MSc 课程页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28",
       "截止时间为英国时间 23:59；官网写第一轮仅限商学院课程，本项目从第二轮开始",
       "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
       "申请费 £90；面向非计算机背景毕业生（官网写 conversion degree）"
@@ -708,8 +728,9 @@
     "officialUrl": "https://www.imperial.ac.uk/business-school/masters/finance/admissions/",
     "officialLabel": "帝国商学院 MSc Finance 招生页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "截止时间为英国时间 23:59",
       "各轮出结果日：第一轮 2026-11-25，第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-06-16",
       "官网写 GMAT 或 GRE 强烈建议提交，非必须",
@@ -751,8 +772,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "曼大商学院硕士申请页（分阶段截止）",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "官网写分阶段（Stage）审理；若当轮来不及出结果，申请会顺延到下一轮",
       "申请费 £60，不退；2026-10-10 开放 2027 入学申请",
       "官网写该项目于 2026 年 9 月起改版，加强 AI for Business 方向"
@@ -789,8 +811,9 @@
     "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/21573/msc-advanced-computer-science/",
     "officialLabel": "曼大 MSc Advanced Computer Science 课程页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-02-26",
       "官网写分阶段审理；各阶段结果日：2027-01-08、2027-03-05、2027-04-30、2027-06-18",
       "第四阶段截止后收到的申请，视名额酌情考虑",
       "无申请费；留位押金 £2,500"
@@ -819,8 +842,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/902-data-science",
     "officialLabel": "爱丁堡 MSc Data Science 课程页",
     "updatedAt": "2026-10-26",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-31, 2027-05-31",
       "课程页「Selection deadlines」表只写月日（31 March / 31 May）；该页开学日期为 2027 年 9 月，按 2027 年记录",
       "当轮未出结果的申请会顺延到下一轮；名额紧张时可能提前关闭",
       "提交后 28 天内必须补齐支撑材料，否则自动拒绝；无申请费"
@@ -861,8 +885,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/1128-finance-and-investment",
     "officialLabel": "爱丁堡 MSc Finance and Investment 课程页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "各轮出结果日：2026-12-03、2027-02-18、2027-04-22、2027-06-03、2027-07-22",
       "申请费 £60，不退，须在所报轮次截止前缴纳；押金 £2,500"
     ]
@@ -886,8 +911,9 @@
     "officialUrl": "https://www.wbs.ac.uk/courses/masters/finance/how-to-apply/",
     "officialLabel": "华威商学院 MSc Finance 申请页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网只列最终截止日，建议国际学生尽早申请以留出办签证时间",
       "申请费 £75，不退；国际生学费 £48,000"
     ]
@@ -911,8 +937,9 @@
     "officialUrl": "https://www.wbs.ac.uk/courses/masters/business-analytics-artificial-intelligence/how-to-apply/",
     "officialLabel": "华威商学院 MSc BA&AI 申请页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网注明原名 MSc Business Analytics，现更名为 Business Analytics & Artificial Intelligence",
       "官网只列最终截止日，建议国际学生尽早申请",
       "申请费 £75，不退；国际生学费 £41,500"
@@ -945,8 +972,9 @@
     "officialUrl": "https://masters.hkubs.hku.hk/our-programmes/master-of-finance/",
     "officialLabel": "港大经管学院 MFin 项目页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-07-24, 2026-09-28, 2026-12-04；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块",
       "官网写 Early Admission Round / Round 1 / Round 2，截止时间为香港时间中午 12:00",
       "提前轮、第一轮截止日已过，仅剩第二轮",
       "申请费 HK$780；GMAT/GRE 非必须；官网列出 2027 年入学拟定学费 HK$508,000，押金 HK$169,000"
@@ -979,8 +1007,9 @@
     "officialUrl": "https://masters.hkubs.hku.hk/our-programmes/master-of-science-in-business-analytics/",
     "officialLabel": "港大经管学院 MSc BA 项目页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-07-24, 2026-09-28, 2026-12-04；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到 Full-time；未在本次页面正文中读到申请截止区块",
       "官网写 Early Admission Round / Round 1 / Round 2，截止时间为香港时间中午 12:00",
       "提前轮、第一轮截止日已过，仅剩第二轮",
       "申请费 HK$780；GMAT/GRE 非必须；官网列出 2027 年入学拟定学费 HK$468,000，押金 HK$156,000"
@@ -1005,8 +1034,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/engineering/msc-computer-science",
     "officialLabel": "港中文研究院 MSc CS 项目页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "全日制学费 HK$300,000，分 2 期缴纳；要求计算机科学、计算机工程或相关专业学士学位"
     ]
   },
@@ -1029,8 +1059,9 @@
     "officialUrl": "https://www.cityu.edu.hk/en/pg/taught-postgraduate-programmes/list",
     "officialLabel": "城大 2027/28 授课型硕士项目列表",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 官网页面无法读取或正文为空",
       "截止时间为香港时间 23:59；2027/28 入学申请自 2026-09-15 开放",
       "项目代码 P53，学习模式 Combined；雅思 6.0 来自城大计算机系项目招生页"
     ]
@@ -1059,8 +1090,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/data-science-msc",
     "officialLabel": "KCL Data Science MSc 课程页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "截止时间为英国时间 23:59；第一轮后若未招满继续收申请，招满即提前关闭",
       "第一轮之后提交申请，申请费不退"
     ]
@@ -1089,8 +1121,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/international-management-msc",
     "officialLabel": "KCL International Management MSc 课程页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "截止时间为英国时间 23:59；第一轮后若未招满继续收申请，招满即提前关闭",
       "第一轮之后提交申请，申请费不退"
     ]
@@ -1114,8 +1147,9 @@
     "officialUrl": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc",
     "officialLabel": "UCL Computer Science MSc 课程页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "需要签证的申请人 2027-03-22 英国时间 17:00 截止；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 10:00",
       "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
@@ -1140,8 +1174,9 @@
     "officialUrl": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/business-analytics-msc",
     "officialLabel": "UCL Business Analytics MSc 课程页",
     "updatedAt": "2026-10-24",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-06-25",
       "需要签证的申请人 2027-06-25 英国时间 17:00 截止；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2027/28 国际生学费 £48,600；语言要求为 UCL Level 2；开设于 UCL 管理学院（金丝雀码头校区）"
@@ -1166,8 +1201,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-msc",
     "officialLabel": "UCL Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-06-25",
       "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "开设于 UCL 管理学院（金丝雀码头校区）；2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
@@ -1192,8 +1228,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/msc-entrepreneurship",
     "officialLabel": "UCL Entrepreneurship MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-06-25",
       "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "开设于 UCL 管理学院（金丝雀码头校区）；2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
@@ -1218,8 +1255,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/msc-people-analytics-and-human-centric-management",
     "officialLabel": "UCL People Analytics and Human-Centric Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-06-25",
       "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "开设于 UCL 管理学院（金丝雀码头校区）；2027/28 学费 £36,800；语言要求为 UCL Level 2"
@@ -1244,8 +1282,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-strategy-finance-and-technology-msc",
     "officialLabel": "UCL Management: Strategy, Finance and Technology MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-06-25",
       "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "开设于 UCL 管理学院（金丝雀码头校区），学制 11 个月；2027/28 学费 £48,600；语言要求为 UCL Level 2"
@@ -1270,8 +1309,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/supply-chain-management-sustainability-and-analytics-msc",
     "officialLabel": "UCL Supply Chain Management with Sustainability and Analytics MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-06-25",
       "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "开设于 UCL 管理学院（金丝雀码头校区）；2027/28 学费 £44,400；语言要求为 UCL Level 2"
@@ -1296,8 +1336,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/business-and-sustainability-msc",
     "officialLabel": "UCL Business and Sustainability MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-06-25",
       "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "开设于 Bartlett 环境、能源与资源学院（Bloomsbury 校区）；2027/28 国际生学费 £39,600；语言要求为 UCL Level 2"
@@ -1322,8 +1363,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/project-and-enterprise-management-msc",
     "officialLabel": "UCL Project and Enterprise Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "开设于 Bartlett 可持续建造学院（Bloomsbury 校区）；2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
@@ -1348,8 +1390,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/finance-msc",
     "officialLabel": "UCL Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-06-25",
       "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "由 UCL 管理学院与经济系共同开设，学制 11 个月；2027/28 学费 £48,250；语言要求为 UCL Level 2"
@@ -1374,8 +1417,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/finance-data-science-msc",
     "officialLabel": "UCL Finance with Data Science MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-06-25",
       "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "由 UCL 管理学院与经济系共同开设，学制 11 个月；2027/28 学费 £48,250；语言要求为 UCL Level 2"
@@ -1400,8 +1444,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/financial-risk-management-msc",
     "officialLabel": "UCL Financial Risk Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2027/28 国际生学费 £52,600；语言要求为 UCL Level 2"
@@ -1426,8 +1471,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/financial-technology-msc",
     "officialLabel": "UCL Financial Technology MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2027/28 学费 £52,600；语言要求为 UCL Level 3（读写小分高于听说小分要求不同，见语言栏）"
@@ -1452,8 +1498,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computational-finance-msc",
     "officialLabel": "UCL Computational Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2027/28 国际生学费 £52,600；语言要求为 UCL Level 2"
@@ -1478,8 +1525,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/financial-mathematics-msc",
     "officialLabel": "UCL Financial Mathematics MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "Bloomsbury 校区；2027/28 国际生学费 £48,600；语言要求为 UCL Level 2"
@@ -1504,8 +1552,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/banking-and-digital-finance-msc",
     "officialLabel": "UCL Banking and Digital Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-06-25",
       "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "校区为伦敦东部 UCL East；2027/28 国际生学费 £48,600；语言要求为 UCL Level 2"
@@ -1530,8 +1579,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/responsible-finance-and-alternative-assets-msc",
     "officialLabel": "UCL Responsible Finance and Alternative Assets MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-06-25",
       "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "校区为伦敦东部 UCL East；2027/28 国际生学费 £48,600；语言要求为 UCL Level 2"
@@ -1556,8 +1606,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/private-equity-digital-finance-msc",
     "officialLabel": "UCL Private Equity with Digital Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-06-25",
       "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2026/27 目录中名为 Venture Capital and Private Equity with Financial Technology MSc，2027/28 目录为现名",
@@ -1583,8 +1634,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/machine-learning-msc",
     "officialLabel": "UCL Machine Learning MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
@@ -1609,8 +1661,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/robotics-and-artificial-intelligence-msc",
     "officialLabel": "UCL Robotics and Artificial Intelligence MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
@@ -1635,8 +1688,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/artificial-intelligence-and-data-engineering-msc",
     "officialLabel": "UCL Artificial Intelligence and Data Engineering MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
@@ -1661,8 +1715,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computer-graphics-vision-and-imaging-msc",
     "officialLabel": "UCL Computer Graphics, Vision and Imaging MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
@@ -1687,8 +1742,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/information-security-msc",
     "officialLabel": "UCL Information Security MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
@@ -1713,8 +1769,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/software-systems-engineering-msc",
     "officialLabel": "UCL Software Systems Engineering MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
@@ -1739,8 +1796,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/human-computer-interaction-msc",
     "officialLabel": "UCL Human-Computer Interaction MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-02-12",
       "统一截止 2027-02-12 英国时间 17:00，页面只列 All applicants 一档；2026-10-19 开放申请",
       "开设于心理与语言科学学部（UCLIC）；2027/28 国际生学费 £44,400；语言要求为 UCL Level 4"
     ]
@@ -1764,8 +1822,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/msc-integrated-machine-learning-systems",
     "officialLabel": "UCL Integrated Machine Learning Systems MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "开设于电子与电气工程系；2027/28 国际生学费 £44,400；语言要求为 UCL Level 1"
@@ -1790,8 +1849,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/emerging-digital-technologies-msc",
     "officialLabel": "UCL Emerging Digital Technologies MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "开设于计算机系，内容结合计算与商业战略（AI、云计算、分布式账本等）；2027/28 学费 £40,800；语言要求为 UCL Level 3"
@@ -1816,8 +1876,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computational-statistics-and-machine-learning-msc",
     "officialLabel": "UCL Computational Statistics and Machine Learning MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
@@ -1842,8 +1903,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/statistics-msc",
     "officialLabel": "UCL Statistics MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "Bloomsbury 校区；2027/28 国际生学费 £44,400；语言要求为 UCL Level 1"
@@ -1868,8 +1930,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/data-science-and-machine-learning-msc",
     "officialLabel": "UCL Data Science and Machine Learning MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-22",
       "国际生截止 2027-03-22 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
@@ -1894,8 +1957,9 @@
     "officialUrl": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/scientific-and-data-intensive-computing-msc",
     "officialLabel": "UCL Scientific and Data Intensive Computing MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-06-25",
       "国际生截止 2027-06-25 英国时间 17:00；2026-10-19 开放申请",
       "无需签证的申请人截止 2027-08-27 英国时间 17:00",
       "与 UCL 数据密集科学与工业中心（CDIS）相关（Bloomsbury 校区）；2027/28 国际生学费 £44,400；语言要求为 UCL Level 2"
@@ -1915,7 +1979,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/masters-in-management",
     "officialLabel": "LSE Master's in Management 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -1938,7 +2002,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/global-masters-management",
     "officialLabel": "LSE Global Master's in Management 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -1960,7 +2024,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-human-resources-and-organisations",
     "officialLabel": "LSE MSc Human Resources and Organisations 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -1982,7 +2046,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-management-information-systems-and-digital-innovation",
     "officialLabel": "LSE MSc Management of Information Systems and Digital Innovation 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2004,7 +2068,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-management-strategy-and-economic-analysis",
     "officialLabel": "LSE MSc Management, Strategy and Economic Analysis 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2026,7 +2090,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-social-innovation-and-entrepreneurship",
     "officialLabel": "LSE MSc Social Innovation and Entrepreneurship 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2048,7 +2112,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-finance-and-private-equity",
     "officialLabel": "LSE MSc Finance and Private Equity 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2071,7 +2135,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-finance-and-economics",
     "officialLabel": "LSE MSc Finance and Economics 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2093,7 +2157,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-finance-and-risk",
     "officialLabel": "LSE MSc Finance and Risk 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2115,7 +2179,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-financial-mathematics",
     "officialLabel": "LSE MSc Financial Mathematics 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2137,7 +2201,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-stochastic-finance-and-machine-learning",
     "officialLabel": "LSE MSc Stochastic Finance and Machine Learning 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2159,7 +2223,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-accounting-and-finance",
     "officialLabel": "LSE MSc Accounting and Finance 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2181,7 +2245,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-accounting-organisations-and-institutions",
     "officialLabel": "LSE MSc Accounting, Organisations and Institutions 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2203,7 +2267,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-accounting-and-data-analytics",
     "officialLabel": "LSE MSc Accounting and Data Analytics 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2225,7 +2289,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-applied-social-data-science",
     "officialLabel": "LSE MSc Applied Social Data Science 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2247,7 +2311,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-statistics",
     "officialLabel": "LSE MSc Statistics 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2269,7 +2333,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-financial-statistics",
     "officialLabel": "LSE MSc Financial Statistics 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2291,7 +2355,7 @@
     "rolling": true,
     "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-operations-research-and-analytics",
     "officialLabel": "LSE MSc Operations Research and Analytics 课程页",
-    "updatedAt": "2026-10-27",
+    "updatedAt": "2026-10-29",
     "verified": true,
     "notes": [
       "官网写明无固定截止日期：滚动录取，招满即关闭申请",
@@ -2330,8 +2394,9 @@
     "officialUrl": "https://www.imperial.ac.uk/business-school/masters/economics-strategy-business/admissions/",
     "officialLabel": "Imperial MSc Economics & Strategy for Business Admissions 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目有第一轮",
       "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
@@ -2369,8 +2434,9 @@
     "officialUrl": "https://www.imperial.ac.uk/business-school/masters/climate-change-management-finance/admissions/",
     "officialLabel": "Imperial MSc Climate Change, Management & Finance Admissions 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目有第一轮",
       "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
@@ -2408,8 +2474,9 @@
     "officialUrl": "https://www.imperial.ac.uk/business-school/masters/management/admissions/",
     "officialLabel": "Imperial MSc in Management (MiM) Admissions 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28；未在本次页面正文中读到 Full-time",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目有第一轮",
       "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
@@ -2447,8 +2514,9 @@
     "officialUrl": "https://www.imperial.ac.uk/business-school/masters/strategic-marketing/admissions/",
     "officialLabel": "Imperial MSc Strategic Marketing Admissions 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目有第一轮",
       "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
@@ -2486,8 +2554,9 @@
     "officialUrl": "https://www.imperial.ac.uk/business-school/masters/innovation-entrepreneurship-management/admissions/",
     "officialLabel": "Imperial MSc Innovation, Entrepreneurship and Management Admissions 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目有第一轮",
       "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
@@ -2525,8 +2594,9 @@
     "officialUrl": "https://www.imperial.ac.uk/business-school/masters/ai-economics-policy/admissions/",
     "officialLabel": "Imperial MSc AI, Economics and Policy Admissions 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目有第一轮",
       "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
@@ -2564,8 +2634,9 @@
     "officialUrl": "https://www.imperial.ac.uk/business-school/masters/finance-accounting/admissions/",
     "officialLabel": "Imperial MSc Finance & Accounting Admissions 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目有第一轮",
       "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
@@ -2603,8 +2674,9 @@
     "officialUrl": "https://www.imperial.ac.uk/business-school/masters/financial-technology/admissions/",
     "officialLabel": "Imperial MSc Financial Technology Admissions 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目有第一轮",
       "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
@@ -2642,8 +2714,9 @@
     "officialUrl": "https://www.imperial.ac.uk/business-school/masters/investment-wealth-management/admissions/",
     "officialLabel": "Imperial MSc Investment and Wealth Management Admissions 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目有第一轮",
       "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
@@ -2681,8 +2754,9 @@
     "officialUrl": "https://www.imperial.ac.uk/business-school/masters/risk-management/admissions/",
     "officialLabel": "Imperial MSc Risk Management and Financial Engineering Admissions 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目有第一轮",
       "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
@@ -2716,8 +2790,9 @@
     "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/advanced-computing/",
     "officialLabel": "Imperial MSc Advanced Computing 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目从第二轮开始",
       "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
@@ -2751,8 +2826,9 @@
     "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-artificial-intelligence-msc/",
     "officialLabel": "Imperial MSc Computing (Artificial Intelligence and Machine Learning) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目从第二轮开始",
       "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
@@ -2786,8 +2862,9 @@
     "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-security-reliability-msc/",
     "officialLabel": "Imperial MSc Computing (Security and Reliability) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目从第二轮开始",
       "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
@@ -2821,8 +2898,9 @@
     "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-software-engineering-msc/",
     "officialLabel": "Imperial MSc Computing (Software Engineering) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目从第二轮开始",
       "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
@@ -2856,8 +2934,9 @@
     "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/computing-visual-computing-robotics-msc/",
     "officialLabel": "Imperial MSc Computing (Visual Computing and Robotics) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目从第二轮开始",
       "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
@@ -2891,8 +2970,9 @@
     "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/artificial-intelligence/",
     "officialLabel": "Imperial MSc Artificial Intelligence 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目从第二轮开始",
       "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
@@ -2926,8 +3006,9 @@
     "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/artificial-intelligence-machine-learning/",
     "officialLabel": "Imperial MSc Artificial Intelligence and Machine Learning 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目从第二轮开始",
       "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
@@ -2961,8 +3042,9 @@
     "officialUrl": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/applied-machine-learning/",
     "officialLabel": "Imperial MSc Applied Machine Learning 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-10, 2027-04-28",
       "截止时间为英国时间当天 23:59",
       "官网写第一轮仅限商学院课程，本项目从第二轮开始",
       "各轮出结果日：第二轮 2027-03-03，第三轮 2027-05-05，第四轮 2027-07-01",
@@ -2992,8 +3074,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-economy-msc",
     "officialLabel": "KCL Digital Economy MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年（另设 2 年非全日制）；数字市场与平台方向"
@@ -3022,8 +3105,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/human-resource-management-and-organisational-analysis-msc",
     "officialLabel": "KCL Human Resource Management & Organisational Analysis MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年（另设 2 年非全日制）"
@@ -3052,8 +3136,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/strategic-entrepreneurship-and-innovation-msc",
     "officialLabel": "KCL Strategic Entrepreneurship & Innovation MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年"
@@ -3082,8 +3167,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/management-technological-change",
     "officialLabel": "KCL Management & Technological Change MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年"
@@ -3112,8 +3198,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/accounting-accountability-and-financial-management-msc",
     "officialLabel": "KCL Accounting, Accountability & Financial Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年（9 月至 9 月）"
@@ -3142,8 +3229,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/banking-and-finance-msc",
     "officialLabel": "KCL Banking & Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年（9 月至 9 月）"
@@ -3172,8 +3260,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/finance-asset-pricing-msc",
     "officialLabel": "KCL Finance (Asset Pricing) MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年（9 月至 9 月）"
@@ -3202,8 +3291,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/corporate-finance-msc",
     "officialLabel": "KCL Finance (Corporate Finance) MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年（9 月至 9 月）"
@@ -3232,8 +3322,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/economics-finance-msc",
     "officialLabel": "KCL Economics & Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年（9 月至 9 月）"
@@ -3262,8 +3353,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/finance-analytics-msc",
     "officialLabel": "KCL Finance Analytics MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年（9 月至 9 月）"
@@ -3292,8 +3384,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/sustainable-finance-reporting-msc",
     "officialLabel": "KCL Sustainable Finance & Reporting MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年（9 月至 9 月）"
@@ -3322,8 +3415,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/financial-mathematics-with-data-science-msc",
     "officialLabel": "KCL Financial Mathematics with Data Science MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年（另设 2 年非全日制）； Band D"
@@ -3352,8 +3446,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/advanced-computing-msc",
     "officialLabel": "KCL Advanced Computing MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年（9 月至 9 月）"
@@ -3382,8 +3477,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/advanced-software-engineering-msc",
     "officialLabel": "KCL Advanced Software Engineering MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年（9 月至 9 月）"
@@ -3412,8 +3508,9 @@
     "officialUrl": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/robotics-msc",
     "officialLabel": "KCL Robotics MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块",
       "官网写首轮截止 2027-03-09（英国时间 23:59）；首轮后未满员则继续接受申请，招满即提前关闭",
       "国际生（Overseas fee status）最终截止 2027-07-25；无需签证（Home）最终截止 2027-08-25，均为英国时间 23:59",
       "全日制 1 年（9 月至 9 月）； Band D"
@@ -3454,8 +3551,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/929-business-analytics",
     "officialLabel": "爱丁堡 Business Analytics MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于爱丁堡大学商学院（Business School）",
       "各轮出结果日：2026-12-03、2027-02-18、2027-04-22、2027-06-03、2027-07-22",
       "申请费 £60，不退，须在所报轮次截止前缴纳"
@@ -3496,8 +3594,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/277-management",
     "officialLabel": "爱丁堡 Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于爱丁堡大学商学院（Business School）",
       "各轮出结果日：2026-12-03、2027-02-18、2027-04-22、2027-06-03、2027-07-22",
       "申请费 £60，不退，须在所报轮次截止前缴纳"
@@ -3538,8 +3637,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/638-marketing",
     "officialLabel": "爱丁堡 Marketing MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于爱丁堡大学商学院（Business School）",
       "各轮出结果日：2026-12-03、2027-02-18、2027-04-22、2027-06-03、2027-07-22",
       "申请费 £60，不退，须在所报轮次截止前缴纳"
@@ -3580,8 +3680,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/897-entrepreneurship-and-innovation",
     "officialLabel": "爱丁堡 Entrepreneurship and Innovation MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于爱丁堡大学商学院（Business School）",
       "各轮出结果日：2026-12-03、2027-02-18、2027-04-22、2027-06-03、2027-07-22",
       "申请费 £60，不退，须在所报轮次截止前缴纳"
@@ -3622,8 +3723,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/755-human-resource-management",
     "officialLabel": "爱丁堡 Human Resource Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于爱丁堡大学商学院（Business School）",
       "各轮出结果日：2026-12-03、2027-02-18、2027-04-22、2027-06-03、2027-07-22",
       "申请费 £60，不退，须在所报轮次截止前缴纳"
@@ -3664,8 +3766,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/880-international-human-resource-management",
     "officialLabel": "爱丁堡 International Human Resource Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于爱丁堡大学商学院（Business School）",
       "各轮出结果日：2026-12-03、2027-02-18、2027-04-22、2027-06-03、2027-07-22",
       "申请费 £60，不退，须在所报轮次截止前缴纳"
@@ -3706,8 +3809,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/1138-ai-for-business",
     "officialLabel": "爱丁堡 AI for Business MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于爱丁堡大学商学院（Business School）",
       "各轮出结果日：2026-12-03、2027-02-18、2027-04-22、2027-06-03、2027-07-22",
       "申请费 £60，不退，须在所报轮次截止前缴纳"
@@ -3748,8 +3852,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/1126-accounting-and-financial-management",
     "officialLabel": "爱丁堡 Accounting and Financial Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于爱丁堡大学商学院（Business School）",
       "各轮出结果日：2026-12-03、2027-02-18、2027-04-22、2027-06-03、2027-07-22",
       "申请费 £60，不退，须在所报轮次截止前缴纳"
@@ -3790,8 +3895,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/756-banking-innovation-and-risk-analytics",
     "officialLabel": "爱丁堡 Banking Innovation and Risk Analytics MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于爱丁堡大学商学院（Business School）",
       "各轮出结果日：2026-12-03、2027-02-18、2027-04-22、2027-06-03、2027-07-22",
       "申请费 £60，不退，须在所报轮次截止前缴纳"
@@ -3832,8 +3938,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/966-finance-technology-and-policy",
     "officialLabel": "爱丁堡 Finance, Technology and Policy MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于爱丁堡大学商学院（Business School）",
       "各轮出结果日：2026-12-03、2027-02-18、2027-04-22、2027-06-03、2027-07-22",
       "申请费 £60，不退，须在所报轮次截止前缴纳"
@@ -3874,8 +3981,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/671-climate-change-finance-and-investment",
     "officialLabel": "爱丁堡 Climate Change Finance and Investment MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于爱丁堡大学商学院（Business School），气候变化方向",
       "各轮出结果日：2026-12-03、2027-02-18、2027-04-22、2027-06-03、2027-07-22",
       "申请费 £60，不退，须在所报轮次截止前缴纳"
@@ -3908,8 +4016,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/894-computational-mathematical-finance",
     "officialLabel": "爱丁堡 Computational Mathematical Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31",
       "开设于数学系（School of Mathematics），全日制 1 年（另设 2 年非全日制）"
     ]
   },
@@ -3940,8 +4049,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/640-financial-modelling-and-optimization",
     "officialLabel": "爱丁堡 Financial Modelling and Optimization MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31",
       "开设于数学系（School of Mathematics），全日制 1 年（另设 2 年非全日制）"
     ]
   },
@@ -3968,8 +4078,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/110-computer-science",
     "officialLabel": "爱丁堡 Computer Science MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-31, 2027-05-31",
       "开设于信息学院（School of Informatics），全日制 1 年（另设 2/3 年非全日制选项）"
     ]
   },
@@ -3996,8 +4107,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/971-cyber-security-privacy-and-trust",
     "officialLabel": "爱丁堡 Cyber Security, Privacy and Trust MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-31, 2027-05-31",
       "开设于信息学院（School of Informatics）"
     ]
   },
@@ -4028,8 +4140,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/916-statistics-with-data-science",
     "officialLabel": "爱丁堡 Statistics with Data Science MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31",
       "开设于数学系（School of Mathematics），全日制 1 年（另设 2 年非全日制）"
     ]
   },
@@ -4060,8 +4173,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/1153-statistics-with-artificial-intelligence",
     "officialLabel": "爱丁堡 Statistics with Artificial Intelligence MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31",
       "开设于数学系（School of Mathematics），全日制 1 年（另设 2 年非全日制）"
     ]
   },
@@ -4092,8 +4206,9 @@
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/915-operational-research-with-data-science",
     "officialLabel": "爱丁堡 Operational Research with Data Science MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31",
       "开设于数学系（School of Mathematics），全日制 1 年（另设 2 年非全日制）"
     ]
   },
@@ -4132,8 +4247,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "AMBS MSc Business Analysis and Strategic Management How to Apply 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
       "开设于 Alliance Manchester Business School（AMBS）"
     ]
@@ -4173,8 +4289,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "AMBS MSc Digital Marketing How to Apply 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
       "开设于 Alliance Manchester Business School（AMBS）"
     ]
@@ -4214,8 +4331,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "AMBS MSc Digital Transformation How to Apply 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
       "开设于 Alliance Manchester Business School（AMBS）",
       "2026 年新开项目"
@@ -4256,8 +4374,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "AMBS MSc Human Resource Management and Employment Relations How to Apply 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
       "开设于 Alliance Manchester Business School（AMBS）"
     ]
@@ -4297,8 +4416,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "AMBS MSc Innovation Management and Entrepreneurship How to Apply 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
       "开设于 Alliance Manchester Business School（AMBS）"
     ]
@@ -4338,8 +4458,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "AMBS MSc International Business and Management How to Apply 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
       "开设于 Alliance Manchester Business School（AMBS）"
     ]
@@ -4379,8 +4500,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "AMBS MSc Management How to Apply 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
       "开设于 Alliance Manchester Business School（AMBS）"
     ]
@@ -4420,8 +4542,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "AMBS MSc Marketing How to Apply 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
       "开设于 Alliance Manchester Business School（AMBS）"
     ]
@@ -4461,8 +4584,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "AMBS MSc Operations, Project and Supply Chain Management How to Apply 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
       "开设于 Alliance Manchester Business School（AMBS）"
     ]
@@ -4502,8 +4626,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "AMBS MSc Sustainable Business How to Apply 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
       "开设于 Alliance Manchester Business School（AMBS）",
       "2026 年新开项目"
@@ -4544,8 +4669,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "AMBS MSc Accounting How to Apply 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
       "开设于 Alliance Manchester Business School（AMBS）"
     ]
@@ -4585,8 +4711,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "AMBS MSc Finance How to Apply 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
       "开设于 Alliance Manchester Business School（AMBS）"
     ]
@@ -4626,8 +4753,9 @@
     "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
     "officialLabel": "AMBS MSc Quantitative Finance How to Apply 页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "2026-10-10 开放申请；申请费 £60；截止为英国时间当天 23:59",
       "开设于 Alliance Manchester Business School（AMBS）"
     ]
@@ -4663,8 +4791,9 @@
     "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/02250/msc-mathematical-finance/",
     "officialLabel": "曼大 MSc Mathematical Finance 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于数学系（Department of Mathematics）",
       "官网写分阶段审理；各阶段结果日：2027-01-08、2027-03-05、2027-04-16、2027-06-18"
     ]
@@ -4700,8 +4829,9 @@
     "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/21574/msc-artificial-intelligence/",
     "officialLabel": "曼大 MSc Artificial Intelligence 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-02-26",
       "开设于计算机系（Department of Computer Science）",
       "官网写分阶段审理；各阶段结果日：2027-01-08、2027-03-05、2027-04-30、2027-06-18；第四阶段截止后收到的申请视名额酌情考虑"
     ]
@@ -4737,8 +4867,9 @@
     "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/21576/msc-machine-learning/",
     "officialLabel": "曼大 MSc Machine Learning 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-02-26",
       "开设于计算机系（Department of Computer Science）",
       "官网写分阶段审理；各阶段结果日：2027-01-08、2027-03-05、2027-04-30、2027-06-18；第四阶段截止后收到的申请视名额酌情考虑"
     ]
@@ -4774,8 +4905,9 @@
     "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/21575/msc-cyber-security/",
     "officialLabel": "曼大 MSc Cyber Security 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-02-26",
       "开设于计算机系（Department of Computer Science）",
       "官网写分阶段审理；各阶段结果日：2027-01-08、2027-03-05、2027-04-30、2027-06-18；第四阶段截止后收到的申请视名额酌情考虑"
     ]
@@ -4811,8 +4943,9 @@
     "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/21577/msc-software-engineering/",
     "officialLabel": "曼大 MSc Software Engineering 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-02-26",
       "开设于计算机系（Department of Computer Science）",
       "官网写分阶段审理；各阶段结果日：2027-01-08、2027-03-05、2027-04-30、2027-06-18；第四阶段截止后收到的申请视名额酌情考虑"
     ]
@@ -4848,8 +4981,9 @@
     "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/22194/msc-data-science-and-artificial-intelligence-business-and-management/",
     "officialLabel": "曼大 MSc Data Science and Artificial Intelligence (Business and Management) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-12-06, 2027-03-01, 2027-05-04, 2027-07-04",
       "跨学科项目（官网列 School of Social Sciences），商业与管理方向",
       "官网写分阶段审理；若当轮来不及出结果，申请会顺延到下一轮"
     ]
@@ -4885,8 +5019,9 @@
     "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/22195/msc-data-science-and-artificial-intelligence-computer-science-data-informatics/",
     "officialLabel": "曼大 MSc Data Science and Artificial Intelligence (Computer Science Data Informatics) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-12-06, 2027-03-01, 2027-05-04, 2027-07-04",
       "跨学科项目，计算机科学数据信息学方向",
       "官网写分阶段审理；若当轮来不及出结果，申请会顺延到下一轮"
     ]
@@ -4922,8 +5057,9 @@
     "officialUrl": "https://www.manchester.ac.uk/study/masters/courses/list/22197/msc-data-science-and-artificial-intelligence-mathematics/",
     "officialLabel": "曼大 MSc Data Science and Artificial Intelligence (Mathematics) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-12-06, 2027-03-01, 2027-05-04, 2027-07-04",
       "跨学科项目，数学方向",
       "官网写分阶段审理；若当轮来不及出结果，申请会顺延到下一轮"
     ]
@@ -4947,8 +5083,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-management",
     "officialLabel": "华威 Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -4973,8 +5110,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-international-business",
     "officialLabel": "华威 International Business MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -4999,8 +5137,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-marketing-strategy",
     "officialLabel": "华威 Marketing & Strategy MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -5025,8 +5164,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-marketing-consumer-behaviour",
     "officialLabel": "华威 Marketing & Consumer Behaviour MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -5051,8 +5191,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-business-consulting",
     "officialLabel": "华威 Business with Consulting MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -5077,8 +5218,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-business-marketing",
     "officialLabel": "华威 Business with Marketing MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -5103,8 +5245,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-business-operations-management",
     "officialLabel": "华威 Business with Operations Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -5129,8 +5272,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-business-sustainability",
     "officialLabel": "华威 Business with Sustainability MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02；未在本次页面正文中读到 Full-time",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -5155,8 +5299,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-international-trade",
     "officialLabel": "华威 International Trade, Strategy and Operations MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于 WMG 学院（Warwick Manufacturing Group）"
@@ -5181,8 +5326,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-management-business-excellence",
     "officialLabel": "华威 Management for Business Excellence MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于 WMG 学院（Warwick Manufacturing Group）"
@@ -5207,8 +5353,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-e-business-management",
     "officialLabel": "华威 e-Business Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于 WMG 学院（Warwick Manufacturing Group）"
@@ -5233,8 +5380,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-supply-chain-logistics-management",
     "officialLabel": "华威 Supply Chain and Logistics Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于 WMG 学院（Warwick Manufacturing Group）"
@@ -5259,8 +5407,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-accounting-financial-management",
     "officialLabel": "华威 Accounting & Financial Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -5285,8 +5434,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-accounting-sustainability",
     "officialLabel": "华威 Accounting & Sustainability MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -5311,8 +5461,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-finance-economics",
     "officialLabel": "华威 Finance & Economics MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -5337,8 +5488,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-finance-management",
     "officialLabel": "华威 Finance & Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -5363,8 +5515,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-financial-technology",
     "officialLabel": "华威 Financial Technology MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -5389,8 +5542,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-mathematical-finance",
     "officialLabel": "华威 Mathematical Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于华威商学院（Warwick Business School）"
@@ -5415,8 +5569,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science",
     "officialLabel": "华威 Computer Science MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于计算机系（Department of Computer Science）"
@@ -5441,8 +5596,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science-artificial-intelligence-machine-learning",
     "officialLabel": "华威 Computer Science with specialism in Artificial Intelligence and Machine Learning MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于计算机系（Department of Computer Science）"
@@ -5467,8 +5623,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science-cyber-security",
     "officialLabel": "华威 Computer Science with specialism in Cyber Security MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于计算机系（Department of Computer Science）"
@@ -5493,8 +5650,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science-data-analytics",
     "officialLabel": "华威 Computer Science with specialism in Data Analytics MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于计算机系（Department of Computer Science）"
@@ -5519,8 +5677,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-applied-artificial-intelligence",
     "officialLabel": "华威 Applied Artificial Intelligence MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于 WMG 学院（Warwick Manufacturing Group）"
@@ -5545,8 +5704,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-cyber-security-management",
     "officialLabel": "华威 Cyber Security Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于 WMG 学院（Warwick Manufacturing Group）"
@@ -5571,8 +5731,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-cyber-security-engineering",
     "officialLabel": "华威 Cyber Security Engineering MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于 WMG 学院（Warwick Manufacturing Group）"
@@ -5597,8 +5758,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-statistics",
     "officialLabel": "华威 Statistics MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于统计系（Department of Statistics）"
@@ -5623,8 +5785,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-statistics-data-science",
     "officialLabel": "华威 Statistics with Data Science MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于统计系（Department of Statistics）"
@@ -5649,8 +5812,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-statistics-probability",
     "officialLabel": "华威 Statistics with Probability MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于统计系（Department of Statistics）"
@@ -5675,8 +5839,9 @@
     "officialUrl": "https://warwick.ac.uk/study/postgraduate/courses/msc-statistics-finance",
     "officialLabel": "华威 Statistics with Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-08-02",
       "官网写 2027 年 9/10 月开学授课型课程的统一 on-time deadline 为 2027-08-02",
       "2027 年 9 月 27 日开学",
       "开设于统计系（Department of Statistics）"
@@ -5709,8 +5874,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-global-management-hkubs&mode=0",
     "officialLabel": "港大 MGM 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
     ]
   },
@@ -5741,8 +5907,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-marketing-hkubs&mode=0",
     "officialLabel": "港大 MSc(Mktg) 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
     ]
   },
@@ -5773,8 +5940,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-artificial-intelligence-in-business-hkubs&mode=0",
     "officialLabel": "港大 MAIB 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
     ]
   },
@@ -5801,8 +5969,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-innovation-and-technology&mode=0",
     "officialLabel": "港大 MSc(I&T) 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00",
       "开设于港大创新学院（School of Innovation）；2027/28 学费 HK$330,000"
     ]
@@ -5834,8 +6003,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-accounting-hkubs&mode=0",
     "officialLabel": "港大 MAcct 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
     ]
   },
@@ -5866,8 +6036,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-accounting-analytics-hkubs&mode=0",
     "officialLabel": "港大 MAA 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
     ]
   },
@@ -5898,8 +6069,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-sustainable-accounting-and-finance-hkubs&mode=0",
     "officialLabel": "港大 MSAF 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
     ]
   },
@@ -5930,8 +6102,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-finance-in-financial-technology-hkubs&mode=0",
     "officialLabel": "港大 MFFinTech 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
     ]
   },
@@ -5962,8 +6135,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-family-wealth-management-hkubs&mode=0",
     "officialLabel": "港大 MFWM 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
     ]
   },
@@ -5994,8 +6168,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-wealth-management-hkubs&mode=0",
     "officialLabel": "港大 MWM 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00；商学院统一三轮（提前轮与第一轮已过，当前可申第二轮）"
     ]
   },
@@ -6022,8 +6197,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(ai-and-decentralized-technologies-stream),-with-delta-x-fellowship-cds&mode=0",
     "officialLabel": "港大 MSc(CompSc) AI&DT 方向项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00",
       "计算机科学新增 AI 与去中心化技术方向（Delta X Fellowship 奖学金版本），与库内通用方向条目并列"
     ]
@@ -6051,8 +6227,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-electronic-commerce-and-internet-computing-cds&mode=0",
     "officialLabel": "港大 MSc(ECom&IComp) 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00"
     ]
   },
@@ -6079,8 +6256,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-artificial-intelligence-sci&mode=0",
     "officialLabel": "港大 MSc(AI) 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00",
       "理学院项目；2027/28 学费 HK$420,000"
     ]
@@ -6108,8 +6286,9 @@
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-statistics-cds&mode=0",
     "officialLabel": "港大 MStat 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00",
       "开设于计算与数据科学学院；本地生学费 HK$245,000"
     ]
@@ -6133,8 +6312,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-management",
     "officialLabel": "港中文 管理学硕士 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于港中文商学院（CUHK Business School）",
       "另有提前轮 2026-07-31，已过期",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
@@ -6160,8 +6340,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-marketing",
     "officialLabel": "港中文 市场学硕士 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于港中文商学院（CUHK Business School）",
       "另有提前轮 2026-07-31，已过期",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
@@ -6187,8 +6368,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-sustainable-global-business",
     "officialLabel": "港中文 可持续全球商务硕士 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于港中文商学院（CUHK Business School）",
       "另有提前轮 2026-07-31，已过期",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
@@ -6214,8 +6396,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-information-science-and-technology-management-full-time-mode",
     "officialLabel": "港中文 信息科学与技术管理硕士（全日制） 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "港中文商学院与工程学院合开项目（研究院列商学院）",
       "另有提前轮 2026-07-31，已过期",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
@@ -6241,8 +6424,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/master-accountancy",
     "officialLabel": "港中文 会计硕士 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于港中文商学院（CUHK Business School），全日制 1 年（另设 2 年非全日制）",
       "另有提前轮 2026-07-31，已过期",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
@@ -6268,8 +6452,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-actuarial-science-and-insurance-analytics",
     "officialLabel": "港中文 精算科学与保险分析硕士 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于港中文商学院（CUHK Business School）",
       "另有提前轮 2026-07-31，已过期",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
@@ -6307,8 +6492,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/engineering/msc-financial-technology",
     "officialLabel": "港中文 金融科技硕士 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于工程学院（系统工程与工程管理学系）",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
     ],
@@ -6333,8 +6519,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/master-science-global-wealth-management",
     "officialLabel": "港中文 全球财富管理硕士 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-31",
       "开设于港中文商学院（CUHK Business School）",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
     ]
@@ -6370,8 +6557,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/engineering/msc-artificial-intelligence",
     "officialLabel": "港中文 人工智能硕士 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于工程学院",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
     ],
@@ -6396,8 +6584,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/engineering/msc-robotics",
     "officialLabel": "港中文 机器人硕士 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于工程学院",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
     ],
@@ -6422,8 +6611,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/engineering/msc-e-commerce-and-logistics-technologies",
     "officialLabel": "港中文 电子商务与物流技术硕士 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于工程学院",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
     ],
@@ -6452,8 +6642,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/science/msc-advanced-studies-statistics-and-data-science",
     "officialLabel": "港中文 高等统计学与数据科学硕士 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于统计系",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
     ],
@@ -6482,8 +6673,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/science/msc-data-science-and-business-statistics",
     "officialLabel": "港中文 数据科学与商业统计硕士 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于统计系",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
     ],
@@ -6512,8 +6704,9 @@
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/science/msc-risk-management-science-and-data-analytics",
     "officialLabel": "港中文 风险管理与数据分析硕士 研究院项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "开设于统计系",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
     ],
@@ -6542,8 +6735,9 @@
     "officialUrl": "https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-ai",
     "officialLabel": "港科大 人工智能硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 2027/28 Fall intake（2027 年 9 月开学）；截止时间为香港时间当天 23:59",
       "2027/28 学费 HK$400,000（全日制分 2 期缴纳）"
     ]
@@ -6571,8 +6765,9 @@
     "officialUrl": "https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-aie",
     "officialLabel": "港科大 人工智能与创业硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到 Full-time",
       "官网写 2027/28 Fall intake（2027 年 9 月开学）；截止时间为香港时间当天 23:59",
       "计算机科学与工程系新项目；2027/28 学费 HK$540,000（分 4 期缴纳）"
     ]
@@ -6600,8 +6795,9 @@
     "officialUrl": "https://seng.hkust.edu.hk/msc/eem",
     "officialLabel": "港科大 工程企业管理硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-03-01",
       "官网写 2027/28 Fall intake（2027 年 9 月开学）；截止时间为香港时间当天 23:59",
       "开设于工业工程与决策分析学系（工学院）"
     ]
@@ -6629,8 +6825,9 @@
     "officialUrl": "https://seng.hkust.edu.hk/msc/fintech",
     "officialLabel": "港科大 金融科技硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2026-12-01",
       "官网写 2027/28 Fall intake（2027 年 9 月开学）；截止时间为香港时间当天 23:59",
       "工学院跨学系项目；2027/28 学费 HK$405,000"
     ]
@@ -6658,8 +6855,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/02022-mmf-mmp",
     "officialLabel": "理大 商业管理硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院"
     ]
@@ -6687,8 +6885,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mkf-mkp",
     "officialLabel": "理大 市场营销管理硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院（GSB），另设 2.5 年非全日制"
     ]
@@ -6716,8 +6915,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mhf-mhp",
     "officialLabel": "理大 人力资源管理硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院（GSB），另设 2.5 年非全日制"
     ]
@@ -6745,8 +6945,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mlf-mlp",
     "officialLabel": "理大 国际管理与领导力硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院（GSB），另设 2.5 年非全日制"
     ]
@@ -6774,8 +6975,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-maf-map",
     "officialLabel": "理大 商务分析硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院（GSB），另设 2.5 年非全日制"
     ]
@@ -6803,8 +7005,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/44094-bfm-bpm",
     "officialLabel": "理大 环球商业及决策分析硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院（GSB），另设 2.5 年非全日制"
     ]
@@ -6832,8 +7035,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fcf-cfp",
     "officialLabel": "理大 金融学硕士（企业金融） 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院，另设 2 年非全日制"
     ]
@@ -6861,8 +7065,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fim-imp",
     "officialLabel": "理大 金融学硕士（投资管理） 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院，另设 2 年非全日制"
     ]
@@ -6890,8 +7095,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/21052-fam-pam",
     "officialLabel": "理大 会计及金融分析硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院，另设 2 年非全日制"
     ]
@@ -6919,8 +7125,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/02029-dfm-dpm-ffm-fpm",
     "officialLabel": "理大 资产和财富管理硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院"
     ]
@@ -6948,8 +7155,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/63029-qfm-qpm",
     "officialLabel": "理大 量化金融及金融科技硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大应用数学系，另设 3 年非全日制"
     ]
@@ -6977,8 +7185,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/61039-fcy-pcy",
     "officialLabel": "理大 网络空间安全硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大计算学系，另设 2 年非全日制"
     ]
@@ -7006,8 +7215,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/61036-fbt-pbt",
     "officialLabel": "理大 区块链科技硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大计算学系，另设 2 年非全日制"
     ]
@@ -7035,8 +7245,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/62037-fai-pai",
     "officialLabel": "理大 人工智能及大数据计算硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大计算学系，另设 2 年非全日制"
     ]
@@ -7064,8 +7275,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/61030-fit-pit",
     "officialLabel": "理大 资讯科技硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大计算学系，另设 2.5 年非全日制"
     ]
@@ -7093,8 +7305,9 @@
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/63031-afm-apm",
     "officialLabel": "理大 数智科技硕士 项目页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大应用数学系，另设 3 年非全日制"
     ]
@@ -7118,8 +7331,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management/",
     "officialLabel": "布里斯托 MSc Management 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7144,8 +7358,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-marketing/",
     "officialLabel": "布里斯托 MSc Management (Marketing) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7170,8 +7385,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-international-business/",
     "officialLabel": "布里斯托 MSc Management (International Business) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7196,8 +7412,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-international-human-resource-management/",
     "officialLabel": "布里斯托 MSc Management (International Human Resource Management) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7222,8 +7439,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-project-management/",
     "officialLabel": "布里斯托 MSc Management (Project Management) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7248,8 +7466,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-entrepreneurship-and-innovation/",
     "officialLabel": "布里斯托 MSc Management (Entrepreneurship and Innovation) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7274,8 +7493,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-sustainability/",
     "officialLabel": "布里斯托 MSc Management (Sustainability) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7300,8 +7520,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-digitalisation-and-big-data/",
     "officialLabel": "布里斯托 MSc Management (Digitalisation and Big Data) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7326,8 +7547,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-marketing/",
     "officialLabel": "布里斯托 MSc Marketing 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7352,8 +7574,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-international-business-strategy/",
     "officialLabel": "布里斯托 MSc International Business Strategy 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7378,8 +7601,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-business-innovation-and-entrepreneurship/",
     "officialLabel": "布里斯托 MSc Business Innovation and Entrepreneurship 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "布里斯托创新中心（Centre for Innovation）开设"
@@ -7404,8 +7628,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-innovation-and-entrepreneurship/",
     "officialLabel": "布里斯托 MSc Innovation and Entrepreneurship 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "布里斯托创新中心（Centre for Innovation）开设"
@@ -7430,8 +7655,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-social-innovation-and-entrepreneurship/",
     "officialLabel": "布里斯托 MSc Social Innovation and Entrepreneurship 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "布里斯托创新中心（Centre for Innovation）开设"
@@ -7456,8 +7682,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-accounting-and-finance/",
     "officialLabel": "布里斯托 MSc Accounting and Finance 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7482,8 +7709,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-accounting-accountability-and-sustainability/",
     "officialLabel": "布里斯托 MSc Accounting, Accountability and Sustainability 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7508,8 +7736,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-accounting-finance-and-management/",
     "officialLabel": "布里斯托 MSc Accounting, Finance and Management 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7534,8 +7763,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-finance-and-investment/",
     "officialLabel": "布里斯托 MSc Finance and Investment 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7560,8 +7790,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-financial-technology/",
     "officialLabel": "布里斯托 MSc Financial Technology 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7586,8 +7817,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-financial-technology-with-data-science/",
     "officialLabel": "布里斯托 MSc Financial Technology with Data Science 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7612,8 +7844,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-global-banking-and-finance/",
     "officialLabel": "布里斯托 MSc Global Banking and Finance 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托商学院（School of Management）"
@@ -7638,8 +7871,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-artificial-intelligence/",
     "officialLabel": "布里斯托 MSc Artificial Intelligence 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托计算机科学、电气与电子工程及工程数学学院（School of Computer Science...）"
@@ -7664,8 +7898,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-computer-science-conversion/",
     "officialLabel": "布里斯托 MSc Computer Science (Conversion) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托计算机科学、电气与电子工程及工程数学学院（School of Computer Science...）"
@@ -7690,8 +7925,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-cyber-security-infrastructures-security/",
     "officialLabel": "布里斯托 MSc Cyber Security (Infrastructures Security) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托计算机科学、电气与电子工程及工程数学学院（School of Computer Science...）"
@@ -7716,8 +7952,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-cyber-security-software-security/",
     "officialLabel": "布里斯托 MSc Cyber Security (Software Security) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托计算机科学、电气与电子工程及工程数学学院（School of Computer Science...）"
@@ -7742,8 +7979,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-data-science/",
     "officialLabel": "布里斯托 MSc Data Science 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托计算机科学、电气与电子工程及工程数学学院（School of Computer Science...）"
@@ -7768,8 +8006,9 @@
     "officialUrl": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-data-science-for-business/",
     "officialLabel": "布里斯托 MSc Data Science for Business 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "官网写海外生（Overseas）截止 2027-08-12；无需签证的本土生（Home）截止 2027-09-09",
       "2027 年 9 月开学，全日制 1 年",
       "开设于布里斯托计算机科学、电气与电子工程及工程数学学院（School of Computer Science...）"
@@ -7787,35 +8026,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/managementmsc/",
     "officialLabel": "格拉斯哥 管理学硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于亚当·斯密商学院（Adam Smith Business School）"
@@ -7833,35 +8053,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/managementwithhumanresources/",
     "officialLabel": "格拉斯哥 管理学硕士（人力资源） 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于亚当·斯密商学院（Adam Smith Business School）"
@@ -7879,35 +8080,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/management-with-marketing/",
     "officialLabel": "格拉斯哥 管理学硕士（市场营销） 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于亚当·斯密商学院（Adam Smith Business School）"
@@ -7925,35 +8107,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/internationalbusiness/",
     "officialLabel": "格拉斯哥 国际商务硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于亚当·斯密商学院（Adam Smith Business School）"
@@ -7971,35 +8134,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/internationalstrategicmarketing/",
     "officialLabel": "格拉斯哥 国际战略营销硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于亚当·斯密商学院（Adam Smith Business School）"
@@ -8017,35 +8161,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/internationalhumanresourcemanagementdevelopment/",
     "officialLabel": "格拉斯哥 国际人力资源管理与开发硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于亚当·斯密商学院（Adam Smith Business School）"
@@ -8063,35 +8188,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/business-analytics/",
     "officialLabel": "格拉斯哥 商业分析硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于亚当·斯密商学院（Adam Smith Business School）"
@@ -8109,35 +8215,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/corporate-finance-banking/",
     "officialLabel": "格拉斯哥 公司金融与银行硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于亚当·斯密商学院（Adam Smith Business School）"
@@ -8155,35 +8242,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/financemanagement/",
     "officialLabel": "格拉斯哥 金融与管理硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于亚当·斯密商学院（Adam Smith Business School）"
@@ -8201,35 +8269,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/financialeconomics/",
     "officialLabel": "格拉斯哥 金融经济学硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于亚当·斯密商学院（Adam Smith Business School）"
@@ -8247,35 +8296,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/financial-engineering/",
     "officialLabel": "格拉斯哥 金融工程硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于亚当·斯密商学院（Adam Smith Business School）"
@@ -8293,35 +8323,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/financialriskmanagement/",
     "officialLabel": "格拉斯哥 金融风险管理硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于亚当·斯密商学院（Adam Smith Business School）"
@@ -8339,35 +8350,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/financialtechnology/",
     "officialLabel": "格拉斯哥 金融科技硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于亚当·斯密商学院（Adam Smith Business School）"
@@ -8385,35 +8377,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/computingscience/",
     "officialLabel": "格拉斯哥 计算机科学硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于计算机科学系（School of Computing Science）"
@@ -8431,35 +8404,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/cybersecurity/",
     "officialLabel": "格拉斯哥 网络安全硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于计算机科学系（School of Computing Science）"
@@ -8477,35 +8431,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/computersystemsengineering/",
     "officialLabel": "格拉斯哥 计算机系统工程硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于计算机科学系（School of Computing Science）"
@@ -8523,35 +8458,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/dataanalytics/",
     "officialLabel": "格拉斯哥 数据分析硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于数学与统计系（School of Mathematics and Statistics）"
@@ -8569,35 +8485,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/advanced-statistics/",
     "officialLabel": "格拉斯哥 高等统计学硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于数学与统计系（School of Mathematics and Statistics）"
@@ -8615,35 +8512,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "第一轮",
-        "deadline": "2026-11-05"
-      },
-      {
-        "name": "第二轮",
-        "deadline": "2026-12-17"
-      },
-      {
-        "name": "第三轮",
-        "deadline": "2027-02-04"
-      },
-      {
-        "name": "第四轮",
-        "deadline": "2027-03-25"
-      },
-      {
-        "name": "第五轮",
-        "deadline": "2027-05-13"
-      },
-      {
-        "name": "第六轮",
-        "deadline": "2027-07-08"
+        "name": "国际生截止",
+        "deadline": "2027-08-24"
       }
     ],
     "officialUrl": "https://www.gla.ac.uk/postgraduate/taught/data-science-artificial-intelligence/",
     "officialLabel": "格拉斯哥 数据科学与人工智能硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": true,
+    "updatedAt": "2026-10-29",
+    "verified": false,
     "notes": [
+      "⚠️ 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致",
       "官网写 2027 年 9 月入学国际生六轮申请（每轮内滚动审理，最后一轮 2027-07-08）；UK 本土申请截止 2027-08-24",
       "2027 年 9 月开学，全日制 12 个月",
       "开设于计算机科学系（School of Computing Science）"
@@ -8664,8 +8542,9 @@
     "officialUrl": "https://www.durham.ac.uk/business/courses/management-n2p109/",
     "officialLabel": "杜伦 MSc Management 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8685,8 +8564,9 @@
     "officialUrl": "https://www.durham.ac.uk/business/courses/management-consulting-n2pe09/",
     "officialLabel": "杜伦 MSc Management (Consulting) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8706,8 +8586,9 @@
     "officialUrl": "https://www.durham.ac.uk/business/courses/management-entrepreneurship-n2p309/",
     "officialLabel": "杜伦 MSc Management (Entrepreneurship) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8727,8 +8608,9 @@
     "officialUrl": "https://www.durham.ac.uk/business/courses/human-resource-management-n2pa09/",
     "officialLabel": "杜伦 MSc Human Resource Management (HRM) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8748,8 +8630,9 @@
     "officialUrl": "https://www.durham.ac.uk/business/courses/msc-supply-chain-and-logistics-management-n2pf09/",
     "officialLabel": "杜伦 MSc Supply Chain and Logistics Management 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8769,8 +8652,9 @@
     "officialUrl": "https://www.durham.ac.uk/business/courses/finance-n3k109/",
     "officialLabel": "杜伦 MSc Finance 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列申请截止日期，也未写开放日期；建议尽早申请，具体以官网为准",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8790,8 +8674,9 @@
     "officialUrl": "https://www.durham.ac.uk/business/courses/finance-accounting-and-finance-n3k209/",
     "officialLabel": "杜伦 MSc Finance (Accounting and Finance) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列申请截止日期，也未写开放日期；建议尽早申请，具体以官网为准",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8811,8 +8696,9 @@
     "officialUrl": "https://www.durham.ac.uk/business/courses/finance-economics-and-finance-n3k709/",
     "officialLabel": "杜伦 MSc Finance (Economics and Finance) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列申请截止日期，也未写开放日期；建议尽早申请，具体以官网为准",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8832,8 +8718,9 @@
     "officialUrl": "https://www.durham.ac.uk/business/courses/finance-finance-and-investment-n3k409/",
     "officialLabel": "杜伦 MSc Finance (Finance and Investment) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列申请截止日期，也未写开放日期；建议尽早申请，具体以官网为准",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8853,8 +8740,9 @@
     "officialUrl": "https://www.durham.ac.uk/business/courses/finance-financial-technology-and-banking-n3kc09/",
     "officialLabel": "杜伦 MSc Finance (Financial Technology and Banking) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列申请截止日期，也未写开放日期；建议尽早申请，具体以官网为准",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8874,8 +8762,9 @@
     "officialUrl": "https://www.durham.ac.uk/business/courses/finance-corporate-and-international-finance-n3k309/",
     "officialLabel": "杜伦 MSc Finance (Corporate and International Finance) 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列申请截止日期，也未写开放日期；建议尽早申请，具体以官网为准",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8895,8 +8784,9 @@
     "officialUrl": "https://www.durham.ac.uk/business/courses/management-and-finance-n2pc09/",
     "officialLabel": "杜伦 MSc Management and Finance 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列申请截止日期，也未写开放日期；建议尽早申请，具体以官网为准",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8916,8 +8806,9 @@
     "officialUrl": "https://www.durham.ac.uk/business/courses/islamic-finance-n3kd09/",
     "officialLabel": "杜伦 MSc Islamic Finance 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列申请截止日期，也未写开放日期；建议尽早申请，具体以官网为准",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8937,8 +8828,9 @@
     "officialUrl": "https://www.durham.ac.uk/study/courses/advanced-computer-science-g5t609/",
     "officialLabel": "杜伦 MSc Advanced Computer Science 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列申请截止日期；2027 年 9 月开学，建议尽早申请，具体以官网为准",
       "开设于计算机科学系（Department of Computer Science）"
     ]
@@ -8958,8 +8850,9 @@
     "officialUrl": "https://www.durham.ac.uk/study/courses/applied-artificial-intelligence-and-data-science-g5l109/",
     "officialLabel": "杜伦 MSc Applied Artificial Intelligence and Data Science 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列申请截止日期；2027 年 9 月开学，建议尽早申请，具体以官网为准",
       "开设于计算机科学系（Department of Computer Science）"
     ]
@@ -8979,8 +8872,9 @@
     "officialUrl": "https://www.durham.ac.uk/study/courses/artificial-intelligence-infrastructure-platforms-g6t709/",
     "officialLabel": "杜伦 MSc Artificial Intelligence Infrastructure Platforms 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列申请截止日期；2027 年 9 月开学，建议尽早申请，具体以官网为准",
       "开设于计算机科学系（Department of Computer Science）"
     ]
@@ -9000,8 +8894,9 @@
     "officialUrl": "https://www.durham.ac.uk/study/courses/artificial-intelligence-for-robotics-and-computer-vision-g6t409/",
     "officialLabel": "杜伦 MSc Artificial Intelligence for Robotics & Computer Vision 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列申请截止日期；2027 年 9 月开学，建议尽早申请，具体以官网为准",
       "开设于计算机科学系（Department of Computer Science）"
     ]
@@ -9021,8 +8916,9 @@
     "officialUrl": "https://www.durham.ac.uk/study/courses/artificial-intelligence-g6t109/",
     "officialLabel": "杜伦 MSc Artificial Intelligence 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列申请截止日期；2027 年 9 月开学，建议尽早申请，具体以官网为准",
       "开设于计算机科学系（Department of Computer Science）"
     ]
@@ -9042,8 +8938,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/a078/management-msc",
     "officialLabel": "利兹 Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9063,8 +8960,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/e763/international-business-msc",
     "officialLabel": "利兹 International Business MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9084,8 +8982,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/7652/international-marketing-management-msc",
     "officialLabel": "利兹 International Marketing Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9105,8 +9004,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/k194/human-resource-management-msc",
     "officialLabel": "利兹 Human Resource Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9126,8 +9026,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/g505/global-supply-chain-management-msc",
     "officialLabel": "利兹 Global Supply Chain Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9147,8 +9048,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/i285/global-strategy-and-innovation-management-msc",
     "officialLabel": "利兹 Global Strategy and Innovation Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9168,8 +9070,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc",
     "officialLabel": "利兹 Business Analytics and Decision Sciences MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9189,8 +9092,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/k318/digital-human-resource-management-and-data-analytics-msc",
     "officialLabel": "利兹 Digital Human Resource Management and Data Analytics MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9210,8 +9114,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/g963/consumer-analytics-and-marketing-strategy-msc",
     "officialLabel": "利兹 Consumer Analytics and Marketing Strategy MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9231,8 +9136,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/f921/accounting-and-finance-msc",
     "officialLabel": "利兹 Accounting and Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9252,8 +9158,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/k258/banking-and-finance-msc",
     "officialLabel": "利兹 Banking and Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9273,8 +9180,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/f840/finance-and-investment-msc",
     "officialLabel": "利兹 Finance and Investment MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9294,8 +9202,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/f839/financial-risk-management-msc",
     "officialLabel": "利兹 Financial Risk Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9315,8 +9224,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/k274/quantitative-finance-msc",
     "officialLabel": "利兹 Quantitative Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
       "开设于利兹大学商学院（Leeds University Business School）"
     ]
@@ -9336,8 +9246,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/f753/advanced-computer-science-msc",
     "officialLabel": "利兹 Advanced Computer Science MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网写申请尽早递交，最终申请期限 30 July 2027（详见官网 How to Apply）",
       "开设于计算学院（School of Computing）"
     ]
@@ -9357,8 +9268,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/i537/advanced-computer-science-artificial-intelligence-msc",
     "officialLabel": "利兹 Advanced Computer Science (Artificial Intelligence) MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网写申请尽早递交，最终申请期限 30 July 2027（详见官网 How to Apply）",
       "开设于计算学院（School of Computing）"
     ]
@@ -9378,8 +9290,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/g313/advanced-computer-science-cloud-computing-msc",
     "officialLabel": "利兹 Advanced Computer Science (Cloud Computing) MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网写申请尽早递交，最终申请期限 30 July 2027（详见官网 How to Apply）",
       "开设于计算学院（School of Computing）"
     ]
@@ -9399,8 +9312,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/g314/advanced-computer-science-data-analytics-msc",
     "officialLabel": "利兹 Advanced Computer Science (Data Analytics) MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块",
       "官网写申请尽早递交，最终申请期限 30 July 2027（详见官网 How to Apply）",
       "开设于计算学院（School of Computing）"
     ]
@@ -9420,8 +9334,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/k299/computer-science-msc",
     "officialLabel": "利兹 Computer Science MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列固定申请截止（详见 How to Apply）；面向非计算机背景申请者",
       "开设于计算学院（School of Computing）"
     ]
@@ -9441,8 +9356,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/k300/computer-science-with-artificial-intelligence-msc",
     "officialLabel": "利兹 Computer Science with Artificial Intelligence MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列固定申请截止（详见 How to Apply）",
       "开设于计算学院（School of Computing）"
     ]
@@ -9467,8 +9383,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/k319/data-science-msc",
     "officialLabel": "利兹 Data Science MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 库中日期未在本次官网正文中找到：2027-07-30；未在本次页面正文中读到申请截止区块",
       "国际生最终申请截止 2027-07-30（官网写 International applicants: Friday 30 July 2027）；官网建议尽早递交",
       "开设于计算学院（School of Computing）"
     ]
@@ -9488,8 +9405,9 @@
     "officialUrl": "https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc",
     "officialLabel": "利兹 Data Science and Analytics MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网课程页未列固定申请截止（详见 How to Apply）",
       "开设于地理系（School of Geography）"
     ]
@@ -9509,8 +9427,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/management-msc",
     "officialLabel": "谢菲尔德 Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于谢菲尔德大学管理学院（Management School）"
     ]
@@ -9530,8 +9449,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/management-and-international-business-msc",
     "officialLabel": "谢菲尔德 Management and International Business MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于谢菲尔德大学管理学院（Management School）"
     ]
@@ -9551,8 +9471,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/international-management-msc",
     "officialLabel": "谢菲尔德 International Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于谢菲尔德大学管理学院（Management School）"
     ]
@@ -9572,8 +9493,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/international-marketing-and-management-msc",
     "officialLabel": "谢菲尔德 International Marketing and Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于谢菲尔德大学管理学院（Management School）"
     ]
@@ -9593,8 +9515,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/strategic-marketing-and-branding-msc",
     "officialLabel": "谢菲尔德 Strategic Marketing and Branding MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于谢菲尔德大学管理学院（Management School）"
     ]
@@ -9614,8 +9537,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/digital-marketing-msc",
     "officialLabel": "谢菲尔德 Digital Marketing MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于谢菲尔德大学管理学院（Management School）"
     ]
@@ -9635,8 +9559,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/human-resource-management-msc",
     "officialLabel": "谢菲尔德 Human Resource Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于谢菲尔德大学管理学院（Management School）"
     ]
@@ -9656,8 +9581,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/logistics-and-supply-chain-management-msc",
     "officialLabel": "谢菲尔德 Logistics and Supply Chain Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于谢菲尔德大学管理学院（Management School）"
     ]
@@ -9677,8 +9603,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/business-analytics-msc",
     "officialLabel": "谢菲尔德 Business Analytics MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于谢菲尔德大学管理学院（Management School）"
     ]
@@ -9698,8 +9625,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/information-systems-management-msc",
     "officialLabel": "谢菲尔德 Information Systems Management MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于信息学院（Information School），信息系统管理方向"
     ]
@@ -9719,8 +9647,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/finance-msc",
     "officialLabel": "谢菲尔德 Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于谢菲尔德大学管理学院（Management School）"
     ]
@@ -9740,8 +9669,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/finance-and-accounting-msc",
     "officialLabel": "谢菲尔德 Finance and Accounting MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于谢菲尔德大学管理学院（Management School）"
     ]
@@ -9761,8 +9691,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/financial-technology-and-innovation-msc",
     "officialLabel": "谢菲尔德 Financial Technology and Innovation MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于谢菲尔德大学管理学院（Management School）"
     ]
@@ -9782,8 +9713,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/money-banking-and-finance-msc",
     "officialLabel": "谢菲尔德 Money, Banking and Finance MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于谢菲尔德大学管理学院（Management School）"
     ]
@@ -9803,8 +9735,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/artificial-intelligence-msc",
     "officialLabel": "谢菲尔德 Artificial Intelligence MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于计算机科学系（Department of Computer Science）"
     ]
@@ -9824,8 +9757,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/advanced-computer-science-msc",
     "officialLabel": "谢菲尔德 Advanced Computer Science MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于计算机科学系（Department of Computer Science）"
     ]
@@ -9845,8 +9779,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/computer-science-msc",
     "officialLabel": "谢菲尔德 Computer Science MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于计算机科学系（Department of Computer Science）"
     ]
@@ -9866,8 +9801,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/computer-science-speech-and-natural-language-processing-msc",
     "officialLabel": "谢菲尔德 Computer Science with Speech and Natural Language Processing MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于计算机科学系（Department of Computer Science）"
     ]
@@ -9887,8 +9823,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/cybersecurity-and-artificial-intelligence-msc",
     "officialLabel": "谢菲尔德 Cybersecurity and Artificial Intelligence MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于计算机科学系（Department of Computer Science）"
     ]
@@ -9908,8 +9845,9 @@
     "officialUrl": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2027/data-science-msc",
     "officialLabel": "谢菲尔德 Data Science MSc 课程页",
     "updatedAt": "2026-10-27",
-    "verified": true,
+    "verified": false,
     "notes": [
+      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
       "官网项目页未列固定申请截止（滚动审理，2027 年 9 月开学）",
       "开设于计算机科学系（Department of Computer Science）"
     ]
