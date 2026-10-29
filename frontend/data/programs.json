@@ -8379,10 +8379,10 @@
     "rolling": true,
     "officialUrl": "https://www.durham.ac.uk/business/courses/management-consulting-n2pe09/",
     "officialLabel": "杜伦 MSc Management (Consulting) 课程页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-30",
+    "verified": true,
     "notes": [
-      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
+      "官网课程页正文明确：Start date September 2027；Course length 1 year full-time。Durham 统一申请页明确 applications normally all year round，并说明 oversubscribed 可关闭；库中 rounds=[]、rolling=true 与原文一致。",
       "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
       "开设于杜伦商学院（Durham University Business School）"
     ]
@@ -8643,10 +8643,10 @@
     "rolling": true,
     "officialUrl": "https://www.durham.ac.uk/study/courses/advanced-computer-science-g5t609/",
     "officialLabel": "杜伦 MSc Advanced Computer Science 课程页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-30",
+    "verified": true,
     "notes": [
-      "⚠️ 未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文",
+      "官网课程页正文明确：Start date September 2027；Course length 1 year full-time。Durham 统一申请页明确 applications normally all year round，并说明 oversubscribed 可关闭；库中 rounds=[]、rolling=true 与原文一致。",
       "官网课程页未列申请截止日期；2027 年 9 月开学，建议尽早申请，具体以官网为准",
       "开设于计算机科学系（Department of Computer Science）"
     ]
