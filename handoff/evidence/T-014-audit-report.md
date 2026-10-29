@@ -1,6 +1,6 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 143 / ❌ 19 / ⚠️ 176）
+- 审计项目数：338（✅ 143 / ❌ 36 / ⚠️ 159）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
@@ -15,7 +15,7 @@
 | Nanyang Technological University | 2 | 0 | 0 | 2 | 逐项原文见下 |
 | National University of Singapore | 3 | 0 | 0 | 3 | 逐项原文见下 |
 | The Chinese University of Hong Kong | 17 | 2 | 0 | 15 | 逐项原文见下 |
-| The Hong Kong Polytechnic University | 17 | 0 | 0 | 17 | 逐项原文见下 |
+| The Hong Kong Polytechnic University | 17 | 0 | 17 | 0 | 逐项原文见下 |
 | The Hong Kong University of Science and Technology | 8 | 2 | 0 | 6 | 逐项原文见下 |
 | The University of Edinburgh | 21 | 13 | 0 | 8 | 逐项原文见下 |
 | The University of Hong Kong | 7 | 1 | 0 | 6 | 逐项原文见下 |
@@ -70,7 +70,7 @@
 ### The Chinese University of Hong Kong
 - cuhk-msc-ba | ✅ | https://masters.bschool.cuhk.edu.hk/programmes/mscba/ | 2027-28 Admissions Application Deadline Full-time: 31 Mar 2027 (Wed); Admissions will be processed on a rolling basis until all places have been filled. | 项目页明确写出全日制、2027-28、Full-time 截止 31 Mar 2027；学校官方申请页明确 Admissions will be processed on a rolling basis until all places have been filled.
 ### The Hong Kong Polytechnic University
-- polyu-msc-dsa | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/62027-dfm-dpm | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-dsa | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/62027-dfm-dpm | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### Imperial College London
 - ic-msc-computing | ✅ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/computing/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### Imperial College London
@@ -464,37 +464,37 @@
 ### The Hong Kong University of Science and Technology
 - hkust-msc-fintech | ⚠️ | https://seng.hkust.edu.hk/msc/fintech | Application Deadline All Applicants 1 December 2026 (Round 1) 1 March 2027 (Round 2) | 库中日期未在本次官网正文中找到：2026-12-01
 ### The Hong Kong Polytechnic University
-- polyu-msc-bm | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/02022-mmf-mmp | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-bm | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/02022-mmf-mmp | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-mmkt | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mkf-mkp | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-mmkt | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mkf-mkp | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-hrm | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mhf-mhp | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-hrm | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mhf-mhp | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-iml | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mlf-mlp | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-iml | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mlf-mlp | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-ban | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/23090-maf-map | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-ban | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/23090-maf-map | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-gbda | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/44094-bfm-bpm | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-gbda | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/44094-bfm-bpm | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-fin-cf | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fcf-cfp | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-fin-cf | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fcf-cfp | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-fin-im | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fim-imp | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-fin-im | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fim-imp | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-afa | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/21052-fam-pam | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-afa | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/21052-fam-pam | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-awm | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/02029-dfm-dpm-ffm-fpm | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-awm | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/02029-dfm-dpm-ffm-fpm | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-qff | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/63029-qfm-qpm | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-qff | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/63029-qfm-qpm | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-cyber | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/61039-fcy-pcy | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-cyber | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/61039-fcy-pcy | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-bct | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/61036-fbt-pbt | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-bct | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/61036-fbt-pbt | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-aibdc | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/62037-fai-pai | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-aibdc | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/62037-fai-pai | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-it | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/61030-fit-pit | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-it | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/61030-fit-pit | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University
-- polyu-msc-mait | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/63031-afm-apm | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- polyu-msc-mait | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/63031-afm-apm | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### University of Bristol
 - bris-msc-management | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
