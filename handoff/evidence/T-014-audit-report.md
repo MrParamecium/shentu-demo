@@ -1,6 +1,6 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 185 / ❌ 42 / ⚠️ 111）
+- 审计项目数：338（✅ 203 / ❌ 42 / ⚠️ 93）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
@@ -10,7 +10,7 @@
 | City University of Hong Kong | 1 | 0 | 0 | 1 | 逐项原文见下 |
 | Durham University | 18 | 0 | 0 | 18 | 逐项原文见下 |
 | Imperial College London | 21 | 11 | 0 | 10 | 逐项原文见下 |
-| King's College London | 18 | 0 | 0 | 18 | 逐项原文见下 |
+| King's College London | 18 | 18 | 0 | 0 | 逐项原文见下 |
 | London School of Economics and Political Science | 20 | 20 | 0 | 0 | 逐项原文见下 |
 | Nanyang Technological University | 2 | 2 | 0 | 0 | 逐项原文见下 |
 | National University of Singapore | 3 | 0 | 0 | 3 | 逐项原文见下 |
@@ -44,7 +44,7 @@
 ### The University of Manchester
 - man-msc-acf | ⚠️ | https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/ | Please ensure that you submit all supporting documentation with your application before the application deadline to avoid delays in processing. STAGE	APPLICATION RECEIVED BY	APPLICATION UPDATE BY 1	6 December 2026	19 February 2027 2	1 March 2027	2 May 2027 3	4 May 2027	18 June 2027 4	4 July 2027	30 July 2027 5	23 August 2027	31 August 2027 | 未在本次页面正文中读到 Full-time
 ### King's College London
-- kcl-msc-dm | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-marketing-msc | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块
+- kcl-msc-dm | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-marketing-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### London School of Economics and Political Science
 - lse-msc-finance | ✅ | https://www.lse.ac.uk/study-at-lse/graduate/msc-finance-full-time | Application deadline None – rolling admissions. However, please note the funding deadlines. Register your interest How to apply Overview Introduction Introduction | 
 ### London School of Economics and Political Science
@@ -96,9 +96,9 @@
 ### City University of Hong Kong
 - cityu-msc-cs | ⚠️ | https://www.cityu.edu.hk/en/pg/taught-postgraduate-programmes/list | 页面正文未找到截止日期区块。 | 官网页面无法读取或正文为空
 ### King's College London
-- kcl-msc-ds | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/data-science-msc | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文
+- kcl-msc-ds | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/data-science-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-im | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/international-management-msc | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文
+- kcl-msc-im | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/international-management-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### University College London
 - ucl-msc-cs | ✅ | https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
@@ -234,35 +234,35 @@
 ### Imperial College London
 - ic-msc-aml | ✅ | https://www.imperial.ac.uk/study/courses/postgraduate-taught/2027/applied-machine-learning/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### King's College London
-- kcl-msc-de | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-economy-msc | Application deadlines: Closing date guidance Apply now Key Links How to apply Register your interest | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- kcl-msc-de | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-economy-msc | Study mode: Full-time / Part-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time / Part-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-hroa | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/human-resource-management-and-organisational-analysis-msc | Application deadlines: Closing date guidance Apply now Key Links How to apply Register your interest | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25
+- kcl-msc-hroa | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/human-resource-management-and-organisational-analysis-msc | Study mode: Full-time / Part-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time / Part-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-sei | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/strategic-entrepreneurship-and-innovation-msc | Application deadlines: Closing date guidance Apply now Key Links How to apply Register your interest | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25
+- kcl-msc-sei | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/strategic-entrepreneurship-and-innovation-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-mtc | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/management-technological-change | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块
+- kcl-msc-mtc | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/management-technological-change | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-aafm | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/accounting-accountability-and-financial-management-msc | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块
+- kcl-msc-aafm | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/accounting-accountability-and-financial-management-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-bf | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/banking-and-finance-msc | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块
+- kcl-msc-bf | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/banking-and-finance-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-fap | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/finance-asset-pricing-msc | Application deadlines: Closing date guidance Apply now Key Links How to apply Register your interest | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- kcl-msc-fap | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/finance-asset-pricing-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-fcf | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/corporate-finance-msc | Application deadlines: Closing date guidance Apply now Key Links How to apply Register your interest | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- kcl-msc-fcf | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/corporate-finance-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-ef | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/economics-finance-msc | Application deadlines: Closing date guidance Apply now Key Links How to apply Register your interest | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25
+- kcl-msc-ef | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/economics-finance-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-fana | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/finance-analytics-msc | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块
+- kcl-msc-fana | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/finance-analytics-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-sfr | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/sustainable-finance-reporting-msc | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块
+- kcl-msc-sfr | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/sustainable-finance-reporting-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-fmds | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/financial-mathematics-with-data-science-msc | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块
+- kcl-msc-fmds | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/financial-mathematics-with-data-science-msc | Study mode: Full-time / Part-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time / Part-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-advcomp | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/advanced-computing-msc | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块
+- kcl-msc-advcomp | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/advanced-computing-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-ase | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/advanced-software-engineering-msc | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块
+- kcl-msc-ase | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/advanced-software-engineering-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### King's College London
-- kcl-msc-rob | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/robotics-msc | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块
+- kcl-msc-rob | ✅ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/robotics-msc | Study mode: Full-time; Start date: September 2027; Our first application deadline is on 9 March 2027 (23:59 UK time); Overseas (international) fee status: 25 July 2027 (23:59 UK time); if the course becomes full before the final application deadlines, we will close the course. | 本轮逐页浏览器正文明确读到 2027 入学、Full-time（含 Full-time）、Full-time 课程选项、September 2027 开学；并读到首轮 9 March 2027、国际生最终截止 25 July 2027，以及名额满前持续接受申请原文。日期与库中一致。
 ### The University of Edinburgh
 - ed-msc-ba | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/929-business-analytics | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
