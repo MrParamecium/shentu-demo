@@ -1,6 +1,6 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 143 / ❌ 36 / ⚠️ 159）
+- 审计项目数：338（✅ 149 / ❌ 36 / ⚠️ 153）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
@@ -12,11 +12,11 @@
 | Imperial College London | 21 | 11 | 0 | 10 | 逐项原文见下 |
 | King's College London | 18 | 0 | 0 | 18 | 逐项原文见下 |
 | London School of Economics and Political Science | 20 | 20 | 0 | 0 | 逐项原文见下 |
-| Nanyang Technological University | 2 | 0 | 0 | 2 | 逐项原文见下 |
+| Nanyang Technological University | 2 | 2 | 0 | 0 | 逐项原文见下 |
 | National University of Singapore | 3 | 0 | 0 | 3 | 逐项原文见下 |
 | The Chinese University of Hong Kong | 17 | 2 | 0 | 15 | 逐项原文见下 |
 | The Hong Kong Polytechnic University | 17 | 0 | 17 | 0 | 逐项原文见下 |
-| The Hong Kong University of Science and Technology | 8 | 2 | 0 | 6 | 逐项原文见下 |
+| The Hong Kong University of Science and Technology | 8 | 6 | 0 | 2 | 逐项原文见下 |
 | The University of Edinburgh | 21 | 13 | 0 | 8 | 逐项原文见下 |
 | The University of Hong Kong | 7 | 1 | 0 | 6 | 逐项原文见下 |
 | The University of Hong Kong (HKU Business School) | 11 | 0 | 0 | 11 | 逐项原文见下 |
@@ -56,15 +56,15 @@
 ### National University of Singapore
 - nus-msc-fin | ⚠️ | https://mscfin.nus.edu.sg/admissions/application-process/ | 页面正文未找到截止日期区块。 | 官网页面无法读取或正文为空
 ### Nanyang Technological University
-- ntu-msc-ba | ⚠️ | https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-business-analytics/admissions | Application Deadlines The MSBA programme will start in July. The application for the July 2027 intake will start in September 2026. Applications are reviewed on a rolling basis, and early application improves your chances of being shortlisted sooner. Round 1: 30 November 2026 Round 2: 31 January 2027 | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ntu-msc-ba | ✅ | https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-business-analytics/admissions | Applications are reviewed on a rolling basis... Round 1: 30 November 2026; Round 2: 31 January 2027; Round 3: 31 March 2027. | 本轮官网招生页明确写出 July/August 2027 intake、Full-time、rolling review，以及 Round 1 30 November 2026、Round 2 31 January 2027、Round 3 31 March 2027。
 ### Nanyang Technological University
-- ntu-msc-fin | ⚠️ | https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-finance/admissions | Application Deadline The application for the July 2027 intake will start in September 2026. Applications are reviewed on a rolling basis, and early application improves your chances of being shortlisted sooner. Round 1: 30 November 2026 Round 2: 31 January 2027 Round 3: 31 March 2027 | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- ntu-msc-fin | ✅ | https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-finance/admissions | Applications are reviewed on a rolling basis... Round 1: 30 November 2026; Round 2: 31 January 2027; Round 3: 31 March 2027. | 本轮官网招生页明确写出 July/August 2027 intake、Full-time、rolling review，以及 Round 1 30 November 2026、Round 2 31 January 2027、Round 3 31 March 2027。
 ### The University of Hong Kong
 - hku-mdasc | ⚠️ | https://mdasc.cds.hku.hk/admissions-2027-28/ | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2026-12-01, 2027-04-30；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到 Full-time；未在本次页面正文中读到申请截止区块
 ### The Hong Kong University of Science and Technology
-- hkust-msc-ba | ⚠️ | https://msba.hkust.edu.hk/admission/application-schedule-procedures | Application Deadlines Admissions operate on a rolling basis. We recommend that non-local applicants apply as early as possible to allow sufficient time for student visa, personal preparation and arrival at Hong Kong. Application deadlines for the 2027/28 intake are as follows: FULL-TIME PROGRAM Phase 1 Oct 11 2026 | 库中日期未在本次官网正文中找到：2026-10-11, 2026-11-29, 2027-01-10, 2027-02-28
+- hkust-msc-ba | ✅ | https://msba.hkust.edu.hk/admission/application-schedule-procedures | Admissions operate on a rolling basis... FULL-TIME PROGRAM: Phase 1 11 October 2026; Phase 2 29 November 2026; Phase 3 10 January 2027; Phase 4 28 February 2027. | 本轮官方 admissions 页面明确写出 2027/28 full-time application schedule、rolling basis，且逐项读到 11 Oct 2026、29 Nov 2026、10 Jan 2027、28 Feb 2027 四个阶段日期。
 ### The Hong Kong University of Science and Technology
-- hkust-msc-fin | ⚠️ | https://mfin.hkust.edu.hk/admissions/application-deadline | Home  Admissions  Application Deadlines & Procedures ADMISSIONS ADMISSION REQUIREMENTS APPLICATION DEADLINES & PROCEDURES PROGRAM FEE & EXPENSES SCHOLARSHIPS FINANCIAL AID Application Deadlines | 库中日期未在本次官网正文中找到：2026-10-11, 2027-01-10
+- hkust-msc-fin | ✅ | https://mfin.hkust.edu.hk/admissions/application-deadline | Admissions operate on a rolling basis... FULL-TIME PROGRAM: Phase 1 11 October 2026; Phase 2 29 November 2026; Phase 3 10 January 2027; Phase 4 28 February 2027. | 本轮官方 admissions 页面明确写出 2027/28 full-time application schedule、rolling basis，且逐项读到 11 Oct 2026、29 Nov 2026、10 Jan 2027、28 Feb 2027 四个阶段日期。
 ### The Hong Kong University of Science and Technology
 - hkust-msc-it | ⚠️ | https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-it | Application Deadline Non-Local Applicants 1 December 2026 (Round 1) 1 March 2027 (Round 2) | 库中日期未在本次官网正文中找到：2026-12-01
 ### The Chinese University of Hong Kong
@@ -460,9 +460,9 @@
 ### The Hong Kong University of Science and Technology
 - hkust-msc-aie | ⚠️ | https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-aie | Application Deadline All Applicants 1 December 2026 (Round 1) 1 March 2027 (Round 2) | 未在本次页面正文中读到 Full-time
 ### The Hong Kong University of Science and Technology
-- hkust-msc-eem | ⚠️ | https://seng.hkust.edu.hk/msc/eem | Application Deadline Non-Local Applicants 1 December 2026 (Round 1) 1 March 2027 (Round 2) | 库中日期未在本次官网正文中找到：2027-03-01
+- hkust-msc-eem | ✅ | https://seng.hkust.edu.hk/msc/eem | For 2027/28 Fall intake (September 2027) ... 1 December 2026 (Round 1); 1 March 2027 (Round 2). | 本轮官网项目页明确写出 2027/28 Fall intake、Full-time、rolling basis，以及库中两轮日期。
 ### The Hong Kong University of Science and Technology
-- hkust-msc-fintech | ⚠️ | https://seng.hkust.edu.hk/msc/fintech | Application Deadline All Applicants 1 December 2026 (Round 1) 1 March 2027 (Round 2) | 库中日期未在本次官网正文中找到：2026-12-01
+- hkust-msc-fintech | ✅ | https://seng.hkust.edu.hk/msc/fintech | For 2027/28 Fall intake (September 2027) ... 1 December 2026 (Round 1); 1 March 2027 (Round 2). | 本轮官网项目页明确写出 2027/28 Fall intake、Full-time、rolling basis，以及库中两轮日期。
 ### The Hong Kong Polytechnic University
 - polyu-msc-bm | ❌ | https://www.polyu.edu.hk/study/pg/tpg/2027/02022-mmf-mmp | Local Application Deadline: 25 Feb 2027 (Main Round) / Non-Local Application Deadline: 25 Feb 2027 (Main Round) | 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。
 ### The Hong Kong Polytechnic University

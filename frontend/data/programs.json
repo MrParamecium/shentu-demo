@@ -413,10 +413,9 @@
     "rolling": true,
     "officialUrl": "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-business-analytics/admissions",
     "officialLabel": "南洋商学院 MSBA 申请页",
-    "updatedAt": "2026-10-24",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "2027 年 7 月开学，2026 年 9 月开放申请；滚动审理，早申请早入围",
       "申请费 S$100；入学费 S$20,000（不含 GST），可抵学费，不退"
     ]
@@ -448,10 +447,9 @@
     "rolling": true,
     "officialUrl": "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-finance/admissions",
     "officialLabel": "南洋商学院 MSc Finance 申请页",
-    "updatedAt": "2026-10-24",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "滚动审理，早申请早入围",
       "同一页面截止部分写 2027 年 7 月开学、学费表写 8 月，开学月份以官网为准",
       "申请费 S$100；入学费 S$21,800（含 GST），可抵学费，不退"
@@ -518,10 +516,9 @@
     "rolling": true,
     "officialUrl": "https://msba.hkust.edu.hk/admission/application-schedule-procedures",
     "officialLabel": "港科大 MSBA 申请时间表",
-    "updatedAt": "2026-10-24",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 库中日期未在本次官网正文中找到：2026-10-11, 2026-11-29, 2027-01-10, 2027-02-28",
       "官网写 Phase 1–4；滚动审理，建议非本地申请人尽早申请",
       "申请费 HK$800",
       "需面试，入围者会被邀请"
@@ -558,10 +555,9 @@
     "rolling": true,
     "officialUrl": "https://mfin.hkust.edu.hk/admissions/application-deadline",
     "officialLabel": "港科大 MFin 申请截止页",
-    "updatedAt": "2026-10-24",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 库中日期未在本次官网正文中找到：2026-10-11, 2027-01-10",
       "截止时间为香港时间 23:59；官网写 Phase 1–4，滚动审理",
       "第三、四轮是否还有名额，以官网为准",
       "GMAT/GRE 非必须；需面试"
@@ -638,15 +634,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/62027-dfm-dpm",
     "officialLabel": "理大 DSA 项目页（62027）",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-24",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round / Main Round，本地与非本地申请人日期相同",
       "非本地申请人必须注册为全日制"
     ]
@@ -6692,10 +6693,9 @@
     ],
     "officialUrl": "https://seng.hkust.edu.hk/msc/eem",
     "officialLabel": "港科大 工程企业管理硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 库中日期未在本次官网正文中找到：2027-03-01",
       "官网写 2027/28 Fall intake（2027 年 9 月开学）；截止时间为香港时间当天 23:59",
       "开设于工业工程与决策分析学系（工学院）"
     ]
@@ -6722,10 +6722,9 @@
     ],
     "officialUrl": "https://seng.hkust.edu.hk/msc/fintech",
     "officialLabel": "港科大 金融科技硕士 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 库中日期未在本次官网正文中找到：2026-12-01",
       "官网写 2027/28 Fall intake（2027 年 9 月开学）；截止时间为香港时间当天 23:59",
       "工学院跨学系项目；2027/28 学费 HK$405,000"
     ]
@@ -6742,15 +6741,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/02022-mmf-mmp",
     "officialLabel": "理大 商业管理硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院"
     ]
@@ -6767,15 +6771,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mkf-mkp",
     "officialLabel": "理大 市场营销管理硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院（GSB），另设 2.5 年非全日制"
     ]
@@ -6792,15 +6801,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mhf-mhp",
     "officialLabel": "理大 人力资源管理硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院（GSB），另设 2.5 年非全日制"
     ]
@@ -6817,15 +6831,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mlf-mlp",
     "officialLabel": "理大 国际管理与领导力硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院（GSB），另设 2.5 年非全日制"
     ]
@@ -6842,15 +6861,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-maf-map",
     "officialLabel": "理大 商务分析硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院（GSB），另设 2.5 年非全日制"
     ]
@@ -6867,15 +6891,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/44094-bfm-bpm",
     "officialLabel": "理大 环球商业及决策分析硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院（GSB），另设 2.5 年非全日制"
     ]
@@ -6892,15 +6921,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fcf-cfp",
     "officialLabel": "理大 金融学硕士（企业金融） 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院，另设 2 年非全日制"
     ]
@@ -6917,15 +6951,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fim-imp",
     "officialLabel": "理大 金融学硕士（投资管理） 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院，另设 2 年非全日制"
     ]
@@ -6942,15 +6981,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/21052-fam-pam",
     "officialLabel": "理大 会计及金融分析硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院，另设 2 年非全日制"
     ]
@@ -6967,15 +7011,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/02029-dfm-dpm-ffm-fpm",
     "officialLabel": "理大 资产和财富管理硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大商学院"
     ]
@@ -6992,15 +7041,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/63029-qfm-qpm",
     "officialLabel": "理大 量化金融及金融科技硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大应用数学系，另设 3 年非全日制"
     ]
@@ -7017,15 +7071,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/61039-fcy-pcy",
     "officialLabel": "理大 网络空间安全硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大计算学系，另设 2 年非全日制"
     ]
@@ -7042,15 +7101,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/61036-fbt-pbt",
     "officialLabel": "理大 区块链科技硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大计算学系，另设 2 年非全日制"
     ]
@@ -7067,15 +7131,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/62037-fai-pai",
     "officialLabel": "理大 人工智能及大数据计算硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大计算学系，另设 2 年非全日制"
     ]
@@ -7092,15 +7161,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/61030-fit-pit",
     "officialLabel": "理大 资讯科技硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大计算学系，另设 2.5 年非全日制"
     ]
@@ -7117,15 +7191,20 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "国际生截止",
+        "name": "第一轮",
+        "deadline": "2026-10-20"
+      },
+      {
+        "name": "第二轮",
         "deadline": "2027-02-25"
       }
     ],
     "officialUrl": "https://www.polyu.edu.hk/study/pg/tpg/2027/63031-afm-apm",
     "officialLabel": "理大 数智科技硕士 项目页",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-27",
     "verified": false,
     "notes": [
+      "⚠️ 本轮项目页/学校官方项目目录只显示 Non-Local Application Deadline: 25 Feb 2027 (Main Round)，未显示库中 20 Oct 2026 第一轮；库中轮次与当前官网不一致。",
       "官网写 Early Round 2026-10-20 / Main Round 2027-02-25，本地与非本地申请人日期相同",
       "开设于理大应用数学系，另设 3 年非全日制"
     ]
