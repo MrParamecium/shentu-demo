@@ -1,6 +1,6 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 236 / ❌ 42 / ⚠️ 60）
+- 审计项目数：338（✅ 237 / ❌ 42 / ⚠️ 59）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
@@ -21,7 +21,7 @@
 | The University of Hong Kong | 7 | 6 | 0 | 1 | 逐项原文见下 |
 | The University of Hong Kong (HKU Business School) | 11 | 11 | 0 | 0 | 逐项原文见下 |
 | The University of Manchester | 24 | 9 | 0 | 15 | 逐项原文见下 |
-| University College London | 32 | 31 | 0 | 1 | 逐项原文见下 |
+| University College London | 32 | 32 | 0 | 0 | 逐项原文见下 |
 | University of Bristol | 26 | 26 | 0 | 0 | 逐项原文见下 |
 | University of Glasgow | 19 | 0 | 19 | 0 | 逐项原文见下 |
 | University of Leeds | 22 | 6 | 0 | 16 | 逐项原文见下 |
@@ -104,7 +104,7 @@
 ### University College London
 - ucl-msc-ba | ✅ | https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/business-analytics-msc | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-management | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
+- ucl-msc-management | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-msc | STUDY MODE Full-time; APPLICATION DEADLINES Applicants who require a visa 19 Oct 2026 - 25 Jun 2027; COURSE STARTS September 2027. | 本轮浏览器正文明确读到 Study mode: Full-time、Course starts: September 2027，以及 Applicants who require a visa: 19 Oct 2026 - 25 Jun 2027；日期与库中一致。
 ### University College London
 - ucl-msc-entrepreneurship | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/msc-entrepreneurship | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
