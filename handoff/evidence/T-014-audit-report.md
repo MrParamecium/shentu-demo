@@ -1,6 +1,6 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 237 / ❌ 42 / ⚠️ 59）
+- 审计项目数：338（✅ 238 / ❌ 42 / ⚠️ 58）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
@@ -16,7 +16,7 @@
 | National University of Singapore | 3 | 0 | 0 | 3 | 逐项原文见下 |
 | The Chinese University of Hong Kong | 17 | 11 | 6 | 0 | 逐项原文见下 |
 | The Hong Kong Polytechnic University | 17 | 0 | 17 | 0 | 逐项原文见下 |
-| The Hong Kong University of Science and Technology | 8 | 6 | 0 | 2 | 逐项原文见下 |
+| The Hong Kong University of Science and Technology | 8 | 7 | 0 | 1 | 逐项原文见下 |
 | The University of Edinburgh | 21 | 21 | 0 | 0 | 逐项原文见下 |
 | The University of Hong Kong | 7 | 6 | 0 | 1 | 逐项原文见下 |
 | The University of Hong Kong (HKU Business School) | 11 | 11 | 0 | 0 | 逐项原文见下 |
@@ -66,7 +66,7 @@
 ### The Hong Kong University of Science and Technology
 - hkust-msc-fin | ✅ | https://mfin.hkust.edu.hk/admissions/application-deadline | Admissions operate on a rolling basis... FULL-TIME PROGRAM: Phase 1 11 October 2026; Phase 2 29 November 2026; Phase 3 10 January 2027; Phase 4 28 February 2027. | 本轮官方 admissions 页面明确写出 2027/28 full-time application schedule、rolling basis，且逐项读到 11 Oct 2026、29 Nov 2026、10 Jan 2027、28 Feb 2027 四个阶段日期。
 ### The Hong Kong University of Science and Technology
-- hkust-msc-it | ⚠️ | https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-it | Application Deadline Non-Local Applicants 1 December 2026 (Round 1) 1 March 2027 (Round 2) | 库中日期未在本次官网正文中找到：2026-12-01
+- hkust-msc-it | ✅ | https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-it | Program fee for 2027/28 Fall intake for full-time study; For 2027/28 Fall intake (September 2027): 1 December 2026 (Round 1), 1 March 2027 (Round 2); applications considered on a competitive and rolling basis. | 本轮浏览器正文明确读到 2027/28 Fall intake (September 2027)、full-time study、rolling basis，以及 1 December 2026 (Round 1)、1 March 2027 (Round 2)；日期与库中一致。
 ### The Chinese University of Hong Kong
 - cuhk-msc-ba | ✅ | https://masters.bschool.cuhk.edu.hk/programmes/mscba/ | 2027-28 Admissions Application Deadline Full-time: 31 Mar 2027 (Wed); Admissions will be processed on a rolling basis until all places have been filled. | 项目页明确写出全日制、2027-28、Full-time 截止 31 Mar 2027；学校官方申请页明确 Admissions will be processed on a rolling basis until all places have been filled.
 ### The Hong Kong Polytechnic University
