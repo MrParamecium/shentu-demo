@@ -1,32 +1,32 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 20 / ❌ 19 / ⚠️ 299）
+- 审计项目数：338（✅ 108 / ❌ 19 / ⚠️ 211）
 
-本报告只使用 2026-10-29 本轮通过浏览器读取的官网正文。任何六项不能全部确认的项目均标 ⚠️。
+本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
 ## 按学校汇总
-| 学校 | 项目数 | ✅ | ❌ | ⚠️ | 学校规则（本轮官网读取） |
+| 学校 | 项目数 | ✅ | ❌ | ⚠️ | 备注 |
 |---|---:|---:|---:|---:|---|
-| City University of Hong Kong | 1 | 0 | 0 | 1 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| Durham University | 18 | 0 | 0 | 18 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| Imperial College London | 21 | 0 | 0 | 21 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| King's College London | 18 | 0 | 0 | 18 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| London School of Economics and Political Science | 20 | 20 | 0 | 0 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| Nanyang Technological University | 2 | 0 | 0 | 2 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| National University of Singapore | 3 | 0 | 0 | 3 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| The Chinese University of Hong Kong | 17 | 0 | 0 | 17 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| The Hong Kong Polytechnic University | 17 | 0 | 0 | 17 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| The Hong Kong University of Science and Technology | 8 | 0 | 0 | 8 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| The University of Edinburgh | 21 | 0 | 0 | 21 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| The University of Hong Kong | 7 | 0 | 0 | 7 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| The University of Hong Kong (HKU Business School) | 11 | 0 | 0 | 11 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| The University of Manchester | 24 | 0 | 0 | 24 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| University College London | 32 | 0 | 0 | 32 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| University of Bristol | 26 | 0 | 0 | 26 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| University of Glasgow | 19 | 0 | 19 | 0 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| University of Leeds | 22 | 0 | 0 | 22 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| University of Sheffield | 20 | 0 | 0 | 20 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
-| University of Warwick (Warwick Business School) | 31 | 0 | 0 | 31 | 逐项目见下；统一页/签证口径未确认处保留 ⚠️ |
+| City University of Hong Kong | 1 | 0 | 0 | 1 | 逐项原文见下 |
+| Durham University | 18 | 0 | 0 | 18 | 逐项原文见下 |
+| Imperial College London | 21 | 0 | 0 | 21 | 逐项原文见下 |
+| King's College London | 18 | 0 | 0 | 18 | 逐项原文见下 |
+| London School of Economics and Political Science | 20 | 20 | 0 | 0 | 逐项原文见下 |
+| Nanyang Technological University | 2 | 0 | 0 | 2 | 逐项原文见下 |
+| National University of Singapore | 3 | 0 | 0 | 3 | 逐项原文见下 |
+| The Chinese University of Hong Kong | 17 | 0 | 0 | 17 | 逐项原文见下 |
+| The Hong Kong Polytechnic University | 17 | 0 | 0 | 17 | 逐项原文见下 |
+| The Hong Kong University of Science and Technology | 8 | 0 | 0 | 8 | 逐项原文见下 |
+| The University of Edinburgh | 21 | 0 | 0 | 21 | 逐项原文见下 |
+| The University of Hong Kong | 7 | 0 | 0 | 7 | 逐项原文见下 |
+| The University of Hong Kong (HKU Business School) | 11 | 0 | 0 | 11 | 逐项原文见下 |
+| The University of Manchester | 24 | 0 | 0 | 24 | 逐项原文见下 |
+| University College London | 32 | 31 | 0 | 1 | 逐项原文见下 |
+| University of Bristol | 26 | 26 | 0 | 0 | 逐项原文见下 |
+| University of Glasgow | 19 | 0 | 19 | 0 | 逐项原文见下 |
+| University of Leeds | 22 | 0 | 0 | 22 | 逐项原文见下 |
+| University of Sheffield | 20 | 0 | 0 | 20 | 逐项原文见下 |
+| University of Warwick (Warwick Business School) | 31 | 31 | 0 | 0 | 逐项原文见下 |
 
 ## 逐项明细
 ### The University of Hong Kong
@@ -38,7 +38,7 @@
 ### Imperial College London
 - ic-msc-ba | ⚠️ | https://www.imperial.ac.uk/business-school/masters/business-analytics/admissions/ | Next application deadline: 6 January 2027 Location: London, UK Fees and funding Career impact Overview Entry requirements | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### University College London
-- ucl-msc-ds | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/data-science-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-ds | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/data-science-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### The University of Edinburgh
 - ed-msc-ai | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/107-artificial-intelligence | When to apply Programme start date	Application deadline 13 September 2027	31 March 2027 We will make a small number of offers to the most outstanding candidates on an ongoing basis, but will hold the majority of applications until the advertised deadline. Decisions will be made as soon as possible once the deadline has passed. We expect to make the majority of decisions within eight weeks of the deadline, by 31 May. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### The University of Manchester
@@ -84,9 +84,9 @@
 ### The University of Edinburgh
 - ed-msc-fi | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/1128-finance-and-investment | When to apply Due to high demand, the school operates a number of selection deadlines. We will make a small number of offers to the most outstanding candidates on an ongoing basis, but hold the majority of applications until the next published selection deadline when we will offer a proportion of the places available to applicants selected through the competitive process described on the school website. Full details on the admissions process and the selection deadlines are available on the Business School website: Admissions strategy | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### University of Warwick (Warwick Business School)
-- wbs-msc-finance | ⚠️ | https://www.wbs.ac.uk/courses/masters/finance/how-to-apply/ | Application Deadline 2 August 2027 Start Date September 2027 Duration 1 year Location Warwick Campus | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- wbs-msc-finance | ✅ | https://www.wbs.ac.uk/courses/masters/finance/how-to-apply/ | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- wbs-msc-baai | ⚠️ | https://www.wbs.ac.uk/courses/masters/business-analytics-artificial-intelligence/how-to-apply/ | Application Deadline 2 August 2027 Start Date September 2027 Duration 1 year Location Warwick Campus | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- wbs-msc-baai | ✅ | https://www.wbs.ac.uk/courses/masters/business-analytics-artificial-intelligence/how-to-apply/ | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### The University of Hong Kong (HKU Business School)
 - hku-mfin | ⚠️ | https://masters.hkubs.hku.hk/our-programmes/master-of-finance/ | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2026-07-24, 2026-09-28, 2026-12-04；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块
 ### The University of Hong Kong (HKU Business School)
@@ -100,67 +100,67 @@
 ### King's College London
 - kcl-msc-im | ⚠️ | https://www.kcl.ac.uk/study/postgraduate-taught/courses/international-management-msc | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2027-03-09, 2027-07-25；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块；库标 rolling，但本次正文未读到 rolling/continuous 原文
 ### University College London
-- ucl-msc-cs | ⚠️ | https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-cs | ✅ | https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-ba | ⚠️ | https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/business-analytics-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
+- ucl-msc-ba | ✅ | https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/business-analytics-msc | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
 - ucl-msc-management | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
 ### University College London
-- ucl-msc-entrepreneurship | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/msc-entrepreneurship | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
+- ucl-msc-entrepreneurship | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/msc-entrepreneurship | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-people-analytics | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/msc-people-analytics-and-human-centric-management | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
+- ucl-msc-people-analytics | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/msc-people-analytics-and-human-centric-management | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-mgmt-sft | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-strategy-finance-and-technology-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
+- ucl-msc-mgmt-sft | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-strategy-finance-and-technology-msc | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-scm | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/supply-chain-management-sustainability-and-analytics-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
+- ucl-msc-scm | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/supply-chain-management-sustainability-and-analytics-msc | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-business-sustainability | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/business-and-sustainability-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
+- ucl-msc-business-sustainability | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/business-and-sustainability-msc | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-pem | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/project-and-enterprise-management-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-pem | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/project-and-enterprise-management-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-finance | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/finance-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
+- ucl-msc-finance | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/finance-msc | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-fds | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/finance-data-science-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
+- ucl-msc-fds | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/finance-data-science-msc | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-frm | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/financial-risk-management-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-frm | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/financial-risk-management-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-fintech | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/financial-technology-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-fintech | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/financial-technology-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-cf | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computational-finance-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-cf | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computational-finance-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-fm | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/financial-mathematics-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-fm | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/financial-mathematics-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-bdf | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/banking-and-digital-finance-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
+- ucl-msc-bdf | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/banking-and-digital-finance-msc | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-rfaa | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/responsible-finance-and-alternative-assets-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
+- ucl-msc-rfaa | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/responsible-finance-and-alternative-assets-msc | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-pedf | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/private-equity-digital-finance-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
+- ucl-msc-pedf | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/private-equity-digital-finance-msc | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-ml | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/machine-learning-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-ml | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/machine-learning-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-rai | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/robotics-and-artificial-intelligence-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-rai | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/robotics-and-artificial-intelligence-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-aide | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/artificial-intelligence-and-data-engineering-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-aide | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/artificial-intelligence-and-data-engineering-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-cgvi | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computer-graphics-vision-and-imaging-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-cgvi | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computer-graphics-vision-and-imaging-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-is | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/information-security-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-is | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/information-security-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-sse | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/software-systems-engineering-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-sse | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/software-systems-engineering-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-hci | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/human-computer-interaction-msc | APPLICATION DEADLINES Status: Open All applicants 19 Oct 2026 - 12 Feb 2027 Applications close at 5pm UK time QUALIFICATION Master of Science (MSc) | 库中日期未在本次官网正文中找到：2027-02-12
+- ucl-msc-hci | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/human-computer-interaction-msc | APPLICATION DEADLINES Status: Open All applicants 19 Oct 2026 - 12 Feb 2027 Applications close at 5pm UK time QUALIFICATION Master of Science (MSc) | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-imls | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/msc-integrated-machine-learning-systems | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-imls | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/msc-integrated-machine-learning-systems | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-edt | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/emerging-digital-technologies-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-edt | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/emerging-digital-technologies-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-csml | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computational-statistics-and-machine-learning-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-csml | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computational-statistics-and-machine-learning-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-stats | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/statistics-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-stats | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/statistics-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-dsml | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/data-science-and-machine-learning-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 22 Mar 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-03-22
+- ucl-msc-dsml | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/data-science-and-machine-learning-msc | 19 Oct 2026 - 22 Mar 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### University College London
-- ucl-msc-sdic | ⚠️ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/scientific-and-data-intensive-computing-msc | APPLICATION DEADLINES Status: Open Applicants who require a visa 19 Oct 2026 - 25 Jun 2027 Applications close at 5pm UK time Applicants who do not require a visa 19 Oct 2026 - 27 Aug 2027 | 库中日期未在本次官网正文中找到：2027-06-25
+- ucl-msc-sdic | ✅ | https://www.ucl.ac.uk/study/prospective-students/graduate/courses/scientific-and-data-intensive-computing-msc | 19 Oct 2026 - 25 Jun 2027 | 本轮课程页明确写出 2027、Full-time、申请截止日期和签证申请人口径。
 ### London School of Economics and Political Science
 - lse-mim | ✅ | https://www.lse.ac.uk/study-at-lse/graduate/masters-in-management | Application deadline None – rolling admissions. However please note the funding deadlines. Register your interest How to apply Discover the Master's in Management at LSE Overview Introduction Preliminary readings | 
 ### London School of Economics and Political Science
@@ -342,63 +342,63 @@
 ### The University of Manchester
 - man-msc-dsai-math | ⚠️ | https://www.manchester.ac.uk/study/masters/courses/list/22197/msc-data-science-and-artificial-intelligence-mathematics/ | Stage 1:Application received by6th December 2026; Application update by19th February 2027 Stage 2:Application received by1st March 2027; Application update by2nd May 2027 Stage 3:Application received by4th May 2027; Application update by18th June 2027 Stage 4:Application received by4th July 2027; Application update by30th July 2027 | 库中日期未在本次官网正文中找到：2026-12-06, 2027-03-01, 2027-05-04, 2027-07-04
 ### University of Warwick (Warwick Business School)
-- war-msc-mgmt | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-management | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-mgmt | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-management | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-ibm | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-international-business | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-ibm | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-international-business | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-mkt-strategy | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-marketing-strategy | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-mkt-strategy | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-marketing-strategy | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-mkt-cb | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-marketing-consumer-behaviour | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-mkt-cb | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-marketing-consumer-behaviour | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-bw-consulting | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-business-consulting | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-bw-consulting | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-business-consulting | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-bw-marketing | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-business-marketing | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-bw-marketing | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-business-marketing | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-bw-opsmgmt | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-business-operations-management | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-bw-opsmgmt | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-business-operations-management | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-bw-sustainability | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-business-sustainability | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02；未在本次页面正文中读到 Full-time
+- war-msc-bw-sustainability | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-business-sustainability | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-itso | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-international-trade | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-itso | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-international-trade | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-mbe | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-management-business-excellence | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-mbe | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-management-business-excellence | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-ebusiness | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-e-business-management | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-ebusiness | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-e-business-management | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-sclm | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-supply-chain-logistics-management | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-sclm | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-supply-chain-logistics-management | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-afm | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-accounting-financial-management | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-afm | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-accounting-financial-management | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-acc-sus | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-accounting-sustainability | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-acc-sus | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-accounting-sustainability | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-fin-econ | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-finance-economics | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-fin-econ | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-finance-economics | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-fin-mgmt | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-finance-management | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-fin-mgmt | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-finance-management | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-fintech | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-financial-technology | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-fintech | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-financial-technology | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-mathfin | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-mathematical-finance | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-mathfin | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-mathematical-finance | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-cs | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-cs | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-cs-aiml | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science-artificial-intelligence-machine-learning | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-cs-aiml | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science-artificial-intelligence-machine-learning | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-cs-cybersec | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science-cyber-security | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-cs-cybersec | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science-cyber-security | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-cs-dataanalytics | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science-data-analytics | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-cs-dataanalytics | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-computer-science-data-analytics | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-applied-ai | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-applied-artificial-intelligence | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-applied-ai | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-applied-artificial-intelligence | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-csm | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-cyber-security-management | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-csm | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-cyber-security-management | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-cse | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-cyber-security-engineering | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-cse | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-cyber-security-engineering | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-stats | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-statistics | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-stats | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-statistics | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-stats-ds | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-statistics-data-science | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-stats-ds | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-statistics-data-science | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-stats-prob | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-statistics-probability | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-stats-prob | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-statistics-probability | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### University of Warwick (Warwick Business School)
-- war-msc-stats-fin | ⚠️ | https://warwick.ac.uk/study/postgraduate/courses/msc-statistics-finance | Application deadlines Application support Jump to navigation About the page Page updates About the information on this page | 库中日期未在本次官网正文中找到：2027-08-02
+- war-msc-stats-fin | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-statistics-finance | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### The University of Hong Kong (HKU Business School)
 - hku-mgm | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-global-management-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026 [2027 intake] Round 1: 12:00 noon (GMT +8), September 28, 2026 [2027 intake] Round 2: 12:00 noon (GMT +8), December 04, 2026 Description | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### The University of Hong Kong (HKU Business School)
@@ -496,57 +496,57 @@
 ### The Hong Kong Polytechnic University
 - polyu-msc-mait | ⚠️ | https://www.polyu.edu.hk/study/pg/tpg/2027/63031-afm-apm | Application Deadline Local - Mixed Mode Sept 2027 Entry Early Round: 2026-10-20 Main Round: 2027-02-25 Non-local - Mixed Mode Sept 2027 Entry | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### University of Bristol
-- bris-msc-management | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-management | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-mgmt-marketing | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-marketing/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-mgmt-marketing | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-marketing/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-mgmt-ib | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-international-business/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-mgmt-ib | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-international-business/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-mgmt-ihrm | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-international-human-resource-management/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-mgmt-ihrm | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-international-human-resource-management/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-mgmt-pm | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-project-management/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-mgmt-pm | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-project-management/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-mgmt-ei | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-entrepreneurship-and-innovation/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-mgmt-ei | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-entrepreneurship-and-innovation/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-mgmt-sus | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-sustainability/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-mgmt-sus | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-sustainability/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-mgmt-dbd | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-digitalisation-and-big-data/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-mgmt-dbd | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-digitalisation-and-big-data/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-marketing | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-marketing/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-marketing | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-marketing/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-ibs | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-international-business-strategy/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-ibs | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-international-business-strategy/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-bie | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-business-innovation-and-entrepreneurship/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-bie | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-business-innovation-and-entrepreneurship/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-ie | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-innovation-and-entrepreneurship/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-ie | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-innovation-and-entrepreneurship/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-sie | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-social-innovation-and-entrepreneurship/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-sie | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-social-innovation-and-entrepreneurship/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-af | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-accounting-and-finance/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-af | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-accounting-and-finance/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-aas | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-accounting-accountability-and-sustainability/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-aas | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-accounting-accountability-and-sustainability/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-afm | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-accounting-finance-and-management/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-afm | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-accounting-finance-and-management/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-fi | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-finance-and-investment/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-fi | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-finance-and-investment/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-ft | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-financial-technology/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-ft | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-financial-technology/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-ftds | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-financial-technology-with-data-science/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-ftds | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-financial-technology-with-data-science/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-gbf | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-global-banking-and-finance/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-gbf | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-global-banking-and-finance/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-ai | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-artificial-intelligence/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-ai | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-artificial-intelligence/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-cs-conv | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-computer-science-conversion/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-cs-conv | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-computer-science-conversion/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-cyber-infra | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-cyber-security-infrastructures-security/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-cyber-infra | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-cyber-security-infrastructures-security/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-cyber-soft | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-cyber-security-software-security/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-cyber-soft | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-cyber-security-software-security/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-ds | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-data-science/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-ds | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-data-science/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Bristol
-- bris-msc-dsb | ⚠️ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-data-science-for-business/ | Application deadline Overseas applicants: 12 August 2027. Home applicants: 9 September 2027. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- bris-msc-dsb | ✅ | https://www.bristol.ac.uk/study/postgraduate/taught/msc-data-science-for-business/ | Programme duration | One year full-time. | Start date | September 2027 | Application deadline | Overseas applicants: 12 August 2027. | 本轮课程页明确写出 One year full-time、September 2027、Overseas applicants: 12 August 2027。
 ### University of Glasgow
 - gla-msc-mgmt | ❌ | https://www.gla.ac.uk/postgraduate/taught/managementmsc/ | APPLICATION DEADLINES For entry in September 2027 International & EU applicants International application rounds UK applicants 24 August 2027 Apply now | 官网截止区块原文只显示国际生 24 August 2027；库中六个轮次与官网不一致 | 改动：原六轮 → 国际生截止 2027-08-24
 ### University of Glasgow
