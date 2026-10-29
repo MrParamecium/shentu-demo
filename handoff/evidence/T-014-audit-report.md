@@ -1,6 +1,6 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 149 / ❌ 36 / ⚠️ 153）
+- 审计项目数：338（✅ 160 / ❌ 36 / ⚠️ 142）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
@@ -19,7 +19,7 @@
 | The Hong Kong University of Science and Technology | 8 | 6 | 0 | 2 | 逐项原文见下 |
 | The University of Edinburgh | 21 | 13 | 0 | 8 | 逐项原文见下 |
 | The University of Hong Kong | 7 | 1 | 0 | 6 | 逐项原文见下 |
-| The University of Hong Kong (HKU Business School) | 11 | 0 | 0 | 11 | 逐项原文见下 |
+| The University of Hong Kong (HKU Business School) | 11 | 11 | 0 | 0 | 逐项原文见下 |
 | The University of Manchester | 24 | 6 | 0 | 18 | 逐项原文见下 |
 | University College London | 32 | 31 | 0 | 1 | 逐项原文见下 |
 | University of Bristol | 26 | 26 | 0 | 0 | 逐项原文见下 |
@@ -88,9 +88,9 @@
 ### University of Warwick (Warwick Business School)
 - wbs-msc-baai | ✅ | https://www.wbs.ac.uk/courses/masters/business-analytics-artificial-intelligence/how-to-apply/ | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### The University of Hong Kong (HKU Business School)
-- hku-mfin | ⚠️ | https://masters.hkubs.hku.hk/our-programmes/master-of-finance/ | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2026-07-24, 2026-09-28, 2026-12-04；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到申请截止区块
+- hku-mfin | ✅ | https://masters.hkubs.hku.hk/our-programmes/master-of-finance/ | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026; Round 1: September 28, 2026; Round 2: December 04, 2026. | 本轮 HKU Business School 项目页明确写出 Full-time、[2027 intake]，并逐项读到提前轮 24 July 2026、第一轮 28 September 2026、第二轮 04 December 2026。
 ### The University of Hong Kong (HKU Business School)
-- hku-msc-ba | ⚠️ | https://masters.hkubs.hku.hk/our-programmes/master-of-science-in-business-analytics/ | 页面正文未找到截止日期区块。 | 库中日期未在本次官网正文中找到：2026-07-24, 2026-09-28, 2026-12-04；未在本次页面正文中读到 2027 入学信息；未在本次页面正文中读到 Full-time；未在本次页面正文中读到申请截止区块
+- hku-msc-ba | ✅ | https://masters.hkubs.hku.hk/our-programmes/master-of-science-in-business-analytics/ | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026; Round 1: September 28, 2026; Round 2: December 04, 2026. | 本轮 HKU Business School 项目页明确写出 Full-time、[2027 intake]，并逐项读到提前轮 24 July 2026、第一轮 28 September 2026、第二轮 04 December 2026。
 ### The Chinese University of Hong Kong
 - cuhk-msc-cs | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/engineering/msc-computer-science | Application Deadline 31 January 2027 Contact Prof. SHAO Zili | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### City University of Hong Kong
@@ -400,25 +400,25 @@
 ### University of Warwick (Warwick Business School)
 - war-msc-stats-fin | ✅ | https://warwick.ac.uk/study/postgraduate/courses/msc-statistics-finance | The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027. | 本轮课程页读到 2027 entry / 1 year full-time；学校统一申请页原文：The on-time deadline for taught postgraduate courses starting in September/October 2027 is 2 August 2027.
 ### The University of Hong Kong (HKU Business School)
-- hku-mgm | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-global-management-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026 [2027 intake] Round 1: 12:00 noon (GMT +8), September 28, 2026 [2027 intake] Round 2: 12:00 noon (GMT +8), December 04, 2026 Description | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-mgm | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-global-management-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026; Round 1: September 28, 2026; Round 2: December 04, 2026. | 本轮 HKU Business School 项目页明确写出 Full-time、[2027 intake]，并逐项读到提前轮 24 July 2026、第一轮 28 September 2026、第二轮 04 December 2026。
 ### The University of Hong Kong (HKU Business School)
-- hku-msc-marketing | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-marketing-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026 [2027 intake] Round 1: 12:00 noon (GMT +8), September 28, 2026 [2027 intake] Round 2: 12:00 noon (GMT +8), December 04, 2026 Description | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-msc-marketing | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-marketing-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026; Round 1: September 28, 2026; Round 2: December 04, 2026. | 本轮 HKU Business School 项目页明确写出 Full-time、[2027 intake]，并逐项读到提前轮 24 July 2026、第一轮 28 September 2026、第二轮 04 December 2026。
 ### The University of Hong Kong (HKU Business School)
-- hku-maib | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-artificial-intelligence-in-business-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026 [2027 intake] Round 1: 12:00 noon (GMT +8), September 28, 2026 [2027 intake] Round 2: 12:00 noon (GMT +8), December 04, 2026 Description | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-maib | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-artificial-intelligence-in-business-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026; Round 1: September 28, 2026; Round 2: December 04, 2026. | 本轮 HKU Business School 项目页明确写出 Full-time、[2027 intake]，并逐项读到提前轮 24 July 2026、第一轮 28 September 2026、第二轮 04 December 2026。
 ### The University of Hong Kong
 - hku-msc-it | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-innovation-and-technology&mode=0 | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Hong Kong (HKU Business School)
-- hku-macct | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-accounting-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026 [2027 intake] Round 1: 12:00 noon (GMT +8), September 28, 2026 [2027 intake] Round 2: 12:00 noon (GMT +8), December 04, 2026 Description | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-macct | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-accounting-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026; Round 1: September 28, 2026; Round 2: December 04, 2026. | 本轮 HKU Business School 项目页明确写出 Full-time、[2027 intake]，并逐项读到提前轮 24 July 2026、第一轮 28 September 2026、第二轮 04 December 2026。
 ### The University of Hong Kong (HKU Business School)
-- hku-maa | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-accounting-analytics-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026 [2027 intake] Round 1: 12:00 noon (GMT +8), September 28, 2026 [2027 intake] Round 2: 12:00 noon (GMT +8), December 04, 2026 Description | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-maa | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-accounting-analytics-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026; Round 1: September 28, 2026; Round 2: December 04, 2026. | 本轮 HKU Business School 项目页明确写出 Full-time、[2027 intake]，并逐项读到提前轮 24 July 2026、第一轮 28 September 2026、第二轮 04 December 2026。
 ### The University of Hong Kong (HKU Business School)
-- hku-msaf | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-sustainable-accounting-and-finance-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026 [2027 intake] Round 1: 12:00 noon (GMT +8), September 28, 2026 [2027 intake] Round 2: 12:00 noon (GMT +8), December 04, 2026 Description | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-msaf | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-sustainable-accounting-and-finance-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026; Round 1: September 28, 2026; Round 2: December 04, 2026. | 本轮 HKU Business School 项目页明确写出 Full-time、[2027 intake]，并逐项读到提前轮 24 July 2026、第一轮 28 September 2026、第二轮 04 December 2026。
 ### The University of Hong Kong (HKU Business School)
-- hku-mffintech | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-finance-in-financial-technology-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026 [2027 intake] Round 1: 12:00 noon (GMT +8), September 28, 2026 [2027 intake] Round 2: 12:00 noon (GMT +8), December 04, 2026 Description | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-mffintech | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-finance-in-financial-technology-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026; Round 1: September 28, 2026; Round 2: December 04, 2026. | 本轮 HKU Business School 项目页明确写出 Full-time、[2027 intake]，并逐项读到提前轮 24 July 2026、第一轮 28 September 2026、第二轮 04 December 2026。
 ### The University of Hong Kong (HKU Business School)
-- hku-mfwm | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-family-wealth-management-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026 [2027 intake] Round 1: 12:00 noon (GMT +8), September 28, 2026 [2027 intake] Round 2: 12:00 noon (GMT +8), December 04, 2026 Description | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-mfwm | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-family-wealth-management-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026; Round 1: September 28, 2026; Round 2: December 04, 2026. | 本轮 HKU Business School 项目页明确写出 Full-time、[2027 intake]，并逐项读到提前轮 24 July 2026、第一轮 28 September 2026、第二轮 04 December 2026。
 ### The University of Hong Kong (HKU Business School)
-- hku-mwm | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-wealth-management-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026 [2027 intake] Round 1: 12:00 noon (GMT +8), September 28, 2026 [2027 intake] Round 2: 12:00 noon (GMT +8), December 04, 2026 Description | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-mwm | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-wealth-management-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026; Round 1: September 28, 2026; Round 2: December 04, 2026. | 本轮 HKU Business School 项目页明确写出 Full-time、[2027 intake]，并逐项读到提前轮 24 July 2026、第一轮 28 September 2026、第二轮 04 December 2026。
 ### The University of Hong Kong
 - hku-msc-cs-aidt | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(ai-and-decentralized-technologies-stream),-with-delta-x-fellowship-cds&mode=0 | Application Deadline Main Round: 12:00 noon (GMT +8), December 01, 2026 Clearing Round: 12:00 noon (GMT +8), April 30, 2027 Description Normative Study Period: 1 year. Maximum Study Period: 2 years. Apply Now | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### The University of Hong Kong
