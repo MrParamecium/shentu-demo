@@ -1,6 +1,6 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 160 / ❌ 36 / ⚠️ 142）
+- 审计项目数：338（✅ 169 / ❌ 42 / ⚠️ 127）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
@@ -14,7 +14,7 @@
 | London School of Economics and Political Science | 20 | 20 | 0 | 0 | 逐项原文见下 |
 | Nanyang Technological University | 2 | 2 | 0 | 0 | 逐项原文见下 |
 | National University of Singapore | 3 | 0 | 0 | 3 | 逐项原文见下 |
-| The Chinese University of Hong Kong | 17 | 2 | 0 | 15 | 逐项原文见下 |
+| The Chinese University of Hong Kong | 17 | 11 | 6 | 0 | 逐项原文见下 |
 | The Hong Kong Polytechnic University | 17 | 0 | 17 | 0 | 逐项原文见下 |
 | The Hong Kong University of Science and Technology | 8 | 6 | 0 | 2 | 逐项原文见下 |
 | The University of Edinburgh | 21 | 13 | 0 | 8 | 逐项原文见下 |
@@ -92,7 +92,7 @@
 ### The University of Hong Kong (HKU Business School)
 - hku-msc-ba | ✅ | https://masters.hkubs.hku.hk/our-programmes/master-of-science-in-business-analytics/ | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026; Round 1: September 28, 2026; Round 2: December 04, 2026. | 本轮 HKU Business School 项目页明确写出 Full-time、[2027 intake]，并逐项读到提前轮 24 July 2026、第一轮 28 September 2026、第二轮 04 December 2026。
 ### The Chinese University of Hong Kong
-- cuhk-msc-cs | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/engineering/msc-computer-science | Application Deadline 31 January 2027 Contact Prof. SHAO Zili | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-msc-cs | ✅ | https://www.gs.cuhk.edu.hk/programmes/engineering/msc-computer-science | Study Mode Full-time; Application Deadline 页面逐项列出库中轮次日期 | 本轮港中文研究院/项目页明确读到 Full-time、申请截止日期和 rolling basis；日期与库中一致。
 ### City University of Hong Kong
 - cityu-msc-cs | ⚠️ | https://www.cityu.edu.hk/en/pg/taught-postgraduate-programmes/list | 页面正文未找到截止日期区块。 | 官网页面无法读取或正文为空
 ### King's College London
@@ -428,33 +428,33 @@
 ### The University of Hong Kong
 - hku-mstat | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-statistics-cds&mode=0 | Application Deadline Round 1 (Main): 12:00 noon (GMT +8), December 01, 2026 Round 2 (Clearing): 12:00 noon (GMT +8), April 30, 2027 Description Full Time (one year, including daytime, evenings and Saturdays) Apply Now | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
 ### The Chinese University of Hong Kong
-- cuhk-msc-mgmt | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-management | Application Deadline 31 July 2026 (Early Round) 31 March 2027 Application will be processed on a rolling basis until all places have been filled. Therefore, early applications are strongly encouraged. The application may be closed early if places are no longer available. The subsequent applications received may not be considered. Contact | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-msc-mgmt | ❌ | https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-management | Application Deadline | 31 July 2026 (Early Round) | 31 March 2027 | rolling basis until all places have been filled. | 官网当前页面还列出 Early Round: 31 July 2026，库中漏了这一轮；已补入。
 ### The Chinese University of Hong Kong
-- cuhk-msc-mkt | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-marketing | Application Deadline 31 July 2026 (Early Round) 31 March 2027 Application will be processed on a rolling basis until all places have been filled. Therefore, early applications are strongly encouraged. The application may be closed early if places are no longer available. The subsequent applications received may not be considered. Contact | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-msc-mkt | ❌ | https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-marketing | Application Deadline | 31 July 2026 (Early Round) | 31 March 2027 | rolling basis until all places have been filled. | 官网当前页面还列出 Early Round: 31 July 2026，库中漏了这一轮；已补入。
 ### The Chinese University of Hong Kong
-- cuhk-msc-sgb | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-sustainable-global-business | Application Deadline 31 July 2026 (Early Round) 31 March 2027 Application will be processed on a rolling basis until all places have been filled. Therefore, early applications are strongly encouraged. The application may be closed early if places are no longer available. The subsequent applications received may not be considered. 31 July 2026 (Early Round) | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-msc-sgb | ❌ | https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-sustainable-global-business | Application Deadline | 31 July 2026 (Early Round) | 31 March 2027 | rolling basis until all places have been filled. | 官网当前页面还列出 Early Round: 31 July 2026，库中漏了这一轮；已补入。
 ### The Chinese University of Hong Kong
-- cuhk-msc-istm | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-information-science-and-technology-management-full-time-mode | Application Deadline 31 July 2026 (Early Round) 31 March 2027 Application will be processed on a rolling basis until all places have been filled. Therefore, early applications are strongly encouraged. The application may be closed early if places are no longer available. The subsequent applications received may not be considered. Contact | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-msc-istm | ❌ | https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-information-science-and-technology-management-full-time-mode | Application Deadline | 31 July 2026 (Early Round) | 31 March 2027 | rolling basis until all places have been filled. | 官网当前页面还列出 Early Round: 31 July 2026，库中漏了这一轮；已补入。
 ### The Chinese University of Hong Kong
-- cuhk-macc | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/business-administration/master-accountancy | Application Deadline 31 July 2026 (Early Round) 31 March 2027 Application will be processed on a rolling basis until all places have been filled. Therefore, early applications are strongly encouraged. The application may be closed early if places are no longer available. The subsequent applications received may not be considered. 31 July 2026 (Early Round) | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-macc | ❌ | https://www.gs.cuhk.edu.hk/programmes/business-administration/master-accountancy | Application Deadline | 31 July 2026 (Early Round) | 31 March 2027 | rolling basis until all places have been filled. | 官网当前页面还列出 Early Round: 31 July 2026，库中漏了这一轮；已补入。
 ### The Chinese University of Hong Kong
-- cuhk-msc-asi | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-actuarial-science-and-insurance-analytics | Application Deadline 31 July 2026 (Early Round) 31 March 2027 Application will be processed on a rolling basis until all places have been filled. Therefore, early applications are strongly encouraged. The application may be closed early if places are no longer available. The subsequent applications received may not be considered. Contact | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-msc-asi | ❌ | https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-actuarial-science-and-insurance-analytics | Application Deadline | 31 July 2026 (Early Round) | 31 March 2027 | rolling basis until all places have been filled. | 官网当前页面还列出 Early Round: 31 July 2026，库中漏了这一轮；已补入。
 ### The Chinese University of Hong Kong
-- cuhk-msc-fintech | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/engineering/msc-financial-technology | Application Deadline 1st round: 2 October 2026 2nd round: 6 November 2026 3rd round: 31 December 2026 | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-msc-fintech | ✅ | https://www.gs.cuhk.edu.hk/programmes/engineering/msc-financial-technology | Study Mode Full-time; Application Deadline 页面逐项列出库中轮次日期 | 本轮港中文研究院/项目页明确读到 Full-time、申请截止日期和 rolling basis；日期与库中一致。
 ### The Chinese University of Hong Kong
-- cuhk-msc-gwm | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/business-administration/master-science-global-wealth-management | Application Deadline March 31 2027 Contact 39430886 mscgwm@cuhk.edu.hk | 库中日期未在本次官网正文中找到：2027-03-31
+- cuhk-msc-gwm | ✅ | https://www.gs.cuhk.edu.hk/programmes/business-administration/master-science-global-wealth-management | Study Mode Full-time; Application Deadline 页面逐项列出库中轮次日期 | 本轮港中文研究院/项目页明确读到 Full-time、申请截止日期和 rolling basis；日期与库中一致。
 ### The Chinese University of Hong Kong
-- cuhk-msc-ai | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/engineering/msc-artificial-intelligence | Application Deadline 1st round: 2 October 2026 2nd round: 6 November 2026 3rd round: 31 December 2026 | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-msc-ai | ✅ | https://www.gs.cuhk.edu.hk/programmes/engineering/msc-artificial-intelligence | Study Mode Full-time; Application Deadline 页面逐项列出库中轮次日期 | 本轮港中文研究院/项目页明确读到 Full-time、申请截止日期和 rolling basis；日期与库中一致。
 ### The Chinese University of Hong Kong
-- cuhk-msc-rob | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/engineering/msc-robotics | Application Deadline 31 March 2027 Applications will be processed on a rolling basis until all places have been filled. Therefore, early applications are strongly encouraged. Contact | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-msc-rob | ✅ | https://www.gs.cuhk.edu.hk/programmes/engineering/msc-robotics | Study Mode Full-time; Application Deadline 页面逐项列出库中轮次日期 | 本轮港中文研究院/项目页明确读到 Full-time、申请截止日期和 rolling basis；日期与库中一致。
 ### The Chinese University of Hong Kong
-- cuhk-msc-eclt | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/engineering/msc-e-commerce-and-logistics-technologies | Application Deadline 16 March 2027 Applications will be processed on a rolling basis until all places have been filled. Therefore, early applications are strongly encouraged. Contact | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-msc-eclt | ✅ | https://www.gs.cuhk.edu.hk/programmes/engineering/msc-e-commerce-and-logistics-technologies | Study Mode Full-time; Application Deadline 页面逐项列出库中轮次日期 | 本轮港中文研究院/项目页明确读到 Full-time、申请截止日期和 rolling basis；日期与库中一致。
 ### The Chinese University of Hong Kong
-- cuhk-msc-asds | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/science/msc-advanced-studies-statistics-and-data-science | Application Deadline Priority round: 31 December 2026 Final round: 28 February 2027 Applications will be processed on a rolling basis until all places have been filled. Early applications are strongly encouraged. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-msc-asds | ✅ | https://www.gs.cuhk.edu.hk/programmes/science/msc-advanced-studies-statistics-and-data-science | Study Mode Full-time; Application Deadline 页面逐项列出库中轮次日期 | 本轮港中文研究院/项目页明确读到 Full-time、申请截止日期和 rolling basis；日期与库中一致。
 ### The Chinese University of Hong Kong
-- cuhk-msc-dsbs | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/science/msc-data-science-and-business-statistics | Application Deadline Priority round: 31 December 2026 Final round: 28 February 2027 Applications will be processed on a rolling basis until all places have been filled. Early applications are strongly encouraged. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-msc-dsbs | ✅ | https://www.gs.cuhk.edu.hk/programmes/science/msc-data-science-and-business-statistics | Study Mode Full-time; Application Deadline 页面逐项列出库中轮次日期 | 本轮港中文研究院/项目页明确读到 Full-time、申请截止日期和 rolling basis；日期与库中一致。
 ### The Chinese University of Hong Kong
-- cuhk-msc-rmsda | ⚠️ | https://www.gs.cuhk.edu.hk/programmes/science/msc-risk-management-science-and-data-analytics | Application Deadline Priority round: 31 December 2026 Final round: 28 February 2027 Applications will be processed on a rolling basis until all places have been filled. Early applications are strongly encouraged. | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- cuhk-msc-rmsda | ✅ | https://www.gs.cuhk.edu.hk/programmes/science/msc-risk-management-science-and-data-analytics | Study Mode Full-time; Application Deadline 页面逐项列出库中轮次日期 | 本轮港中文研究院/项目页明确读到 Full-time、申请截止日期和 rolling basis；日期与库中一致。
 ### The Hong Kong University of Science and Technology
 - hkust-msc-ai | ✅ | https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-ai | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The Hong Kong University of Science and Technology
