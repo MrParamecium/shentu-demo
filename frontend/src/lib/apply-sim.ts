@@ -7,14 +7,15 @@ import type { Program, Region } from "./types";
  * 不保存任何数据，文件只在浏览器内存里，不上传到任何地方。
  */
 // 选择理由见 handoff/tasks/T-013-apply-videos.md：材料最全、申请人多、学校有代表性
-export const SIM_PROGRAM_ID: Record<Region, string> = {
+// 美国项目库还没收录，暂不设模拟项目；没有的地区不显示模拟网申入口
+export const SIM_PROGRAM_ID: Partial<Record<Region, string>> = {
   UK: "ic-msc-ba",
   HK: "hku-msc-ba",
   SG: "nus-mcomp-cs",
 };
 
 /** 演示视频（友涵录制，T-013）；还没录好时为 null，页面显示「录制中」 */
-export const SIM_VIDEO: Record<Region, string | null> = {
+export const SIM_VIDEO: Partial<Record<Region, string | null>> = {
   UK: null,
   HK: null,
   SG: null,
@@ -24,7 +25,7 @@ export const SIM_VIDEO: Record<Region, string | null> = {
  * 这个项目网申里特有的要求，摘自官网（2026-10-27 核实），出处见 T-013。
  * 模拟表单是通用结构，这里补上真实网申会遇到、通用表单没体现的部分
  */
-export const SIM_SPECIFICS: Record<Region, string[]> = {
+export const SIM_SPECIFICS: Partial<Record<Region, string[]>> = {
   UK: [
     "3 篇定题文书：毕业后职业规划（350 词）、为什么选帝国并如何贡献社区（500 词）、结合帝国五项价值观讲一段经历（500 词）",
     "另需量化背景说明（列最多 5 门最量化的课程）和编程 / 软件经验",
@@ -47,9 +48,12 @@ export const SIM_SPECIFICS: Record<Region, string[]> = {
   ],
 };
 
-export function simProgram(region: Region): Program {
-  const p = programById(SIM_PROGRAM_ID[region]);
-  if (!p) throw new Error(`模拟项目 ${SIM_PROGRAM_ID[region]} 不在项目库里`);
+/** 这个地区的模拟项目；还没设的返回 null（页面显示「即将上线」） */
+export function simProgram(region: Region): Program | null {
+  const id = SIM_PROGRAM_ID[region];
+  if (!id) return null;
+  const p = programById(id);
+  if (!p) throw new Error(`模拟项目 ${id} 不在项目库里`);
   return p;
 }
 

@@ -17,6 +17,22 @@ export default async function ApplyPage(props: PageProps<"/[region]/apply">) {
   const region = regionFromSlug((await props.params).region);
   if (!region) notFound();
   const program = simProgram(region);
+  const info = REGION_INFO[region];
+  if (!program) {
+    return (
+      <div className="space-y-6">
+        <Link href={`/${REGION_SLUG[region]}`} className="text-sm text-brand hover:underline">
+          ← 返回{info.label}申请
+        </Link>
+        <section className="rounded-2xl bg-white p-8 text-center shadow-sm">
+          <h1 className="text-xl font-bold text-slate-800">{info.label}模拟网申即将上线</h1>
+          <p className="mt-2 text-sm text-slate-600">
+            我们还在收录{info.label}项目，选好代表项目、录好真实网申演示视频后会放在这里。
+          </p>
+        </section>
+      </div>
+    );
+  }
 
   return (
     <div className="space-y-6">
@@ -53,7 +69,7 @@ export default async function ApplyPage(props: PageProps<"/[region]/apply">) {
           这个项目网申的特别要求
         </h2>
         <ul className="mt-3 space-y-2 text-sm text-slate-700">
-          {SIM_SPECIFICS[region].map(t => (
+          {(SIM_SPECIFICS[region] ?? []).map(t => (
             <li key={t} className="flex gap-2">
               <span aria-hidden className="text-brand">
                 ●
@@ -71,7 +87,7 @@ export default async function ApplyPage(props: PageProps<"/[region]/apply">) {
         </p>
       </section>
 
-      <ApplySimulator region={region} />
+      <ApplySimulator region={region} program={program} />
     </div>
   );
 }

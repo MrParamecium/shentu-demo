@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { PROGRAMS } from "@/lib/programs";
 import { REGION_GUIDES, REGION_INFO, REGION_ORDER, REGION_SLUG, regionFromSlug } from "@/lib/regions";
 import { STAGES } from "@/lib/stages";
+import { SIM_PROGRAM_ID } from "@/lib/apply-sim";
 import RegionApplications from "./RegionApplications";
 
 // 只预渲染 /uk、/hk、/sg；其他地址由 regionFromSlug 判断后 notFound() 返回 404
@@ -33,6 +34,7 @@ export default async function RegionPage(props: PageProps<"/[region]">) {
   const guide = REGION_GUIDES[region];
   const slug = REGION_SLUG[region];
   const count = PROGRAMS.filter(p => p.region === region).length;
+  const hasSim = !!SIM_PROGRAM_ID[region];
 
   return (
     <div className="space-y-8">
@@ -58,22 +60,33 @@ export default async function RegionPage(props: PageProps<"/[region]">) {
               {info.label}硕士申请
             </h1>
             <p className="mt-2 text-white/90">{guide.tagline}</p>
+            {count === 0 && (
+              <p className="mt-2 text-sm text-white/80">项目库正在收录{info.label}项目，现在可以先手动添加你要申的项目。</p>
+            )}
             <div className="mt-5 flex flex-wrap gap-3">
-              <Link
-                href={`/programs?region=${region}`}
-                className="rounded-lg bg-white px-5 py-2.5 text-sm font-medium text-brand-dark hover:bg-brand-soft"
-              >
-                浏览{info.label} {count} 个项目
-              </Link>
-              <Link
-                href={`/${slug}/apply`}
-                className="rounded-lg border border-white/70 px-5 py-2.5 text-sm font-medium text-white hover:bg-white/10"
-              >
-                模拟一次网申
-              </Link>
+              {count > 0 && (
+                <Link
+                  href={`/programs?region=${region}`}
+                  className="rounded-lg bg-white px-5 py-2.5 text-sm font-medium text-brand-dark hover:bg-brand-soft"
+                >
+                  浏览{info.label} {count} 个项目
+                </Link>
+              )}
+              {hasSim && (
+                <Link
+                  href={`/${slug}/apply`}
+                  className="rounded-lg border border-white/70 px-5 py-2.5 text-sm font-medium text-white hover:bg-white/10"
+                >
+                  模拟一次网申
+                </Link>
+              )}
               <Link
                 href={`/programs/custom?region=${region}`}
-                className="rounded-lg border border-white/70 px-5 py-2.5 text-sm font-medium text-white hover:bg-white/10"
+                className={
+                  count > 0
+                    ? "rounded-lg border border-white/70 px-5 py-2.5 text-sm font-medium text-white hover:bg-white/10"
+                    : "rounded-lg bg-white px-5 py-2.5 text-sm font-medium text-brand-dark hover:bg-brand-soft"
+                }
               >
                 手动添加项目
               </Link>

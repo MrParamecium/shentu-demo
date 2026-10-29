@@ -5,12 +5,13 @@ export const REGION_INFO: Record<Region, { flag: string; label: string; depositW
   HK: { flag: "🇭🇰", label: "香港", depositWord: "留位费" },
   UK: { flag: "🇬🇧", label: "英国", depositWord: "押金" },
   SG: { flag: "🇸🇬", label: "新加坡", depositWord: "押金" },
+  US: { flag: "🇺🇸", label: "美国", depositWord: "押金" },
 };
 
-export const REGION_ORDER: Region[] = ["UK", "HK", "SG"];
+export const REGION_ORDER: Region[] = ["UK", "HK", "SG", "US"];
 
 /** 地区在网址里的写法：/uk、/hk、/sg */
-export const REGION_SLUG: Record<Region, string> = { UK: "uk", HK: "hk", SG: "sg" };
+export const REGION_SLUG: Record<Region, string> = { UK: "uk", HK: "hk", SG: "sg", US: "us" };
 
 export function regionFromSlug(slug: string): Region | null {
   const hit = REGION_ORDER.find(r => REGION_SLUG[r] === slug.toLowerCase());
@@ -96,6 +97,26 @@ export const REGION_GUIDES: Record<Region, RegionGuide> = {
       { title: "交网申", points: ["网申同时交申请费", "部分项目有面试"] },
       { title: "跟录取", points: ["在期限内接受录取", "按要求交押金或入学费"] },
       { title: "办准证", points: ["开课前 2–3 个月网上申请学生准证", "获批后凭 IPA 信入境办理"] },
+    ],
+  },
+  US: {
+    image: "/regions/us.webp",
+    imageAlt: "纽约曼哈顿下城夜景",
+    heroPosition: "center 60%",
+    landmark: "纽约曼哈顿",
+    tagline: "多轮截止 · 3 封推荐信 · I-20 / F-1 签证",
+    highlights: [
+      "很多项目分 Early / Regular 等多轮截止，每个项目日期都不同",
+      "推荐信多为 3 封，部分项目要求 GRE / GMAT 或写作样本",
+      "录取后接受 offer 时很多项目要交押金锁位",
+      "签证流程：学校发 I-20 → 交 SEVIS 费 → 填 DS-160 面签；最早开学前 30 天入境",
+    ],
+    flow: [
+      { title: "选项目", points: ["对比各项目的截止轮次", "看清是否要求 GRE / GMAT"] },
+      { title: "备材料", points: ["简历、目的陈述（SOP）、3 封推荐信", "成绩单、在读证明、语言成绩"] },
+      { title: "交网申", points: ["网申同时交申请费", "部分项目有面试"] },
+      { title: "跟录取", points: ["在期限内回复录取", "按要求交押金锁位"] },
+      { title: "办签证", points: ["提交资金证明，学校发 I-20", "交 SEVIS 费、填 DS-160，预约面签"] },
     ],
   },
 };

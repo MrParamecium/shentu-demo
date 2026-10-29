@@ -1,4 +1,4 @@
-export type Region = "HK" | "UK" | "SG";
+export type Region = "HK" | "UK" | "SG" | "US";
 
 /** 专业大类，用于项目库筛选 */
 export type Field = "business" | "finance" | "cs" | "data";
