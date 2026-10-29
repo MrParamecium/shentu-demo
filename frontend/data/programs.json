@@ -20,10 +20,9 @@
     ],
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(general,-cyber-security,-financial-computing-and-multimedia-computing-streams)-cds&mode=0",
     "officialLabel": "港大 MSc(CompSc) 项目页",
-    "updatedAt": "2026-10-20",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间当天中午 12:00；2027 年 9 月开学",
       "现归属港大计算与数据科学学院，含通用、网络安全、金融计算、多媒体计算方向",
       "学费：非本地生 HK$375,000",
@@ -6084,10 +6083,9 @@
     ],
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(ai-and-decentralized-technologies-stream),-with-delta-x-fellowship-cds&mode=0",
     "officialLabel": "港大 MSc(CompSc) AI&DT 方向项目页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00",
       "计算机科学新增 AI 与去中心化技术方向（Delta X Fellowship 奖学金版本），与库内通用方向条目并列"
     ]
@@ -6114,10 +6112,9 @@
     ],
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-electronic-commerce-and-internet-computing-cds&mode=0",
     "officialLabel": "港大 MSc(ECom&IComp) 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00"
     ]
   },
@@ -6143,10 +6140,9 @@
     ],
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-artificial-intelligence-sci&mode=0",
     "officialLabel": "港大 MSc(AI) 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00",
       "理学院项目；2027/28 学费 HK$420,000"
     ]
@@ -6173,10 +6169,9 @@
     ],
     "officialUrl": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-statistics-cds&mode=0",
     "officialLabel": "港大 MStat 项目页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求",
       "截止时间为香港时间中午 12:00",
       "开设于计算与数据科学学院；本地生学费 HK$245,000"
     ]
@@ -6193,19 +6188,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "提前轮",
-        "deadline": "2026-07-31"
-      },
-      {
         "name": "统一截止",
         "deadline": "2027-03-31"
       }
     ],
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-management",
     "officialLabel": "港中文 管理学硕士 研究院项目页",
-    "updatedAt": "2026-10-29",
-    "verified": true,
+    "updatedAt": "2026-10-27",
+    "verified": false,
     "notes": [
+      "⚠️ 官网当前页面还列出 Early Round: 31 July 2026，库中漏了这一轮；已补入。",
       "开设于港中文商学院（CUHK Business School）",
       "另有提前轮 2026-07-31，已过期",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
@@ -6224,19 +6216,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "提前轮",
-        "deadline": "2026-07-31"
-      },
-      {
         "name": "统一截止",
         "deadline": "2027-03-31"
       }
     ],
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-marketing",
     "officialLabel": "港中文 市场学硕士 研究院项目页",
-    "updatedAt": "2026-10-29",
-    "verified": true,
+    "updatedAt": "2026-10-27",
+    "verified": false,
     "notes": [
+      "⚠️ 官网当前页面还列出 Early Round: 31 July 2026，库中漏了这一轮；已补入。",
       "开设于港中文商学院（CUHK Business School）",
       "另有提前轮 2026-07-31，已过期",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
@@ -6255,19 +6244,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "提前轮",
-        "deadline": "2026-07-31"
-      },
-      {
         "name": "统一截止",
         "deadline": "2027-03-31"
       }
     ],
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-sustainable-global-business",
     "officialLabel": "港中文 可持续全球商务硕士 研究院项目页",
-    "updatedAt": "2026-10-29",
-    "verified": true,
+    "updatedAt": "2026-10-27",
+    "verified": false,
     "notes": [
+      "⚠️ 官网当前页面还列出 Early Round: 31 July 2026，库中漏了这一轮；已补入。",
       "开设于港中文商学院（CUHK Business School）",
       "另有提前轮 2026-07-31，已过期",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
@@ -6286,19 +6272,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "提前轮",
-        "deadline": "2026-07-31"
-      },
-      {
         "name": "统一截止",
         "deadline": "2027-03-31"
       }
     ],
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-information-science-and-technology-management-full-time-mode",
     "officialLabel": "港中文 信息科学与技术管理硕士（全日制） 研究院项目页",
-    "updatedAt": "2026-10-29",
-    "verified": true,
+    "updatedAt": "2026-10-27",
+    "verified": false,
     "notes": [
+      "⚠️ 官网当前页面还列出 Early Round: 31 July 2026，库中漏了这一轮；已补入。",
       "港中文商学院与工程学院合开项目（研究院列商学院）",
       "另有提前轮 2026-07-31，已过期",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
@@ -6317,19 +6300,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "提前轮",
-        "deadline": "2026-07-31"
-      },
-      {
         "name": "统一截止",
         "deadline": "2027-03-31"
       }
     ],
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/master-accountancy",
     "officialLabel": "港中文 会计硕士 研究院项目页",
-    "updatedAt": "2026-10-29",
-    "verified": true,
+    "updatedAt": "2026-10-27",
+    "verified": false,
     "notes": [
+      "⚠️ 官网当前页面还列出 Early Round: 31 July 2026，库中漏了这一轮；已补入。",
       "开设于港中文商学院（CUHK Business School），全日制 1 年（另设 2 年非全日制）",
       "另有提前轮 2026-07-31，已过期",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"
@@ -6348,19 +6328,16 @@
     "language": "见学校统一英语要求（以官网为准）",
     "rounds": [
       {
-        "name": "提前轮",
-        "deadline": "2026-07-31"
-      },
-      {
         "name": "统一截止",
         "deadline": "2027-03-31"
       }
     ],
     "officialUrl": "https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-actuarial-science-and-insurance-analytics",
     "officialLabel": "港中文 精算科学与保险分析硕士 研究院项目页",
-    "updatedAt": "2026-10-29",
-    "verified": true,
+    "updatedAt": "2026-10-27",
+    "verified": false,
     "notes": [
+      "⚠️ 官网当前页面还列出 Early Round: 31 July 2026，库中漏了这一轮；已补入。",
       "开设于港中文商学院（CUHK Business School）",
       "另有提前轮 2026-07-31，已过期",
       "滚动审理，名额满后可能提前截止，官网强烈建议尽早申请"

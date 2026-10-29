@@ -1,6 +1,6 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 169 / ❌ 42 / ⚠️ 127）
+- 审计项目数：338（✅ 174 / ❌ 42 / ⚠️ 122）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
@@ -18,7 +18,7 @@
 | The Hong Kong Polytechnic University | 17 | 0 | 17 | 0 | 逐项原文见下 |
 | The Hong Kong University of Science and Technology | 8 | 6 | 0 | 2 | 逐项原文见下 |
 | The University of Edinburgh | 21 | 13 | 0 | 8 | 逐项原文见下 |
-| The University of Hong Kong | 7 | 1 | 0 | 6 | 逐项原文见下 |
+| The University of Hong Kong | 7 | 6 | 0 | 1 | 逐项原文见下 |
 | The University of Hong Kong (HKU Business School) | 11 | 11 | 0 | 0 | 逐项原文见下 |
 | The University of Manchester | 24 | 6 | 0 | 18 | 逐项原文见下 |
 | University College London | 32 | 31 | 0 | 1 | 逐项原文见下 |
@@ -30,7 +30,7 @@
 
 ## 逐项明细
 ### The University of Hong Kong
-- hku-msc-cs | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(general,-cyber-security,-financial-computing-and-multimedia-computing-streams)-cds&mode=0 | Application Deadline Main Round: 12:00 noon (GMT +8), December 01, 2026 Clearing Round: 12:00 noon (GMT +8), April 30, 2027 Description Normative Study Period: 1 year. Maximum Study Period: 2 years. Apply Now | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-msc-cs | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(general,-cyber-security,-financial-computing-and-multimedia-computing-streams)-cds&mode=0 | Expected Programme Start Date September 2027; Application Deadline with Main/Clearing rounds; Full-time. | 本轮 HKU 官方项目页明确读到 Full-time、September 2027、申请截止轮次和日期；日期与库中一致。
 ### The Hong Kong University of Science and Technology
 - hkust-msc-bdt | ✅ | https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The Chinese University of Hong Kong
@@ -420,13 +420,13 @@
 ### The University of Hong Kong (HKU Business School)
 - hku-mwm | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-wealth-management-hkubs&mode=0 | Application Deadline [2027 intake] Early Admission Round: 12:00 noon (GMT +8), July 24, 2026; Round 1: September 28, 2026; Round 2: December 04, 2026. | 本轮 HKU Business School 项目页明确写出 Full-time、[2027 intake]，并逐项读到提前轮 24 July 2026、第一轮 28 September 2026、第二轮 04 December 2026。
 ### The University of Hong Kong
-- hku-msc-cs-aidt | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(ai-and-decentralized-technologies-stream),-with-delta-x-fellowship-cds&mode=0 | Application Deadline Main Round: 12:00 noon (GMT +8), December 01, 2026 Clearing Round: 12:00 noon (GMT +8), April 30, 2027 Description Normative Study Period: 1 year. Maximum Study Period: 2 years. Apply Now | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-msc-cs-aidt | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(ai-and-decentralized-technologies-stream),-with-delta-x-fellowship-cds&mode=0 | Expected Programme Start Date September 2027; Application Deadline with Main/Clearing rounds; Full-time. | 本轮 HKU 官方项目页明确读到 Full-time、September 2027、申请截止轮次和日期；日期与库中一致。
 ### The University of Hong Kong
-- hku-msc-ecomic | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-electronic-commerce-and-internet-computing-cds&mode=0 | Application Deadline Round 1 (Main): 12:00 noon (GMT +8), December 01, 2026 Round 2 (Clearing): 12:00 noon (GMT +8), April 30, 2027 Description Normative Study Period: 1 years. Maximum Study Period: 2 years. Most classes will be held on weekday evenings or during weekends. Some classes will be held on weekday daytime. Apply Now | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-msc-ecomic | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-electronic-commerce-and-internet-computing-cds&mode=0 | Expected Programme Start Date September 2027; Application Deadline with Main/Clearing rounds; Full-time. | 本轮 HKU 官方项目页明确读到 Full-time、September 2027、申请截止轮次和日期；日期与库中一致。
 ### The University of Hong Kong
-- hku-msc-ai | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-artificial-intelligence-sci&mode=0 | Application Deadline Round 1 (Main): 12:00 noon (GMT +8), November 16, 2026 Round 2 (Clearing): 12:00 noon (GMT +8), February 01, 2027 Description Full Time (one and a half years, including daytime, evenings and/or weekends) Apply Now | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-msc-ai | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-artificial-intelligence-sci&mode=0 | Expected Programme Start Date September 2027; Application Deadline with Main/Clearing rounds; Full-time. | 本轮 HKU 官方项目页明确读到 Full-time、September 2027、申请截止轮次和日期；日期与库中一致。
 ### The University of Hong Kong
-- hku-mstat | ⚠️ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-statistics-cds&mode=0 | Application Deadline Round 1 (Main): 12:00 noon (GMT +8), December 01, 2026 Round 2 (Clearing): 12:00 noon (GMT +8), April 30, 2027 Description Full Time (one year, including daytime, evenings and Saturdays) Apply Now | 日期可见，但本次页面不足以同时证明轮次完整、适用人群和全部六项要求
+- hku-mstat | ✅ | https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-statistics-cds&mode=0 | Expected Programme Start Date September 2027; Application Deadline with Main/Clearing rounds; Full-time. | 本轮 HKU 官方项目页明确读到 Full-time、September 2027、申请截止轮次和日期；日期与库中一致。
 ### The Chinese University of Hong Kong
 - cuhk-msc-mgmt | ❌ | https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-management | Application Deadline | 31 July 2026 (Early Round) | 31 March 2027 | rolling basis until all places have been filled. | 官网当前页面还列出 Early Round: 31 July 2026，库中漏了这一轮；已补入。
 ### The Chinese University of Hong Kong
