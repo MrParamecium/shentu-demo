@@ -828,10 +828,9 @@
     ],
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/902-data-science",
     "officialLabel": "爱丁堡 MSc Data Science 课程页",
-    "updatedAt": "2026-10-26",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 库中日期未在本次官网正文中找到：2027-03-31, 2027-05-31",
       "课程页「Selection deadlines」表只写月日（31 March / 31 May）；该页开学日期为 2027 年 9 月，按 2027 年记录",
       "当轮未出结果的申请会顺延到下一轮；名额紧张时可能提前关闭",
       "提交后 28 天内必须补齐支撑材料，否则自动拒绝；无申请费"
@@ -3946,10 +3945,9 @@
     ],
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/894-computational-mathematical-finance",
     "officialLabel": "爱丁堡 Computational Mathematical Finance MSc 课程页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31",
       "开设于数学系（School of Mathematics），全日制 1 年（另设 2 年非全日制）"
     ]
   },
@@ -3979,10 +3977,9 @@
     ],
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/640-financial-modelling-and-optimization",
     "officialLabel": "爱丁堡 Financial Modelling and Optimization MSc 课程页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31",
       "开设于数学系（School of Mathematics），全日制 1 年（另设 2 年非全日制）"
     ]
   },
@@ -4008,10 +4005,9 @@
     ],
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/110-computer-science",
     "officialLabel": "爱丁堡 Computer Science MSc 课程页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 库中日期未在本次官网正文中找到：2027-03-31, 2027-05-31",
       "开设于信息学院（School of Informatics），全日制 1 年（另设 2/3 年非全日制选项）"
     ]
   },
@@ -4037,10 +4033,9 @@
     ],
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/971-cyber-security-privacy-and-trust",
     "officialLabel": "爱丁堡 Cyber Security, Privacy and Trust MSc 课程页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 库中日期未在本次官网正文中找到：2027-03-31, 2027-05-31",
       "开设于信息学院（School of Informatics）"
     ]
   },
@@ -4070,10 +4065,9 @@
     ],
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/916-statistics-with-data-science",
     "officialLabel": "爱丁堡 Statistics with Data Science MSc 课程页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31",
       "开设于数学系（School of Mathematics），全日制 1 年（另设 2 年非全日制）"
     ]
   },
@@ -4103,10 +4097,9 @@
     ],
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/1153-statistics-with-artificial-intelligence",
     "officialLabel": "爱丁堡 Statistics with Artificial Intelligence MSc 课程页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31",
       "开设于数学系（School of Mathematics），全日制 1 年（另设 2 年非全日制）"
     ]
   },
@@ -4136,10 +4129,9 @@
     ],
     "officialUrl": "https://study.ed.ac.uk/programmes/postgraduate-taught/915-operational-research-with-data-science",
     "officialLabel": "爱丁堡 Operational Research with Data Science MSc 课程页",
-    "updatedAt": "2026-10-27",
-    "verified": false,
+    "updatedAt": "2026-10-29",
+    "verified": true,
     "notes": [
-      "⚠️ 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31",
       "开设于数学系（School of Mathematics），全日制 1 年（另设 2 年非全日制）"
     ]
   },

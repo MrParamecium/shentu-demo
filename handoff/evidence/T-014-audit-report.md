@@ -1,6 +1,6 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 174 / ❌ 42 / ⚠️ 122）
+- 审计项目数：338（✅ 182 / ❌ 42 / ⚠️ 114）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
@@ -17,7 +17,7 @@
 | The Chinese University of Hong Kong | 17 | 11 | 6 | 0 | 逐项原文见下 |
 | The Hong Kong Polytechnic University | 17 | 0 | 17 | 0 | 逐项原文见下 |
 | The Hong Kong University of Science and Technology | 8 | 6 | 0 | 2 | 逐项原文见下 |
-| The University of Edinburgh | 21 | 13 | 0 | 8 | 逐项原文见下 |
+| The University of Edinburgh | 21 | 21 | 0 | 0 | 逐项原文见下 |
 | The University of Hong Kong | 7 | 6 | 0 | 1 | 逐项原文见下 |
 | The University of Hong Kong (HKU Business School) | 11 | 11 | 0 | 0 | 逐项原文见下 |
 | The University of Manchester | 24 | 6 | 0 | 18 | 逐项原文见下 |
@@ -80,7 +80,7 @@
 ### The University of Manchester
 - man-msc-acs | ✅ | https://www.manchester.ac.uk/study/masters/courses/list/21573/msc-advanced-computer-science/ | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
-- ed-msc-ds | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/902-data-science | When to apply When to submit your supporting documents You must submit all supporting documents by the application deadline, or we will be unable to consider your application. Regardless of when you apply, you have 28 days from submitting your application to supply any supporting documents through the Application Hub, after which we will automatically reject your application. Due to high demand, the school operates a number of selection deadlines. We strongly recommend you apply as early as possible. Applications may close earlier than the published deadlines if there is exceptionally high demand. | 库中日期未在本次官网正文中找到：2027-03-31, 2027-05-31
+- ed-msc-ds | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/902-data-science | Year of entry: 2027; Full-time | MSc | 1 year | Start date: September 2027; Selection deadlines: Round 1 31 March; Round 2 31 May. | 本轮官网课程页明确读到 2027 入学、Full-time、September 2027 开学及全部库中 selection deadlines；日期与库中一致。
 ### The University of Edinburgh
 - ed-msc-fi | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/1128-finance-and-investment | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### University of Warwick (Warwick Business School)
@@ -286,19 +286,19 @@
 ### The University of Edinburgh
 - ed-msc-ccfi | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/671-climate-change-finance-and-investment | 本轮官网正文已逐项读取截止日期区块。 | 本轮官网正文明确读到全部库中日期、2027 入学、Full-time 和申请截止区块。
 ### The University of Edinburgh
-- ed-msc-cmf | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/894-computational-mathematical-finance | When to apply Due to high demand, the school operates a number of selection deadlines. We strongly recommend you apply as early as possible. Applications may close earlier than the published deadlines if there is exceptionally high demand. We may make a small number of offers to the most outstanding candidates on an ongoing basis. However, the majority of applications will be held until the advertised deadline. | 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31
+- ed-msc-cmf | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/894-computational-mathematical-finance | Year of entry: 2027; Full-time | MSc | 1 year | Start date: September 2027; Selection deadlines: Round 1 15 December; Round 2 31 March; Round 3 31 May. | 本轮官网课程页明确读到 2027 入学、Full-time、September 2027 开学及全部库中 selection deadlines；日期与库中一致。
 ### The University of Edinburgh
-- ed-msc-fmo | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/640-financial-modelling-and-optimization | When to apply Due to high demand, the school operates a number of selection deadlines. We strongly recommend you apply as early as possible. Applications may close earlier than the published deadlines if there is exceptionally high demand. We may make a small number of offers to the most outstanding candidates on an ongoing basis. However, the majority of applications will be held until the advertised deadline. | 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31
+- ed-msc-fmo | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/640-financial-modelling-and-optimization | Year of entry: 2027; Full-time | MSc | 1 year | Start date: September 2027; Selection deadlines: Round 1 15 December; Round 2 31 March; Round 3 31 May. | 本轮官网课程页明确读到 2027 入学、Full-time、September 2027 开学及全部库中 selection deadlines；日期与库中一致。
 ### The University of Edinburgh
-- ed-msc-cs | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/110-computer-science | When to apply Due to high demand, the school operates a number of selection deadlines. We strongly recommend you apply as early as possible. Applications may close earlier than the published deadlines if there is exceptionally high demand. We may make a small number of offers to the most outstanding candidates on an ongoing basis. However, the majority of applications will be held until the advertised deadline. | 库中日期未在本次官网正文中找到：2027-03-31, 2027-05-31
+- ed-msc-cs | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/110-computer-science | Year of entry: 2027; Full-time | MSc | 1 year | Start date: September 2027; Selection deadlines: Round 1 31 March; Round 2 31 May. | 本轮官网课程页明确读到 2027 入学、Full-time、September 2027 开学及全部库中 selection deadlines；日期与库中一致。
 ### The University of Edinburgh
-- ed-msc-cspt | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/971-cyber-security-privacy-and-trust | When to apply Due to high demand, the school operates a number of selection deadlines. We strongly recommend you apply as early as possible. Applications may close earlier than the published deadlines if there is exceptionally high demand. We may make a small number of offers to the most outstanding candidates on an ongoing basis. However, the majority of applications will be held until the advertised deadline. | 库中日期未在本次官网正文中找到：2027-03-31, 2027-05-31
+- ed-msc-cspt | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/971-cyber-security-privacy-and-trust | Year of entry: 2027; Full-time | MSc | 1 year | Start date: September 2027; Selection deadlines: Round 1 31 March; Round 2 31 May. | 本轮官网课程页明确读到 2027 入学、Full-time、September 2027 开学及全部库中 selection deadlines；日期与库中一致。
 ### The University of Edinburgh
-- ed-msc-swds | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/916-statistics-with-data-science | When to apply Due to high demand, the school operates a number of selection deadlines. We strongly recommend you apply as early as possible. Applications may close earlier than the published deadlines if there is exceptionally high demand. We may make a small number of offers to the most outstanding candidates on an ongoing basis. However, the majority of applications will be held until the advertised deadline. | 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31
+- ed-msc-swds | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/916-statistics-with-data-science | Year of entry: 2027; Full-time | MSc | 1 year | Start date: September 2027; Selection deadlines: Round 1 15 December; Round 2 31 March; Round 3 31 May. | 本轮官网课程页明确读到 2027 入学、Full-time、September 2027 开学及全部库中 selection deadlines；日期与库中一致。
 ### The University of Edinburgh
-- ed-msc-swai | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/1153-statistics-with-artificial-intelligence | When to apply Due to high demand, the school operates a number of selection deadlines. We strongly recommend you apply as early as possible. Applications may close earlier than the published deadlines if there is exceptionally high demand. We may make a small number of offers to the most outstanding candidates on an ongoing basis. However, the majority of applications will be held until the advertised deadline. | 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31
+- ed-msc-swai | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/1153-statistics-with-artificial-intelligence | Year of entry: 2027; Full-time | MSc | 1 year | Start date: September 2027; Selection deadlines: Round 1 15 December; Round 2 31 March; Round 3 31 May. | 本轮官网课程页明确读到 2027 入学、Full-time、September 2027 开学及全部库中 selection deadlines；日期与库中一致。
 ### The University of Edinburgh
-- ed-msc-ords | ⚠️ | https://study.ed.ac.uk/programmes/postgraduate-taught/915-operational-research-with-data-science | When to apply Due to high demand, the school operates a number of selection deadlines. We strongly recommend you apply as early as possible. Applications may close earlier than the published deadlines if there is exceptionally high demand. We may make a small number of offers to the most outstanding candidates on an ongoing basis. However, the majority of applications will be held until the advertised deadline. | 库中日期未在本次官网正文中找到：2026-12-15, 2027-03-31, 2027-05-31
+- ed-msc-ords | ✅ | https://study.ed.ac.uk/programmes/postgraduate-taught/915-operational-research-with-data-science | Year of entry: 2027; Full-time | MSc | 1 year | Start date: September 2027; Selection deadlines: Round 1 15 December; Round 2 31 March; Round 3 31 May. | 本轮官网课程页明确读到 2027 入学、Full-time、September 2027 开学及全部库中 selection deadlines；日期与库中一致。
 ### The University of Manchester
 - man-msc-basm | ⚠️ | https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/ | Please ensure that you submit all supporting documentation with your application before the application deadline to avoid delays in processing. STAGE	APPLICATION RECEIVED BY	APPLICATION UPDATE BY 1	6 December 2026	19 February 2027 2	1 March 2027	2 May 2027 3	4 May 2027	18 June 2027 4	4 July 2027	30 July 2027 5	23 August 2027	31 August 2027 | 未在本次页面正文中读到 Full-time
 ### The University of Manchester
