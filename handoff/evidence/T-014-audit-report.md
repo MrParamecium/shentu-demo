@@ -1,6 +1,6 @@
 # T-014 项目库全量审计报告
 - 审计日期：2026-10-29
-- 审计项目数：338（✅ 239 / ❌ 42 / ⚠️ 57）
+- 审计项目数：338（✅ 240 / ❌ 42 / ⚠️ 56）
 
 本报告只使用本轮重新读取的官网正文及学校官方统一申请页。无法同时确认六项要求的项目保留 ⚠️。
 
@@ -13,7 +13,7 @@
 | King's College London | 18 | 18 | 0 | 0 | 逐项原文见下 |
 | London School of Economics and Political Science | 20 | 20 | 0 | 0 | 逐项原文见下 |
 | Nanyang Technological University | 2 | 2 | 0 | 0 | 逐项原文见下 |
-| National University of Singapore | 3 | 0 | 0 | 3 | 逐项原文见下 |
+| National University of Singapore | 3 | 1 | 0 | 2 | 逐项原文见下 |
 | The Chinese University of Hong Kong | 17 | 11 | 6 | 0 | 逐项原文见下 |
 | The Hong Kong Polytechnic University | 17 | 0 | 17 | 0 | 逐项原文见下 |
 | The Hong Kong University of Science and Technology | 8 | 7 | 0 | 1 | 逐项原文见下 |
@@ -52,7 +52,7 @@
 ### National University of Singapore
 - nus-msc-ba | ⚠️ | https://msba.nus.edu.sg/msba-programme/ | 页面正文未找到截止日期区块。 | 官网页面无法读取或正文为空
 ### National University of Singapore
-- nus-mcomp-cs | ⚠️ | https://www.comp.nus.edu.sg/programmes/pg/mcs/application/ | Only submitted applications with the application fee paid by the stipulated application deadline will be processed. Applications deemed incomplete by the School will not be processed (e.g. those with insufficient documents, transcripts that do not contain all semesters’ examinations results or have not satisfactorily completed their Bachelor’s degree requirements). Applicants are required to submit a new application with a full set of supporting documents should they be interested to apply for the programme again. The following documents are to be submitted online via the Graduate Admission System: | 未在本次页面正文中读到 Full-time
+- nus-mcomp-cs | ✅ | https://www.comp.nus.edu.sg/programmes/pg/mcs/application/ | Programme page: The Master of Computing programme may be taken full-time or part-time; normal candidature period for full-time students is 1.5 years. Application page: August 2027, 1 October 2026–31 January 2027. | 本轮浏览器正文分别从 NUS Computing 项目页和申请页读到 programme may be taken full-time or part-time、full-time normal candidature 1.5 years，以及 August 2027 intake、closing date 31 January 2027；日期与库中一致。
 ### National University of Singapore
 - nus-msc-fin | ⚠️ | https://mscfin.nus.edu.sg/admissions/application-process/ | 页面正文未找到截止日期区块。 | 官网页面无法读取或正文为空
 ### Nanyang Technological University
