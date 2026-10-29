@@ -12,10 +12,9 @@ import {
   docSlots,
   feeNote,
   noTestRequired,
-  simProgram,
   type SimStepKey,
 } from "@/lib/apply-sim";
-import type { Region } from "@/lib/types";
+import type { Program, Region } from "@/lib/types";
 
 interface FieldDef {
   key: string;
@@ -81,8 +80,8 @@ const primaryBtn =
   "rounded-lg bg-brand px-5 py-2 text-sm font-medium text-white hover:bg-brand-dark disabled:cursor-not-allowed disabled:opacity-40";
 const ghostBtn = "rounded-lg border border-slate-300 px-4 py-2 text-sm text-slate-700 hover:bg-slate-50";
 
-export default function ApplySimulator({ region }: { region: Region }) {
-  const program = useMemo(() => simProgram(region), [region]);
+// program 由页面传入（服务端已确认这个地区有模拟项目）
+export default function ApplySimulator({ region, program }: { region: Region; program: Program }) {
   const slots = useMemo(() => docSlots(program), [program]);
   const fee = feeNote(program);
   const info = REGION_INFO[region];

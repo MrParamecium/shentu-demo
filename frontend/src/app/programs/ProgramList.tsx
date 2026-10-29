@@ -41,7 +41,10 @@ export default function ProgramList() {
   }, [region, field, query]);
 
   // 搜索词带到手动添加页，预填项目名
-  const customHref = query.trim() ? `/programs/custom?q=${encodeURIComponent(query.trim())}` : "/programs/custom";
+  const customParams = new URLSearchParams();
+  if (query.trim()) customParams.set("q", query.trim());
+  if (region !== "ALL") customParams.set("region", region);
+  const customHref = `/programs/custom${customParams.size ? `?${customParams}` : ""}`;
 
   // 筛选条件写进 URL，方便分享和从首页直接跳到某一类
   const setFilter = (key: "region" | "field", value: string) => {
@@ -80,7 +83,11 @@ export default function ProgramList() {
 
       {list.length === 0 ? (
         <div className="rounded-xl bg-white p-10 text-center">
-          <p className="text-slate-500">项目库里还没有这个项目</p>
+          <p className="text-slate-500">
+            {region !== "ALL" && !PROGRAMS.some(p => p.region === region)
+              ? `${REGION_INFO[region as Region].label}项目正在收录中，可以先手动添加你要申的项目`
+              : "项目库里还没有这个项目"}
+          </p>
           <Link
             href={customHref}
             className="mt-4 inline-block rounded-lg bg-brand px-5 py-2 text-sm font-medium text-white hover:bg-brand-dark"

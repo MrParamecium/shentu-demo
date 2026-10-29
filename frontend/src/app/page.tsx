@@ -14,7 +14,7 @@ export default function Home() {
         </p>
       </section>
 
-      <ul className="grid gap-6 md:grid-cols-3">
+      <ul className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
         {REGION_ORDER.map((r, i) => {
           const guide = REGION_GUIDES[r];
           const count = PROGRAMS.filter(p => p.region === r).length;
@@ -28,8 +28,8 @@ export default function Home() {
                   src={guide.image}
                   alt={guide.imageAlt}
                   fill
-                  sizes="(max-width: 768px) 100vw, 33vw"
-                  // 三张卡片都在首屏，桌面端最大的那张可能是任意一张
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+                  // 卡片都在首屏，桌面端最大的那张可能是任意一张
                   loading="eager"
                   preload={i === 0}
                   className="object-cover transition duration-500 group-hover:scale-105"
@@ -44,7 +44,7 @@ export default function Home() {
                   </h2>
                   <p className="mt-2 text-sm text-white/90">{guide.tagline}</p>
                   <p className="mt-4 inline-flex items-center gap-1 text-sm font-medium">
-                    {count} 个已核实项目
+                    {count > 0 ? `${count} 个已核实项目` : "项目收录中"}
                     <span aria-hidden className="transition group-hover:translate-x-1">
                       →
                     </span>

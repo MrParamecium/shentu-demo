@@ -3,7 +3,7 @@
 import fs from "node:fs";
 
 const FILE = new URL("../data/programs.json", import.meta.url);
-const REGIONS = new Set(["HK", "UK", "SG"]);
+const REGIONS = new Set(["HK", "UK", "SG", "US"]);
 const FIELDS = new Set(["business", "finance", "cs", "data"]);
 const REQUIRED = [
   "id", "region", "field", "school", "schoolCn", "name", "nameCn",
@@ -23,7 +23,7 @@ programs.forEach((p, i) => {
   if (seen.has(p.id)) errors.push(`${at}: id 重复`);
   seen.add(p.id);
   if (p.id && !/^[a-z0-9-]+$/.test(p.id)) errors.push(`${at}: id 只能用小写字母、数字和 -`);
-  if (!REGIONS.has(p.region)) errors.push(`${at}: region 必须是 HK、UK 或 SG`);
+  if (!REGIONS.has(p.region)) errors.push(`${at}: region 必须是 HK、UK、SG 或 US`);
   if (!FIELDS.has(p.field)) errors.push(`${at}: field 必须是 ${[...FIELDS].join(" / ")}`);
   if (p.officialUrl && !p.officialUrl.startsWith("https://")) errors.push(`${at}: officialUrl 必须是 https 链接`);
   if (p.updatedAt && !isRealDate(p.updatedAt)) errors.push(`${at}: updatedAt 不是合法日期`);
