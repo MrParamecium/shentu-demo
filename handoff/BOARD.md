@@ -16,7 +16,8 @@
 | [T-010](tasks/T-010-region-entry.md) | 首页选地区 + 各地区独立申请界面 | **浩翔** | ✅ 完成 | #12 |
 | [T-012](tasks/T-012-apply-simulator.md) | 模拟网申：真实项目 + 示例材料，到提交前停 | **浩翔** | 👀 待审核 | t-012-apply-simulator |
 | [T-013](tasks/T-013-apply-videos.md) | 录三个项目的真实网申演示视频（帝国 / 港大 / NUS） | **友涵** | ⬜ 待开始 | — |
-| [T-014](tasks/T-014-full-audit-prompt.md) | 项目库全量审计（逐个项目 ✅ / ❌ / ⚠️） | **GPT** | ⬜ 待开始 | — |
+| [T-014](tasks/T-014-full-audit-prompt.md) | 项目库全量审计（逐个项目 ✅ / ❌ / ⚠️） | **GPT** | ✅ 已由 T-015 替代 | — |
+| [T-015](tasks/T-015-verified-library.md) | 只上线 100% 核实的项目（353 个）；52 个待核实另开 PR | **浩翔** | 👀 待审核 | t-015-verified-library |
 | [T-015](tasks/T-015-us-region.md) | 加入美国地区（框架，暂不收项目） | **浩翔** | 👀 待审核 | #44 |
 
 ## 暂不做（等前置条件）

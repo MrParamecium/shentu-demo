@@ -1,0 +1,2150 @@
+{
+ "hku-msc-cs": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong"
+ },
+ "hkust-msc-bdt": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong University of Science and Technology"
+ },
+ "cuhk-msc-fin": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "ic-msc-ba": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ucl-msc-ds": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ed-msc-ai": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "man-msc-acf": {
+  "ok": false,
+  "why": [
+   "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+  ],
+  "school": "The University of Manchester"
+ },
+ "kcl-msc-dm": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "lse-msc-finance": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-ds": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "nus-msc-ba": {
+  "ok": false,
+  "why": [
+   "标了 rolling，但页面未读到 rolling / 招满即止原文",
+   "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+  ],
+  "school": "National University of Singapore"
+ },
+ "nus-mcomp-cs": {
+  "ok": true,
+  "why": [],
+  "school": "National University of Singapore"
+ },
+ "nus-msc-fin": {
+  "ok": false,
+  "why": [
+   "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+  ],
+  "school": "National University of Singapore"
+ },
+ "ntu-msc-ba": {
+  "ok": true,
+  "why": [],
+  "school": "Nanyang Technological University"
+ },
+ "ntu-msc-fin": {
+  "ok": true,
+  "why": [],
+  "school": "Nanyang Technological University"
+ },
+ "hku-mdasc": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong"
+ },
+ "hkust-msc-ba": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong University of Science and Technology"
+ },
+ "hkust-msc-fin": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong University of Science and Technology"
+ },
+ "hkust-msc-it": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong University of Science and Technology"
+ },
+ "cuhk-msc-ba": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "polyu-msc-dsa": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "ic-msc-computing": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-fin": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "man-msc-baai": {
+  "ok": false,
+  "why": [
+   "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+  ],
+  "school": "The University of Manchester"
+ },
+ "man-msc-acs": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "ed-msc-ds": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-fi": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "wbs-msc-finance": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "wbs-msc-baai": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "hku-mfin": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong (HKU Business School)"
+ },
+ "hku-msc-ba": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong (HKU Business School)"
+ },
+ "cuhk-msc-cs": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cityu-msc-cs": {
+  "ok": true,
+  "why": [],
+  "school": "City University of Hong Kong"
+ },
+ "kcl-msc-ds": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-im": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "ucl-msc-cs": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-ba": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-management": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-entrepreneurship": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-people-analytics": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-mgmt-sft": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-scm": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-business-sustainability": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-pem": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-finance": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-fds": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-frm": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-fintech": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-cf": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-fm": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-bdf": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-rfaa": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-pedf": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-ml": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-rai": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-aide": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-cgvi": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-is": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-sse": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-hci": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-imls": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-edt": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-csml": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-stats": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-dsml": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "ucl-msc-sdic": {
+  "ok": true,
+  "why": [],
+  "school": "University College London"
+ },
+ "lse-mim": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-global-mim": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-hro": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-misi": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-msea": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-sie": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-finpe": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-fineco": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-finrisk": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-finmath": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-sfml": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-af": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-aoi": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-ada": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-asds": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-stats": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-finstats": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "lse-msc-ora": {
+  "ok": true,
+  "why": [],
+  "school": "London School of Economics and Political Science"
+ },
+ "ic-msc-esb": {
+  "ok": false,
+  "why": [
+   "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+  ],
+  "school": "Imperial College London"
+ },
+ "ic-msc-ccmf": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-mim": {
+  "ok": false,
+  "why": [
+   "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+  ],
+  "school": "Imperial College London"
+ },
+ "ic-msc-sm": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-iem": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-aiep": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-fa": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-fintech": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-iwm": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-rmfe": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-advcomp": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-comp-ai": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-comp-sr": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-comp-se": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-comp-vcr": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-ai": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-aiml": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "ic-msc-aml": {
+  "ok": true,
+  "why": [],
+  "school": "Imperial College London"
+ },
+ "kcl-msc-de": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-hroa": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-sei": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-mtc": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-aafm": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-bf": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-fap": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-fcf": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-ef": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-fana": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-sfr": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-fmds": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-advcomp": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-ase": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "kcl-msc-rob": {
+  "ok": true,
+  "why": [],
+  "school": "King's College London"
+ },
+ "ed-msc-ba": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-mgmt": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-mkt": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-ei": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-hrm": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-ihrm": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-ai4b": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-afm": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-bira": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-ftp": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-ccfi": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-cmf": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-fmo": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-cs": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-cspt": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-swds": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-swai": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "ed-msc-ords": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Edinburgh"
+ },
+ "man-msc-basm": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-dmkt": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-dtrans": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-hrmer": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-ime": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-ibm": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-mgmt": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-mkt": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-opscm": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-sb": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-acc": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-fin": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-qf": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-mf": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-ai": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-ml": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-cybersec": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-se": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-dsai-bm": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-dsai-cs": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "man-msc-dsai-math": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Manchester"
+ },
+ "war-msc-mgmt": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-ibm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-mkt-strategy": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-mkt-cb": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-bw-consulting": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-bw-marketing": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-bw-opsmgmt": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-bw-sustainability": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-itso": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-mbe": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-ebusiness": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-sclm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-afm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-acc-sus": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-fin-econ": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-fin-mgmt": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-fintech": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-mathfin": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-cs": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-cs-aiml": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-cs-cybersec": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-cs-dataanalytics": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-applied-ai": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-csm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-cse": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-stats": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-stats-ds": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-stats-prob": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "war-msc-stats-fin": {
+  "ok": true,
+  "why": [],
+  "school": "University of Warwick (Warwick Business School)"
+ },
+ "hku-mgm": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong (HKU Business School)"
+ },
+ "hku-msc-marketing": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong (HKU Business School)"
+ },
+ "hku-maib": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong (HKU Business School)"
+ },
+ "hku-msc-it": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong"
+ },
+ "hku-macct": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong (HKU Business School)"
+ },
+ "hku-maa": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong (HKU Business School)"
+ },
+ "hku-msaf": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong (HKU Business School)"
+ },
+ "hku-mffintech": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong (HKU Business School)"
+ },
+ "hku-mfwm": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong (HKU Business School)"
+ },
+ "hku-mwm": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong (HKU Business School)"
+ },
+ "hku-msc-cs-aidt": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong"
+ },
+ "hku-msc-ecomic": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong"
+ },
+ "hku-msc-ai": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong"
+ },
+ "hku-mstat": {
+  "ok": true,
+  "why": [],
+  "school": "The University of Hong Kong"
+ },
+ "cuhk-msc-mgmt": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cuhk-msc-mkt": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cuhk-msc-sgb": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cuhk-msc-istm": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cuhk-macc": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cuhk-msc-asi": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cuhk-msc-fintech": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cuhk-msc-gwm": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cuhk-msc-ai": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cuhk-msc-rob": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cuhk-msc-eclt": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cuhk-msc-asds": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cuhk-msc-dsbs": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "cuhk-msc-rmsda": {
+  "ok": true,
+  "why": [],
+  "school": "The Chinese University of Hong Kong"
+ },
+ "hkust-msc-ai": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong University of Science and Technology"
+ },
+ "hkust-msc-aie": {
+  "ok": false,
+  "why": [
+   "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+  ],
+  "school": "The Hong Kong University of Science and Technology"
+ },
+ "hkust-msc-eem": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong University of Science and Technology"
+ },
+ "hkust-msc-fintech": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong University of Science and Technology"
+ },
+ "polyu-msc-bm": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-mmkt": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-hrm": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-iml": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-ban": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-gbda": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-fin-cf": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-fin-im": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-afa": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-awm": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-qff": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-cyber": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-bct": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-aibdc": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-it": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "polyu-msc-mait": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong Polytechnic University"
+ },
+ "bris-msc-management": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-mgmt-marketing": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-mgmt-ib": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-mgmt-ihrm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-mgmt-pm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-mgmt-ei": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-mgmt-sus": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-mgmt-dbd": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-marketing": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-ibs": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-bie": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-ie": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-sie": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-af": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-aas": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-afm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-fi": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-ft": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-ftds": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-gbf": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-ai": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-cs-conv": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-cyber-infra": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-cyber-soft": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-ds": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "bris-msc-dsb": {
+  "ok": true,
+  "why": [],
+  "school": "University of Bristol"
+ },
+ "gla-msc-mgmt": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-mgmt-hr": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-mgmt-mkt": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-ib": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-ism": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-ihrmd": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-ba": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-cfb": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-finmgmt": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-finecon": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-fineng": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-frm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-fintech": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-cs": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-cybersec": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-cse": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-da": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-advstats": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "gla-msc-dsai": {
+  "ok": true,
+  "why": [],
+  "school": "University of Glasgow"
+ },
+ "dur-msc-mgmt": {
+  "ok": true,
+  "why": [],
+  "school": "Durham University"
+ },
+ "dur-msc-mgmt-consulting": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "Durham University"
+ },
+ "dur-msc-mgmt-entre": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "Durham University"
+ },
+ "dur-msc-hrm": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "Durham University"
+ },
+ "dur-msc-sclm": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "Durham University"
+ },
+ "dur-msc-fin": {
+  "ok": true,
+  "why": [],
+  "school": "Durham University"
+ },
+ "dur-msc-fin-af": {
+  "ok": true,
+  "why": [],
+  "school": "Durham University"
+ },
+ "dur-msc-fin-ef": {
+  "ok": true,
+  "why": [],
+  "school": "Durham University"
+ },
+ "dur-msc-fin-fi": {
+  "ok": true,
+  "why": [],
+  "school": "Durham University"
+ },
+ "dur-msc-fin-ftb": {
+  "ok": true,
+  "why": [],
+  "school": "Durham University"
+ },
+ "dur-msc-fin-cif": {
+  "ok": true,
+  "why": [],
+  "school": "Durham University"
+ },
+ "dur-msc-mgmt-fin": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "Durham University"
+ },
+ "dur-msc-if": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "Durham University"
+ },
+ "dur-msc-acs": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "Durham University"
+ },
+ "dur-msc-aaids": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "Durham University"
+ },
+ "dur-msc-aiip": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "Durham University"
+ },
+ "dur-msc-aircv": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "Durham University"
+ },
+ "dur-msc-ai": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "Durham University"
+ },
+ "leeds-msc-mgmt": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-ib": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-imm": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-hrm": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-gscm": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-gsim": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-bads": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-dhrm": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-cams": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-af": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-bf": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-fi": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-frm": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-qf": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-acs": {
+  "ok": true,
+  "why": [],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-acs-ai": {
+  "ok": true,
+  "why": [],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-acs-cloud": {
+  "ok": true,
+  "why": [],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-acs-da": {
+  "ok": true,
+  "why": [],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-cs": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-cs-ai": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文"
+  ],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-ds": {
+  "ok": true,
+  "why": [],
+  "school": "University of Leeds"
+ },
+ "leeds-msc-dsa": {
+  "ok": true,
+  "why": [],
+  "school": "University of Leeds"
+ },
+ "shef-msc-mgmt": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-mgmt-ib": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-intmgmt": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-imm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-smb": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-dm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-hrm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-lscm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-ba": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-ism": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-fin": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-fa": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-fti": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-mbf": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-ai": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-acs": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-cs": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-cs-nlp": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-cyberai": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "shef-msc-ds": {
+  "ok": true,
+  "why": [],
+  "school": "University of Sheffield"
+ },
+ "ox-msc-acs": {
+  "ok": true,
+  "why": [],
+  "school": "University of Oxford"
+ },
+ "ox-msc-mfocs": {
+  "ok": true,
+  "why": [],
+  "school": "University of Oxford"
+ },
+ "ox-msc-mcf": {
+  "ok": true,
+  "why": [],
+  "school": "University of Oxford"
+ },
+ "ox-msc-statsci": {
+  "ok": true,
+  "why": [],
+  "school": "University of Oxford"
+ },
+ "ox-msc-sds": {
+  "ok": true,
+  "why": [],
+  "school": "University of Oxford"
+ },
+ "cam-mp-mgmt": {
+  "ok": true,
+  "why": [],
+  "school": "University of Cambridge"
+ },
+ "cam-mp-iso": {
+  "ok": true,
+  "why": [],
+  "school": "University of Cambridge"
+ },
+ "cam-mp-smoob": {
+  "ok": true,
+  "why": [],
+  "school": "University of Cambridge"
+ },
+ "cam-mp-ismm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Cambridge"
+ },
+ "cam-mp-fin": {
+  "ok": true,
+  "why": [],
+  "school": "University of Cambridge"
+ },
+ "cam-mfin": {
+  "ok": true,
+  "why": [],
+  "school": "University of Cambridge"
+ },
+ "cam-mp-acs": {
+  "ok": true,
+  "why": [],
+  "school": "University of Cambridge"
+ },
+ "cam-mp-mlmi": {
+  "ok": true,
+  "why": [],
+  "school": "University of Cambridge"
+ },
+ "cam-mp-hiai": {
+  "ok": true,
+  "why": [],
+  "school": "University of Cambridge"
+ },
+ "cam-mp-neuroai": {
+  "ok": true,
+  "why": [],
+  "school": "University of Cambridge"
+ },
+ "nus-mcomp-gen": {
+  "ok": true,
+  "why": [],
+  "school": "National University of Singapore"
+ },
+ "nus-mcomp-isys": {
+  "ok": true,
+  "why": [],
+  "school": "National University of Singapore"
+ },
+ "nus-mcomp-isec": {
+  "ok": true,
+  "why": [],
+  "school": "National University of Singapore"
+ },
+ "nus-mcomp-ai": {
+  "ok": true,
+  "why": [],
+  "school": "National University of Singapore"
+ },
+ "nus-msc-dft": {
+  "ok": true,
+  "why": [],
+  "school": "National University of Singapore"
+ },
+ "ntu-msc-mfe": {
+  "ok": true,
+  "why": [],
+  "school": "Nanyang Technological University"
+ },
+ "ntu-msc-acc": {
+  "ok": true,
+  "why": [],
+  "school": "Nanyang Technological University"
+ },
+ "bham-msc-ba": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-hrm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-ib": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-mgmt": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-aim": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-scm": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-sie": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-mkt": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-smc": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-af": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-finecon": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-finmgmt": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-fintech": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-inv": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-mbf": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-susfin": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-acs": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-aiml": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-ai": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-cs": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-cybersec": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-hci": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "bham-msc-ds": {
+  "ok": true,
+  "why": [],
+  "school": "University of Birmingham"
+ },
+ "nott-msc-bm": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-dm": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-eim": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-hrmo": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-imis": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-ib": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-mgmt": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-mkt": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-scom": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-af": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-bf": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-fi": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-rm": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-acs": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-cps": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-cybersec": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-ds": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "nott-msc-daai": {
+  "ok": false,
+  "why": [
+   "无截止日，但页面未读到 rolling / 招满即止原文",
+   "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+  ],
+  "school": "University of Nottingham"
+ },
+ "hkust-msc-go": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong University of Science and Technology"
+ },
+ "hkust-msc-ism": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong University of Science and Technology"
+ },
+ "hkust-msc-im": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong University of Science and Technology"
+ },
+ "hkust-msc-fofb": {
+  "ok": true,
+  "why": [],
+  "school": "The Hong Kong University of Science and Technology"
+ }
+}
