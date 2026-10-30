@@ -1,0 +1,1579 @@
+[
+  {
+    "id": "man-msc-acf",
+    "region": "UK",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Accounting and Finance",
+    "nameCn": "会计与金融硕士",
+    "duration": "1 年",
+    "language": "IELTS 7.0（单项 ≥6.5；6.5/6.0 可附条件考虑）",
+    "rounds": [
+      {
+        "name": "第一阶段",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二阶段",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三阶段",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四阶段",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五阶段",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "曼彻斯特商学院申请页",
+    "updatedAt": "2026-10-20",
+    "verified": false,
+    "notes": [
+      "2026-10-10 开放申请；各阶段出结果日：S1 2027-02-19，S2 2027-05-02，S3 2027-06-18",
+      "申请费 £60；国际生押金 £2,500，截止日见录取信"
+    ],
+    "field": "finance",
+    "_pending": {
+      "reasons": [
+        "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nus-msc-ba",
+    "region": "SG",
+    "field": "data",
+    "school": "National University of Singapore",
+    "schoolCn": "新加坡国立大学",
+    "name": "Master of Science in Business Analytics",
+    "nameCn": "商业分析硕士",
+    "duration": "约 14 个月",
+    "language": "官方申请指南写明无需提交 IELTS / TOEFL",
+    "rounds": [
+      {
+        "name": "统一截止",
+        "deadline": "2027-01-31"
+      }
+    ],
+    "rolling": true,
+    "officialUrl": "https://msba.nus.edu.sg/msba-programme/",
+    "officialLabel": "NUS MSBA 项目页",
+    "updatedAt": "2026-10-24",
+    "verified": false,
+    "notes": [
+      "2026-10-05 开放申请，2027 年 8 月开学；滚动审理，面试和发 offer 时间不固定",
+      "BAC 奖学金截止 2026-12-15，早于申请截止",
+      "申请费 S$100；押金 S$21,800，录取后 14 天内缴纳，不退"
+    ],
+    "_pending": {
+      "reasons": [
+        "标了 rolling，但页面未读到 rolling / 招满即止原文",
+        "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nus-msc-fin",
+    "region": "SG",
+    "field": "finance",
+    "school": "National University of Singapore",
+    "schoolCn": "新加坡国立大学",
+    "name": "Master of Science in Finance",
+    "nameCn": "金融学硕士",
+    "duration": "16 个月",
+    "language": "IELTS 7.0；TOEFL 要求见官网（页面写 iBT ≥5.0，疑为新版 1–6 分制）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-11-15"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-02-15"
+      }
+    ],
+    "officialUrl": "https://mscfin.nus.edu.sg/admissions/application-process/",
+    "officialLabel": "NUS MSc Finance 申请页",
+    "updatedAt": "2026-10-24",
+    "verified": false,
+    "notes": [
+      "第一轮截止同时是 Study Award 评选截止；第二轮是所有申请人的最终截止",
+      "每轮截止后集中审理，第一轮 offer 约 1–2 月起陆续发出",
+      "申请费 S$100；接受 offer 时缴纳 S$10,900"
+    ],
+    "_pending": {
+      "reasons": [
+        "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "man-msc-baai",
+    "region": "UK",
+    "field": "business",
+    "school": "The University of Manchester",
+    "schoolCn": "曼彻斯特大学",
+    "name": "MSc Business Analytics and Artificial Intelligence",
+    "nameCn": "商业分析与人工智能硕士",
+    "duration": "全日制 1 年",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-06"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-05-04"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-07-04"
+      },
+      {
+        "name": "第五轮",
+        "deadline": "2027-08-23"
+      }
+    ],
+    "officialUrl": "https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/",
+    "officialLabel": "曼大商学院硕士申请页（分阶段截止）",
+    "updatedAt": "2026-10-24",
+    "verified": false,
+    "notes": [
+      "官网写分阶段（Stage）审理；若当轮来不及出结果，申请会顺延到下一轮",
+      "申请费 £60，不退；2026-10-10 开放 2027 入学申请",
+      "官网写该项目于 2026 年 9 月起改版，加强 AI for Business 方向"
+    ],
+    "_pending": {
+      "reasons": [
+        "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "ic-msc-esb",
+    "region": "UK",
+    "field": "business",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc Economics & Strategy for Business",
+    "nameCn": "经济与商业战略硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-29"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/business-school/masters/economics-strategy-business/admissions/",
+    "officialLabel": "Imperial MSc Economics & Strategy for Business Admissions 页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目有第一轮",
+      "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
+      "开设于 Imperial Business School"
+    ],
+    "_pending": {
+      "reasons": [
+        "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "ic-msc-mim",
+    "region": "UK",
+    "field": "business",
+    "school": "Imperial College London",
+    "schoolCn": "帝国理工学院",
+    "name": "MSc in Management (MiM)",
+    "nameCn": "管理硕士",
+    "duration": "全日制 1 年（2027 年 8 月开学）",
+    "language": "IELTS 7.0（单项 ≥6.5）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-09-29"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-01-06"
+      },
+      {
+        "name": "第三轮",
+        "deadline": "2027-03-10"
+      },
+      {
+        "name": "第四轮",
+        "deadline": "2027-04-28"
+      }
+    ],
+    "officialUrl": "https://www.imperial.ac.uk/business-school/masters/management/admissions/",
+    "officialLabel": "Imperial MSc in Management (MiM) Admissions 页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "截止时间为英国时间当天 23:59",
+      "官网写第一轮仅限商学院课程，本项目有第一轮",
+      "各轮出结果日：R1 2026-11-25，R2 2027-03-03，R3 2027-05-05，R4 2027-06-16",
+      "开设于 Imperial Business School"
+    ],
+    "_pending": {
+      "reasons": [
+        "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "hkust-msc-aie",
+    "region": "HK",
+    "field": "cs",
+    "school": "The Hong Kong University of Science and Technology",
+    "schoolCn": "香港科技大学",
+    "name": "MSc in Artificial Intelligence and Entrepreneurship",
+    "nameCn": "人工智能与创业硕士",
+    "duration": "全日制 1 年",
+    "language": "见港科大研究生院英语要求（以官网为准）",
+    "rounds": [
+      {
+        "name": "第一轮",
+        "deadline": "2026-12-01"
+      },
+      {
+        "name": "第二轮",
+        "deadline": "2027-03-01"
+      }
+    ],
+    "officialUrl": "https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-aie",
+    "officialLabel": "港科大 人工智能与创业硕士 项目页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网写 2027/28 Fall intake（2027 年 9 月开学）；截止时间为香港时间当天 23:59",
+      "计算机科学与工程系新项目；2027/28 学费 HK$540,000（分 4 期缴纳）"
+    ],
+    "_pending": {
+      "reasons": [
+        "官网未读到明确的全日制原文（只在导航菜单出现不算）"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "dur-msc-mgmt-consulting",
+    "region": "UK",
+    "field": "business",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Management (Consulting)",
+    "nameCn": "管理学硕士（咨询）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/management-consulting-n2pe09/",
+    "officialLabel": "杜伦 MSc Management (Consulting) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "dur-msc-mgmt-entre",
+    "region": "UK",
+    "field": "business",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Management (Entrepreneurship)",
+    "nameCn": "管理学硕士（创业）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/management-entrepreneurship-n2p309/",
+    "officialLabel": "杜伦 MSc Management (Entrepreneurship) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "dur-msc-hrm",
+    "region": "UK",
+    "field": "business",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Human Resource Management (HRM)",
+    "nameCn": "人力资源管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/human-resource-management-n2pa09/",
+    "officialLabel": "杜伦 MSc Human Resource Management (HRM) 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "dur-msc-sclm",
+    "region": "UK",
+    "field": "business",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Supply Chain and Logistics Management",
+    "nameCn": "供应链与物流管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/msc-supply-chain-and-logistics-management-n2pf09/",
+    "officialLabel": "杜伦 MSc Supply Chain and Logistics Management 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网写申请 2026-10-01 开放（2027 年入学），无固定申请截止；名额有限，官网建议尽早递交，滚动审理",
+      "开设于杜伦商学院（Durham University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "dur-msc-mgmt-fin",
+    "region": "UK",
+    "field": "finance",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Management and Finance",
+    "nameCn": "管理与金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/management-and-finance-n2pc09/",
+    "officialLabel": "杜伦 MSc Management and Finance 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网课程页未列申请截止日期，也未写开放日期；建议尽早申请，具体以官网为准",
+      "开设于杜伦商学院（Durham University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "dur-msc-if",
+    "region": "UK",
+    "field": "finance",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Islamic Finance",
+    "nameCn": "伊斯兰金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/business/courses/islamic-finance-n3kd09/",
+    "officialLabel": "杜伦 MSc Islamic Finance 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网课程页未列申请截止日期，也未写开放日期；建议尽早申请，具体以官网为准",
+      "开设于杜伦商学院（Durham University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "dur-msc-acs",
+    "region": "UK",
+    "field": "cs",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Advanced Computer Science",
+    "nameCn": "高级计算机科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/study/courses/advanced-computer-science-g5t609/",
+    "officialLabel": "杜伦 MSc Advanced Computer Science 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网课程页未列申请截止日期；2027 年 9 月开学，建议尽早申请，具体以官网为准",
+      "开设于计算机科学系（Department of Computer Science）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "dur-msc-aaids",
+    "region": "UK",
+    "field": "cs",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Applied Artificial Intelligence and Data Science",
+    "nameCn": "应用人工智能与数据科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/study/courses/applied-artificial-intelligence-and-data-science-g5l109/",
+    "officialLabel": "杜伦 MSc Applied Artificial Intelligence and Data Science 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网课程页未列申请截止日期；2027 年 9 月开学，建议尽早申请，具体以官网为准",
+      "开设于计算机科学系（Department of Computer Science）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "dur-msc-aiip",
+    "region": "UK",
+    "field": "cs",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Artificial Intelligence Infrastructure Platforms",
+    "nameCn": "人工智能基础设施平台硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/study/courses/artificial-intelligence-infrastructure-platforms-g6t709/",
+    "officialLabel": "杜伦 MSc Artificial Intelligence Infrastructure Platforms 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网课程页未列申请截止日期；2027 年 9 月开学，建议尽早申请，具体以官网为准",
+      "开设于计算机科学系（Department of Computer Science）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "dur-msc-aircv",
+    "region": "UK",
+    "field": "cs",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Artificial Intelligence for Robotics & Computer Vision",
+    "nameCn": "机器人与计算机视觉人工智能硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/study/courses/artificial-intelligence-for-robotics-and-computer-vision-g6t409/",
+    "officialLabel": "杜伦 MSc Artificial Intelligence for Robotics & Computer Vision 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网课程页未列申请截止日期；2027 年 9 月开学，建议尽早申请，具体以官网为准",
+      "开设于计算机科学系（Department of Computer Science）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "dur-msc-ai",
+    "region": "UK",
+    "field": "cs",
+    "school": "Durham University",
+    "schoolCn": "杜伦大学",
+    "name": "MSc Artificial Intelligence",
+    "nameCn": "人工智能硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "见学校统一英语要求（以官网为准）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.durham.ac.uk/study/courses/artificial-intelligence-g6t109/",
+    "officialLabel": "杜伦 MSc Artificial Intelligence 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网课程页未列申请截止日期；2027 年 9 月开学，建议尽早申请，具体以官网为准",
+      "开设于计算机科学系（Department of Computer Science）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-mgmt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Management MSc",
+    "nameCn": "管理学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/a078/management-msc",
+    "officialLabel": "利兹 Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-ib",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "International Business MSc",
+    "nameCn": "国际商务硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/e763/international-business-msc",
+    "officialLabel": "利兹 International Business MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-imm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "International Marketing Management MSc",
+    "nameCn": "国际营销管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/7652/international-marketing-management-msc",
+    "officialLabel": "利兹 International Marketing Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-hrm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Human Resource Management MSc",
+    "nameCn": "人力资源管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/k194/human-resource-management-msc",
+    "officialLabel": "利兹 Human Resource Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-gscm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Global Supply Chain Management MSc",
+    "nameCn": "全球供应链管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/g505/global-supply-chain-management-msc",
+    "officialLabel": "利兹 Global Supply Chain Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-gsim",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Global Strategy and Innovation Management MSc",
+    "nameCn": "全球战略与创新管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/i285/global-strategy-and-innovation-management-msc",
+    "officialLabel": "利兹 Global Strategy and Innovation Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-bads",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Business Analytics and Decision Sciences MSc",
+    "nameCn": "商业分析与决策科学硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc",
+    "officialLabel": "利兹 Business Analytics and Decision Sciences MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-dhrm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Digital Human Resource Management and Data Analytics MSc",
+    "nameCn": "数字化人力资源管理与数据分析硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/k318/digital-human-resource-management-and-data-analytics-msc",
+    "officialLabel": "利兹 Digital Human Resource Management and Data Analytics MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-cams",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Consumer Analytics and Marketing Strategy MSc",
+    "nameCn": "消费者分析与营销战略硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/g963/consumer-analytics-and-marketing-strategy-msc",
+    "officialLabel": "利兹 Consumer Analytics and Marketing Strategy MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-af",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Accounting and Finance MSc",
+    "nameCn": "会计与金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/f921/accounting-and-finance-msc",
+    "officialLabel": "利兹 Accounting and Finance MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-bf",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Banking and Finance MSc",
+    "nameCn": "银行与金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/k258/banking-and-finance-msc",
+    "officialLabel": "利兹 Banking and Finance MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-fi",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Finance and Investment MSc",
+    "nameCn": "金融与投资硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/f840/finance-and-investment-msc",
+    "officialLabel": "利兹 Finance and Investment MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-frm",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Financial Risk Management MSc",
+    "nameCn": "金融风险管理硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/f839/financial-risk-management-msc",
+    "officialLabel": "利兹 Financial Risk Management MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-qf",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Quantitative Finance MSc",
+    "nameCn": "定量金融硕士",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/k274/quantitative-finance-msc",
+    "officialLabel": "利兹 Quantitative Finance MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网项目页未列固定申请截止（申请已开放，2027 年 9 月入学），滚动审理、名额有限建议尽早递交",
+      "开设于利兹大学商学院（Leeds University Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-cs",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Computer Science MSc",
+    "nameCn": "计算机科学硕士（转专业）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/k299/computer-science-msc",
+    "officialLabel": "利兹 Computer Science MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网课程页未列固定申请截止（详见 How to Apply）；面向非计算机背景申请者",
+      "开设于计算学院（School of Computing）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "leeds-msc-cs-ai",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Leeds",
+    "schoolCn": "利兹大学",
+    "name": "Computer Science with Artificial Intelligence MSc",
+    "nameCn": "计算机科学硕士（人工智能方向）",
+    "duration": "全日制 1 年（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://courses.leeds.ac.uk/k300/computer-science-with-artificial-intelligence-msc",
+    "officialLabel": "利兹 Computer Science with Artificial Intelligence MSc 课程页",
+    "updatedAt": "2026-10-27",
+    "verified": false,
+    "notes": [
+      "官网课程页未列固定申请截止（详见 How to Apply）",
+      "开设于计算学院（School of Computing）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文"
+      ],
+      "source": "main",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-bm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Business and Management MSc",
+    "nameCn": "商务与管理硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/business-and-management-msc",
+    "officialLabel": "诺丁汉 Business and Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-dm",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Digital Marketing MSc",
+    "nameCn": "数字营销硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/digital-marketing-msc",
+    "officialLabel": "诺丁汉 Digital Marketing MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School），官网写明为转专业课程（conversion course）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-eim",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Entrepreneurship, Innovation and Management MSc",
+    "nameCn": "创业、创新与管理硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/entrepreneurship-innovation-and-management-msc",
+    "officialLabel": "诺丁汉 Entrepreneurship, Innovation and Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-hrmo",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Human Resource Management and Organisation MSc",
+    "nameCn": "人力资源管理与组织硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/human-resource-management-and-organisation-msc",
+    "officialLabel": "诺丁汉 Human Resource Management and Organisation MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-imis",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Industrial Management and Information Systems MSc",
+    "nameCn": "工业管理与信息系统硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/industrial-management-and-information-systems",
+    "officialLabel": "诺丁汉 Industrial Management and Information Systems MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-ib",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "International Business MSc",
+    "nameCn": "国际商务硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/international-business-msc",
+    "officialLabel": "诺丁汉 International Business MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-mgmt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Management MSc",
+    "nameCn": "管理学硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/management-msc",
+    "officialLabel": "诺丁汉 Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-mkt",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Marketing MSc",
+    "nameCn": "市场营销硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/marketing-msc",
+    "officialLabel": "诺丁汉 Marketing MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-scom",
+    "region": "UK",
+    "field": "business",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Supply Chain and Operations Management MSc",
+    "nameCn": "供应链与运营管理硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/supply-chain-and-operations-management-msc",
+    "officialLabel": "诺丁汉 Supply Chain and Operations Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-af",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Accounting and Finance MSc",
+    "nameCn": "会计与金融硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/accounting-and-finance-msc",
+    "officialLabel": "诺丁汉 Accounting and Finance MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-bf",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Banking and Finance MSc",
+    "nameCn": "银行与金融硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/banking-and-finance-msc",
+    "officialLabel": "诺丁汉 Banking and Finance MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-fi",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Finance and Investment MSc",
+    "nameCn": "金融与投资硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/finance-and-investment-msc",
+    "officialLabel": "诺丁汉 Finance and Investment MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-rm",
+    "region": "UK",
+    "field": "finance",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Risk Management MSc",
+    "nameCn": "风险管理硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/risk-management-msc",
+    "officialLabel": "诺丁汉 Risk Management MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于诺丁汉大学商学院（University of Nottingham Business School）",
+      "官网要求较强的数理背景：相关数学/统计/量化模块至少两门达 2:1（60%）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-acs",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Advanced Computer Science or Advanced Computer Science (Artificial Intelligence) MSc",
+    "nameCn": "高级计算机科学（或人工智能方向）硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/computer-science-artificial-intelligence",
+    "officialLabel": "诺丁汉 Advanced Computer Science or Advanced Computer Science (Artificial Intelligence) MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于计算机科学系（School of Computer Science）",
+      "官网同页列两个学位方向（Advanced Computer Science / 含 AI 方向），申请时选择；另设两年全日制版本（含行业年），未单独收录"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-cps",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Cyber Physical Systems MSc",
+    "nameCn": "信息物理系统硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/cyberphysical-systems-msc",
+    "officialLabel": "诺丁汉 Cyber Physical Systems MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于计算机科学系（School of Computer Science）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-cybersec",
+    "region": "UK",
+    "field": "cs",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Cyber Security MSc",
+    "nameCn": "网络安全硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/cybersecurity",
+    "officialLabel": "诺丁汉 Cyber Security MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于计算机科学系（School of Computer Science）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-ds",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Data Science MSc",
+    "nameCn": "数据科学硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.5（单项 ≥6.0）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/data-science-msc",
+    "officialLabel": "诺丁汉 Data Science MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于计算机科学系（School of Computer Science）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  },
+  {
+    "id": "nott-msc-daai",
+    "region": "UK",
+    "field": "data",
+    "school": "University of Nottingham",
+    "schoolCn": "诺丁汉大学",
+    "name": "Data Analytics and AI MSc",
+    "nameCn": "数据分析与人工智能硕士",
+    "duration": "全日制 12 个月（2027 年 9 月开学）",
+    "language": "IELTS 6.0（单项 ≥5.5）",
+    "rounds": [],
+    "rolling": true,
+    "officialUrl": "https://www.nottingham.ac.uk/pgstudy/course/taught/data-analytics-and-ai-msc",
+    "officialLabel": "诺丁汉 Data Analytics and AI MSc 课程页",
+    "updatedAt": "2026-10-28",
+    "verified": false,
+    "notes": [
+      "课程页未列截止日期；诺丁汉统一申请页写 2027/28 入学截止「To be confirmed」（2026/27 授课型国际生截止为开学前约 7 周），公布后补",
+      "开设于计算机科学系（School of Computer Science）"
+    ],
+    "_pending": {
+      "reasons": [
+        "无截止日，但页面未读到 rolling / 招满即止原文",
+        "诺丁汉：统一申请页写 2027/28 截止 To be confirmed，官方未公布"
+      ],
+      "source": "t-006-batch-24",
+      "checkedAt": "2026-10-29"
+    }
+  }
+]
